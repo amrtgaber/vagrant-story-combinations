@@ -38,25 +38,25 @@ def main():
 
     lines = lines[4:]  # Skip header lines
     output_rows = []
-    first_slot_idx = 0
+    second_slot_idx = 0
     row_idx = 0
     for line in lines:
         if line.startswith("-------"):
-            first_slot_idx += 1
+            second_slot_idx += 1
             row_idx = 0
             continue
 
-        blocks = extract_materials(line[CELL_START:])  # skip to first real cell
+        blocks = extract_materials(line[CELL_START:])
 
-        second_slot_idx = 0
+        first_slot_idx = 0
         for block in blocks:
             cell_idx = 0
             for cell in block:
                 result_material, is_upgrade, is_downgrade = parse_cell(cell)
                 output_rows.append(
                     {
-                        "slot1": SLOT_ORDER[second_slot_idx],
-                        "slot2": SLOT_ORDER[first_slot_idx],
+                        "slot1": SLOT_ORDER[first_slot_idx],
+                        "slot2": SLOT_ORDER[second_slot_idx],
                         "material1": MATERIAL_ORDER[cell_idx],
                         "material2": MATERIAL_ORDER[row_idx],
                         "result_material": result_material,
@@ -65,7 +65,7 @@ def main():
                     }
                 )
                 cell_idx += 1
-            second_slot_idx += 1
+            first_slot_idx += 1
         row_idx += 1
 
     # Write to CSV
