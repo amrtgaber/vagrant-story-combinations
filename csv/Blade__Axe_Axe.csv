@@ -1,0 +1,37 @@
+first slot, second slot, result, swap
+Hand Axe, Hand Axe, Hand Axe
+Hand Axe, Battle Axe, Hand Axe
+Hand Axe, Francisca, Francisca
+Hand Axe, Tabarzin, Hand Axe
+Hand Axe, Chamkaq, Battle Axe
+Hand Axe, Tabar, Francisca
+Hand Axe, Bullova, Tabarzin
+Hand Axe, Crescent, Chamkaq
+Battle Axe, Battle Axe, Battle Axe
+Battle Axe, Francisca, +Tabarzin
+Battle Axe, Tabarzin, Francisca
+Battle Axe, Chamkaq, Tabarzin
+Battle Axe, Tabar, Battle Axe
+Battle Axe, Bullova, Francisca
+Battle Axe, Crescent, Tabarzin
+Francisca, Francisca, Francisca
+Francisca, Tabarzin, +Chamkaq
+Francisca, Chamkaq, -Hand Axe
+Francisca, Tabar, Chamkaq
+Francisca, Bullova, -Battle Axe
+Francisca, Crescent, Francisca
+Tabarzin, Tabarzin, Tabarzin
+Tabarzin, Chamkaq, +Tabar
+Tabarzin, Tabar, Tabarzin
+Tabarzin, Bullova, Tabar
+Tabarzin, Crescent, -Battle Axe
+Chamkaq, Chamkaq, Chamkaq
+Chamkaq, Tabar, Tabar
+Chamkaq, Bullova, Chamkaq
+Chamkaq, Crescent, -Hand Axe
+Tabar, Tabar, +Bullova
+Tabar, Bullova, -Hand Axe
+Tabar, Crescent, Tabar
+Bullova, Bullova, +Crescent
+Bullova, Crescent, -Hand Axe
+Crescent, Crescent, Crescent

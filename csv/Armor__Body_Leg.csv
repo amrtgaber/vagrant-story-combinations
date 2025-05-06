@@ -1,0 +1,257 @@
+first slot, second slot, result, swap
+Jerkin, Sandals, Jerkin
+Jerkin, Boots, Boots
+Jerkin, Long Boots, Long Boots
+Jerkin, Cuisse, Cuisse
+Jerkin, Light Greave, Cuisse
+Jerkin, Ring Leggings, Cuisse
+Jerkin, Chain Leggings, Cuisse
+Jerkin, Fusskampf, Light Greave
+Jerkin, Poleyn, Ring Leggings
+Jerkin, Jambeau, Chain Leggings
+Jerkin, Missaglia, Fusskampf
+Jerkin, Plate Leggings, Poleyn
+Jerkin, Fluted Leggings, Jambeau
+Jerkin, Hoplite Leggings, Missaglia
+Jerkin, Jazeraint Leggings, Plate Leggings
+Jerkin, Dread Leggings, Fluted Leggings
+Hauberk, Sandals, Hauberk
+Hauberk, Boots, Boots
+Hauberk, Long Boots, Long Boots
+Hauberk, Cuisse, Cuisse
+Hauberk, Light Greave, Cuisse
+Hauberk, Ring Leggings, Cuisse
+Hauberk, Chain Leggings, Cuisse
+Hauberk, Fusskampf, Light Greave
+Hauberk, Poleyn, Ring Leggings
+Hauberk, Jambeau, Chain Leggings
+Hauberk, Missaglia, Fusskampf
+Hauberk, Plate Leggings, Poleyn
+Hauberk, Fluted Leggings, Jambeau
+Hauberk, Hoplite Leggings, Missaglia
+Hauberk, Jazeraint Leggings, Plate Leggings
+Hauberk, Dread Leggings, Fluted Leggings
+Wizard Robe, Sandals, Wizard Robe
+Wizard Robe, Boots, Wizard Robe
+Wizard Robe, Long Boots, Long Boots
+Wizard Robe, Cuisse, Cuisse
+Wizard Robe, Light Greave, Cuisse
+Wizard Robe, Ring Leggings, Cuisse
+Wizard Robe, Chain Leggings, Cuisse
+Wizard Robe, Fusskampf, Light Greave
+Wizard Robe, Poleyn, Ring Leggings
+Wizard Robe, Jambeau, Chain Leggings
+Wizard Robe, Missaglia, Fusskampf
+Wizard Robe, Plate Leggings, Poleyn
+Wizard Robe, Fluted Leggings, Jambeau
+Wizard Robe, Hoplite Leggings, Missaglia
+Wizard Robe, Jazeraint Leggings, Plate Leggings
+Wizard Robe, Dread Leggings, Fluted Leggings
+Cuirass, Sandals, Cuirass
+Cuirass, Boots, Cuirass
+Cuirass, Long Boots, Cuirass
+Cuirass, Cuisse, Knuckles
+Cuirass, Light Greave, Cuisse
+Cuirass, Ring Leggings, Cuisse
+Cuirass, Chain Leggings, Cuisse
+Cuirass, Fusskampf, Light Greave
+Cuirass, Poleyn, Ring Leggings
+Cuirass, Jambeau, Chain Leggings
+Cuirass, Missaglia, Fusskampf
+Cuirass, Plate Leggings, Poleyn
+Cuirass, Fluted Leggings, Jambeau
+Cuirass, Hoplite Leggings, Missaglia
+Cuirass, Jazeraint Leggings, Plate Leggings
+Cuirass, Dread Leggings, Fluted Leggings
+Banded Mail, Sandals, Banded Mail
+Banded Mail, Boots, Banded Mail
+Banded Mail, Long Boots, Banded Mail
+Banded Mail, Cuisse, Banded Mail
+Banded Mail, Light Greave, Ring Sleeve
+Banded Mail, Ring Leggings, Cuisse
+Banded Mail, Chain Leggings, Cuisse
+Banded Mail, Fusskampf, Light Greave
+Banded Mail, Poleyn, Ring Leggings
+Banded Mail, Jambeau, Chain Leggings
+Banded Mail, Missaglia, Fusskampf
+Banded Mail, Plate Leggings, Poleyn
+Banded Mail, Fluted Leggings, Jambeau
+Banded Mail, Hoplite Leggings, Missaglia, Jambeau
+Banded Mail, Jazeraint Leggings, Plate Leggings
+Banded Mail, Dread Leggings, Fluted Leggings
+Ring Mail, Sandals, Banded Mail
+Ring Mail, Boots, Banded Mail
+Ring Mail, Long Boots, Banded Mail
+Ring Mail, Cuisse, Banded Mail
+Ring Mail, Light Greave, Ring Mail
+Ring Mail, Ring Leggings, Chain Sleeve
+Ring Mail, Chain Leggings, Light Greave
+Ring Mail, Fusskampf, Light Greave
+Ring Mail, Poleyn, Light Greave
+Ring Mail, Jambeau, Ring Leggings
+Ring Mail, Missaglia, Chain Leggings
+Ring Mail, Plate Leggings, Fusskampf
+Ring Mail, Fluted Leggings, Poleyn, Fusskampf
+Ring Mail, Hoplite Leggings, Jambeau, Poleyn
+Ring Mail, Jazeraint Leggings, Missaglia
+Ring Mail, Dread Leggings, Plate Leggings
+Chain Mail, Sandals, Banded Mail
+Chain Mail, Boots, Banded Mail
+Chain Mail, Long Boots, Banded Mail
+Chain Mail, Cuisse, Banded Mail
+Chain Mail, Light Greave, Ring Mail
+Chain Mail, Ring Leggings, Chain Mail
+Chain Mail, Chain Leggings, Gauntlet
+Chain Mail, Fusskampf, Ring Leggings
+Chain Mail, Poleyn, Ring Leggings
+Chain Mail, Jambeau, Ring Leggings
+Chain Mail, Missaglia, Ring Leggings
+Chain Mail, Plate Leggings, Chain Leggings, Ring Leggings
+Chain Mail, Fluted Leggings, Fusskampf, Chain Leggings
+Chain Mail, Hoplite Leggings, Poleyn, Fusskampf
+Chain Mail, Jazeraint Leggings, Jambeau
+Chain Mail, Dread Leggings, Missaglia
+Breastplate, Sandals, Banded Mail
+Breastplate, Boots, Banded Mail
+Breastplate, Long Boots, Banded Mail
+Breastplate, Cuisse, Banded Mail
+Breastplate, Light Greave, Ring Mail
+Breastplate, Ring Leggings, Chain Mail
+Breastplate, Chain Leggings, Breastplate
+Breastplate, Fusskampf, Vambrace
+Breastplate, Poleyn, Chain Leggings
+Breastplate, Jambeau, Chain Leggings
+Breastplate, Missaglia, Chain Leggings
+Breastplate, Plate Leggings, Chain Leggings
+Breastplate, Fluted Leggings, Chain Leggings
+Breastplate, Hoplite Leggings, Fusskampf, Chain Leggings
+Breastplate, Jazeraint Leggings, Poleyn
+Breastplate, Dread Leggings, Jambeau
+Segmentata, Sandals, Ring Mail
+Segmentata, Boots, Ring Mail
+Segmentata, Long Boots, Ring Mail
+Segmentata, Cuisse, Ring Mail
+Segmentata, Light Greave, Ring Mail
+Segmentata, Ring Leggings, Chain Mail
+Segmentata, Chain Leggings, Breastplate
+Segmentata, Fusskampf, Segmentata
+Segmentata, Poleyn, Plate Glove
+Segmentata, Jambeau, Fusskampf
+Segmentata, Missaglia, Fusskampf
+Segmentata, Plate Leggings, Fusskampf
+Segmentata, Fluted Leggings, Fusskampf
+Segmentata, Hoplite Leggings, Fusskampf
+Segmentata, Jazeraint Leggings, Fusskampf
+Segmentata, Dread Leggings, Poleyn
+Scale Armor, Sandals, Chain Mail
+Scale Armor, Boots, Chain Mail
+Scale Armor, Long Boots, Chain Mail
+Scale Armor, Cuisse, Chain Mail
+Scale Armor, Light Greave, Ring Mail
+Scale Armor, Ring Leggings, Chain Mail
+Scale Armor, Chain Leggings, Breastplate
+Scale Armor, Fusskampf, Segmentata
+Scale Armor, Poleyn, Scale Armor
+Scale Armor, Jambeau, Rondanche
+Scale Armor, Missaglia, Poleyn
+Scale Armor, Plate Leggings, Poleyn
+Scale Armor, Fluted Leggings, Poleyn
+Scale Armor, Hoplite Leggings, Poleyn
+Scale Armor, Jazeraint Leggings, Poleyn
+Scale Armor, Dread Leggings, Poleyn
+Brigandine, Sandals, Breastplate
+Brigandine, Boots, Breastplate
+Brigandine, Long Boots, Breastplate
+Brigandine, Cuisse, Breastplate
+Brigandine, Light Greave, Chain Mail
+Brigandine, Ring Leggings, Chain Mail
+Brigandine, Chain Leggings, Breastplate
+Brigandine, Fusskampf, Segmentata
+Brigandine, Poleyn, Scale Armor
+Brigandine, Jambeau, Brigandine
+Brigandine, Missaglia, Tilt Glove
+Brigandine, Plate Leggings, Jambeau
+Brigandine, Fluted Leggings, Jambeau
+Brigandine, Hoplite Leggings, Jambeau
+Brigandine, Jazeraint Leggings, Jambeau
+Brigandine, Dread Leggings, Jambeau
+Plate Mail, Sandals, Segmentata
+Plate Mail, Boots, Segmentata
+Plate Mail, Long Boots, Segmentata
+Plate Mail, Cuisse, Segmentata
+Plate Mail, Light Greave, Breastplate
+Plate Mail, Ring Leggings, Chain Mail
+Plate Mail, Chain Leggings, Breastplate
+Plate Mail, Fusskampf, Segmentata
+Plate Mail, Poleyn, Scale Armor
+Plate Mail, Jambeau, Brigandine
+Plate Mail, Missaglia, Plate Mail
+Plate Mail, Plate Leggings, Freiturnier
+Plate Mail, Fluted Leggings, Missaglia
+Plate Mail, Hoplite Leggings, Missaglia
+Plate Mail, Jazeraint Leggings, Missaglia
+Plate Mail, Dread Leggings, Missaglia
+Fluted Armor, Sandals, Scale Armor
+Fluted Armor, Boots, Scale Armor
+Fluted Armor, Long Boots, Scale Armor
+Fluted Armor, Cuisse, Scale Armor
+Fluted Armor, Light Greave, Segmentata
+Fluted Armor, Ring Leggings, Breastplate
+Fluted Armor, Chain Leggings, Breastplate
+Fluted Armor, Fusskampf, Segmentata
+Fluted Armor, Poleyn, Scale Armor
+Fluted Armor, Jambeau, Brigandine
+Fluted Armor, Missaglia, Plate Mail
+Fluted Armor, Plate Leggings, Fluted Armor
+Fluted Armor, Fluted Leggings, Fluted Glove
+Fluted Armor, Hoplite Leggings, Plate Leggings
+Fluted Armor, Jazeraint Leggings, Plate Leggings
+Fluted Armor, Dread Leggings, Plate Leggings
+Hoplite Armor, Sandals, Brigandine
+Hoplite Armor, Boots, Brigandine
+Hoplite Armor, Long Boots, Brigandine
+Hoplite Armor, Cuisse, Brigandine
+Hoplite Armor, Light Greave, Scale Armor
+Hoplite Armor, Ring Leggings, Segmentata
+Hoplite Armor, Chain Leggings, Breastplate
+Hoplite Armor, Fusskampf, Segmentata
+Hoplite Armor, Poleyn, Scale Armor
+Hoplite Armor, Jambeau, Brigandine
+Hoplite Armor, Missaglia, Plate Mail
+Hoplite Armor, Plate Leggings, Fluted Armor
+Hoplite Armor, Fluted Leggings, Hoplite Armor
+Hoplite Armor, Hoplite Leggings, Hoplite Glove
+Hoplite Armor, Jazeraint Leggings, Fluted Leggings
+Hoplite Armor, Dread Leggings, Fluted Leggings
+Jazeraint Armor, Sandals, Plate Mail
+Jazeraint Armor, Boots, Plate Mail
+Jazeraint Armor, Long Boots, Plate Mail
+Jazeraint Armor, Cuisse, Plate Mail
+Jazeraint Armor, Light Greave, Brigandine
+Jazeraint Armor, Ring Leggings, Scale Armor
+Jazeraint Armor, Chain Leggings, Segmentata
+Jazeraint Armor, Fusskampf, Segmentata
+Jazeraint Armor, Poleyn, Scale Armor
+Jazeraint Armor, Jambeau, Brigandine
+Jazeraint Armor, Missaglia, Plate Mail
+Jazeraint Armor, Plate Leggings, Fluted Armor
+Jazeraint Armor, Fluted Leggings, Hoplite Armor
+Jazeraint Armor, Hoplite Leggings, Jazeraint Armor
+Jazeraint Armor, Jazeraint Leggings, Jazeraint Glove
+Jazeraint Armor, Dread Leggings, Hoplite Leggings
+Dread Armor, Sandals, Fluted Armor
+Dread Armor, Boots, Fluted Armor
+Dread Armor, Long Boots, Fluted Armor
+Dread Armor, Cuisse, Fluted Armor
+Dread Armor, Light Greave, Plate Mail
+Dread Armor, Ring Leggings, Brigandine
+Dread Armor, Chain Leggings, Scale Armor
+Dread Armor, Fusskampf, Segmentata
+Dread Armor, Poleyn, Scale Armor
+Dread Armor, Jambeau, Brigandine
+Dread Armor, Missaglia, Plate Mail
+Dread Armor, Plate Leggings, Fluted Armor
+Dread Armor, Fluted Leggings, Hoplite Armor
+Dread Armor, Hoplite Leggings, Jazeraint Armor
+Dread Armor, Jazeraint Leggings, Dread Armor
+Dread Armor, Dread Leggings, Dread Glove

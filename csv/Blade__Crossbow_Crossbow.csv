@@ -1,0 +1,37 @@
+first slot, second slot, result, swap
+Gastraph Bow, Gastraph Bow, Gastraph Bow
+Gastraph Bow, Light Crossbow, Gastraph Bow
+Gastraph Bow, Target Bow, Light Crossbow
+Gastraph Bow, Windlass, Gastraph Bow
+Gastraph Bow, Cranequin, Light Crossbow
+Gastraph Bow, Lug Crossbow, Target Bow
+Gastraph Bow, Siege Bow, Windlass
+Gastraph Bow, Arbalest, Cranequin
+Light Crossbow, Light Crossbow, Light Crossbow
+Light Crossbow, Target Bow, +Windlass
+Light Crossbow, Windlass, -Gastraph Bow
+Light Crossbow, Cranequin, Light Crossbow
+Light Crossbow, Lug Crossbow, Light Crossbow
+Light Crossbow, Siege Bow, Target Bow
+Light Crossbow, Arbalest, Windlass
+Target Bow, Target Bow, Target Bow
+Target Bow, Windlass, +Cranequin
+Target Bow, Cranequin, Target Bow
+Target Bow, Lug Crossbow, Windlass
+Target Bow, Siege Bow, -Light Crossbow
+Target Bow, Arbalest, Target Bow
+Windlass, Windlass, Windlass
+Windlass, Cranequin, +Lug Crossbow
+Windlass, Lug Crossbow, -Light Crossbow
+Windlass, Siege Bow, Cranequin
+Windlass, Arbalest, -Light Crossbow
+Cranequin, Cranequin, Cranequin
+Cranequin, Lug Crossbow, Cranequin
+Cranequin, Siege Bow, -Target Bow
+Cranequin, Arbalest, -Windlass
+Lug Crossbow, Lug Crossbow, +Siege Bow
+Lug Crossbow, Siege Bow, -Gastraph Bow
+Lug Crossbow, Arbalest, Lug Crossbow
+Siege Bow, Siege Bow, +Arbalest
+Siege Bow, Arbalest, -Target Bow
+Arbalest, Arbalest, Arbalest

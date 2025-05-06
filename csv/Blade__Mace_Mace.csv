@@ -1,0 +1,23 @@
+first slot, second slot, result, swap
+Goblin Club, Goblin Club, Goblin Club
+Goblin Club, Spiked Club, Goblin Club
+Goblin Club, Ball Mace, Spiked Club
+Goblin Club, Morning Star, Spiked Club
+Goblin Club, War Hammer, Ball Mace
+Goblin Club, War Maul, Morning Star
+Spiked Club, Spiked Club, Spiked Club
+Spiked Club, Morning Star, Ball Mace
+Spiked Club, War Hammer, Spiked Club
+Spiked Club, Bec de Corbin, Ball Mace
+Ball Mace, Ball Mace, Ball Mace
+Ball Mace, War Hammer, Morning Star
+Ball Mace, Bec de Corbin, -Spiked Club
+Ball Mace, War Maul, Ball Mace
+Morning Star, Morning Star, Morning Star
+Morning Star, War Hammer, Morning Star
+Morning Star, War Maul, -Goblin Club
+War Hammer, War Hammer, +Bec de Corbin
+War Hammer, Bec de Corbin, -Goblin Club
+War Hammer, War Maul, War Hammer
+Bec de Corbin, Bec de Corbin, +War Maul
+War Maul, War Maul, War Maul

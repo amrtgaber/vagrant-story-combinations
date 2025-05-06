@@ -1,0 +1,120 @@
+first slot, second slot, result, swap
+Spatha, Broad Sword, Broad Sword
+Spatha, Norse Sword, Broad Sword
+Spatha, Katana, Broad Sword
+Spatha, Executioner, Norse Sword
+Spatha, Claymore, Katana
+Spatha, Schiavona, Executioner
+Spatha, Bastard Sword, Claymore
+Spatha, Nodachi, Schiavona
+Spatha, Rune Blade, Bastard Sword
+Spatha, Holy Win, Spatha
+Scimitar, Broad Sword, Spatha
+Scimitar, Norse Sword, Norse Sword
+Scimitar, Katana, Norse Sword
+Scimitar, Executioner, Norse Sword
+Scimitar, Claymore, Norse Sword
+Scimitar, Schiavona, Katana
+Scimitar, Bastard Sword, Executioner
+Scimitar, Nodachi, Claymore
+Scimitar, Rune Blade, Schiavona
+Scimitar, Holy Win, Scimitar
+Rapier, Broad Sword, Spatha
+Rapier, Norse Sword, Hand Axe
+Rapier, Katana, Katana
+Rapier, Executioner, Katana
+Rapier, Claymore, Katana
+Rapier, Schiavona, Katana
+Rapier, Bastard Sword, Katana
+Rapier, Nodachi, Executioner
+Rapier, Rune Blade, Claymore
+Rapier, Holy Win, Rapier
+Short Sword, Broad Sword, Spatha
+Short Sword, Norse Sword, Scimitar
+Short Sword, Katana, Battle Axe
+Short Sword, Executioner, Executioner
+Short Sword, Claymore, Executioner
+Short Sword, Schiavona, Executioner
+Short Sword, Bastard Sword, Executioner
+Short Sword, Nodachi, Executioner
+Short Sword, Rune Blade, Executioner
+Short Sword, Holy Win, Short Sword
+Firangi, Broad Sword, Scimitar
+Firangi, Norse Sword, Scimitar
+Firangi, Katana, Goblin Club
+Firangi, Executioner, Francisca
+Firangi, Claymore, Guisarme
+Firangi, Schiavona, Claymore
+Firangi, Bastard Sword, Claymore
+Firangi, Nodachi, Claymore
+Firangi, Rune Blade, Claymore
+Firangi, Holy Win, Firangi
+Shamshir, Broad Sword, Rapier
+Shamshir, Norse Sword, Scimitar
+Shamshir, Katana, Rapier
+Shamshir, Executioner, Spiked Club
+Shamshir, Claymore, Tabarzin
+Shamshir, Schiavona, Large Crescent
+Shamshir, Bastard Sword, Schiavona
+Shamshir, Nodachi, Schiavona
+Shamshir, Rune Blade, Schiavona
+Shamshir, Holy Win, Shamshir
+Falchion, Broad Sword, Short Sword
+Falchion, Norse Sword, Rapier
+Falchion, Katana, Rapier
+Falchion, Executioner, Short Sword
+Falchion, Claymore, Ball Mace
+Falchion, Schiavona, Chamkaq
+Falchion, Bastard Sword, Sabre Halberd
+Falchion, Nodachi, Bastard Sword
+Falchion, Rune Blade, Bastard Sword
+Falchion, Holy Win, Falchion
+Shotel, Broad Sword, Firangi
+Shotel, Norse Sword, Short Sword
+Shotel, Katana, Rapier
+Shotel, Executioner, Short Sword
+Shotel, Claymore, Firangi
+Shotel, Bastard Sword, Tabar
+Shotel, Nodachi, Balbriggan
+Shotel, Rune Blade, Nodachi
+Shotel, Holy Win, Shotel
+Khora, Broad Sword, Shamshir
+Khora, Norse Sword, Firangi
+Khora, Katana, Short Sword
+Khora, Executioner, Short Sword
+Khora, Claymore, Firangi
+Khora, Schiavona, Shamshir
+Khora, Bastard Sword, Morning Star
+Khora, Nodachi, Bullova
+Khora, Rune Blade, Double Blade
+Khora, Holy Win, Khora
+Khopesh, Broad Sword, Falchion
+Khopesh, Norse Sword, Shamshir
+Khopesh, Katana, Firangi
+Khopesh, Executioner, Short Sword
+Khopesh, Claymore, Firangi
+Khopesh, Schiavona, Shamshir
+Khopesh, Bastard Sword, Falchion
+Khopesh, Nodachi, War Hammer
+Khopesh, Rune Blade, Crescent
+Khopesh, Holy Win, Khopesh
+Wakizashi, Broad Sword, Shotel
+Wakizashi, Norse Sword, Falchion
+Wakizashi, Katana, Shamshir
+Wakizashi, Executioner, Firangi
+Wakizashi, Claymore, Firangi
+Wakizashi, Schiavona, Shamshir
+Wakizashi, Bastard Sword, Falchion
+Wakizashi, Nodachi, Shotel
+Wakizashi, Rune Blade, Bec de Corbin
+Wakizashi, Holy Win, Wakizashi
+Rhomphaia, Broad Sword, Broad Sword
+Rhomphaia, Norse Sword, Norse Sword
+Rhomphaia, Katana, Katana
+Rhomphaia, Executioner, Executioner
+Rhomphaia, Claymore, Claymore
+Rhomphaia, Schiavona, Schiavona
+Rhomphaia, Bastard Sword, Bastard Sword
+Rhomphaia, Nodachi, Nodachi
+Rhomphaia, Rune Blade, Rune Blade
+Rhomphaia, Holy Win, Rhomphaia

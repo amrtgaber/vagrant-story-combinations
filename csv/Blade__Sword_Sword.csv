@@ -1,0 +1,79 @@
+first slot, second slot, result, swap
+Spatha, Spatha, Spatha
+Spatha, Scimitar, Spatha
+Spatha, Rapier, +Short Sword
+Spatha, Short Sword, Spatha
+Spatha, Firangi, Scimitar
+Spatha, Shamshir, Rapier
+Spatha, Falchion, Short Sword
+Spatha, Shotel, Firangi
+Spatha, Khora, Shamshir
+Spatha, Khopesh, Falchion
+Spatha, Wakizashi, Shotel
+Spatha, Rhomphaia, Spatha
+Scimitar, Scimitar, Scimitar
+Scimitar, Rapier, -Spatha
+Scimitar, Short Sword, Scimitar
+Scimitar, Firangi, Short Sword
+Scimitar, Shamshir, Scimitar
+Scimitar, Falchion, Rapier
+Scimitar, Shotel, Short Sword
+Scimitar, Khora, Firangi
+Scimitar, Khopesh, Shamshir
+Scimitar, Wakizashi, Falchion
+Scimitar, Rhomphaia, Scimitar
+Rapier, Rapier, Rapier
+Rapier, Short Sword, -Spatha
+Rapier, Firangi, Short Sword, -Spatha
+Rapier, Shamshir, -Spatha, Short Sword
+Rapier, Falchion, Firangi
+Rapier, Shotel, Rapier
+Rapier, Khora, Short Sword
+Rapier, Khopesh, Firangi
+Rapier, Wakizashi, Shamshir
+Rapier, Rhomphaia, Rapier
+Short Sword, Short Sword, Short Sword
+Short Sword, Firangi, +Shamshir
+Short Sword, Shamshir, -Rapier
+Short Sword, Falchion, -Spatha
+Short Sword, Shotel, -Scimitar
+Short Sword, Khora, -Rapier
+Short Sword, Khopesh, Short Sword
+Short Sword, Wakizashi, Firangi
+Short Sword, Rhomphaia, Short Sword
+Firangi, Firangi, Firangi
+Firangi, Shamshir, +Falchion
+Firangi, Falchion, Shamshir
+Firangi, Shotel, Falchion
+Firangi, Khora, -Scimitar
+Firangi, Khopesh, -Rapier
+Firangi, Wakizashi, -Short Sword
+Firangi, Rhomphaia, Firangi
+Shamshir, Shamshir, Shamshir
+Shamshir, Falchion, +Shotel
+Shamshir, Shotel, -Spatha
+Shamshir, Khora, Shamshir
+Shamshir, Khopesh, -Scimitar
+Shamshir, Wakizashi, -Rapier
+Shamshir, Rhomphaia, Shamshir
+Falchion, Falchion, Falchion
+Falchion, Shotel, +Khora
+Falchion, Khora, -Rapier
+Falchion, Khopesh, Khora
+Falchion, Wakizashi, -Scimitar
+Falchion, Rhomphaia, Falchion
+Shotel, Shotel, Shotel
+Shotel, Khora, -Spatha
+Shotel, Khopesh, Shotel
+Shotel, Wakizashi, -Rapier
+Shotel, Rhomphaia, Shotel
+Khora, Khora, +Khopesh
+Khora, Khopesh, -Spatha
+Khora, Wakizashi, Khora
+Khora, Rhomphaia, Khora
+Khopesh, Khopesh, +Wakizashi
+Khopesh, Wakizashi, Khopesh
+Khopesh, Rhomphaia, Khopesh
+Wakizashi, Wakizashi, Wakizashi
+Wakizashi, Rhomphaia, Wakizashi
+Rhomphaia, Rhomphaia, Rhomphaia

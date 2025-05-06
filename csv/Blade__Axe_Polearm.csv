@@ -1,0 +1,97 @@
+first slot, second slot, result, swap
+Hand Axe, Spear, Spear
+Hand Axe, Glaive, Spear
+Hand Axe, Scorpion, Spear
+Hand Axe, Corcesca, Spear
+Hand Axe, Trident, Spear, Glaive
+Hand Axe, Awl Pike, Spear, Scorpion
+Hand Axe, Boar Spear, Spear, Corcesca
+Hand Axe, Fauchard, Spear, Trident
+Hand Axe, Voulge, Spear, Awl Pike
+Hand Axe, Pole Axe, Spear, Boar Spear
+Hand Axe, Bardysh, Spear, Fauchard
+Hand Axe, Brandestoc, Spear, Voulge
+Battle Axe, Spear, Battle Knife
+Battle Axe, Glaive, Gastraph Bow
+Battle Axe, Scorpion, Spatha
+Battle Axe, Corcesca, Glaive
+Battle Axe, Trident, Glaive
+Battle Axe, Awl Pike, Glaive
+Battle Axe, Boar Spear, Glaive, Scorpion
+Battle Axe, Fauchard, Glaive, Corcesca
+Battle Axe, Voulge, Glaive, Trident
+Battle Axe, Pole Axe, Glaive, Awl Pike
+Battle Axe, Bardysh, Glaive, Boar Spear
+Battle Axe, Brandestoc, Glaive, Fauchard
+Francisca, Spear, Hand Axe
+Francisca, Glaive, Hand Axe
+Francisca, Scorpion, Scramasax
+Francisca, Corcesca, Light Crossbow
+Francisca, Trident, Scimitar
+Francisca, Awl Pike, Scorpion
+Francisca, Boar Spear, Scorpion
+Francisca, Fauchard, Scorpion
+Francisca, Voulge, Scorpion, Corcesca
+Francisca, Pole Axe, Scorpion, Trident
+Francisca, Bardysh, Scorpion, Awl Pike
+Francisca, Brandestoc, Scorpion, Boar Spear
+Tabarzin, Spear, Battle Axe
+Tabarzin, Glaive, Battle Axe
+Tabarzin, Scorpion, Battle Axe
+Tabarzin, Corcesca, Battle Axe
+Tabarzin, Trident, Dirk
+Tabarzin, Awl Pike, Target Bow
+Tabarzin, Boar Spear, Rapier
+Tabarzin, Fauchard, Corcesca
+Tabarzin, Voulge, Corcesca
+Tabarzin, Pole Axe, Corcesca, Trident
+Tabarzin, Bardysh, Corcesca, Trident
+Tabarzin, Brandestoc, Corcesca, Awl Pike
+Chamkaq, Spear, Francisca
+Chamkaq, Glaive, Francisca
+Chamkaq, Scorpion, Battle Axe
+Chamkaq, Corcesca, Battle Axe
+Chamkaq, Trident, Francisca
+Chamkaq, Awl Pike, Francisca
+Chamkaq, Boar Spear, Throwing Knife
+Chamkaq, Fauchard, Windlass
+Chamkaq, Voulge, Short Sword
+Chamkaq, Pole Axe, Trident
+Chamkaq, Bardysh, Trident
+Chamkaq, Brandestoc, Trident
+Tabar, Spear, Tabarzin
+Tabar, Glaive, Tabarzin
+Tabar, Scorpion, Francisca
+Tabar, Corcesca, Francisca
+Tabar, Trident, Francisca
+Tabar, Awl Pike, Francisca
+Tabar, Boar Spear, Tabarzin
+Tabar, Fauchard, Tabarzin
+Tabar, Voulge, Kudi
+Tabar, Pole Axe, Cranequin
+Tabar, Bardysh, Firangi
+Tabar, Brandestoc, Awl Pike
+Bullova, Spear, Chamkaq
+Bullova, Glaive, Chamkaq
+Bullova, Scorpion, Tabarzin
+Bullova, Corcesca, Tabarzin
+Bullova, Trident, Francisca
+Bullova, Awl Pike, Francisca
+Bullova, Boar Spear, Tabarzin
+Bullova, Fauchard, Tabarzin
+Bullova, Voulge, Chamkaq
+Bullova, Pole Axe, Chamkaq
+Bullova, Bardysh, Cinquedea
+Bullova, Brandestoc, Lug Crossbow
+Crescent, Spear, Tabar
+Crescent, Glaive, Chamkaq
+Crescent, Scorpion, Chamkaq
+Crescent, Corcesca, Tabarzin
+Crescent, Trident, Tabarzin
+Crescent, Awl Pike, Francisca
+Crescent, Boar Spear, Tabarzin
+Crescent, Fauchard, Tabarzin
+Crescent, Voulge, Chamkaq
+Crescent, Pole Axe, Chamkaq
+Crescent, Bardysh, Tabar
+Crescent, Brandestoc, Tabar

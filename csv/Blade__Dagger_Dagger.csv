@@ -1,0 +1,79 @@
+first slot, second slot, result, swap
+Battle Knife, Battle Knife, Battle Knife
+Battle Knife, Scramasax, Battle Knife
+Battle Knife, Dirk, +Throwing Knife
+Battle Knife, Throwing Knife, Throwing Knife
+Battle Knife, Kudi, Scramasax
+Battle Knife, Cinquedea, Dirk
+Battle Knife, Kris, Throwing Knife
+Battle Knife, Hatchet, Kudi
+Battle Knife, Khukuri, Cinquedea
+Battle Knife, Baselard, Kris
+Battle Knife, Stiletto, Hatchet
+Battle Knife, Jamadhar, Khukuri
+Scramasax, Scramasax, Scramasax
+Scramasax, Dirk, +Throwing Knife
+Scramasax, Throwing Knife, +Kudi
+Scramasax, Kudi, Kudi
+Scramasax, Cinquedea, Scramasax
+Scramasax, Kris, Dirk
+Scramasax, Hatchet, Throwing Knife
+Scramasax, Khukuri, Kudi
+Scramasax, Baselard, Cinquedea
+Scramasax, Stiletto, Kris
+Scramasax, Jamadhar, Hatchet
+Dirk, Dirk, +Throwing Knife
+Dirk, Throwing Knife, +Kudi
+Dirk, Kudi, -Battle Knife
+Dirk, Cinquedea, Cinquedea
+Dirk, Kris, -Scramasax
+Dirk, Hatchet, Dirk
+Dirk, Khukuri, Throwing Knife
+Dirk, Baselard, Kudi
+Dirk, Stiletto, Cinquedea
+Dirk, Jamadhar, Kris
+Throwing Knife, Throwing Knife, Throwing Knife
+Throwing Knife, Kudi, +Cinquedea
+Throwing Knife, Cinquedea, +Kris
+Throwing Knife, Kris, -Battle Knife
+Throwing Knife, Hatchet, -Scramasax
+Throwing Knife, Khukuri, -Dirk
+Throwing Knife, Baselard, Throwing Knife
+Throwing Knife, Stiletto, Kudi
+Throwing Knife, Jamadhar, Cinquedea
+Kudi, Kudi, Kudi
+Kudi, Cinquedea, +Kris
+Kudi, Kris, +Hatchet
+Kudi, Hatchet, Kris
+Kudi, Khukuri, -Scramasax
+Kudi, Baselard, -Dirk
+Kudi, Stiletto, -Throwing Knife
+Kudi, Jamadhar, Kudi
+Cinquedea, Cinquedea, Cinquedea
+Cinquedea, Kris, +Hatchet
+Cinquedea, Hatchet, -Battle Knife
+Cinquedea, Khukuri, Hatchet
+Cinquedea, Baselard, -Scramasax
+Cinquedea, Stiletto, -Dirk
+Cinquedea, Jamadhar, -Throwing Knife
+Kris, Kris, Kris
+Kris, Hatchet, +Khukuri
+Kris, Khukuri, -Battle Knife
+Kris, Baselard, Hatchet
+Kris, Stiletto, -Scramasax
+Kris, Jamadhar, -Dirk
+Hatchet, Hatchet, Hatchet
+Hatchet, Khukuri, +Baselard
+Hatchet, Baselard, -Battle Knife
+Hatchet, Stiletto, Khukuri
+Hatchet, Jamadhar, -Scramasax
+Khukuri, Khukuri, Khukuri
+Khukuri, Baselard, -Battle Knife
+Khukuri, Stiletto, Baselard
+Khukuri, Jamadhar, Khukuri
+Baselard, Baselard, +Stiletto
+Baselard, Stiletto, -Battle Knife
+Baselard, Jamadhar, -Battle Knife
+Stiletto, Stiletto, +Jamadhar
+Stiletto, Jamadhar, -Battle Knife
+Jamadhar, Jamadhar, Jamadhar

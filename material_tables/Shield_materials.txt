@@ -1,0 +1,10 @@
+         First Slot
+         Shield                  
+           W   B   I   H   S   D 
+--------- ------------------------
+Shield W   W   B   I   H   S   D 
+       B   B   B  +H  H   B   H 
+       I   I  +H   I   H   I   H 
+       H   H +S   H   H   H   H 
+       S   S   B   I   H   S   S 
+       D   D   H   H   H   S   D 

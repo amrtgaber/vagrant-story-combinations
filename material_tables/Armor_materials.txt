@@ -1,0 +1,31 @@
+       First Slot
+       Helm                    Body                    Leg                     Arm                     
+         L   B   I   H   S   D   L   B   I   H   S   D   L   B   I   H   S   D   L   B   I   H   S   D 
+------- ------------------------ ------------------------ ------------------------ ------------------------
+Helm L   L   B  +H   H   H   H   L   B  I   H   S   D   L   B  I   H   S   D   L   B  I  +S   S   D 
+     B   B   B  +H   H   H   H   B   B   I   H   S   D   B   B   I   H   S   D   B   B   I   H   S   D 
+     I  +H  +H   I   H   H   I  I   B   I   H   S   D  I   B   I   H   S   D  I   B   I   H   S   D 
+     H   H   H   H   H   H   H   B   B   I   H   S   D   B   B   I   H   S   D   B   B   I   H   S   D 
+     S   H   H   H   H   S  -H +D   B   I   H   S   D  B   B   I   H   S   D   B   B   I   H   S   D 
+     D   H   H   I   H  -H   D   B   B   I   H   S   D   B   B   I   H   S   D   B   B   I   H   S   D 
+------- ------------------------ ------------------------ ------------------------ ------------------------
+Body L   L   B  B   B  B   B   L   B  +H   H   H   H   L   B  I   H   S   D   L   B  I   H   S   D 
+     B   B   B   B   B   B   B   B   B  +H   H   H   H   B   B   I   H   S   D   B   B   I   H   S   D 
+     I   B   I   I   I   I   I  +H  +H   I   H   H   H  I   B   I   H   S   D  I   B   I   H   S   D 
+     H   H   H   H   H   H   H   H   H   H   H  -I   H   B   B   I   H +D   D   B   B   I   H   S   D 
+     S   S   S   S   S   S   S   H   H   H  -I   S  -H   B   B   I   H   S   D   B   B   I   H   S   D 
+     D   D   D   D   D   D   D   H   H   H   H  -H   D   B   B   I   H   S   D   B   B   I   H   S   D 
+------- ------------------------ ------------------------ ------------------------ ------------------------
+Leg  L   L   B  B   B +D   B   L   B  B   B   B   B   L   B  +H   H   H   H   L   B  B   B   B   S 
+     B   B   B   B   B   B   B   B   B   B   B   B   B   B   B  +H   H   H   H   B   B   B   B   B   B 
+     I   B   I   I   I   I   I  B   I   I   I   I   I  +H  +H   I   H   H   H  B   I   I   I   I   I 
+     H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H  S   H   H   H   H   H   H   H 
+     S   S   S   S   S   S   S   S   S   S  S   S   S   H   H   H +D   S  -H   S   S   S   S   S   S 
+     D   D   D   D   D   D   D   D   D   D   D   D   D   H   H   H   H  -H   D   D   D   D   D   D   D 
+------- ------------------------ ------------------------ ------------------------ ------------------------
+Arm  L   L   B  B   B   B   B   L   B  B   B   B   B   L   B  I   H   S   D   L   B  +H  B   H   H 
+     B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   I   H   S   D   B   B  +H   H   H   H 
+     I   B   I   I   I   I   I  B   I   I   I   I   I  I   B   I   H   S   D  +H  +H   I   H   H  H 
+     H  +S   H   H   H   H   H   H   H   H   H   H   H   B   B   I   H   S   D  H   H   H   H   H   H 
+     S   S   S   S   S   S   S   S   S   S   S   S   S   B   B   I   H   S   D   H   H   H   H   S  -H 
+     D   D   D   D   D   D   D   D   D   D   D   D   D   S   B   I   H   S   D   H   H  I   H  -H   D 

@@ -1,0 +1,22 @@
+first slot, second slot, result, swap
+Guisarme, Guisarme, Guisarme
+Guisarme, Large Crescent, Guisarme
+Guisarme, Sabre Halberd, Sabre Halberd
+Guisarme, Balbriggan, Large Crescent
+Guisarme, Double Blade, Sabre Halberd
+Guisarme, Halberd, Balbriggan
+Large Crescent, Large Crescent, Large Crescent
+Large Crescent, Sabre Halberd, +Balbriggan
+Large Crescent, Balbriggan, Sabre Halberd
+Large Crescent, Double Blade, Large Crescent
+Large Crescent, Halberd, Sabre Halberd
+Sabre Halberd, Sabre Halberd, Sabre Halberd
+Sabre Halberd, Balbriggan, +Double Blade
+Sabre Halberd, Double Blade, Balbriggan
+Sabre Halberd, Halberd, Sabre Halberd, -Large Crescent
+Balbriggan, Balbriggan, Balbriggan
+Balbriggan, Double Blade, -Guisarme
+Balbriggan, Halberd, Double Blade
+Double Blade, Double Blade, +Halberd
+Double Blade, Halberd, -Guisarme
+Halberd, Halberd, Halberd

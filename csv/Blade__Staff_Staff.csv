@@ -1,0 +1,10 @@
+first slot, second slot, result, swap
+Wizard Staff, Wizard Staff, Wizard Staff
+Wizard Staff, Clergy Rod, Wizard Staff
+Wizard Staff, Summoner Baton, Wizard Staff
+Wizard Staff, Shamanic Staff, Clergy Rod
+Clergy Rod, Clergy Rod, Clergy Rod
+Clergy Rod, Summoner Baton, +Shamanic Staff
+Clergy Rod, Shamanic Staff, Clergy Rod
+Summoner Baton, Summoner Baton, Summoner Baton
+Shamanic Staff, Shamanic Staff, Shamanic Staff

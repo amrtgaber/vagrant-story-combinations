@@ -1,0 +1,134 @@
+first slot, second slot, result, swap
+Sandals, Sandals, Sandals
+Sandals, Boots, Boots
+Sandals, Long Boots, Long Boots
+Sandals, Cuisse, Cuisse
+Sandals, Light Greave, +Ring Leggings
+Sandals, Ring Leggings, Cuisse
+Sandals, Chain Leggings, Light Greave
+Sandals, Fusskampf, Light Greave
+Sandals, Poleyn, Ring Leggings
+Sandals, Jambeau, Chain Leggings
+Sandals, Missaglia, Fusskampf
+Sandals, Plate Leggings, Poleyn
+Sandals, Fluted Leggings, Jambeau
+Sandals, Hoplite Leggings, Missaglia
+Sandals, Jazeraint Leggings, Plate Leggings
+Sandals, Dread Leggings, Fluted Leggings
+Boots, Boots, Boots
+Boots, Long Boots, Long Boots
+Boots, Cuisse, Cuisse
+Boots, Light Greave, Cuisse
+Boots, Ring Leggings, +Chain Leggings
+Boots, Chain Leggings, Cuisse
+Boots, Fusskampf, Ring Leggings
+Boots, Poleyn, Light Greave
+Boots, Jambeau, Ring Leggings
+Boots, Missaglia, Chain Leggings
+Boots, Plate Leggings, Fusskampf
+Boots, Fluted Leggings, Poleyn
+Boots, Hoplite Leggings, Jambeau
+Boots, Jazeraint Leggings, Missaglia
+Boots, Dread Leggings, Plate Leggings
+Long Boots, Long Boots, Long Boots
+Long Boots, Cuisse, +Light Greave
+Long Boots, Light Greave, Light Greave
+Long Boots, Ring Leggings, Cuisse
+Long Boots, Chain Leggings, Ring Leggings
+Long Boots, Fusskampf, Light Greave
+Long Boots, Poleyn, Fusskampf
+Long Boots, Jambeau, Light Greave
+Long Boots, Missaglia, Ring Leggings
+Long Boots, Plate Leggings, Chain Leggings
+Long Boots, Fluted Leggings, Fusskampf
+Long Boots, Hoplite Leggings, Poleyn
+Long Boots, Jazeraint Leggings, Jambeau
+Long Boots, Dread Leggings, Missaglia
+Cuisse, Cuisse, Cuisse
+Cuisse, Light Greave, +Ring Leggings
+Cuisse, Ring Leggings, Ring Leggings
+Cuisse, Chain Leggings, Cuisse
+Cuisse, Fusskampf, Chain Leggings
+Cuisse, Poleyn, Cuisse
+Cuisse, Jambeau, Poleyn
+Cuisse, Missaglia, Light Greave
+Cuisse, Plate Leggings, Ring Leggings
+Cuisse, Fluted Leggings, Chain Leggings
+Cuisse, Hoplite Leggings, Fusskampf
+Cuisse, Jazeraint Leggings, Poleyn
+Cuisse, Dread Leggings, Jambeau
+Light Greave, Light Greave, Light Greave
+Light Greave, Ring Leggings, +Chain Leggings
+Light Greave, Chain Leggings, +Fusskampf
+Light Greave, Fusskampf, +Poleyn
+Light Greave, Poleyn, Fusskampf
+Light Greave, Jambeau, Chain Leggings
+Light Greave, Missaglia, Poleyn
+Light Greave, Plate Leggings, Light Greave
+Light Greave, Fluted Leggings, Ring Leggings
+Light Greave, Hoplite Leggings, Chain Leggings
+Light Greave, Jazeraint Leggings, Fusskampf
+Light Greave, Dread Leggings, Poleyn
+Ring Leggings, Ring Leggings, Ring Leggings
+Ring Leggings, Chain Leggings, +Fusskampf
+Ring Leggings, Fusskampf, Chain Leggings
+Ring Leggings, Poleyn, Poleyn
+Ring Leggings, Jambeau, Poleyn
+Ring Leggings, Missaglia, Fusskampf
+Ring Leggings, Plate Leggings, -Cuisse
+Ring Leggings, Fluted Leggings, -Light Greave
+Ring Leggings, Hoplite Leggings, Ring Leggings
+Ring Leggings, Jazeraint Leggings, Chain Leggings
+Ring Leggings, Dread Leggings, Fusskampf
+Chain Leggings, Chain Leggings, +Poleyn
+Chain Leggings, Fusskampf, +Poleyn
+Chain Leggings, Poleyn, +Jambeau
+Chain Leggings, Jambeau, +Missaglia
+Chain Leggings, Missaglia, Poleyn
+Chain Leggings, Plate Leggings, Missaglia
+Chain Leggings, Fluted Leggings, Missaglia
+Chain Leggings, Hoplite Leggings, -Light Greave
+Chain Leggings, , Jazeraint Leggings -Ring Leggings
+Chain Leggings, Dread Leggings, Chain Leggings
+Fusskampf, Fusskampf, Fusskampf
+Fusskampf, Poleyn, +Jambeau
+Fusskampf, Jambeau, -Cuisse
+Fusskampf, Missaglia, Jambeau
+Fusskampf, Plate Leggings, Jambeau
+Fusskampf, Fluted Leggings, -Light Greave
+Fusskampf, Hoplite Leggings, Plate Leggings
+Fusskampf, , Jazeraint Leggings -Light Greave
+Fusskampf, Dread Leggings, -Ring Leggings
+Poleyn, Poleyn, Poleyn
+Poleyn, Jambeau, +Missaglia
+Poleyn, Missaglia, +Plate Leggings
+Poleyn, Plate Leggings, Poleyn
+Poleyn, Fluted Leggings, Plate Leggings
+Poleyn, Hoplite Leggings, Jambeau
+Poleyn, Jazeraint Leggings, Plate Leggings
+Poleyn, Dread Leggings, -Light Greave
+Jambeau, Jambeau, Jambeau
+Jambeau, Missaglia, -Fusskampf
+Jambeau, Plate Leggings, Missaglia
+Jambeau, Fluted Leggings, Missaglia
+Jambeau, Hoplite Leggings, -Fusskampf
+Jambeau, Jazeraint Leggings, Fluted Leggings
+Jambeau, Dread Leggings, -Cuisse
+Missaglia, Missaglia, +Plate Leggings
+Missaglia, Plate Leggings, +Fluted Leggings
+Missaglia, Fluted Leggings, -Jambeau
+Missaglia, Hoplite Leggings, Fluted Leggings
+Missaglia, , Jazeraint Leggings -Ring Leggings
+Missaglia, Dread Leggings, Plate Leggings
+Plate Leggings, Plate Leggings, Plate Leggings
+Plate Leggings, Fluted Leggings, +Hoplite Leggings
+Plate Leggings, Hoplite Leggings, -Poleyn
+Plate Leggings, Jazeraint Leggings, Fluted Leggings
+Plate Leggings, Dread Leggings, -Poleyn
+Fluted Leggings, Fluted Leggings, Fluted Leggings
+Fluted Leggings, Hoplite Leggings, -Missaglia
+Fluted Leggings, Dread Leggings, -Plate Leggings
+Hoplite Leggings, Hoplite Leggings, +Jazeraint Leggings
+Hoplite Leggings, Dread Leggings, -Fluted Leggings
+Jazeraint Leggings Dread Leggings, , -Jambeau
+Dread Leggings, Dread Leggings, Dread Leggings

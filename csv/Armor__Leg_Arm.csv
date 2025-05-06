@@ -1,0 +1,256 @@
+first slot, second slot, result, swap
+Sandals, Bandage, Sandals
+Sandals, Leather Glove, Leather Glove
+Sandals, Reinforced Glove, Reinforced Glove
+Sandals, Knuckles, Knuckles
+Sandals, Ring Sleeve, Knuckles
+Sandals, Chain Sleeve, Knuckles
+Sandals, Gauntlet, Knuckles
+Sandals, Vambrace, Ring Sleeve
+Sandals, Plate Glove, Chain Sleeve
+Sandals, Rondanche, Gauntlet
+Sandals, Tilt Glove, Vambrace
+Sandals, Freiturnier, Plate Glove
+Sandals, Fluted Glove, Rondanche
+Sandals, Hoplite Glove, Tilt Glove
+Sandals, Jazeraint Glove, Freiturnier
+Sandals, Dread Glove, Fluted Glove
+Boots, Bandage, Boots
+Boots, Leather Glove, Boots
+Boots, Reinforced Glove, Reinforced Glove
+Boots, Knuckles, Knuckles
+Boots, Ring Sleeve, Knuckles
+Boots, Chain Sleeve, Knuckles
+Boots, Gauntlet, Knuckles
+Boots, Vambrace, Ring Sleeve
+Boots, Plate Glove, Chain Sleeve
+Boots, Rondanche, Gauntlet
+Boots, Tilt Glove, Vambrace
+Boots, Freiturnier, Plate Glove
+Boots, Fluted Glove, Rondanche
+Boots, Hoplite Glove, Tilt Glove
+Boots, Jazeraint Glove, Freiturnier
+Boots, Dread Glove, Fluted Glove
+Long Boots, Bandage, Long Boots
+Long Boots, Leather Glove, Long Boots
+Long Boots, Reinforced Glove, Long Boots
+Long Boots, Knuckles, Knuckles
+Long Boots, Ring Sleeve, Knuckles
+Long Boots, Chain Sleeve, Knuckles
+Long Boots, Gauntlet, Knuckles
+Long Boots, Vambrace, Ring Sleeve
+Long Boots, Plate Glove, Chain Sleeve
+Long Boots, Rondanche, Gauntlet
+Long Boots, Tilt Glove, Vambrace
+Long Boots, Freiturnier, Plate Glove
+Long Boots, Fluted Glove, Rondanche
+Long Boots, Hoplite Glove, Tilt Glove
+Long Boots, Jazeraint Glove, Freiturnier
+Long Boots, Dread Glove, Fluted Glove
+Cuisse, Bandage, Cuisse
+Cuisse, Leather Glove, Cuisse
+Cuisse, Reinforced Glove, Cuisse
+Cuisse, Knuckles, Bone Helm
+Cuisse, Ring Sleeve, Knuckles
+Cuisse, Chain Sleeve, Knuckles
+Cuisse, Gauntlet, Knuckles
+Cuisse, Vambrace, Ring Sleeve
+Cuisse, Plate Glove, Chain Sleeve
+Cuisse, Rondanche, Gauntlet
+Cuisse, Tilt Glove, Vambrace
+Cuisse, Freiturnier, Plate Glove
+Cuisse, Fluted Glove, Rondanche
+Cuisse, Hoplite Glove, Tilt Glove
+Cuisse, Jazeraint Glove, Freiturnier
+Cuisse, Dread Glove, Fluted Glove
+Light Greave, Bandage, Cuisse
+Light Greave, Leather Glove, Cuisse
+Light Greave, Reinforced Glove, Cuisse
+Light Greave, Knuckles, Cuisse
+Light Greave, Ring Sleeve, Chain Coif
+Light Greave, Chain Sleeve, Ring Sleeve
+Light Greave, Gauntlet, Ring Sleeve
+Light Greave, Vambrace, Ring Sleeve
+Light Greave, Plate Glove, Ring Sleeve
+Light Greave, Rondanche, Chain Sleeve
+Light Greave, Tilt Glove, Gauntlet
+Light Greave, Freiturnier, Vambrace
+Light Greave, Fluted Glove, Plate Glove
+Light Greave, Hoplite Glove, Rondanche
+Light Greave, Jazeraint Glove, Tilt Glove
+Light Greave, Dread Glove, Freiturnier
+Ring Leggings, Bandage, Cuisse
+Ring Leggings, Leather Glove, Cuisse
+Ring Leggings, Reinforced Glove, Cuisse
+Ring Leggings, Knuckles, Cuisse
+Ring Leggings, Ring Sleeve, Light Greave
+Ring Leggings, Chain Sleeve, Spangenhelm
+Ring Leggings, Gauntlet, Chain Sleeve
+Ring Leggings, Vambrace, Chain Sleeve
+Ring Leggings, Plate Glove, Chain Sleeve
+Ring Leggings, Rondanche, Chain Sleeve
+Ring Leggings, Tilt Glove, Chain Sleeve
+Ring Leggings, Freiturnier, Gauntlet
+Ring Leggings, Fluted Glove, Vambrace
+Ring Leggings, Hoplite Glove, Plate Glove
+Ring Leggings, Jazeraint Glove, Rondanche
+Ring Leggings, Dread Glove, Tilt Glove
+Chain Leggings, Bandage, Cuisse
+Chain Leggings, Leather Glove, Cuisse
+Chain Leggings, Reinforced Glove, Cuisse
+Chain Leggings, Knuckles, Cuisse
+Chain Leggings, Ring Sleeve, Light Greave
+Chain Leggings, Chain Sleeve, Ring Leggings
+Chain Leggings, Gauntlet, Cabasset
+Chain Leggings, Vambrace, Gauntlet
+Chain Leggings, Plate Glove, Gauntlet
+Chain Leggings, Rondanche, Gauntlet
+Chain Leggings, Tilt Glove, Gauntlet
+Chain Leggings, Freiturnier, Gauntlet
+Chain Leggings, Fluted Glove, Gauntlet
+Chain Leggings, Hoplite Glove, Vambrace
+Chain Leggings, Jazeraint Glove, Plate Glove
+Chain Leggings, Dread Glove, Rondanche
+Fusskampf, Bandage, Light Greave
+Fusskampf, Leather Glove, Light Greave
+Fusskampf, Reinforced Glove, Light Greave
+Fusskampf, Knuckles, Light Greave
+Fusskampf, Ring Sleeve, Light Greave
+Fusskampf, Chain Sleeve, Ring Leggings
+Fusskampf, Gauntlet, Chain Leggings
+Fusskampf, Vambrace, Sallet
+Fusskampf, Plate Glove, Vambrace
+Fusskampf, Rondanche, Vambrace
+Fusskampf, Tilt Glove, Vambrace
+Fusskampf, Freiturnier, Vambrace
+Fusskampf, Fluted Glove, Vambrace
+Fusskampf, Hoplite Glove, Vambrace
+Fusskampf, Jazeraint Glove, Vambrace
+Fusskampf, Dread Glove, Plate Glove
+Poleyn, Bandage, Ring Leggings
+Poleyn, Leather Glove, Ring Leggings
+Poleyn, Reinforced Glove, Ring Leggings
+Poleyn, Knuckles, Ring Leggings
+Poleyn, Ring Sleeve, Light Greave
+Poleyn, Chain Sleeve, Ring Leggings
+Poleyn, Gauntlet, Chain Leggings
+Poleyn, Vambrace, Fusskampf
+Poleyn, Plate Glove, Barbut
+Poleyn, Rondanche, Plate Glove
+Poleyn, Tilt Glove, Plate Glove
+Poleyn, Freiturnier, Plate Glove
+Poleyn, Fluted Glove, Plate Glove
+Poleyn, Hoplite Glove, Plate Glove
+Poleyn, Jazeraint Glove, Plate Glove
+Poleyn, Dread Glove, Plate Glove
+Jambeau, Bandage, Chain Leggings
+Jambeau, Leather Glove, Chain Leggings
+Jambeau, Reinforced Glove, Chain Leggings
+Jambeau, Knuckles, Chain Leggings
+Jambeau, Ring Sleeve, Ring Leggings
+Jambeau, Chain Sleeve, Ring Leggings
+Jambeau, Gauntlet, Chain Leggings
+Jambeau, Vambrace, Fusskampf
+Jambeau, Plate Glove, Poleyn
+Jambeau, Rondanche, Basinet
+Jambeau, Tilt Glove, Rondanche
+Jambeau, Freiturnier, Rondanche
+Jambeau, Fluted Glove, Rondanche
+Jambeau, Hoplite Glove, Rondanche
+Jambeau, Jazeraint Glove, Rondanche
+Jambeau, Dread Glove, Rondanche
+Missaglia, Bandage, Fusskampf
+Missaglia, Leather Glove, Fusskampf
+Missaglia, Reinforced Glove, Fusskampf
+Missaglia, Knuckles, Fusskampf
+Missaglia, Ring Sleeve, Chain Leggings
+Missaglia, Chain Sleeve, Ring Leggings
+Missaglia, Gauntlet, Chain Leggings
+Missaglia, Vambrace, Fusskampf
+Missaglia, Plate Glove, Poleyn
+Missaglia, Rondanche, Jambeau
+Missaglia, Tilt Glove, Armet
+Missaglia, Freiturnier, Tilt Glove
+Missaglia, Fluted Glove, Tilt Glove
+Missaglia, Hoplite Glove, Tilt Glove
+Missaglia, Jazeraint Glove, Tilt Glove
+Missaglia, Dread Glove, Tilt Glove
+Plate Leggings, Bandage, Poleyn
+Plate Leggings, Leather Glove, Poleyn
+Plate Leggings, Reinforced Glove, Poleyn
+Plate Leggings, Knuckles, Poleyn
+Plate Leggings, Ring Sleeve, Fusskampf
+Plate Leggings, Chain Sleeve, Ring Leggings, Chain Leggings
+Plate Leggings, Gauntlet, Chain Leggings
+Plate Leggings, Vambrace, Fusskampf
+Plate Leggings, Plate Glove, Poleyn
+Plate Leggings, Rondanche, Jambeau
+Plate Leggings, Tilt Glove, Missaglia
+Plate Leggings, Freiturnier, Close Helm
+Plate Leggings, Fluted Glove, Freiturnier
+Plate Leggings, Hoplite Glove, Freiturnier
+Plate Leggings, Jazeraint Glove, Freiturnier
+Plate Leggings, Dread Glove, Freiturnier
+Fluted Leggings, Bandage, Jambeau
+Fluted Leggings, Leather Glove, Jambeau
+Fluted Leggings, Reinforced Glove, Jambeau
+Fluted Leggings, Knuckles, Jambeau
+Fluted Leggings, Ring Sleeve, Poleyn
+Fluted Leggings, Chain Sleeve, Fusskampf
+Fluted Leggings, Gauntlet, Chain Leggings
+Fluted Leggings, Vambrace, Fusskampf
+Fluted Leggings, Plate Glove, Poleyn
+Fluted Leggings, Rondanche, Jambeau
+Fluted Leggings, Tilt Glove, Missaglia
+Fluted Leggings, Freiturnier, Plate Leggings
+Fluted Leggings, Fluted Glove, Burgonet
+Fluted Leggings, Hoplite Glove, Fluted Glove
+Fluted Leggings, Jazeraint Glove, Fluted Glove
+Fluted Leggings, Dread Glove, Fluted Glove
+Hoplite Leggings, Bandage, Missaglia
+Hoplite Leggings, Leather Glove, Missaglia
+Hoplite Leggings, Reinforced Glove, Missaglia
+Hoplite Leggings, Knuckles, Missaglia
+Hoplite Leggings, Ring Sleeve, Jambeau
+Hoplite Leggings, Chain Sleeve, Poleyn
+Hoplite Leggings, Gauntlet, Fusskampf
+Hoplite Leggings, Vambrace, Fusskampf
+Hoplite Leggings, Plate Glove, Poleyn
+Hoplite Leggings, Rondanche, Jambeau
+Hoplite Leggings, Tilt Glove, Missaglia
+Hoplite Leggings, Freiturnier, Plate Leggings
+Hoplite Leggings, Fluted Glove, Fluted Leggings
+Hoplite Leggings, Hoplite Glove, Hoplite Helm
+Hoplite Leggings, Jazeraint Glove, Hoplite Glove
+Hoplite Leggings, Dread Glove, Hoplite Glove
+Jazeraint Leggings Bandage, , Plate Leggings
+Jazeraint Leggings Leather Glove, , Plate Leggings
+Jazeraint Leggings Knuckles, , Plate Leggings
+Jazeraint Leggings Ring Sleeve, , Missaglia
+Jazeraint Leggings Chain Sleeve, , Jambeau
+Jazeraint Leggings Gauntlet, , Poleyn
+Jazeraint Leggings Vambrace, , Fusskampf
+Jazeraint Leggings Plate Glove, , Poleyn
+Jazeraint Leggings Rondanche, , Jambeau
+Jazeraint Leggings Tilt Glove, , Missaglia
+Jazeraint Leggings Freiturnier, , Plate Leggings
+Jazeraint Leggings Fluted Glove, , Fluted Leggings
+Jazeraint Leggings Hoplite Glove, , Hoplite Leggings
+Jazeraint Leggings Jazeraint Glove, , Jazeraint Helm
+Jazeraint Leggings Dread Glove, , Jazeraint Glove
+Dread Leggings, Bandage, Fluted Leggings
+Dread Leggings, Leather Glove, Fluted Leggings
+Dread Leggings, Reinforced Glove, Fluted Leggings
+Dread Leggings, Knuckles, Fluted Leggings
+Dread Leggings, Ring Sleeve, Plate Leggings
+Dread Leggings, Chain Sleeve, Missaglia
+Dread Leggings, Gauntlet, Jambeau
+Dread Leggings, Vambrace, Poleyn
+Dread Leggings, Plate Glove, Poleyn
+Dread Leggings, Rondanche, Jambeau
+Dread Leggings, Tilt Glove, Missaglia
+Dread Leggings, Freiturnier, Plate Leggings
+Dread Leggings, Fluted Glove, Fluted Leggings
+Dread Leggings, Hoplite Glove, Hoplite Leggings
+Dread Leggings, Jazeraint Glove, Jazeraint Leggings
+Dread Leggings, Dread Glove, Dread Helm

@@ -1,0 +1,79 @@
+first slot, second slot, result, swap
+Spear, Spear, Spear
+Spear, Glaive, Spear
+Spear, Scorpion, Scorpion
+Spear, Corcesca, Spear
+Spear, Trident, Glaive
+Spear, Awl Pike, Scorpion
+Spear, Boar Spear, Corcesca
+Spear, Fauchard, Trident
+Spear, Voulge, Awl Pike
+Spear, Pole Axe, Boar Spear
+Spear, Bardysh, Fauchard
+Spear, Brandestoc, Voulge
+Glaive, Glaive, Glaive
+Glaive, Scorpion, +Corcesca
+Glaive, Corcesca, -Spear
+Glaive, Trident, Scorpion
+Glaive, Awl Pike, Glaive
+Glaive, Boar Spear, Scorpion
+Glaive, Fauchard, Corcesca
+Glaive, Voulge, Trident
+Glaive, Pole Axe, Awl Pike
+Glaive, Bardysh, Boar Spear
+Glaive, Brandestoc, Fauchard
+Scorpion, Scorpion, Scorpion
+Scorpion, Corcesca, +Trident
+Scorpion, Trident, Corcesca
+Scorpion, Awl Pike, +Boar Spear
+Scorpion, Boar Spear, -Glaive
+Scorpion, Fauchard, Scorpion
+Scorpion, Voulge, Corcesca
+Scorpion, Pole Axe, Trident
+Scorpion, Bardysh, Awl Pike
+Scorpion, Brandestoc, Boar Spear
+Corcesca, Corcesca, Corcesca
+Corcesca, Trident, +Awl Pike
+Corcesca, Awl Pike, Corcesca
+Corcesca, Boar Spear, Trident
+Corcesca, Fauchard, -Glaive
+Corcesca, Voulge, -Scorpion
+Corcesca, Pole Axe, Corcesca
+Corcesca, Bardysh, Trident
+Corcesca, Brandestoc, Awl Pike
+Trident, Trident, Trident
+Trident, Awl Pike, +Boar Spear
+Trident, Boar Spear, +Fauchard
+Trident, Fauchard, Awl Pike
+Trident, Voulge, -Glaive
+Trident, Pole Axe, -Scorpion
+Trident, Bardysh, -Corcesca
+Trident, Brandestoc, Trident
+Awl Pike, Awl Pike, Awl Pike
+Awl Pike, Boar Spear, -Trident
+Awl Pike, Fauchard, Fauchard
+Awl Pike, Voulge, Boar Spear
+Awl Pike, Pole Axe, -Glaive
+Awl Pike, Bardysh, -Scorpion
+Awl Pike, Brandestoc, -Corcesca
+Boar Spear, Boar Spear, Boar Spear
+Boar Spear, Fauchard, +Voulge
+Boar Spear, Voulge, -Awl Pike
+Boar Spear, Pole Axe, Voulge
+Boar Spear, Bardysh, -Glaive
+Boar Spear, Brandestoc, -Scorpion
+Fauchard, Fauchard, Fauchard
+Fauchard, Voulge, +Pole Axe
+Fauchard, Pole Axe, -Spear
+Fauchard, Bardysh, Voulge
+Fauchard, Brandestoc, -Glaive
+Voulge, Voulge, Voulge
+Voulge, Pole Axe, Voulge
+Voulge, Bardysh, -Fauchard
+Voulge, Brandestoc, Pole Axe
+Pole Axe, Pole Axe, +Bardysh
+Pole Axe, Bardysh, -Spear
+Pole Axe, Brandestoc, -Boar Spear
+Bardysh, Bardysh, +Brandestoc
+Bardysh, Brandestoc, -Fauchard
+Brandestoc, Brandestoc, Brandestoc

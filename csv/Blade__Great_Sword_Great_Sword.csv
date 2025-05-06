@@ -1,0 +1,56 @@
+first slot, second slot, result, swap
+Broad Sword, Broad Sword, Broad Sword
+Broad Sword, Norse Sword, Broad Sword
+Broad Sword, Katana, +Executioner
+Broad Sword, Executioner, Broad Sword
+Broad Sword, Claymore, Norse Sword
+Broad Sword, Schiavona, Katana
+Broad Sword, Bastard Sword, Executioner
+Broad Sword, Nodachi, Claymore
+Broad Sword, Rune Blade, Schiavona
+Broad Sword, Holy Win, Broad Sword
+Norse Sword, Norse Sword, Norse Sword
+Norse Sword, Katana, -Broad Sword
+Norse Sword, Executioner, -Broad Sword
+Norse Sword, Claymore, Katana
+Norse Sword, Schiavona, Norse Sword
+Norse Sword, Bastard Sword, Katana
+Norse Sword, Nodachi, Executioner
+Norse Sword, Rune Blade, Claymore
+Norse Sword, Holy Win, Norse Sword
+Katana, Katana, Katana
+Katana, Executioner, +Claymore
+Katana, Claymore, -Broad Sword
+Katana, Schiavona, Executioner
+Katana, Bastard Sword, -Norse Sword
+Katana, Nodachi, Katana
+Katana, Rune Blade, Executioner
+Katana, Holy Win, Katana
+Executioner, Executioner, Executioner
+Executioner, Claymore, +Schiavona
+Executioner, Schiavona, -Broad Sword
+Executioner, Bastard Sword, -Katana
+Executioner, Nodachi, -Norse Sword
+Executioner, Rune Blade, -Katana
+Executioner, Holy Win, Executioner
+Claymore, Claymore, Claymore
+Claymore, Schiavona, +Bastard Sword
+Claymore, Bastard Sword, Claymore
+Claymore, Nodachi, Schiavona
+Claymore, Rune Blade, -Norse Sword
+Claymore, Holy Win, Claymore
+Schiavona, Schiavona, Schiavona
+Schiavona, Bastard Sword, -Broad Sword
+Schiavona, Nodachi, Bastard Sword
+Schiavona, Rune Blade, Schiavona
+Schiavona, Holy Win, Schiavona
+Bastard Sword, Bastard Sword, +Nodachi
+Bastard Sword, Nodachi, -Broad Sword
+Bastard Sword, Rune Blade, -Broad Sword
+Bastard Sword, Holy Win, Bastard Sword
+Nodachi, Nodachi, +Rune Blade
+Nodachi, Rune Blade, -Bastard Sword
+Nodachi, Holy Win, Nodachi
+Rune Blade, Rune Blade, Rune Blade
+Rune Blade, Holy Win, Rune Blade
+Holy Win, Holy Win, Holy Win

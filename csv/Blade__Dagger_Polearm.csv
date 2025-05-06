@@ -1,0 +1,145 @@
+first slot, second slot, result, swap
+Battle Knife, Spear, Spear
+Battle Knife, Glaive, Spear
+Battle Knife, Scorpion, Spear
+Battle Knife, Corcesca, Spear
+Battle Knife, Trident, Glaive
+Battle Knife, Awl Pike, Scorpion
+Battle Knife, Boar Spear, Corcesca
+Battle Knife, Fauchard, Trident
+Battle Knife, Voulge, Awl Pike
+Battle Knife, Pole Axe, Boar Spear
+Battle Knife, Bardysh, Fauchard
+Battle Knife, Brandestoc, Voulge
+Scramasax, Spear, Battle Knife
+Scramasax, Glaive, Glaive
+Scramasax, Scorpion, Glaive
+Scramasax, Corcesca, Glaive
+Scramasax, Trident, Glaive
+Scramasax, Awl Pike, Glaive
+Scramasax, Boar Spear, Scorpion
+Scramasax, Fauchard, Corcesca
+Scramasax, Voulge, Trident
+Scramasax, Pole Axe, Awl Pike
+Scramasax, Bardysh, Boar Spear
+Scramasax, Brandestoc, Fauchard
+Dirk, Spear, Battle Knife
+Dirk, Glaive, Scorpion
+Dirk, Scorpion, Scorpion
+Dirk, Corcesca, Scorpion
+Dirk, Trident, Scorpion
+Dirk, Awl Pike, Scorpion
+Dirk, Boar Spear, Scorpion
+Dirk, Fauchard, Scorpion
+Dirk, Voulge, Corcesca
+Dirk, Pole Axe, Trident
+Dirk, Bardysh, Awl Pike
+Dirk, Brandestoc, Boar Spear
+Throwing Knife, Spear, Battle Knife
+Throwing Knife, Glaive, Scramasax
+Throwing Knife, Scorpion, Scimitar
+Throwing Knife, Corcesca, Corcesca
+Throwing Knife, Trident, Broad Sword
+Throwing Knife, Awl Pike, Corcesca
+Throwing Knife, Boar Spear, Corcesca
+Throwing Knife, Fauchard, Corcesca
+Throwing Knife, Voulge, Corcesca
+Throwing Knife, Pole Axe, Corcesca
+Throwing Knife, Bardysh, Trident
+Throwing Knife, Brandestoc, Awl Pike
+Kudi, Spear, Scramasax
+Kudi, Glaive, Scramasax
+Kudi, Scorpion, Dirk
+Kudi, Corcesca, Rapier
+Kudi, Trident, Trident
+Kudi, Awl Pike, Norse Sword
+Kudi, Boar Spear, Trident
+Kudi, Fauchard, Trident
+Kudi, Voulge, Trident
+Kudi, Pole Axe, Trident
+Kudi, Bardysh, Trident
+Kudi, Brandestoc, Trident
+Cinquedea, Spear, Dirk
+Cinquedea, Glaive, Scramasax
+Cinquedea, Scorpion, Dirk
+Cinquedea, Corcesca, Throwing Knife
+Cinquedea, Trident, Short Sword
+Cinquedea, Awl Pike, Gastraph Bow
+Cinquedea, Boar Spear, Katana
+Cinquedea, Fauchard, Awl Pike
+Cinquedea, Voulge, Awl Pike
+Cinquedea, Pole Axe, Awl Pike
+Cinquedea, Bardysh, Awl Pike
+Cinquedea, Brandestoc, Awl Pike
+Kris, Spear, Throwing Knife
+Kris, Glaive, Dirk
+Kris, Scorpion, Dirk
+Kris, Corcesca, Throwing Knife
+Kris, Trident, Kudi
+Kris, Awl Pike, Firangi
+Kris, Boar Spear, Light Crossbow
+Kris, Fauchard, Executioner
+Kris, Voulge, Boar Spear
+Kris, Pole Axe, Boar Spear
+Kris, Bardysh, Boar Spear
+Kris, Brandestoc, Boar Spear
+Hatchet, Spear, Kudi
+Hatchet, Glaive, Throwing Knife
+Hatchet, Scorpion, Dirk
+Hatchet, Corcesca, Throwing Knife
+Hatchet, Trident, Kudi
+Hatchet, Awl Pike, Cinquedea
+Hatchet, Boar Spear, Shamshir
+Hatchet, Fauchard, Target Bow
+Hatchet, Voulge, Claymore
+Hatchet, Pole Axe, Fauchard
+Hatchet, Bardysh, Fauchard
+Hatchet, Brandestoc, Fauchard
+Khukuri, Spear, Cinquedea
+Khukuri, Glaive, Kudi
+Khukuri, Scorpion, Throwing Knife
+Khukuri, Corcesca, Throwing Knife
+Khukuri, Trident, Kudi
+Khukuri, Awl Pike, Cinquedea
+Khukuri, Boar Spear, Kris
+Khukuri, Fauchard, Falchion
+Khukuri, Voulge, Windlass
+Khukuri, Pole Axe, Schiavona
+Khukuri, Bardysh, Voulge
+Khukuri, Brandestoc, Voulge
+Baselard, Spear, Kris
+Baselard, Glaive, Cinquedea
+Baselard, Scorpion, Kudi
+Baselard, Corcesca, Throwing Knife
+Baselard, Trident, Kudi
+Baselard, Awl Pike, Cinquedea
+Baselard, Boar Spear, Kris
+Baselard, Fauchard, Hatchet
+Baselard, Voulge, Shotel
+Baselard, Pole Axe, Cranequin
+Baselard, Bardysh, Bastard Sword
+Baselard, Brandestoc, Pole Axe
+Stiletto, Spear, Hatchet
+Stiletto, Glaive, Kris
+Stiletto, Scorpion, Cinquedea
+Stiletto, Corcesca, Kudi
+Stiletto, Trident, Kudi
+Stiletto, Awl Pike, Cinquedea
+Stiletto, Boar Spear, Kris
+Stiletto, Fauchard, Hatchet
+Stiletto, Voulge, Khukuri
+Stiletto, Pole Axe, Khora
+Stiletto, Bardysh, Lug Crossbow
+Stiletto, Brandestoc, Nodachi
+Jamadhar, Spear, Khukuri
+Jamadhar, Glaive, Hatchet
+Jamadhar, Scorpion, Kris
+Jamadhar, Corcesca, Cinquedea
+Jamadhar, Trident, Kudi
+Jamadhar, Awl Pike, Cinquedea
+Jamadhar, Boar Spear, Kris
+Jamadhar, Fauchard, Hatchet
+Jamadhar, Voulge, Khukuri
+Jamadhar, Pole Axe, Baselard
+Jamadhar, Bardysh, Khopesh
+Jamadhar, Brandestoc, Siege Bow

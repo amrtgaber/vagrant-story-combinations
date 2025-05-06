@@ -1,0 +1,25 @@
+first slot, second slot, result, swap
+Langdebeve, Langdebeve, Langdebeve
+Langdebeve, Sabre Mace, Langdebeve
+Langdebeve, Gloomwing, Sabre Mace
+Langdebeve, Mjolnir, Sabre Mace
+Langdebeve, Destroyer, Gloomwing
+Langdebeve, Hand of Light, Langdebeve
+Sabre Mace, Sabre Mace, Sabre Mace
+Sabre Mace, Gloomwing, -Langdebeve
+Sabre Mace, Griever, Sabre Mace
+Sabre Mace, Hand of Light, Sabre Mace
+Gloomwing, Gloomwing, Gloomwing
+Gloomwing, Mjolnir, -Langdebeve
+Gloomwing, Griever, Gloomwing
+Gloomwing, Destroyer, Gloomwing
+Gloomwing, Hand of Light, Gloomwing
+Mjolnir, Mjolnir, +Griever
+Mjolnir, Griever, -Langdebeve
+Mjolnir, Destroyer, Mjolnir
+Mjolnir, Hand of Light, Mjolnir
+Griever, Griever, +Destroyer
+Griever, Hand of Light, Griever
+Destroyer, Destroyer, Destroyer
+Destroyer, Hand of Light, Destroyer
+Hand of Light, Hand of Light, Hand of Light

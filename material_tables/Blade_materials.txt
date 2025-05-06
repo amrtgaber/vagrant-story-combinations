@@ -1,0 +1,57 @@
+              First Slot
+              Dagger              Sword               Great Sword         AxeMace            Great Axe           Staff               Heavy Mace          Polearm             Crossbow            
+                B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Dagger      B   B  +H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            I   +H   I   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            H   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H  S   D   B   I   H   S   D   B   I   H +D   D   B   I   H   S   D 
+            S   H   H   H   S   S   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            D   H   H   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Sword       B   B   B   B   B   B   B  +H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   B   B   B   B   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            I   I   I   I   I   I  +H   I   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   I   I   I   I   I   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            H   H   H   H   H   H   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            S   S   S   S   S   S   H   H   H   S   S   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   S   S   S   S   S   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            D   D   D   D   D   D   H   H   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   D   D   D   D   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Great Sword B   B   B   B   B   B   B   B   B   B   B   B  +H   H   H   H   B   B   B   B   B   B   I   H   S   D   B   B   B   B   B   B   I   H   S   D   B   I   H   S   D   B   B   B   B   B 
+            I   I   I   I   I   I   I   I   I   I   I  +H   I   H   H   H   I   I   I   I   I   B   I   H   S   D   I   I   I   I   I   B   I   H   S   D   B   I   H   S   D   I   I   I   I   I 
+            H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   B   I   H   S   D   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   H   H   H   H   H 
+            S   S   S   S   S   S   S   S   S   S   S   H   H   H   S   S   S   S   S   S   S   B   I   H   S   D   S   S   S   S   S   B   I   H   S   D   B  S   H   S   D   S   S +D   S   S 
+            D   D   D   D   D   D   D   D   D   D   D   H   H   H   S   D   D   D   D   D   D   B   I   H   S   D   D   D   D   D   D   B   I   H   S   D   B   I   H   S   D   D   D   D   D   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+AxeMace     B   B   B   B   B   B   B   B   B   B   B   B   I   H   S   D   B  +H   H   H   H   B   I   H   S   D   B   B   B   B   B   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            I   I   I   I   I   I   I   I   I   I   I   B   I   H   S   D  +H   I   H   H   H   B   I   H   S   D   I   I   I   I   I   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            H   H   H   H   H   H   H   H   H   H   H   B   I   H   S   D   H   H   H   H   H   B   I   H   S   D   H   H   H   H   H   B   I   H   S   D   B   I   H  S   D   B   I   H   S   D 
+            S   S   S   S   S   S   S   S   S   S   S   B   I   H   S   D   H   H   H   S   S   B   I   H   S   D   S   S  S   S   S   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            D   D   D   D   D   D   D   D   D   D   D   B   I   H   S   D   H   H   H   S   D   B   I   H   S   D   D   D   D   D   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Great Axe   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B  +H   H   H   H   B   B   B   B   B   B   I   H   S   D   B   I   H   S   D   B   B   B   B   B 
+            I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I  +H   I   H   H   H   I   I   I   I   I   B   I   H   S   D   B   I   H   S   D   I   I   I   I   I 
+            H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   H   H   H   H   H 
+            S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   H   H   H   S   S   S +D   S   S   S   B   I   H   S   D   B   I   H   S   D   S   S  S   S   S 
+            D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   H   H   H   S   D   D   D   D   D   D   B   I   H   S   D   B   I   H   S   D   D   D   D   D   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Staff       B   B   B   B   B   B   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B  +H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            I   I   I   I   I   I   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H  S   D  +H   I   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            H   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H +D   D   B   I   H   S   D   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            S   S   S +D   S   S   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   H   H   H   S   S   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+            D   D   D   D   D   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D   H   H   H   S   D   B   I   H   S   D   B   I   H   S   D   B   I   H   S   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Heavy Mace  B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B  +H   H   H   H   B   B   B   B   B   B   B   B   B   B 
+            I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I  +H   I   H   H   H   I   I   I   I   I   I   I   I   I   I 
+            H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H 
+            S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   S   H   H   H   S   S   S   S   S   S   S   S   S   S   S   S 
+            D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   H   H   H   S   D   D   D   D   D   D   D   D   D   D   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Polearm     B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   B   I   H   S   D   B  +H   H   H   H   B   B   B   B   B 
+            I   I   I   I   I   I   I   I   I   I   I   I   I   I +D   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   B   I   H   S   D  +H   I   H   H   H   I   I   I   I   I 
+            H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   H   B   I   H   S   D   H   H   H   H   H   H   H   H   H   H 
+            S   S   S  S   S   S   S   S   S   S   S   S   S   S   S   S   S   S +D   S   S   S   S   S   S   S   S   S   S   S   S   B   I   H   S   D   H   H   H   S   S   S   S   S   S   S 
+            D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   D   B   I   H   S   D   H   H   H   S   D   D   D   D   D   D 
+-------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- -------------------- --------------------
+Crossbow    B   B   B   B   B   B   B   B   B   B   B   B   I   H   S   D   B   B   B   B   B   B   I   H   S   D   B   B   B   B   B   B   I   H   S   D   B   I   H   S   D   B  +H   H   H   H 
+            I   I   I   I   I   I   I   I   I   I   I   B   I   H   S   D   I   I   I   I   I   B   I   H   S   D   I   I   I   I   I   B   I   H   S   D   B   I   H   S   D  +H   I   H   H   H 
+            H   H   H   H   H   H   H   H   H   H   H   B   I   H  S   D   H   H   H   H   H   B   I   H +D   D   H   H   H   H   H   B   I   H   S   D   B   I   H   S   D   H   H   H   H   H 
+            S   S   S   S   S   S   S   S   S   S   S   B   I   H   S   D   S   S   S   S   S   B   I   H   S   D   S   S   S   S   S   B   I   H   S   D   B   I   H   S   D   H   H   H   S   S 
+            D   D   D   D   D   D   D   D   D   D   D   B   I   H   S   D   D   D   D   D   D   B   I   H   S   D   D   D   D   D   D   B   I   H   S   D   B   I   H   S   D   H   H   H   S   D 

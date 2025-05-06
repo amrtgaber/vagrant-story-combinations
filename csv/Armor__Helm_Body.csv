@@ -1,0 +1,257 @@
+first slot, second slot, result, swap
+Bandana, Jerkin, Bandana
+Bandana, Hauberk, Hauberk
+Bandana, Wizard Robe, Wizard Robe
+Bandana, Cuirass, Cuirass
+Bandana, Banded Mail, Banded Mail
+Bandana, Ring Mail, Banded Mail
+Bandana, Chain Mail, Banded Mail
+Bandana, Breastplate, Banded Mail
+Bandana, Segmentata, Ring Mail
+Bandana, Scale Armor, Chain Mail
+Bandana, Brigandine, Breastplate
+Bandana, Plate Mail, Segmentata
+Bandana, Fluted Armor, Scale Armor
+Bandana, Hoplite Armor, Brigandine
+Bandana, Jazeraint Armor, Plate Mail
+Bandana, Dread Armor, Fluted Armor
+Bear Mask, Jerkin, Bear Mask
+Bear Mask, Hauberk, Bear Mask
+Bear Mask, Wizard Robe, Wizard Robe
+Bear Mask, Cuirass, Cuirass
+Bear Mask, Banded Mail, Banded Mail
+Bear Mask, Ring Mail, Banded Mail
+Bear Mask, Chain Mail, Banded Mail
+Bear Mask, Breastplate, Banded Mail
+Bear Mask, Segmentata, Ring Mail
+Bear Mask, Scale Armor, Chain Mail
+Bear Mask, Brigandine, Breastplate
+Bear Mask, Plate Mail, Segmentata
+Bear Mask, Fluted Armor, Scale Armor
+Bear Mask, Hoplite Armor, Brigandine
+Bear Mask, Jazeraint Armor, Plate Mail
+Bear Mask, Dread Armor, Fluted Armor
+Wizard Hat, Jerkin, Wizard Hat
+Wizard Hat, Hauberk, Wizard Hat
+Wizard Hat, Wizard Robe, Wizard Hat
+Wizard Hat, Cuirass, Cuirass
+Wizard Hat, Banded Mail, Banded Mail
+Wizard Hat, Ring Mail, Banded Mail
+Wizard Hat, Chain Mail, Banded Mail
+Wizard Hat, Breastplate, Banded Mail
+Wizard Hat, Segmentata, Ring Mail
+Wizard Hat, Scale Armor, Chain Mail
+Wizard Hat, Brigandine, Breastplate
+Wizard Hat, Plate Mail, Segmentata
+Wizard Hat, Fluted Armor, Scale Armor
+Wizard Hat, Hoplite Armor, Brigandine
+Wizard Hat, Jazeraint Armor, Plate Mail
+Wizard Hat, Dread Armor, Fluted Armor
+Bone Helm, Jerkin, Bone Helm
+Bone Helm, Hauberk, Bone Helm
+Bone Helm, Wizard Robe, Bone Helm
+Bone Helm, Cuirass, Cuisse
+Bone Helm, Banded Mail, Banded Mail
+Bone Helm, Ring Mail, Banded Mail
+Bone Helm, Chain Mail, Banded Mail
+Bone Helm, Breastplate, Banded Mail
+Bone Helm, Segmentata, Ring Mail
+Bone Helm, Scale Armor, Chain Mail
+Bone Helm, Brigandine, Breastplate
+Bone Helm, Plate Mail, Segmentata
+Bone Helm, Fluted Armor, Scale Armor
+Bone Helm, Hoplite Armor, Brigandine
+Bone Helm, Jazeraint Armor, Plate Mail
+Bone Helm, Dread Armor, Fluted Armor
+Chain Coif, Jerkin, Bone Helm
+Chain Coif, Hauberk, Bone Helm
+Chain Coif, Wizard Robe, Bone Helm
+Chain Coif, Cuirass, Bone Helm
+Chain Coif, Banded Mail, Light Greave
+Chain Coif, Ring Mail, Ring Mail
+Chain Coif, Chain Mail, Ring Mail
+Chain Coif, Breastplate, Ring Mail
+Chain Coif, Segmentata, Ring Mail
+Chain Coif, Scale Armor, Ring Mail
+Chain Coif, Brigandine, Chain Mail
+Chain Coif, Plate Mail, Breastplate
+Chain Coif, Fluted Armor, Segmentata
+Chain Coif, Hoplite Armor, Scale Armor
+Chain Coif, Jazeraint Armor, Brigandine
+Chain Coif, Dread Armor, Plate Mail
+Spangenhelm, Jerkin, Bone Helm
+Spangenhelm, Hauberk, Bone Helm
+Spangenhelm, Wizard Robe, Bone Helm
+Spangenhelm, Cuirass, Bone Helm
+Spangenhelm, Banded Mail, Bone Helm
+Spangenhelm, Ring Mail, Ring Leggings
+Spangenhelm, Chain Mail, Chain Mail
+Spangenhelm, Breastplate, Chain Mail
+Spangenhelm, Segmentata, Chain Mail
+Spangenhelm, Scale Armor, Chain Mail
+Spangenhelm, Brigandine, Chain Mail
+Spangenhelm, Plate Mail, Chain Mail
+Spangenhelm, Fluted Armor, Breastplate
+Spangenhelm, Hoplite Armor, Segmentata
+Spangenhelm, Jazeraint Armor, Scale Armor
+Spangenhelm, Dread Armor, Brigandine
+Cabasset, Jerkin, Bone Helm
+Cabasset, Hauberk, Bone Helm
+Cabasset, Wizard Robe, Bone Helm
+Cabasset, Cuirass, Bone Helm
+Cabasset, Banded Mail, Bone Helm
+Cabasset, Ring Mail, Chain Coif
+Cabasset, Chain Mail, Chain Leggings
+Cabasset, Breastplate, Breastplate
+Cabasset, Segmentata, Breastplate
+Cabasset, Scale Armor, Breastplate
+Cabasset, Brigandine, Breastplate
+Cabasset, Plate Mail, Breastplate
+Cabasset, Fluted Armor, Breastplate
+Cabasset, Hoplite Armor, Breastplate
+Cabasset, Jazeraint Armor, Segmentata
+Cabasset, Dread Armor, Scale Armor
+Sallet, Jerkin, Chain Coif
+Sallet, Hauberk, Chain Coif
+Sallet, Wizard Robe, Chain Coif
+Sallet, Cuirass, Chain Coif
+Sallet, Banded Mail, Chain Coif
+Sallet, Ring Mail, Chain Coif
+Sallet, Chain Mail, Spangenhelm
+Sallet, Breastplate, Fusskampf
+Sallet, Segmentata, Segmentata
+Sallet, Scale Armor, Segmentata
+Sallet, Brigandine, Segmentata
+Sallet, Plate Mail, Segmentata
+Sallet, Fluted Armor, Segmentata
+Sallet, Hoplite Armor, Segmentata
+Sallet, Jazeraint Armor, Segmentata
+Sallet, Dread Armor, Segmentata
+Barbut, Jerkin, Spangenhelm
+Barbut, Hauberk, Spangenhelm
+Barbut, Wizard Robe, Spangenhelm
+Barbut, Cuirass, Spangenhelm
+Barbut, Banded Mail, Spangenhelm
+Barbut, Ring Mail, Chain Coif
+Barbut, Chain Mail, Spangenhelm
+Barbut, Breastplate, Cabasset
+Barbut, Segmentata, Poleyn
+Barbut, Scale Armor, Segmentata, Scale Armor
+Barbut, Brigandine, Scale Armor
+Barbut, Plate Mail, Scale Armor
+Barbut, Fluted Armor, Scale Armor
+Barbut, Hoplite Armor, Scale Armor
+Barbut, Jazeraint Armor, Scale Armor
+Barbut, Dread Armor, Scale Armor
+Basinet, Jerkin, Cabasset
+Basinet, Hauberk, Cabasset
+Basinet, Wizard Robe, Cabasset
+Basinet, Cuirass, Cabasset
+Basinet, Banded Mail, Cabasset
+Basinet, Ring Mail, Spangenhelm
+Basinet, Chain Mail, Spangenhelm
+Basinet, Breastplate, Cabasset
+Basinet, Segmentata, Sallet
+Basinet, Scale Armor, Jambeau
+Basinet, Brigandine, Scale Armor, Brigandine
+Basinet, Plate Mail, Brigandine
+Basinet, Fluted Armor, Brigandine
+Basinet, Hoplite Armor, Brigandine
+Basinet, Jazeraint Armor, Brigandine
+Basinet, Dread Armor, Brigandine
+Armet, Jerkin, Sallet
+Armet, Hauberk, Sallet
+Armet, Wizard Robe, Sallet
+Armet, Cuirass, Sallet
+Armet, Banded Mail, Sallet
+Armet, Ring Mail, Cabasset
+Armet, Chain Mail, Spangenhelm
+Armet, Breastplate, Cabasset
+Armet, Segmentata, Sallet
+Armet, Scale Armor, Barbut
+Armet, Brigandine, Missaglia
+Armet, Plate Mail, Brigandine, Plate Mail
+Armet, Fluted Armor, Plate Mail
+Armet, Hoplite Armor, Plate Mail
+Armet, Jazeraint Armor, Plate Mail
+Armet, Dread Armor, Plate Mail
+Close Helm, Jerkin, Barbut
+Close Helm, Hauberk, Barbut
+Close Helm, Wizard Robe, Barbut
+Close Helm, Cuirass, Barbut
+Close Helm, Banded Mail, Barbut
+Close Helm, Ring Mail, Sallet
+Close Helm, Chain Mail, Cabasset
+Close Helm, Breastplate, Cabasset
+Close Helm, Segmentata, Sallet
+Close Helm, Scale Armor, Barbut
+Close Helm, Brigandine, Basinet
+Close Helm, Plate Mail, Plate Leggings
+Close Helm, Fluted Armor, Plate Mail, Fluted Armor
+Close Helm, Hoplite Armor, Fluted Armor
+Close Helm, Jazeraint Armor, Fluted Armor
+Close Helm, Dread Armor, Fluted Armor
+Burgonet, Jerkin, Basinet
+Burgonet, Hauberk, Basinet
+Burgonet, Wizard Robe, Basinet
+Burgonet, Cuirass, Basinet
+Burgonet, Banded Mail, Basinet
+Burgonet, Ring Mail, Barbut
+Burgonet, Chain Mail, Sallet
+Burgonet, Breastplate, Cabasset
+Burgonet, Segmentata, Sallet
+Burgonet, Scale Armor, Barbut
+Burgonet, Brigandine, Basinet
+Burgonet, Plate Mail, Armet
+Burgonet, Fluted Armor, Fluted Leggings
+Burgonet, Hoplite Armor, Fluted Armor, Hoplite Armor
+Burgonet, Jazeraint Armor, Hoplite Armor
+Burgonet, Dread Armor, Hoplite Armor
+Hoplite Helm, Jerkin, Armet
+Hoplite Helm, Hauberk, Armet
+Hoplite Helm, Wizard Robe, Armet
+Hoplite Helm, Cuirass, Armet
+Hoplite Helm, Banded Mail, Armet
+Hoplite Helm, Ring Mail, Basinet
+Hoplite Helm, Chain Mail, Barbut
+Hoplite Helm, Breastplate, Sallet
+Hoplite Helm, Segmentata, Sallet
+Hoplite Helm, Scale Armor, Barbut
+Hoplite Helm, Brigandine, Basinet
+Hoplite Helm, Plate Mail, Armet
+Hoplite Helm, Fluted Armor, Close Helm
+Hoplite Helm, Hoplite Armor, Hoplite Leggings
+Hoplite Helm, Jazeraint Armor, Jazeraint Armor
+Hoplite Helm, Dread Armor, Jazeraint Armor
+Jazeraint Helm, Jerkin, Close Helm
+Jazeraint Helm, Hauberk, Close Helm
+Jazeraint Helm, Wizard Robe, Close Helm
+Jazeraint Helm, Cuirass, Close Helm
+Jazeraint Helm, Banded Mail, Close Helm
+Jazeraint Helm, Ring Mail, Armet
+Jazeraint Helm, Chain Mail, Basinet
+Jazeraint Helm, Breastplate, Barbut
+Jazeraint Helm, Segmentata, Sallet
+Jazeraint Helm, Scale Armor, Barbut
+Jazeraint Helm, Brigandine, Basinet
+Jazeraint Helm, Plate Mail, Armet
+Jazeraint Helm, Fluted Armor, Close Helm
+Jazeraint Helm, Hoplite Armor, Burgonet
+Jazeraint Helm, Jazeraint Armor, Jazeraint Leggings
+Jazeraint Helm, Dread Armor, Dread Armor
+Dread Helm, Jerkin, Burgonet
+Dread Helm, Hauberk, Burgonet
+Dread Helm, Wizard Robe, Burgonet
+Dread Helm, Cuirass, Burgonet
+Dread Helm, Banded Mail, Burgonet
+Dread Helm, Ring Mail, Close Helm
+Dread Helm, Chain Mail, Armet
+Dread Helm, Breastplate, Basinet
+Dread Helm, Segmentata, Barbut
+Dread Helm, Scale Armor, Barbut
+Dread Helm, Brigandine, Basinet
+Dread Helm, Plate Mail, Armet
+Dread Helm, Fluted Armor, Close Helm
+Dread Helm, Hoplite Armor, Burgonet
+Dread Helm, Jazeraint Armor, Hoplite Helm
+Dread Helm, Dread Armor, Dread Leggings

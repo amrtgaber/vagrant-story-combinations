@@ -1,0 +1,137 @@
+first slot, second slot, result, swap
+Bandana, Bandana, Bandana
+Bandana, Bear Mask, Bear Mask
+Bandana, Wizard Hat, Wizard Hat
+Bandana, Bone Helm, Bone Helm
+Bandana, Chain Coif, Bone Helm
+Bandana, Spangenhelm, Bone Helm
+Bandana, Cabasset, Bone Helm
+Bandana, Sallet, Chain Coif
+Bandana, Barbut, Spangenhelm
+Bandana, Basinet, Cabasset
+Bandana, Armet, Sallet
+Bandana, Close Helm, Barbut
+Bandana, Burgonet, Basinet
+Bandana, Hoplite Helm, Armet
+Bandana, Jazeraint Helm, Close Helm
+Bandana, Dread Helm, Burgonet
+Bear Mask, Bear Mask, Bear Mask
+Bear Mask, Wizard Hat, Wizard Hat
+Bear Mask, Bone Helm, Bone Helm
+Bear Mask, Chain Coif, +Spangenhelm
+Bear Mask, Spangenhelm, +Cabasset
+Bear Mask, Cabasset, Bone Helm
+Bear Mask, Sallet, Spangenhelm
+Bear Mask, Barbut, Chain Coif
+Bear Mask, Basinet, Spangenhelm
+Bear Mask, Armet, Cabasset
+Bear Mask, Close Helm, Sallet
+Bear Mask, Burgonet, Barbut
+Bear Mask, Hoplite Helm, Basinet
+Bear Mask, Jazeraint Helm, Armet
+Bear Mask, Dread Helm, Close Helm
+Wizard Hat, Wizard Hat, Wizard Hat
+Wizard Hat, Bone Helm, Bone Helm
+Wizard Hat, Chain Coif, Bone Helm
+Wizard Hat, Spangenhelm, Bone Helm
+Wizard Hat, Cabasset, Spangenhelm
+Wizard Hat, Sallet, Chain Coif
+Wizard Hat, Barbut, Bone Helm
+Wizard Hat, Basinet, Chain Coif
+Wizard Hat, Armet, Spangenhelm
+Wizard Hat, Close Helm, Cabasset
+Wizard Hat, Burgonet, Sallet
+Wizard Hat, Hoplite Helm, Barbut
+Wizard Hat, Jazeraint Helm, Basinet
+Wizard Hat, Dread Helm, Armet
+Bone Helm, Bone Helm, Bone Helm
+Bone Helm, Chain Coif, +Spangenhelm
+Bone Helm, Spangenhelm, Spangenhelm
+Bone Helm, Cabasset, Chain Coif
+Bone Helm, Sallet, Cabasset
+Bone Helm, Barbut, Bone Helm
+Bone Helm, Basinet, Cabasset
+Bone Helm, Armet, Chain Coif
+Bone Helm, Close Helm, Spangenhelm
+Bone Helm, Burgonet, Cabasset
+Bone Helm, Hoplite Helm, Sallet
+Bone Helm, Jazeraint Helm, Barbut
+Bone Helm, Dread Helm, Basinet
+Chain Coif, Chain Coif, Chain Coif
+Chain Coif, Spangenhelm, +Cabasset
+Chain Coif, Cabasset, Cabasset
+Chain Coif, Sallet, -Bone Helm
+Chain Coif, Barbut, Barbut
+Chain Coif, Basinet, -Bone Helm
+Chain Coif, Armet, Cabasset
+Chain Coif, Close Helm, Chain Coif
+Chain Coif, Burgonet, Spangenhelm
+Chain Coif, Hoplite Helm, Cabasset
+Chain Coif, Jazeraint Helm, Sallet
+Chain Coif, Dread Helm, Barbut
+Spangenhelm, Spangenhelm, Spangenhelm
+Spangenhelm, Cabasset, +Sallet
+Spangenhelm, Sallet, Sallet
+Spangenhelm, Barbut, -Bone Helm
+Spangenhelm, Basinet, Sallet
+Spangenhelm, Armet, Barbut
+Spangenhelm, Close Helm, Barbut
+Spangenhelm, Burgonet, -Chain Coif
+Spangenhelm, Hoplite Helm, Spangenhelm
+Spangenhelm, Jazeraint Helm, Cabasset
+Spangenhelm, Dread Helm, Sallet
+Cabasset, Cabasset, Cabasset
+Cabasset, Sallet, Sallet
+Cabasset, Barbut, Barbut
+Cabasset, Basinet, Basinet
+Cabasset, Armet, Barbut
+Cabasset, Close Helm, Sallet
+Cabasset, Burgonet, Barbut
+Cabasset, Hoplite Helm, -Chain Coif
+Cabasset, Jazeraint Helm, -Spangenhelm
+Cabasset, Dread Helm, Cabasset
+Sallet, Sallet, Sallet
+Sallet, Barbut, +Basinet
+Sallet, Basinet, Barbut
+Sallet, Armet, Basinet
+Sallet, Close Helm, Barbut
+Sallet, Burgonet, -Bone Helm
+Sallet, Hoplite Helm, Basinet
+Sallet, Jazeraint Helm, -Chain Coif
+Sallet, Dread Helm, -Spangenhelm
+Barbut, Barbut, Barbut
+Barbut, Basinet, +Armet
+Barbut, Armet, -Bone Helm
+Barbut, Close Helm, Armet
+Barbut, Burgonet, Armet
+Barbut, Hoplite Helm, -Bone Helm
+Barbut, Jazeraint Helm, -Sallet
+Barbut, Dread Helm, -Chain Coif
+Basinet, Basinet, Basinet
+Basinet, Armet, +Close Helm
+Basinet, Close Helm, +Burgonet
+Basinet, Burgonet, Basinet
+Basinet, Hoplite Helm, Close Helm
+Basinet, Jazeraint Helm, Basinet
+Basinet, Dread Helm, -Barbut
+Armet, Armet, Armet
+Armet, Close Helm, Close Helm
+Armet, Burgonet, Close Helm
+Armet, Hoplite Helm, -Sallet
+Armet, Jazeraint Helm, Armet
+Armet, Dread Helm, -Bone Helm
+Close Helm, Close Helm, Close Helm
+Close Helm, Burgonet, +Hoplite Helm
+Close Helm, Hoplite Helm, Burgonet
+Close Helm, Jazeraint Helm, -Basinet
+Close Helm, Dread Helm, Close Helm
+Burgonet, Burgonet, Burgonet
+Burgonet, Hoplite Helm, -Close Helm
+Burgonet, Jazeraint Helm, -Armet
+Burgonet, Dread Helm, -Bone Helm
+Hoplite Helm, Hoplite Helm, +Jazeraint Helm
+Hoplite Helm, Jazeraint Helm, Hoplite Helm
+Hoplite Helm, Dread Helm, -Burgonet
+Jazeraint Helm, Jazeraint Helm, +Dread Helm
+Jazeraint Helm, Dread Helm, -Hoplite Helm
+Dread Helm, Dread Helm, Dread Helm

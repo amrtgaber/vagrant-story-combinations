@@ -1,0 +1,49 @@
+first slot, second slot, result, swap
+Hand Axe, Goblin Club, Goblin Club
+Hand Axe, Spiked Club, Goblin Club
+Hand Axe, Ball Mace, Spiked Club
+Hand Axe, War Hammer, Morning Star
+Hand Axe, Bec de Corbin, War Hammer
+Hand Axe, War Maul, Bec de Corbin
+Battle Axe, Goblin Club, Hand Axe
+Battle Axe, Spiked Club, Spiked Club
+Battle Axe, Ball Mace, Langdebeve
+Battle Axe, Morning Star, Ball Mace
+Battle Axe, Bec de Corbin, Morning Star
+Battle Axe, War Maul, War Hammer
+Francisca, Goblin Club, Hand Axe
+Francisca, Spiked Club, Battle Axe
+Francisca, Ball Mace, Guisarme
+Francisca, Morning Star, Ball Mace
+Francisca, War Hammer, Ball Mace
+Francisca, War Maul, Morning Star
+Tabarzin, Goblin Club, Battle Axe
+Tabarzin, Spiked Club, Battle Axe
+Tabarzin, Ball Mace, Wizard Staff
+Chamkaq, Goblin Club, Francisca
+Chamkaq, Spiked Club, Battle Axe
+Chamkaq, Ball Mace, Francisca
+Chamkaq, Morning Star, Sabre Halberd
+Chamkaq, War Hammer, Gloomwing
+Chamkaq, Bec de Corbin, Morning Star
+Chamkaq, War Maul, Morning Star
+Tabar, Goblin Club, Tabarzin
+Tabar, Spiked Club, Francisca
+Tabar, Ball Mace, Francisca
+Tabar, Morning Star, Summoner Baton
+Tabar, War Hammer, Balbriggan
+Tabar, Bec de Corbin, Mjolnir
+Tabar, War Maul, War Hammer
+Bullova, Goblin Club, Chamkaq
+Bullova, Spiked Club, Tabarzin
+Bullova, Ball Mace, Francisca
+Bullova, Morning Star, Chamkaq
+Bullova, War Hammer, Shamanic Staff
+Bullova, Bec de Corbin, Double Blade
+Bullova, War Maul, Griever
+Crescent, Goblin Club, Tabar
+Crescent, Spiked Club, Chamkaq
+Crescent, Ball Mace, Tabarzin
+Crescent, Morning Star, Chamkaq
+Crescent, War Hammer, Tabar
+Crescent, War Maul, Halberd

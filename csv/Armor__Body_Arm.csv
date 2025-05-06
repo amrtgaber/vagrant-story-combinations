@@ -1,0 +1,257 @@
+first slot, second slot, result, swap
+Jerkin, Bandage, Jerkin
+Jerkin, Leather Glove, Leather Glove
+Jerkin, Reinforced Glove, Reinforced Glove
+Jerkin, Knuckles, Knuckles
+Jerkin, Ring Sleeve, Knuckles
+Jerkin, Chain Sleeve, Knuckles
+Jerkin, Gauntlet, Knuckles
+Jerkin, Vambrace, Ring Sleeve
+Jerkin, Plate Glove, Chain Sleeve
+Jerkin, Rondanche, Gauntlet
+Jerkin, Tilt Glove, Vambrace
+Jerkin, Freiturnier, Plate Glove
+Jerkin, Fluted Glove, Rondanche
+Jerkin, Hoplite Glove, Tilt Glove
+Jerkin, Jazeraint Glove, Freiturnier
+Jerkin, Dread Glove, Fluted Glove
+Hauberk, Bandage, Hauberk
+Hauberk, Leather Glove, Leather Glove
+Hauberk, Reinforced Glove, Reinforced Glove
+Hauberk, Knuckles, Knuckles
+Hauberk, Ring Sleeve, Knuckles
+Hauberk, Chain Sleeve, Knuckles
+Hauberk, Gauntlet, Knuckles
+Hauberk, Vambrace, Ring Sleeve
+Hauberk, Plate Glove, Chain Sleeve
+Hauberk, Rondanche, Gauntlet
+Hauberk, Tilt Glove, Vambrace
+Hauberk, Freiturnier, Plate Glove
+Hauberk, Fluted Glove, Rondanche
+Hauberk, Hoplite Glove, Tilt Glove
+Hauberk, Jazeraint Glove, Freiturnier
+Hauberk, Dread Glove, Fluted Glove
+Wizard Robe, Bandage, Wizard Robe
+Wizard Robe, Leather Glove, Wizard Robe
+Wizard Robe, Reinforced Glove, Reinforced Glove
+Wizard Robe, Knuckles, Knuckles
+Wizard Robe, Ring Sleeve, Knuckles
+Wizard Robe, Chain Sleeve, Knuckles
+Wizard Robe, Gauntlet, Knuckles
+Wizard Robe, Vambrace, Ring Sleeve
+Wizard Robe, Plate Glove, Chain Sleeve
+Wizard Robe, Rondanche, Gauntlet
+Wizard Robe, Tilt Glove, Vambrace
+Wizard Robe, Freiturnier, Plate Glove
+Wizard Robe, Fluted Glove, Rondanche
+Wizard Robe, Hoplite Glove, Tilt Glove
+Wizard Robe, Jazeraint Glove, Freiturnier
+Wizard Robe, Dread Glove, Fluted Glove
+Cuirass, Bandage, Cuirass
+Cuirass, Leather Glove, Cuirass
+Cuirass, Reinforced Glove, Cuirass
+Cuirass, Knuckles, Bone Helm
+Cuirass, Ring Sleeve, Knuckles
+Cuirass, Chain Sleeve, Knuckles
+Cuirass, Gauntlet, Knuckles
+Cuirass, Vambrace, Ring Sleeve
+Cuirass, Plate Glove, Chain Sleeve
+Cuirass, Rondanche, Gauntlet
+Cuirass, Tilt Glove, Vambrace
+Cuirass, Freiturnier, Plate Glove
+Cuirass, Fluted Glove, Rondanche
+Cuirass, Hoplite Glove, Tilt Glove
+Cuirass, Jazeraint Glove, Freiturnier
+Cuirass, Dread Glove, Fluted Glove
+Banded Mail, Bandage, Banded Mail
+Banded Mail, Leather Glove, Banded Mail
+Banded Mail, Reinforced Glove, Banded Mail
+Banded Mail, Knuckles, Banded Mail
+Banded Mail, Ring Sleeve, Chain Coif
+Banded Mail, Chain Sleeve, Knuckles
+Banded Mail, Gauntlet, Knuckles
+Banded Mail, Vambrace, Ring Sleeve
+Banded Mail, Plate Glove, Chain Sleeve
+Banded Mail, Rondanche, Gauntlet
+Banded Mail, Tilt Glove, Vambrace
+Banded Mail, Freiturnier, Plate Glove
+Banded Mail, Fluted Glove, Rondanche
+Banded Mail, Hoplite Glove, Tilt Glove
+Banded Mail, Jazeraint Glove, Freiturnier
+Banded Mail, Dread Glove, Fluted Glove
+Ring Mail, Bandage, Banded Mail
+Ring Mail, Leather Glove, Banded Mail
+Ring Mail, Reinforced Glove, Banded Mail
+Ring Mail, Knuckles, Banded Mail
+Ring Mail, Ring Sleeve, Ring Mail
+Ring Mail, Chain Sleeve, Spangenhelm
+Ring Mail, Gauntlet, Ring Sleeve
+Ring Mail, Vambrace, Ring Sleeve
+Ring Mail, Plate Glove, Ring Sleeve
+Ring Mail, Rondanche, Chain Sleeve
+Ring Mail, Tilt Glove, Gauntlet
+Ring Mail, Freiturnier, Vambrace
+Ring Mail, Fluted Glove, Plate Glove
+Ring Mail, Hoplite Glove, Rondanche
+Ring Mail, Jazeraint Glove, Tilt Glove
+Ring Mail, Dread Glove, Freiturnier
+Chain Mail, Bandage, Banded Mail
+Chain Mail, Leather Glove, Banded Mail
+Chain Mail, Reinforced Glove, Banded Mail
+Chain Mail, Knuckles, Banded Mail
+Chain Mail, Ring Sleeve, Ring Mail
+Chain Mail, Chain Sleeve, Chain Mail
+Chain Mail, Gauntlet, Cabasset
+Chain Mail, Vambrace, Chain Sleeve
+Chain Mail, Plate Glove, Chain Sleeve
+Chain Mail, Rondanche, Chain Sleeve
+Chain Mail, Tilt Glove, Chain Sleeve
+Chain Mail, Freiturnier, Gauntlet
+Chain Mail, Fluted Glove, Vambrace
+Chain Mail, Hoplite Glove, Plate Glove
+Chain Mail, Jazeraint Glove, Rondanche
+Chain Mail, Dread Glove, Tilt Glove
+Breastplate, Bandage, Banded Mail
+Breastplate, Leather Glove, Banded Mail
+Breastplate, Reinforced Glove, Banded Mail
+Breastplate, Knuckles, Banded Mail
+Breastplate, Ring Sleeve, Ring Mail
+Breastplate, Chain Sleeve, Chain Mail
+Breastplate, Gauntlet, Breastplate
+Breastplate, Vambrace, Sallet
+Breastplate, Plate Glove, Gauntlet
+Breastplate, Rondanche, Gauntlet
+Breastplate, Tilt Glove, Gauntlet
+Breastplate, Freiturnier, Gauntlet
+Breastplate, Fluted Glove, Gauntlet
+Breastplate, Hoplite Glove, Vambrace
+Breastplate, Jazeraint Glove, Plate Glove
+Breastplate, Dread Glove, Rondanche
+Segmentata, Bandage, Ring Mail
+Segmentata, Leather Glove, Ring Mail
+Segmentata, Reinforced Glove, Ring Mail
+Segmentata, Knuckles, Ring Mail
+Segmentata, Ring Sleeve, Ring Mail
+Segmentata, Chain Sleeve, Chain Mail
+Segmentata, Gauntlet, Breastplate
+Segmentata, Vambrace, Segmentata
+Segmentata, Plate Glove, Barbut
+Segmentata, Rondanche, Vambrace
+Segmentata, Tilt Glove, Vambrace
+Segmentata, Freiturnier, Vambrace
+Segmentata, Fluted Glove, Vambrace
+Segmentata, Hoplite Glove, Vambrace
+Segmentata, Jazeraint Glove, Vambrace
+Segmentata, Dread Glove, Plate Glove
+Scale Armor, Bandage, Chain Mail
+Scale Armor, Leather Glove, Chain Mail
+Scale Armor, Reinforced Glove, Chain Mail
+Scale Armor, Knuckles, Chain Mail
+Scale Armor, Ring Sleeve, Ring Mail
+Scale Armor, Chain Sleeve, Chain Mail
+Scale Armor, Gauntlet, Breastplate
+Scale Armor, Vambrace, Segmentata
+Scale Armor, Plate Glove, Scale Armor
+Scale Armor, Rondanche, Basinet
+Scale Armor, Tilt Glove, Plate Glove
+Scale Armor, Freiturnier, Plate Glove
+Scale Armor, Fluted Glove, Plate Glove
+Scale Armor, Hoplite Glove, Plate Glove
+Scale Armor, Jazeraint Glove, Plate Glove
+Scale Armor, Dread Glove, Plate Glove
+Brigandine, Bandage, Breastplate
+Brigandine, Leather Glove, Breastplate
+Brigandine, Reinforced Glove, Breastplate
+Brigandine, Knuckles, Breastplate
+Brigandine, Ring Sleeve, Chain Mail
+Brigandine, Chain Sleeve, Chain Mail
+Brigandine, Gauntlet, Breastplate
+Brigandine, Vambrace, Segmentata
+Brigandine, Plate Glove, Scale Armor
+Brigandine, Rondanche, Brigandine
+Brigandine, Tilt Glove, Armet
+Brigandine, Freiturnier, Rondanche
+Brigandine, Fluted Glove, Rondanche
+Brigandine, Hoplite Glove, Rondanche
+Brigandine, Jazeraint Glove, Rondanche
+Brigandine, Dread Glove, Rondanche
+Plate Mail, Bandage, Segmentata
+Plate Mail, Leather Glove, Segmentata
+Plate Mail, Reinforced Glove, Segmentata
+Plate Mail, Knuckles, Segmentata
+Plate Mail, Ring Sleeve, Breastplate
+Plate Mail, Chain Sleeve, Chain Mail
+Plate Mail, Gauntlet, Breastplate
+Plate Mail, Vambrace, Segmentata
+Plate Mail, Plate Glove, Scale Armor
+Plate Mail, Rondanche, Brigandine
+Plate Mail, Tilt Glove, Plate Mail
+Plate Mail, Freiturnier, Close Helm
+Plate Mail, Fluted Glove, Tilt Glove
+Plate Mail, Hoplite Glove, Tilt Glove
+Plate Mail, Jazeraint Glove, Tilt Glove
+Plate Mail, Dread Glove, Tilt Glove
+Fluted Armor, Bandage, Scale Armor
+Fluted Armor, Leather Glove, Scale Armor
+Fluted Armor, Reinforced Glove, Scale Armor
+Fluted Armor, Knuckles, Scale Armor
+Fluted Armor, Ring Sleeve, Segmentata
+Fluted Armor, Chain Sleeve, Breastplate
+Fluted Armor, Gauntlet, Breastplate
+Fluted Armor, Vambrace, Segmentata
+Fluted Armor, Plate Glove, Scale Armor
+Fluted Armor, Rondanche, Brigandine
+Fluted Armor, Tilt Glove, Plate Mail
+Fluted Armor, Freiturnier, Fluted Armor
+Fluted Armor, Fluted Glove, Burgonet
+Fluted Armor, Hoplite Glove, Freiturnier
+Fluted Armor, Jazeraint Glove, Freiturnier
+Fluted Armor, Dread Glove, Freiturnier
+Hoplite Armor, Bandage, Brigandine
+Hoplite Armor, Leather Glove, Brigandine
+Hoplite Armor, Reinforced Glove, Brigandine
+Hoplite Armor, Knuckles, Brigandine
+Hoplite Armor, Ring Sleeve, Scale Armor
+Hoplite Armor, Chain Sleeve, Segmentata
+Hoplite Armor, Gauntlet, Breastplate
+Hoplite Armor, Vambrace, Segmentata
+Hoplite Armor, Plate Glove, Scale Armor
+Hoplite Armor, Rondanche, Brigandine
+Hoplite Armor, Tilt Glove, Plate Mail
+Hoplite Armor, Freiturnier, Fluted Armor
+Hoplite Armor, Fluted Glove, Hoplite Armor
+Hoplite Armor, Hoplite Glove, Hoplite Helm
+Hoplite Armor, Jazeraint Glove, Fluted Glove
+Hoplite Armor, Dread Glove, Fluted Glove
+Jazeraint Armor, Bandage, Plate Mail
+Jazeraint Armor, Leather Glove, Plate Mail
+Jazeraint Armor, Reinforced Glove, Plate Mail
+Jazeraint Armor, Knuckles, Plate Mail
+Jazeraint Armor, Ring Sleeve, Brigandine
+Jazeraint Armor, Chain Sleeve, Scale Armor
+Jazeraint Armor, Gauntlet, Segmentata
+Jazeraint Armor, Vambrace, Segmentata
+Jazeraint Armor, Plate Glove, Scale Armor
+Jazeraint Armor, Rondanche, Brigandine
+Jazeraint Armor, Tilt Glove, Plate Mail
+Jazeraint Armor, Freiturnier, Fluted Armor
+Jazeraint Armor, Fluted Glove, Hoplite Armor
+Jazeraint Armor, Hoplite Glove, Jazeraint Armor
+Jazeraint Armor, Jazeraint Glove, Jazeraint Helm
+Jazeraint Armor, Dread Glove, Hoplite Glove
+Dread Armor, Bandage, Fluted Armor
+Dread Armor, Leather Glove, Fluted Armor
+Dread Armor, Reinforced Glove, Fluted Armor
+Dread Armor, Knuckles, Fluted Armor
+Dread Armor, Ring Sleeve, Plate Mail
+Dread Armor, Chain Sleeve, Brigandine
+Dread Armor, Gauntlet, Scale Armor
+Dread Armor, Vambrace, Segmentata
+Dread Armor, Plate Glove, Scale Armor
+Dread Armor, Rondanche, Brigandine
+Dread Armor, Tilt Glove, Plate Mail
+Dread Armor, Freiturnier, Fluted Armor
+Dread Armor, Fluted Glove, Hoplite Armor
+Dread Armor, Hoplite Glove, Jazeraint Armor
+Dread Armor, Jazeraint Glove, Dread Armor
+Dread Armor, Dread Glove, Dread Helm
