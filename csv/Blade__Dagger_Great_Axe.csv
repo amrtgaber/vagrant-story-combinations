@@ -1,70 +1,70 @@
-first slot, second slot, result, swap
-Battle Knife, Guisarme, Guisarme
-Battle Knife, Large Crescent, Guisarme
-Battle Knife, Sabre Halberd, Large Crescent
-Battle Knife, Balbriggan, Sabre Halberd
-Battle Knife, Double Blade, Balbriggan
-Battle Knife, Halberd, Double Blade
-Scramasax, Guisarme, Wizard Staff
-Scramasax, Large Crescent, Large Crescent
-Scramasax, Sabre Halberd, Large Crescent
-Scramasax, Balbriggan, Sabre Halberd
-Scramasax, Double Blade, Balbriggan
-Scramasax, Halberd, Double Blade
-Dirk, Guisarme, Sabre Mace
-Dirk, Large Crescent, Spear
-Dirk, Sabre Halberd, Large Crescent
-Dirk, Balbriggan, Large Crescent
-Dirk, Double Blade, Sabre Halberd
-Dirk, Halberd, Balbriggan
-Throwing Knife, Guisarme, Battle Knife
-Throwing Knife, Large Crescent, Clergy Rod
-Throwing Knife, Sabre Halberd, Sabre Halberd
-Throwing Knife, Balbriggan, Sabre Halberd
-Throwing Knife, Double Blade, Sabre Halberd
-Throwing Knife, Halberd, Balbriggan
-Kudi, Guisarme, Scramasax
-Kudi, Sabre Halberd, Glaive
-Kudi, Balbriggan, Sabre Halberd
-Kudi, Double Blade, Sabre Halberd
-Kudi, Halberd, Sabre Halberd
-Cinquedea, Guisarme, Dirk
-Cinquedea, Large Crescent, Scramasax
-Cinquedea, Sabre Halberd, Summoner Baton
-Cinquedea, Balbriggan, Balbriggan
-Cinquedea, Double Blade, Balbriggan
-Cinquedea, Halberd, Balbriggan
-Kris, Guisarme, Throwing Knife
-Kris, Large Crescent, Dirk
-Kris, Sabre Halberd, Gloomwing
-Kris, Balbriggan, Scorpion
-Kris, Double Blade, Balbriggan
-Kris, Halberd, Balbriggan
-Hatchet, Guisarme, Kudi
-Hatchet, Large Crescent, Throwing Knife
-Hatchet, Sabre Halberd, Dirk
-Hatchet, Balbriggan, Shamanic Staff
-Hatchet, Double Blade, Double Blade
-Hatchet, Halberd, Double Blade
-Khukuri, Guisarme, Cinquedea
-Khukuri, Large Crescent, Kudi
-Khukuri, Sabre Halberd, Throwing Knife
-Khukuri, Balbriggan, Mjolnir
-Khukuri, Double Blade, Corcesca
-Khukuri, Halberd, Double Blade
-Baselard, Guisarme, Kris
-Baselard, Large Crescent, Cinquedea
-Baselard, Sabre Halberd, Kudi
-Baselard, Balbriggan, Throwing Knife
-Baselard, Halberd, Halberd
-Stiletto, Guisarme, Hatchet
-Stiletto, Large Crescent, Kris
-Stiletto, Sabre Halberd, Cinquedea
-Stiletto, Balbriggan, Kudi
-Stiletto, Double Blade, Griever
-Stiletto, Halberd, Trident
-Jamadhar, Guisarme, Khukuri
-Jamadhar, Large Crescent, Hatchet
-Jamadhar, Sabre Halberd, Kris
-Jamadhar, Balbriggan, Cinquedea
-Jamadhar, Double Blade, Kudi
+slot1,slot2,result,tier_change
+Battle Knife,Guisarme,Guisarme,0
+Battle Knife,Large Crescent,Guisarme,0
+Battle Knife,Sabre Halberd,Large Crescent,0
+Battle Knife,Balbriggan,Sabre Halberd,0
+Battle Knife,Double Blade,Balbriggan,0
+Battle Knife,Halberd,Double Blade,0
+Scramasax,Guisarme,Wizard Staff,0
+Scramasax,Large Crescent,Large Crescent,0
+Scramasax,Sabre Halberd,Large Crescent,0
+Scramasax,Balbriggan,Sabre Halberd,0
+Scramasax,Double Blade,Balbriggan,0
+Scramasax,Halberd,Double Blade,0
+Dirk,Guisarme,Sabre Mace,0
+Dirk,Large Crescent,Spear,0
+Dirk,Sabre Halberd,Large Crescent,0
+Dirk,Balbriggan,Large Crescent,0
+Dirk,Double Blade,Sabre Halberd,0
+Dirk,Halberd,Balbriggan,0
+Throwing Knife,Guisarme,Battle Knife,0
+Throwing Knife,Large Crescent,Clergy Rod,0
+Throwing Knife,Sabre Halberd,Sabre Halberd,0
+Throwing Knife,Balbriggan,Sabre Halberd,0
+Throwing Knife,Double Blade,Sabre Halberd,0
+Throwing Knife,Halberd,Balbriggan,0
+Kudi,Guisarme,Scramasax,0
+Kudi,Sabre Halberd,Glaive,0
+Kudi,Balbriggan,Sabre Halberd,0
+Kudi,Double Blade,Sabre Halberd,0
+Kudi,Halberd,Sabre Halberd,0
+Cinquedea,Guisarme,Dirk,0
+Cinquedea,Large Crescent,Scramasax,0
+Cinquedea,Sabre Halberd,Summoner Baton,0
+Cinquedea,Balbriggan,Balbriggan,0
+Cinquedea,Double Blade,Balbriggan,0
+Cinquedea,Halberd,Balbriggan,0
+Kris,Guisarme,Throwing Knife,0
+Kris,Large Crescent,Dirk,0
+Kris,Sabre Halberd,Gloomwing,0
+Kris,Balbriggan,Scorpion,0
+Kris,Double Blade,Balbriggan,0
+Kris,Halberd,Balbriggan,0
+Hatchet,Guisarme,Kudi,0
+Hatchet,Large Crescent,Throwing Knife,0
+Hatchet,Sabre Halberd,Dirk,0
+Hatchet,Balbriggan,Shamanic Staff,0
+Hatchet,Double Blade,Double Blade,0
+Hatchet,Halberd,Double Blade,0
+Khukuri,Guisarme,Cinquedea,0
+Khukuri,Large Crescent,Kudi,0
+Khukuri,Sabre Halberd,Throwing Knife,0
+Khukuri,Balbriggan,Mjolnir,0
+Khukuri,Double Blade,Corcesca,0
+Khukuri,Halberd,Double Blade,0
+Baselard,Guisarme,Kris,0
+Baselard,Large Crescent,Cinquedea,0
+Baselard,Sabre Halberd,Kudi,0
+Baselard,Balbriggan,Throwing Knife,0
+Baselard,Halberd,Halberd,0
+Stiletto,Guisarme,Hatchet,0
+Stiletto,Large Crescent,Kris,0
+Stiletto,Sabre Halberd,Cinquedea,0
+Stiletto,Balbriggan,Kudi,0
+Stiletto,Double Blade,Griever,0
+Stiletto,Halberd,Trident,0
+Jamadhar,Guisarme,Khukuri,0
+Jamadhar,Large Crescent,Hatchet,0
+Jamadhar,Sabre Halberd,Kris,0
+Jamadhar,Balbriggan,Cinquedea,0
+Jamadhar,Double Blade,Kudi,0

@@ -1,6 +1,10 @@
 import csv
 import os
 
+current_dir = os.getcwd()
+if "scripts" not in current_dir:
+    os.chdir(".\\scripts")
+
 INPUT_FILE = "../material_tables/Armor_materials.txt"
 OUTPUT_DIR = "../csv"
 OUTPUT_FILE = f"{OUTPUT_DIR}/Armor_materials.csv"

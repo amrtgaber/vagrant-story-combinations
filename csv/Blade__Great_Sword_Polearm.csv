@@ -1,121 +1,121 @@
-first slot, second slot, result, swap
-Broad Sword, Spear, Broad Sword
-Broad Sword, Glaive, Battle Knife
-Broad Sword, Scorpion, Spear
-Broad Sword, Corcesca, Spear
-Broad Sword, Trident, Glaive
-Broad Sword, Awl Pike, Scorpion
-Broad Sword, Boar Spear, Corcesca
-Broad Sword, Fauchard, Trident
-Broad Sword, Voulge, Awl Pike
-Broad Sword, Pole Axe, Boar Spear
-Broad Sword, Bardysh, Fauchard
-Broad Sword, Brandestoc, Voulge
-Norse Sword, Spear, Broad Sword
-Norse Sword, Glaive, Spatha
-Norse Sword, Scorpion, Scramasax
-Norse Sword, Corcesca, Glaive
-Norse Sword, Trident, Glaive
-Norse Sword, Awl Pike, Glaive
-Norse Sword, Boar Spear, Scorpion
-Norse Sword, Fauchard, Corcesca
-Norse Sword, Voulge, Trident
-Norse Sword, Pole Axe, Awl Pike
-Norse Sword, Bardysh, Boar Spear
-Norse Sword, Brandestoc, Fauchard
-Katana, Spear, Broad Sword
-Katana, Glaive, Norse Sword
-Katana, Scorpion, Scimitar
-Katana, Corcesca, Dirk
-Katana, Trident, Hand Axe
-Katana, Awl Pike, Scorpion
-Katana, Boar Spear, Scorpion
-Katana, Fauchard, Scorpion
-Katana, Voulge, Corcesca
-Katana, Pole Axe, Trident
-Katana, Bardysh, Awl Pike
-Katana, Brandestoc, Boar Spear
-Executioner, Spear, Broad Sword
-Executioner, Glaive, Norse Sword
-Executioner, Scorpion, Katana
-Executioner, Corcesca, Rapier
-Executioner, Trident, Throwing Knife
-Executioner, Awl Pike, Battle Axe
-Executioner, Boar Spear, Corcesca
-Executioner, Fauchard, Corcesca
-Executioner, Voulge, Corcesca
-Executioner, Pole Axe, Corcesca
-Executioner, Bardysh, Trident
-Executioner, Brandestoc, Awl Pike
-Claymore, Spear, Norse Sword
-Claymore, Glaive, Norse Sword
-Claymore, Scorpion, Katana
-Claymore, Corcesca, Executioner
-Claymore, Trident, Short Sword
-Claymore, Awl Pike, Kudi
-Claymore, Boar Spear, Francisca
-Claymore, Fauchard, Trident
-Claymore, Voulge, Trident
-Claymore, Pole Axe, Trident
-Claymore, Bardysh, Trident
-Claymore, Brandestoc, Trident
-Schiavona, Spear, Katana
-Schiavona, Glaive, Norse Sword
-Schiavona, Scorpion, Katana
-Schiavona, Corcesca, Executioner
-Schiavona, Trident, Claymore
-Schiavona, Awl Pike, Firangi
-Schiavona, Boar Spear, Cinquedea
-Schiavona, Fauchard, Tabarzin
-Schiavona, Voulge, Awl Pike
-Schiavona, Pole Axe, Awl Pike
-Schiavona, Bardysh, Awl Pike
-Schiavona, Brandestoc, Awl Pike
-Bastard Sword, Spear, Executioner
-Bastard Sword, Glaive, Katana
-Bastard Sword, Scorpion, Katana
-Bastard Sword, Corcesca, Executioner
-Bastard Sword, Trident, Claymore
-Bastard Sword, Awl Pike, Schiavona
-Bastard Sword, Boar Spear, Shamshir
-Bastard Sword, Fauchard, Kris
-Bastard Sword, Voulge, Chamkaq
-Bastard Sword, Pole Axe, Boar Spear
-Bastard Sword, Bardysh, Boar Spear
-Bastard Sword, Brandestoc, Boar Spear
-Nodachi, Spear, Claymore
-Nodachi, Glaive, Executioner
-Nodachi, Scorpion, Katana
-Nodachi, Corcesca, Executioner
-Nodachi, Trident, Claymore
-Nodachi, Awl Pike, Schiavona
-Nodachi, Boar Spear, Bastard Sword
-Nodachi, Fauchard, Falchion
-Nodachi, Voulge, Hatchet
-Nodachi, Pole Axe, Tabar
-Nodachi, Bardysh, Fauchard
-Nodachi, Brandestoc, Fauchard
-Rune Blade, Spear, Schiavona
-Rune Blade, Glaive, Claymore
-Rune Blade, Scorpion, Executioner
-Rune Blade, Corcesca, Executioner
-Rune Blade, Trident, Claymore
-Rune Blade, Awl Pike, Schiavona
-Rune Blade, Boar Spear, Bastard Sword
-Rune Blade, Fauchard, Nodachi
-Rune Blade, Voulge, Shotel
-Rune Blade, Pole Axe, Khukuri
-Rune Blade, Bardysh, Bullova
-Rune Blade, Brandestoc, Voulge
-Holy Win, Spear, Spear
-Holy Win, Glaive, Glaive
-Holy Win, Scorpion, Scorpion
-Holy Win, Corcesca, Corcesca
-Holy Win, Trident, Trident
-Holy Win, Awl Pike, Awl Pike
-Holy Win, Boar Spear, Boar Spear
-Holy Win, Fauchard, Fauchard
-Holy Win, Voulge, Voulge
-Holy Win, Pole Axe, Pole Axe
-Holy Win, Bardysh, Bardysh
-Holy Win, Brandestoc, Brandestoc
+slot1,slot2,result,tier_change
+Broad Sword,Spear,Broad Sword,0
+Broad Sword,Glaive,Battle Knife,0
+Broad Sword,Scorpion,Spear,0
+Broad Sword,Corcesca,Spear,0
+Broad Sword,Trident,Glaive,0
+Broad Sword,Awl Pike,Scorpion,0
+Broad Sword,Boar Spear,Corcesca,0
+Broad Sword,Fauchard,Trident,0
+Broad Sword,Voulge,Awl Pike,0
+Broad Sword,Pole Axe,Boar Spear,0
+Broad Sword,Bardysh,Fauchard,0
+Broad Sword,Brandestoc,Voulge,0
+Norse Sword,Spear,Broad Sword,0
+Norse Sword,Glaive,Spatha,0
+Norse Sword,Scorpion,Scramasax,0
+Norse Sword,Corcesca,Glaive,0
+Norse Sword,Trident,Glaive,0
+Norse Sword,Awl Pike,Glaive,0
+Norse Sword,Boar Spear,Scorpion,0
+Norse Sword,Fauchard,Corcesca,0
+Norse Sword,Voulge,Trident,0
+Norse Sword,Pole Axe,Awl Pike,0
+Norse Sword,Bardysh,Boar Spear,0
+Norse Sword,Brandestoc,Fauchard,0
+Katana,Spear,Broad Sword,0
+Katana,Glaive,Norse Sword,0
+Katana,Scorpion,Scimitar,0
+Katana,Corcesca,Dirk,0
+Katana,Trident,Hand Axe,0
+Katana,Awl Pike,Scorpion,0
+Katana,Boar Spear,Scorpion,0
+Katana,Fauchard,Scorpion,0
+Katana,Voulge,Corcesca,0
+Katana,Pole Axe,Trident,0
+Katana,Bardysh,Awl Pike,0
+Katana,Brandestoc,Boar Spear,0
+Executioner,Spear,Broad Sword,0
+Executioner,Glaive,Norse Sword,0
+Executioner,Scorpion,Katana,0
+Executioner,Corcesca,Rapier,0
+Executioner,Trident,Throwing Knife,0
+Executioner,Awl Pike,Battle Axe,0
+Executioner,Boar Spear,Corcesca,0
+Executioner,Fauchard,Corcesca,0
+Executioner,Voulge,Corcesca,0
+Executioner,Pole Axe,Corcesca,0
+Executioner,Bardysh,Trident,0
+Executioner,Brandestoc,Awl Pike,0
+Claymore,Spear,Norse Sword,0
+Claymore,Glaive,Norse Sword,0
+Claymore,Scorpion,Katana,0
+Claymore,Corcesca,Executioner,0
+Claymore,Trident,Short Sword,0
+Claymore,Awl Pike,Kudi,0
+Claymore,Boar Spear,Francisca,0
+Claymore,Fauchard,Trident,0
+Claymore,Voulge,Trident,0
+Claymore,Pole Axe,Trident,0
+Claymore,Bardysh,Trident,0
+Claymore,Brandestoc,Trident,0
+Schiavona,Spear,Katana,0
+Schiavona,Glaive,Norse Sword,0
+Schiavona,Scorpion,Katana,0
+Schiavona,Corcesca,Executioner,0
+Schiavona,Trident,Claymore,0
+Schiavona,Awl Pike,Firangi,0
+Schiavona,Boar Spear,Cinquedea,0
+Schiavona,Fauchard,Tabarzin,0
+Schiavona,Voulge,Awl Pike,0
+Schiavona,Pole Axe,Awl Pike,0
+Schiavona,Bardysh,Awl Pike,0
+Schiavona,Brandestoc,Awl Pike,0
+Bastard Sword,Spear,Executioner,0
+Bastard Sword,Glaive,Katana,0
+Bastard Sword,Scorpion,Katana,0
+Bastard Sword,Corcesca,Executioner,0
+Bastard Sword,Trident,Claymore,0
+Bastard Sword,Awl Pike,Schiavona,0
+Bastard Sword,Boar Spear,Shamshir,0
+Bastard Sword,Fauchard,Kris,0
+Bastard Sword,Voulge,Chamkaq,0
+Bastard Sword,Pole Axe,Boar Spear,0
+Bastard Sword,Bardysh,Boar Spear,0
+Bastard Sword,Brandestoc,Boar Spear,0
+Nodachi,Spear,Claymore,0
+Nodachi,Glaive,Executioner,0
+Nodachi,Scorpion,Katana,0
+Nodachi,Corcesca,Executioner,0
+Nodachi,Trident,Claymore,0
+Nodachi,Awl Pike,Schiavona,0
+Nodachi,Boar Spear,Bastard Sword,0
+Nodachi,Fauchard,Falchion,0
+Nodachi,Voulge,Hatchet,0
+Nodachi,Pole Axe,Tabar,0
+Nodachi,Bardysh,Fauchard,0
+Nodachi,Brandestoc,Fauchard,0
+Rune Blade,Spear,Schiavona,0
+Rune Blade,Glaive,Claymore,0
+Rune Blade,Scorpion,Executioner,0
+Rune Blade,Corcesca,Executioner,0
+Rune Blade,Trident,Claymore,0
+Rune Blade,Awl Pike,Schiavona,0
+Rune Blade,Boar Spear,Bastard Sword,0
+Rune Blade,Fauchard,Nodachi,0
+Rune Blade,Voulge,Shotel,0
+Rune Blade,Pole Axe,Khukuri,0
+Rune Blade,Bardysh,Bullova,0
+Rune Blade,Brandestoc,Voulge,0
+Holy Win,Spear,Spear,0
+Holy Win,Glaive,Glaive,0
+Holy Win,Scorpion,Scorpion,0
+Holy Win,Corcesca,Corcesca,0
+Holy Win,Trident,Trident,0
+Holy Win,Awl Pike,Awl Pike,0
+Holy Win,Boar Spear,Boar Spear,0
+Holy Win,Fauchard,Fauchard,0
+Holy Win,Voulge,Voulge,0
+Holy Win,Pole Axe,Pole Axe,0
+Holy Win,Bardysh,Bardysh,0
+Holy Win,Brandestoc,Brandestoc,0

@@ -1,52 +1,60 @@
-first slot, second slot, result, swap
-Langdebeve, Gastraph Bow, Battle Knife
-Langdebeve, Light Crossbow, Broad Sword
-Langdebeve, Target Bow, Gastraph Bow
-Langdebeve, Windlass, Gastraph Bow
-Langdebeve, Cranequin, Light Crossbow
-Langdebeve, Lug Crossbow, Target Bow
-Langdebeve, Siege Bow, Windlass
-Langdebeve, Arbalest, Cranequin
-Sabre Mace, Gastraph Bow, Spatha
-Sabre Mace, Light Crossbow, Scramasax
-Sabre Mace, Target Bow, Norse Sword
-Sabre Mace, Windlass, Light Crossbow
-Sabre Mace, Cranequin, Light Crossbow
-Sabre Mace, Lug Crossbow, Target Bow
-Sabre Mace, Siege Bow, Target Bow
-Sabre Mace, Arbalest, Windlass
-Gloomwing, Gastraph Bow, Langdebeve
-Gloomwing, Light Crossbow, Sabre Mace
-Gloomwing, Target Bow, Rapier
-Gloomwing, Windlass, Throwing Knife
-Gloomwing, Cranequin, Executioner
-Gloomwing, Lug Crossbow, Windlass
-Gloomwing, Siege Bow, Windlass
-Gloomwing, Arbalest, Windlass
-Mjolnir, Gastraph Bow, Sabre Mace
-Mjolnir, Light Crossbow, Sabre Mace
-Mjolnir, Windlass, Short Sword
-Mjolnir, Cranequin, Kudi
-Mjolnir, Lug Crossbow, Claymore
-Mjolnir, Siege Bow, Cranequin
-Mjolnir, Arbalest, Cranequin
-Griever, Light Crossbow, Sabre Mace
-Griever, Windlass, Gloomwing
-Griever, Cranequin, Firangi
-Griever, Lug Crossbow, Cinquedea
-Griever, Siege Bow, Schiavona
-Griever, Arbalest, Lug Crossbow
-Destroyer, Gastraph Bow, Gloomwing
-Destroyer, Windlass, Gloomwing
-Destroyer, Cranequin, Mjolnir
-Destroyer, Lug Crossbow, Shamshir
-Destroyer, Siege Bow, Kris
-Destroyer, Arbalest, Bastard Sword
-Hand of Light, Gastraph Bow, Sabre Halberd, Gastraph Bow
-Hand of Light, Light Crossbow, Guisarme, Light Crossbow
-Hand of Light, Target Bow, Bec de Corbin, Target Bow
-Hand of Light, Windlass, Morning Star, Windlass
-Hand of Light, Cranequin, Ball Mace, Cranequin
-Hand of Light, Lug Crossbow, Goblin Club, Lug Crossbow
-Hand of Light, Siege Bow, Bullova, Siege Bow
-Hand of Light, Arbalest, Chamkaq, Arbalest
+slot1,slot2,result,tier_change
+Langdebeve,Gastraph Bow,Battle Knife,0
+Langdebeve,Light Crossbow,Broad Sword,0
+Langdebeve,Target Bow,Gastraph Bow,0
+Langdebeve,Windlass,Gastraph Bow,0
+Langdebeve,Cranequin,Light Crossbow,0
+Langdebeve,Lug Crossbow,Target Bow,0
+Langdebeve,Siege Bow,Windlass,0
+Langdebeve,Arbalest,Cranequin,0
+Sabre Mace,Gastraph Bow,Spatha,0
+Sabre Mace,Light Crossbow,Scramasax,0
+Sabre Mace,Target Bow,Norse Sword,0
+Sabre Mace,Windlass,Light Crossbow,0
+Sabre Mace,Cranequin,Light Crossbow,0
+Sabre Mace,Lug Crossbow,Target Bow,0
+Sabre Mace,Siege Bow,Target Bow,0
+Sabre Mace,Arbalest,Windlass,0
+Gloomwing,Gastraph Bow,Langdebeve,0
+Gloomwing,Light Crossbow,Sabre Mace,0
+Gloomwing,Target Bow,Rapier,0
+Gloomwing,Windlass,Throwing Knife,0
+Gloomwing,Cranequin,Executioner,0
+Gloomwing,Lug Crossbow,Windlass,0
+Gloomwing,Siege Bow,Windlass,0
+Gloomwing,Arbalest,Windlass,0
+Mjolnir,Gastraph Bow,Sabre Mace,0
+Mjolnir,Light Crossbow,Sabre Mace,0
+Mjolnir,Windlass,Short Sword,0
+Mjolnir,Cranequin,Kudi,0
+Mjolnir,Lug Crossbow,Claymore,0
+Mjolnir,Siege Bow,Cranequin,0
+Mjolnir,Arbalest,Cranequin,0
+Griever,Light Crossbow,Sabre Mace,0
+Griever,Windlass,Gloomwing,0
+Griever,Cranequin,Firangi,0
+Griever,Lug Crossbow,Cinquedea,0
+Griever,Siege Bow,Schiavona,0
+Griever,Arbalest,Lug Crossbow,0
+Destroyer,Gastraph Bow,Gloomwing,0
+Destroyer,Windlass,Gloomwing,0
+Destroyer,Cranequin,Mjolnir,0
+Destroyer,Lug Crossbow,Shamshir,0
+Destroyer,Siege Bow,Kris,0
+Destroyer,Arbalest,Bastard Sword,0
+Hand of Light,Gastraph Bow,Sabre Halberd,0
+Gastraph Bow,Hand of Light,Gastraph Bow,0
+Hand of Light,Light Crossbow,Guisarme,0
+Light Crossbow,Hand of Light,Light Crossbow,0
+Hand of Light,Target Bow,Bec de Corbin,0
+Target Bow,Hand of Light,Target Bow,0
+Hand of Light,Windlass,Morning Star,0
+Windlass,Hand of Light,Windlass,0
+Hand of Light,Cranequin,Ball Mace,0
+Cranequin,Hand of Light,Cranequin,0
+Hand of Light,Lug Crossbow,Goblin Club,0
+Lug Crossbow,Hand of Light,Lug Crossbow,0
+Hand of Light,Siege Bow,Bullova,0
+Siege Bow,Hand of Light,Siege Bow,0
+Hand of Light,Arbalest,Chamkaq,0
+Arbalest,Hand of Light,Arbalest,0

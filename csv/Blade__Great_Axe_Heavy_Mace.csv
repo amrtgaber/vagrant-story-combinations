@@ -1,39 +1,39 @@
-first slot, second slot, result, swap
-Guisarme, Langdebeve, Battle Knife
-Guisarme, Sabre Mace, Sabre Mace
-Guisarme, Gloomwing, Sabre Mace
-Guisarme, Griever, Gloomwing
-Guisarme, Destroyer, Mjolnir
-Guisarme, Hand of Light, Guisarme
-Large Crescent, Langdebeve, Spear
-Large Crescent, Sabre Mace, Scramasax
-Large Crescent, Destroyer, Gloomwing
-Large Crescent, Hand of Light, Large Crescent
-Sabre Halberd, Langdebeve, Gastraph Bow
-Sabre Halberd, Sabre Mace, Glaive
-Sabre Halberd, Gloomwing, Gloomwing
-Sabre Halberd, Mjolnir, Gloomwing
-Sabre Halberd, Griever, Gloomwing
-Sabre Halberd, Destroyer, Gloomwing
-Sabre Halberd, Hand of Light, Sabre Halberd
-Balbriggan, Langdebeve, Large Crescent
-Balbriggan, Sabre Mace, Gastraph Bow
-Balbriggan, Gloomwing, Throwing Knife
-Balbriggan, Mjolnir, Mjolnir
-Balbriggan, Griever, Mjolnir
-Balbriggan, Destroyer, Mjolnir
-Balbriggan, Hand of Light, Balbriggan
-Double Blade, Langdebeve, Sabre Halberd
-Double Blade, Sabre Mace, Large Crescent
-Double Blade, Gloomwing, Corcesca
-Double Blade, Mjolnir, Kudi
-Double Blade, Griever, Griever
-Double Blade, Destroyer, Griever
-Double Blade, Hand of Light, Double Blade
-Halberd, Langdebeve, Balbriggan
-Halberd, Sabre Mace, Sabre Halberd
-Halberd, Gloomwing, Windlass
-Halberd, Mjolnir, Trident
-Halberd, Griever, Cinquedea
-Halberd, Destroyer, Destroyer
-Halberd, Hand of Light, Halberd
+slot1,slot2,result,tier_change
+Guisarme,Langdebeve,Battle Knife,0
+Guisarme,Sabre Mace,Sabre Mace,0
+Guisarme,Gloomwing,Sabre Mace,0
+Guisarme,Griever,Gloomwing,0
+Guisarme,Destroyer,Mjolnir,0
+Guisarme,Hand of Light,Guisarme,0
+Large Crescent,Langdebeve,Spear,0
+Large Crescent,Sabre Mace,Scramasax,0
+Large Crescent,Destroyer,Gloomwing,0
+Large Crescent,Hand of Light,Large Crescent,0
+Sabre Halberd,Langdebeve,Gastraph Bow,0
+Sabre Halberd,Sabre Mace,Glaive,0
+Sabre Halberd,Gloomwing,Gloomwing,0
+Sabre Halberd,Mjolnir,Gloomwing,0
+Sabre Halberd,Griever,Gloomwing,0
+Sabre Halberd,Destroyer,Gloomwing,0
+Sabre Halberd,Hand of Light,Sabre Halberd,0
+Balbriggan,Langdebeve,Large Crescent,0
+Balbriggan,Sabre Mace,Gastraph Bow,0
+Balbriggan,Gloomwing,Throwing Knife,0
+Balbriggan,Mjolnir,Mjolnir,0
+Balbriggan,Griever,Mjolnir,0
+Balbriggan,Destroyer,Mjolnir,0
+Balbriggan,Hand of Light,Balbriggan,0
+Double Blade,Langdebeve,Sabre Halberd,0
+Double Blade,Sabre Mace,Large Crescent,0
+Double Blade,Gloomwing,Corcesca,0
+Double Blade,Mjolnir,Kudi,0
+Double Blade,Griever,Griever,0
+Double Blade,Destroyer,Griever,0
+Double Blade,Hand of Light,Double Blade,0
+Halberd,Langdebeve,Balbriggan,0
+Halberd,Sabre Mace,Sabre Halberd,0
+Halberd,Gloomwing,Windlass,0
+Halberd,Mjolnir,Trident,0
+Halberd,Griever,Cinquedea,0
+Halberd,Destroyer,Destroyer,0
+Halberd,Hand of Light,Halberd,0

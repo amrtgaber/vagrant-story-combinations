@@ -1,145 +1,146 @@
-first slot, second slot, result, swap
-Spatha, Spear, Spear
-Spatha, Glaive, Battle Knife
-Spatha, Scorpion, Spear
-Spatha, Corcesca, Spear
-Spatha, Trident, Glaive
-Spatha, Awl Pike, Scorpion
-Spatha, Boar Spear, Corcesca
-Spatha, Fauchard, Trident
-Spatha, Voulge, Awl Pike
-Spatha, Pole Axe, Boar Spear
-Spatha, Bardysh, Fauchard
-Spatha, Brandestoc, Voulge
-Scimitar, Spear, Spatha
-Scimitar, Glaive, Glaive
-Scimitar, Scorpion, Scramasax
-Scimitar, Corcesca, Glaive
-Scimitar, Trident, Glaive
-Scimitar, Awl Pike, Glaive
-Scimitar, Boar Spear, Scorpion
-Scimitar, Fauchard, Corcesca
-Scimitar, Voulge, Trident
-Scimitar, Pole Axe, Awl Pike
-Scimitar, Bardysh, Boar Spear
-Scimitar, Brandestoc, Fauchard
-Rapier, Spear, Spatha
-Rapier, Glaive, Scimitar
-Rapier, Scorpion, Scorpion
-Rapier, Corcesca, Dirk
-Rapier, Trident, Scorpion
-Rapier, Awl Pike, Scorpion
-Rapier, Boar Spear, Scorpion
-Rapier, Fauchard, Scorpion
-Rapier, Voulge, Corcesca
-Rapier, Pole Axe, Trident
-Rapier, Bardysh, Awl Pike
-Rapier, Brandestoc, Boar Spear
-Short Sword, Spear, Spatha
-Short Sword, Glaive, Scimitar
-Short Sword, Scorpion, Broad Sword
-Short Sword, Corcesca, Gastraph Bow
-Short Sword, Trident, Throwing Knife
-Short Sword, Awl Pike, Corcesca
-Short Sword, Boar Spear, Corcesca
-Short Sword, Fauchard, Corcesca
-Short Sword, Voulge, Corcesca
-Short Sword, Pole Axe, Corcesca
-Short Sword, Bardysh, Trident
-Short Sword, Brandestoc, Awl Pike
-Firangi, Spear, Scimitar
-Firangi, Glaive, Scimitar
-Firangi, Scorpion, Rapier
-Firangi, Corcesca, Claymore, Norse Sword
-Firangi, Trident, Light Crossbow
-Firangi, Awl Pike, Kudi
-Firangi, Boar Spear, Trident
-Firangi, Fauchard, Trident
-Firangi, Voulge, Trident
-Firangi, Pole Axe, Trident
-Firangi, Bardysh, Trident
-Firangi, Brandestoc, Trident
-Shamshir, Spear, Rapier
-Shamshir, Glaive, Scimitar
-Shamshir, Scorpion, Rapier
-Shamshir, Corcesca, Short Sword
-Shamshir, Trident, Katana
-Shamshir, Awl Pike, Target Bow
-Shamshir, Boar Spear, Cinquedea
-Shamshir, Fauchard, Awl Pike
-Shamshir, Voulge, Awl Pike
-Shamshir, Pole Axe, Awl Pike
-Shamshir, Bardysh, Awl Pike
-Shamshir, Brandestoc, Awl Pike
-Falchion, Spear, Short Sword
-Falchion, Glaive, Rapier
-Falchion, Scorpion, Rapier
-Falchion, Corcesca, Short Sword
-Falchion, Trident, Firangi
-Falchion, Awl Pike, Executioner
-Falchion, Boar Spear, Windlass
-Falchion, Fauchard, Kris
-Falchion, Voulge, Boar Spear
-Falchion, Pole Axe, Boar Spear
-Falchion, Bardysh, Boar Spear
-Falchion, Brandestoc, Boar Spear
-Shotel, Spear, Firangi
-Shotel, Glaive, Short Sword
-Shotel, Scorpion, Rapier
-Shotel, Corcesca, Short Sword
-Shotel, Trident, Firangi
-Shotel, Awl Pike, Shamshir
-Shotel, Boar Spear, Claymore
-Shotel, Fauchard, Cranequin
-Shotel, Voulge, Hatchet
-Shotel, Pole Axe, Fauchard
-Shotel, Bardysh, Fauchard
-Shotel, Brandestoc, Fauchard
-Khora, Spear, Shamshir
-Khora, Glaive, Firangi
-Khora, Scorpion, Short Sword
-Khora, Corcesca, Short Sword
-Khora, Trident, Firangi
-Khora, Awl Pike, Shamshir
-Khora, Boar Spear, Falchion
-Khora, Fauchard, Schiavona
-Khora, Voulge, Lug Crossbow
-Khora, Pole Axe, Khukuri
-Khora, Bardysh, Voulge
-Khora, Brandestoc, Voulge
-Khopesh, Spear, Falchion
-Khopesh, Glaive, Shamshir
-Khopesh, Scorpion, Firangi
-Khopesh, Corcesca, Short Sword
-Khopesh, Trident, Firangi
-Khopesh, Awl Pike, Shamshir
-Khopesh, Boar Spear, Falchion
-Khopesh, Fauchard, Shotel
-Khopesh, Voulge, Bastard Sword
-Khopesh, Pole Axe, Siege Bow
-Khopesh, Bardysh, Baselard
-Khopesh, Brandestoc, Pole Axe
-Wakizashi, Spear, Shotel
-Wakizashi, Glaive, Falchion
-Wakizashi, Scorpion, Shamshir
-Wakizashi, Corcesca, Firangi
-Wakizashi, Trident, Firangi
-Wakizashi, Awl Pike, Shamshir
-Wakizashi, Boar Spear, Falchion
-Wakizashi, Fauchard, Shotel
-Wakizashi, Voulge, Khora
-Wakizashi, Pole Axe, Nodachi
-Wakizashi, Bardysh, Arbalest
-Wakizashi, Brandestoc, Stiletto
-Rhomphaia, Spear, Spear
-Rhomphaia, Glaive, Glaive
-Rhomphaia, Scorpion, Scorpion
-Rhomphaia, Corcesca, Corcesca
-Rhomphaia, Trident, Trident
-Rhomphaia, Awl Pike, Awl Pike
-Rhomphaia, Boar Spear, Boar Spear
-Rhomphaia, Fauchard, Fauchard
-Rhomphaia, Voulge, Voulge
-Rhomphaia, Pole Axe, Pole Axe
-Rhomphaia, Bardysh, Bardysh
-Rhomphaia, Brandestoc, Brandestoc
+slot1,slot2,result,tier_change
+Spatha,Spear,Spear,0
+Spatha,Glaive,Battle Knife,0
+Spatha,Scorpion,Spear,0
+Spatha,Corcesca,Spear,0
+Spatha,Trident,Glaive,0
+Spatha,Awl Pike,Scorpion,0
+Spatha,Boar Spear,Corcesca,0
+Spatha,Fauchard,Trident,0
+Spatha,Voulge,Awl Pike,0
+Spatha,Pole Axe,Boar Spear,0
+Spatha,Bardysh,Fauchard,0
+Spatha,Brandestoc,Voulge,0
+Scimitar,Spear,Spatha,0
+Scimitar,Glaive,Glaive,0
+Scimitar,Scorpion,Scramasax,0
+Scimitar,Corcesca,Glaive,0
+Scimitar,Trident,Glaive,0
+Scimitar,Awl Pike,Glaive,0
+Scimitar,Boar Spear,Scorpion,0
+Scimitar,Fauchard,Corcesca,0
+Scimitar,Voulge,Trident,0
+Scimitar,Pole Axe,Awl Pike,0
+Scimitar,Bardysh,Boar Spear,0
+Scimitar,Brandestoc,Fauchard,0
+Rapier,Spear,Spatha,0
+Rapier,Glaive,Scimitar,0
+Rapier,Scorpion,Scorpion,0
+Rapier,Corcesca,Dirk,0
+Rapier,Trident,Scorpion,0
+Rapier,Awl Pike,Scorpion,0
+Rapier,Boar Spear,Scorpion,0
+Rapier,Fauchard,Scorpion,0
+Rapier,Voulge,Corcesca,0
+Rapier,Pole Axe,Trident,0
+Rapier,Bardysh,Awl Pike,0
+Rapier,Brandestoc,Boar Spear,0
+Short Sword,Spear,Spatha,0
+Short Sword,Glaive,Scimitar,0
+Short Sword,Scorpion,Broad Sword,0
+Short Sword,Corcesca,Gastraph Bow,0
+Short Sword,Trident,Throwing Knife,0
+Short Sword,Awl Pike,Corcesca,0
+Short Sword,Boar Spear,Corcesca,0
+Short Sword,Fauchard,Corcesca,0
+Short Sword,Voulge,Corcesca,0
+Short Sword,Pole Axe,Corcesca,0
+Short Sword,Bardysh,Trident,0
+Short Sword,Brandestoc,Awl Pike,0
+Firangi,Spear,Scimitar,0
+Firangi,Glaive,Scimitar,0
+Firangi,Scorpion,Rapier,0
+Firangi,Corcesca,Claymore,0
+Corcesca,Firangi,Norse Sword,0
+Firangi,Trident,Light Crossbow,0
+Firangi,Awl Pike,Kudi,0
+Firangi,Boar Spear,Trident,0
+Firangi,Fauchard,Trident,0
+Firangi,Voulge,Trident,0
+Firangi,Pole Axe,Trident,0
+Firangi,Bardysh,Trident,0
+Firangi,Brandestoc,Trident,0
+Shamshir,Spear,Rapier,0
+Shamshir,Glaive,Scimitar,0
+Shamshir,Scorpion,Rapier,0
+Shamshir,Corcesca,Short Sword,0
+Shamshir,Trident,Katana,0
+Shamshir,Awl Pike,Target Bow,0
+Shamshir,Boar Spear,Cinquedea,0
+Shamshir,Fauchard,Awl Pike,0
+Shamshir,Voulge,Awl Pike,0
+Shamshir,Pole Axe,Awl Pike,0
+Shamshir,Bardysh,Awl Pike,0
+Shamshir,Brandestoc,Awl Pike,0
+Falchion,Spear,Short Sword,0
+Falchion,Glaive,Rapier,0
+Falchion,Scorpion,Rapier,0
+Falchion,Corcesca,Short Sword,0
+Falchion,Trident,Firangi,0
+Falchion,Awl Pike,Executioner,0
+Falchion,Boar Spear,Windlass,0
+Falchion,Fauchard,Kris,0
+Falchion,Voulge,Boar Spear,0
+Falchion,Pole Axe,Boar Spear,0
+Falchion,Bardysh,Boar Spear,0
+Falchion,Brandestoc,Boar Spear,0
+Shotel,Spear,Firangi,0
+Shotel,Glaive,Short Sword,0
+Shotel,Scorpion,Rapier,0
+Shotel,Corcesca,Short Sword,0
+Shotel,Trident,Firangi,0
+Shotel,Awl Pike,Shamshir,0
+Shotel,Boar Spear,Claymore,0
+Shotel,Fauchard,Cranequin,0
+Shotel,Voulge,Hatchet,0
+Shotel,Pole Axe,Fauchard,0
+Shotel,Bardysh,Fauchard,0
+Shotel,Brandestoc,Fauchard,0
+Khora,Spear,Shamshir,0
+Khora,Glaive,Firangi,0
+Khora,Scorpion,Short Sword,0
+Khora,Corcesca,Short Sword,0
+Khora,Trident,Firangi,0
+Khora,Awl Pike,Shamshir,0
+Khora,Boar Spear,Falchion,0
+Khora,Fauchard,Schiavona,0
+Khora,Voulge,Lug Crossbow,0
+Khora,Pole Axe,Khukuri,0
+Khora,Bardysh,Voulge,0
+Khora,Brandestoc,Voulge,0
+Khopesh,Spear,Falchion,0
+Khopesh,Glaive,Shamshir,0
+Khopesh,Scorpion,Firangi,0
+Khopesh,Corcesca,Short Sword,0
+Khopesh,Trident,Firangi,0
+Khopesh,Awl Pike,Shamshir,0
+Khopesh,Boar Spear,Falchion,0
+Khopesh,Fauchard,Shotel,0
+Khopesh,Voulge,Bastard Sword,0
+Khopesh,Pole Axe,Siege Bow,0
+Khopesh,Bardysh,Baselard,0
+Khopesh,Brandestoc,Pole Axe,0
+Wakizashi,Spear,Shotel,0
+Wakizashi,Glaive,Falchion,0
+Wakizashi,Scorpion,Shamshir,0
+Wakizashi,Corcesca,Firangi,0
+Wakizashi,Trident,Firangi,0
+Wakizashi,Awl Pike,Shamshir,0
+Wakizashi,Boar Spear,Falchion,0
+Wakizashi,Fauchard,Shotel,0
+Wakizashi,Voulge,Khora,0
+Wakizashi,Pole Axe,Nodachi,0
+Wakizashi,Bardysh,Arbalest,0
+Wakizashi,Brandestoc,Stiletto,0
+Rhomphaia,Spear,Spear,0
+Rhomphaia,Glaive,Glaive,0
+Rhomphaia,Scorpion,Scorpion,0
+Rhomphaia,Corcesca,Corcesca,0
+Rhomphaia,Trident,Trident,0
+Rhomphaia,Awl Pike,Awl Pike,0
+Rhomphaia,Boar Spear,Boar Spear,0
+Rhomphaia,Fauchard,Fauchard,0
+Rhomphaia,Voulge,Voulge,0
+Rhomphaia,Pole Axe,Pole Axe,0
+Rhomphaia,Bardysh,Bardysh,0
+Rhomphaia,Brandestoc,Brandestoc,0

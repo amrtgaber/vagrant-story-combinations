@@ -1,40 +1,41 @@
-first slot, second slot, result, swap
-Broad Sword, Wizard Staff, Langdebeve
-Broad Sword, Clergy Rod, Wizard Staff
-Broad Sword, Summoner Baton, Clergy Rod
-Broad Sword, Shamanic Staff, Summoner Baton
-Norse Sword, Wizard Staff, Glaive
-Norse Sword, Clergy Rod, Gastraph Bow
-Norse Sword, Summoner Baton, Clergy Rod
-Norse Sword, Shamanic Staff, Claymore, Summoner Baton
-Katana, Wizard Staff, Broad Sword
-Katana, Clergy Rod, Sabre Mace
-Katana, Summoner Baton, Clergy Rod
-Katana, Shamanic Staff, Clergy Rod
-Executioner, Wizard Staff, Broad Sword
-Executioner, Clergy Rod, Scorpion
-Executioner, Summoner Baton, Light Crossbow
-Executioner, Shamanic Staff, Summoner Baton
-Claymore, Wizard Staff, Norse Sword
-Claymore, Clergy Rod, Norse Sword
-Claymore, Shamanic Staff, Summoner Baton
-Schiavona, Wizard Staff, Katana
-Schiavona, Clergy Rod, Norse Sword
-Schiavona, Summoner Baton, Corcesca
-Schiavona, Shamanic Staff, Target Bow
-Bastard Sword, Wizard Staff, Executioner
-Bastard Sword, Clergy Rod, Katana
-Bastard Sword, Summoner Baton, Katana
-Bastard Sword, Shamanic Staff, Gloomwing
-Nodachi, Wizard Staff, Claymore
-Nodachi, Clergy Rod, Executioner
-Nodachi, Summoner Baton, Katana
-Nodachi, Shamanic Staff, Trident
-Rune Blade, Wizard Staff, Schiavona
-Rune Blade, Clergy Rod, Claymore
-Rune Blade, Summoner Baton, Executioner
-Rune Blade, Shamanic Staff, Executioner
-Holy Win, Wizard Staff, Wizard Staff
-Holy Win, Clergy Rod, Clergy Rod
-Holy Win, Summoner Baton, Summoner Baton
-Holy Win, Shamanic Staff, Shamanic Staff
+slot1,slot2,result,tier_change
+Broad Sword,Wizard Staff,Langdebeve,0
+Broad Sword,Clergy Rod,Wizard Staff,0
+Broad Sword,Summoner Baton,Clergy Rod,0
+Broad Sword,Shamanic Staff,Summoner Baton,0
+Norse Sword,Wizard Staff,Glaive,0
+Norse Sword,Clergy Rod,Gastraph Bow,0
+Norse Sword,Summoner Baton,Clergy Rod,0
+Norse Sword,Shamanic Staff,Claymore,0
+Shamanic Staff,Norse Sword,Summoner Baton,0
+Katana,Wizard Staff,Broad Sword,0
+Katana,Clergy Rod,Sabre Mace,0
+Katana,Summoner Baton,Clergy Rod,0
+Katana,Shamanic Staff,Clergy Rod,0
+Executioner,Wizard Staff,Broad Sword,0
+Executioner,Clergy Rod,Scorpion,0
+Executioner,Summoner Baton,Light Crossbow,0
+Executioner,Shamanic Staff,Summoner Baton,0
+Claymore,Wizard Staff,Norse Sword,0
+Claymore,Clergy Rod,Norse Sword,0
+Claymore,Shamanic Staff,Summoner Baton,0
+Schiavona,Wizard Staff,Katana,0
+Schiavona,Clergy Rod,Norse Sword,0
+Schiavona,Summoner Baton,Corcesca,0
+Schiavona,Shamanic Staff,Target Bow,0
+Bastard Sword,Wizard Staff,Executioner,0
+Bastard Sword,Clergy Rod,Katana,0
+Bastard Sword,Summoner Baton,Katana,0
+Bastard Sword,Shamanic Staff,Gloomwing,0
+Nodachi,Wizard Staff,Claymore,0
+Nodachi,Clergy Rod,Executioner,0
+Nodachi,Summoner Baton,Katana,0
+Nodachi,Shamanic Staff,Trident,0
+Rune Blade,Wizard Staff,Schiavona,0
+Rune Blade,Clergy Rod,Claymore,0
+Rune Blade,Summoner Baton,Executioner,0
+Rune Blade,Shamanic Staff,Executioner,0
+Holy Win,Wizard Staff,Wizard Staff,0
+Holy Win,Clergy Rod,Clergy Rod,0
+Holy Win,Summoner Baton,Summoner Baton,0
+Holy Win,Shamanic Staff,Shamanic Staff,0

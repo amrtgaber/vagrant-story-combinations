@@ -1,95 +1,95 @@
-first slot, second slot, result, swap
-Battle Knife, Hand Axe, Hand Axe
-Battle Knife, Battle Axe, Hand Axe
-Battle Knife, Francisca, Battle Axe
-Battle Knife, Tabarzin, Francisca
-Battle Knife, Chamkaq, Tabarzin
-Battle Knife, Tabar, Chamkaq
-Battle Knife, Bullova, Tabar
-Battle Knife, Crescent, Bullova
-Scramasax, Hand Axe, Goblin Club
-Scramasax, Battle Axe, Battle Axe
-Scramasax, Francisca, Battle Axe
-Scramasax, Tabarzin, Battle Axe
-Scramasax, Chamkaq, Francisca
-Scramasax, Tabar, Tabarzin
-Scramasax, Bullova, Chamkaq
-Scramasax, Crescent, Tabar
-Dirk, Hand Axe, Battle Knife
-Dirk, Battle Axe, Spiked Club
-Dirk, Francisca, Francisca
-Dirk, Tabarzin, Francisca
-Dirk, Chamkaq, Francisca
-Dirk, Tabar, Francisca
-Dirk, Bullova, Tabarzin
-Dirk, Crescent, Chamkaq
-Throwing Knife, Hand Axe, Battle Knife
-Throwing Knife, Battle Axe, Scramasax
-Throwing Knife, Francisca, Ball Mace
-Throwing Knife, Tabarzin, Wizard Staff
-Throwing Knife, Chamkaq, Tabarzin
-Throwing Knife, Tabar, Tabarzin
-Throwing Knife, Bullova, Tabarzin
-Throwing Knife, Crescent, Tabarzin
-Kudi, Hand Axe, Scramasax
-Kudi, Battle Axe, Scramasax
-Kudi, Francisca, Dirk
-Kudi, Chamkaq, Clergy Rod
-Kudi, Tabar, Chamkaq
-Kudi, Bullova, Chamkaq
-Kudi, Crescent, Chamkaq
-Cinquedea, Hand Axe, Dirk
-Cinquedea, Battle Axe, Scramasax
-Cinquedea, Francisca, Dirk
-Cinquedea, Tabarzin, Guisarme
-Cinquedea, Chamkaq, Morning Star
-Cinquedea, Tabar, Summoner Baton
-Cinquedea, Bullova, Tabar
-Cinquedea, Crescent, Tabar
-Kris, Hand Axe, Throwing Knife
-Kris, Battle Axe, Dirk
-Kris, Francisca, Dirk
-Kris, Tabarzin, Throwing Knife
-Kris, Chamkaq, Large Crescent
-Kris, Tabar, War Hammer
-Kris, Bullova, Shamanic Staff
-Kris, Crescent, Bullova
-Hatchet, Hand Axe, Kudi
-Hatchet, Battle Axe, Throwing Knife
-Hatchet, Francisca, Dirk
-Hatchet, Tabarzin, Throwing Knife
-Hatchet, Chamkaq, Kudi
-Hatchet, Tabar, Sabre Halberd
-Hatchet, Bullova, Bec de Corbin
-Khukuri, Hand Axe, Cinquedea
-Khukuri, Battle Axe, Kudi
-Khukuri, Francisca, Throwing Knife
-Khukuri, Tabarzin, Throwing Knife
-Khukuri, Chamkaq, Kudi
-Khukuri, Tabar, Cinquedea
-Khukuri, Bullova, Balbriggan
-Khukuri, Crescent, War Maul
-Baselard, Hand Axe, Kris
-Baselard, Battle Axe, Cinquedea
-Baselard, Francisca, Kudi
-Baselard, Tabarzin, Throwing Knife
-Baselard, Chamkaq, Kudi
-Baselard, Tabar, Cinquedea
-Baselard, Bullova, Kris
-Baselard, Crescent, Double Blade
-Stiletto, Hand Axe, Hatchet
-Stiletto, Battle Axe, Kris
-Stiletto, Francisca, Cinquedea
-Stiletto, Tabarzin, Kudi
-Stiletto, Chamkaq, Kudi
-Stiletto, Tabar, Cinquedea
-Stiletto, Bullova, Kris
-Stiletto, Crescent, Hatchet
-Jamadhar, Hand Axe, Khukuri
-Jamadhar, Battle Axe, Hatchet
-Jamadhar, Francisca, Kris
-Jamadhar, Tabarzin, Cinquedea
-Jamadhar, Chamkaq, Kudi
-Jamadhar, Tabar, Cinquedea
-Jamadhar, Bullova, Kris
-Jamadhar, Crescent, Hatchet
+slot1,slot2,result,tier_change
+Battle Knife,Hand Axe,Hand Axe,0
+Battle Knife,Battle Axe,Hand Axe,0
+Battle Knife,Francisca,Battle Axe,0
+Battle Knife,Tabarzin,Francisca,0
+Battle Knife,Chamkaq,Tabarzin,0
+Battle Knife,Tabar,Chamkaq,0
+Battle Knife,Bullova,Tabar,0
+Battle Knife,Crescent,Bullova,0
+Scramasax,Hand Axe,Goblin Club,0
+Scramasax,Battle Axe,Battle Axe,0
+Scramasax,Francisca,Battle Axe,0
+Scramasax,Tabarzin,Battle Axe,0
+Scramasax,Chamkaq,Francisca,0
+Scramasax,Tabar,Tabarzin,0
+Scramasax,Bullova,Chamkaq,0
+Scramasax,Crescent,Tabar,0
+Dirk,Hand Axe,Battle Knife,0
+Dirk,Battle Axe,Spiked Club,0
+Dirk,Francisca,Francisca,0
+Dirk,Tabarzin,Francisca,0
+Dirk,Chamkaq,Francisca,0
+Dirk,Tabar,Francisca,0
+Dirk,Bullova,Tabarzin,0
+Dirk,Crescent,Chamkaq,0
+Throwing Knife,Hand Axe,Battle Knife,0
+Throwing Knife,Battle Axe,Scramasax,0
+Throwing Knife,Francisca,Ball Mace,0
+Throwing Knife,Tabarzin,Wizard Staff,0
+Throwing Knife,Chamkaq,Tabarzin,0
+Throwing Knife,Tabar,Tabarzin,0
+Throwing Knife,Bullova,Tabarzin,0
+Throwing Knife,Crescent,Tabarzin,0
+Kudi,Hand Axe,Scramasax,0
+Kudi,Battle Axe,Scramasax,0
+Kudi,Francisca,Dirk,0
+Kudi,Chamkaq,Clergy Rod,0
+Kudi,Tabar,Chamkaq,0
+Kudi,Bullova,Chamkaq,0
+Kudi,Crescent,Chamkaq,0
+Cinquedea,Hand Axe,Dirk,0
+Cinquedea,Battle Axe,Scramasax,0
+Cinquedea,Francisca,Dirk,0
+Cinquedea,Tabarzin,Guisarme,0
+Cinquedea,Chamkaq,Morning Star,0
+Cinquedea,Tabar,Summoner Baton,0
+Cinquedea,Bullova,Tabar,0
+Cinquedea,Crescent,Tabar,0
+Kris,Hand Axe,Throwing Knife,0
+Kris,Battle Axe,Dirk,0
+Kris,Francisca,Dirk,0
+Kris,Tabarzin,Throwing Knife,0
+Kris,Chamkaq,Large Crescent,0
+Kris,Tabar,War Hammer,0
+Kris,Bullova,Shamanic Staff,0
+Kris,Crescent,Bullova,0
+Hatchet,Hand Axe,Kudi,0
+Hatchet,Battle Axe,Throwing Knife,0
+Hatchet,Francisca,Dirk,0
+Hatchet,Tabarzin,Throwing Knife,0
+Hatchet,Chamkaq,Kudi,0
+Hatchet,Tabar,Sabre Halberd,0
+Hatchet,Bullova,Bec de Corbin,0
+Khukuri,Hand Axe,Cinquedea,0
+Khukuri,Battle Axe,Kudi,0
+Khukuri,Francisca,Throwing Knife,0
+Khukuri,Tabarzin,Throwing Knife,0
+Khukuri,Chamkaq,Kudi,0
+Khukuri,Tabar,Cinquedea,0
+Khukuri,Bullova,Balbriggan,0
+Khukuri,Crescent,War Maul,0
+Baselard,Hand Axe,Kris,0
+Baselard,Battle Axe,Cinquedea,0
+Baselard,Francisca,Kudi,0
+Baselard,Tabarzin,Throwing Knife,0
+Baselard,Chamkaq,Kudi,0
+Baselard,Tabar,Cinquedea,0
+Baselard,Bullova,Kris,0
+Baselard,Crescent,Double Blade,0
+Stiletto,Hand Axe,Hatchet,0
+Stiletto,Battle Axe,Kris,0
+Stiletto,Francisca,Cinquedea,0
+Stiletto,Tabarzin,Kudi,0
+Stiletto,Chamkaq,Kudi,0
+Stiletto,Tabar,Cinquedea,0
+Stiletto,Bullova,Kris,0
+Stiletto,Crescent,Hatchet,0
+Jamadhar,Hand Axe,Khukuri,0
+Jamadhar,Battle Axe,Hatchet,0
+Jamadhar,Francisca,Kris,0
+Jamadhar,Tabarzin,Cinquedea,0
+Jamadhar,Chamkaq,Kudi,0
+Jamadhar,Tabar,Cinquedea,0
+Jamadhar,Bullova,Kris,0
+Jamadhar,Crescent,Hatchet,0

@@ -1,120 +1,120 @@
-first slot, second slot, result, swap
-Battle Knife, Broad Sword, Broad Sword
-Battle Knife, Norse Sword, Broad Sword
-Battle Knife, Katana, Broad Sword
-Battle Knife, Executioner, Norse Sword
-Battle Knife, Claymore, Katana
-Battle Knife, Schiavona, Executioner
-Battle Knife, Bastard Sword, Claymore
-Battle Knife, Nodachi, Schiavona
-Battle Knife, Rune Blade, Bastard Sword
-Battle Knife, Holy Win, Battle Knife
-Scramasax, Broad Sword, Battle Knife
-Scramasax, Norse Sword, Hand Axe
-Scramasax, Katana, Norse Sword
-Scramasax, Executioner, Norse Sword
-Scramasax, Claymore, Norse Sword
-Scramasax, Schiavona, Katana
-Scramasax, Bastard Sword, Executioner
-Scramasax, Nodachi, Claymore
-Scramasax, Rune Blade, Schiavona
-Scramasax, Holy Win, Scramasax
-Dirk, Broad Sword, Battle Knife
-Dirk, Norse Sword, Battle Knife
-Dirk, Katana, Battle Axe
-Dirk, Executioner, Katana
-Dirk, Claymore, Katana
-Dirk, Schiavona, Katana
-Dirk, Bastard Sword, Katana
-Dirk, Nodachi, Executioner
-Dirk, Rune Blade, Claymore
-Dirk, Holy Win, Dirk
-Throwing Knife, Broad Sword, Battle Knife
-Throwing Knife, Norse Sword, Scramasax
-Throwing Knife, Katana, Goblin Club
-Throwing Knife, Executioner, Francisca
-Throwing Knife, Claymore, Guisarme
-Throwing Knife, Schiavona, Executioner
-Throwing Knife, Bastard Sword, Executioner
-Throwing Knife, Nodachi, Executioner
-Throwing Knife, Rune Blade, Executioner
-Throwing Knife, Holy Win, Throwing Knife
-Kudi, Broad Sword, Scramasax
-Kudi, Norse Sword, Scramasax
-Kudi, Katana, Dirk
-Kudi, Executioner, Spiked Club
-Kudi, Claymore, Tabarzin
-Kudi, Schiavona, Large Crescent
-Kudi, Bastard Sword, Claymore
-Kudi, Nodachi, Claymore
-Kudi, Rune Blade, Claymore
-Kudi, Holy Win, Kudi
-Cinquedea, Broad Sword, Dirk
-Cinquedea, Norse Sword, Scramasax
-Cinquedea, Katana, Dirk
-Cinquedea, Executioner, Throwing Knife
-Cinquedea, Claymore, Ball Mace
-Cinquedea, Schiavona, Chamkaq
-Cinquedea, Bastard Sword, Sabre Halberd
-Cinquedea, Nodachi, Schiavona
-Cinquedea, Rune Blade, Schiavona
-Cinquedea, Holy Win, Cinquedea
-Kris, Broad Sword, Throwing Knife
-Kris, Norse Sword, Dirk
-Kris, Katana, Dirk
-Kris, Executioner, Throwing Knife
-Kris, Claymore, Kudi
-Kris, Bastard Sword, Tabar
-Kris, Nodachi, Balbriggan
-Kris, Rune Blade, Bastard Sword
-Kris, Holy Win, Kris
-Hatchet, Broad Sword, Kudi
-Hatchet, Norse Sword, Throwing Knife
-Hatchet, Katana, Dirk
-Hatchet, Executioner, Throwing Knife
-Hatchet, Claymore, Kudi
-Hatchet, Schiavona, Cinquedea
-Hatchet, Bastard Sword, Morning Star
-Hatchet, Nodachi, Bullova
-Hatchet, Rune Blade, Double Blade
-Hatchet, Holy Win, Hatchet
-Khukuri, Broad Sword, Cinquedea
-Khukuri, Norse Sword, Kudi
-Khukuri, Katana, Throwing Knife
-Khukuri, Executioner, Throwing Knife
-Khukuri, Claymore, Kudi
-Khukuri, Schiavona, Cinquedea
-Khukuri, Bastard Sword, Kris
-Khukuri, Nodachi, War Hammer
-Khukuri, Rune Blade, Crescent
-Khukuri, Holy Win, Khukuri
-Baselard, Broad Sword, Kris
-Baselard, Norse Sword, Cinquedea
-Baselard, Katana, Kudi
-Baselard, Executioner, Throwing Knife
-Baselard, Claymore, Kudi
-Baselard, Schiavona, Cinquedea
-Baselard, Bastard Sword, Kris
-Baselard, Nodachi, Hatchet
-Baselard, Rune Blade, Bec de Corbin
-Baselard, Holy Win, Baselard
-Stiletto, Broad Sword, Hatchet
-Stiletto, Norse Sword, Kris
-Stiletto, Katana, Cinquedea
-Stiletto, Executioner, Kudi
-Stiletto, Claymore, Kudi
-Stiletto, Schiavona, Cinquedea
-Stiletto, Bastard Sword, Kris
-Stiletto, Nodachi, Hatchet
-Stiletto, Rune Blade, Khukuri
-Stiletto, Holy Win, Stiletto
-Jamadhar, Broad Sword, Khukuri
-Jamadhar, Norse Sword, Hatchet
-Jamadhar, Katana, Kris
-Jamadhar, Executioner, Cinquedea
-Jamadhar, Claymore, Kudi
-Jamadhar, Schiavona, Cinquedea
-Jamadhar, Bastard Sword, Kris
-Jamadhar, Nodachi, Hatchet
-Jamadhar, Rune Blade, Khukuri
-Jamadhar, Holy Win, Jamadhar
+slot1,slot2,result,tier_change
+Battle Knife,Broad Sword,Broad Sword,0
+Battle Knife,Norse Sword,Broad Sword,0
+Battle Knife,Katana,Broad Sword,0
+Battle Knife,Executioner,Norse Sword,0
+Battle Knife,Claymore,Katana,0
+Battle Knife,Schiavona,Executioner,0
+Battle Knife,Bastard Sword,Claymore,0
+Battle Knife,Nodachi,Schiavona,0
+Battle Knife,Rune Blade,Bastard Sword,0
+Battle Knife,Holy Win,Battle Knife,0
+Scramasax,Broad Sword,Battle Knife,0
+Scramasax,Norse Sword,Hand Axe,0
+Scramasax,Katana,Norse Sword,0
+Scramasax,Executioner,Norse Sword,0
+Scramasax,Claymore,Norse Sword,0
+Scramasax,Schiavona,Katana,0
+Scramasax,Bastard Sword,Executioner,0
+Scramasax,Nodachi,Claymore,0
+Scramasax,Rune Blade,Schiavona,0
+Scramasax,Holy Win,Scramasax,0
+Dirk,Broad Sword,Battle Knife,0
+Dirk,Norse Sword,Battle Knife,0
+Dirk,Katana,Battle Axe,0
+Dirk,Executioner,Katana,0
+Dirk,Claymore,Katana,0
+Dirk,Schiavona,Katana,0
+Dirk,Bastard Sword,Katana,0
+Dirk,Nodachi,Executioner,0
+Dirk,Rune Blade,Claymore,0
+Dirk,Holy Win,Dirk,0
+Throwing Knife,Broad Sword,Battle Knife,0
+Throwing Knife,Norse Sword,Scramasax,0
+Throwing Knife,Katana,Goblin Club,0
+Throwing Knife,Executioner,Francisca,0
+Throwing Knife,Claymore,Guisarme,0
+Throwing Knife,Schiavona,Executioner,0
+Throwing Knife,Bastard Sword,Executioner,0
+Throwing Knife,Nodachi,Executioner,0
+Throwing Knife,Rune Blade,Executioner,0
+Throwing Knife,Holy Win,Throwing Knife,0
+Kudi,Broad Sword,Scramasax,0
+Kudi,Norse Sword,Scramasax,0
+Kudi,Katana,Dirk,0
+Kudi,Executioner,Spiked Club,0
+Kudi,Claymore,Tabarzin,0
+Kudi,Schiavona,Large Crescent,0
+Kudi,Bastard Sword,Claymore,0
+Kudi,Nodachi,Claymore,0
+Kudi,Rune Blade,Claymore,0
+Kudi,Holy Win,Kudi,0
+Cinquedea,Broad Sword,Dirk,0
+Cinquedea,Norse Sword,Scramasax,0
+Cinquedea,Katana,Dirk,0
+Cinquedea,Executioner,Throwing Knife,0
+Cinquedea,Claymore,Ball Mace,0
+Cinquedea,Schiavona,Chamkaq,0
+Cinquedea,Bastard Sword,Sabre Halberd,0
+Cinquedea,Nodachi,Schiavona,0
+Cinquedea,Rune Blade,Schiavona,0
+Cinquedea,Holy Win,Cinquedea,0
+Kris,Broad Sword,Throwing Knife,0
+Kris,Norse Sword,Dirk,0
+Kris,Katana,Dirk,0
+Kris,Executioner,Throwing Knife,0
+Kris,Claymore,Kudi,0
+Kris,Bastard Sword,Tabar,0
+Kris,Nodachi,Balbriggan,0
+Kris,Rune Blade,Bastard Sword,0
+Kris,Holy Win,Kris,0
+Hatchet,Broad Sword,Kudi,0
+Hatchet,Norse Sword,Throwing Knife,0
+Hatchet,Katana,Dirk,0
+Hatchet,Executioner,Throwing Knife,0
+Hatchet,Claymore,Kudi,0
+Hatchet,Schiavona,Cinquedea,0
+Hatchet,Bastard Sword,Morning Star,0
+Hatchet,Nodachi,Bullova,0
+Hatchet,Rune Blade,Double Blade,0
+Hatchet,Holy Win,Hatchet,0
+Khukuri,Broad Sword,Cinquedea,0
+Khukuri,Norse Sword,Kudi,0
+Khukuri,Katana,Throwing Knife,0
+Khukuri,Executioner,Throwing Knife,0
+Khukuri,Claymore,Kudi,0
+Khukuri,Schiavona,Cinquedea,0
+Khukuri,Bastard Sword,Kris,0
+Khukuri,Nodachi,War Hammer,0
+Khukuri,Rune Blade,Crescent,0
+Khukuri,Holy Win,Khukuri,0
+Baselard,Broad Sword,Kris,0
+Baselard,Norse Sword,Cinquedea,0
+Baselard,Katana,Kudi,0
+Baselard,Executioner,Throwing Knife,0
+Baselard,Claymore,Kudi,0
+Baselard,Schiavona,Cinquedea,0
+Baselard,Bastard Sword,Kris,0
+Baselard,Nodachi,Hatchet,0
+Baselard,Rune Blade,Bec de Corbin,0
+Baselard,Holy Win,Baselard,0
+Stiletto,Broad Sword,Hatchet,0
+Stiletto,Norse Sword,Kris,0
+Stiletto,Katana,Cinquedea,0
+Stiletto,Executioner,Kudi,0
+Stiletto,Claymore,Kudi,0
+Stiletto,Schiavona,Cinquedea,0
+Stiletto,Bastard Sword,Kris,0
+Stiletto,Nodachi,Hatchet,0
+Stiletto,Rune Blade,Khukuri,0
+Stiletto,Holy Win,Stiletto,0
+Jamadhar,Broad Sword,Khukuri,0
+Jamadhar,Norse Sword,Hatchet,0
+Jamadhar,Katana,Kris,0
+Jamadhar,Executioner,Cinquedea,0
+Jamadhar,Claymore,Kudi,0
+Jamadhar,Schiavona,Cinquedea,0
+Jamadhar,Bastard Sword,Kris,0
+Jamadhar,Nodachi,Hatchet,0
+Jamadhar,Rune Blade,Khukuri,0
+Jamadhar,Holy Win,Jamadhar,0

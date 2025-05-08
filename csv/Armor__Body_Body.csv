@@ -1,137 +1,137 @@
-first slot, second slot, result, swap
-Jerkin, Jerkin, Jerkin
-Jerkin, Hauberk, Hauberk
-Jerkin, Wizard Robe, Wizard Robe
-Jerkin, Cuirass, Cuirass
-Jerkin, Banded Mail, Banded Mail
-Jerkin, Ring Mail, Banded Mail
-Jerkin, Chain Mail, +Breastplate
-Jerkin, Breastplate, Banded Mail
-Jerkin, Segmentata, Ring Mail
-Jerkin, Scale Armor, Chain Mail
-Jerkin, Brigandine, Breastplate
-Jerkin, Plate Mail, Segmentata
-Jerkin, Fluted Armor, Scale Armor
-Jerkin, Hoplite Armor, Brigandine
-Jerkin, Jazeraint Armor, Plate Mail
-Jerkin, Dread Armor, Fluted Armor
-Hauberk, Hauberk, Hauberk
-Hauberk, Wizard Robe, Wizard Robe
-Hauberk, Cuirass, Cuirass
-Hauberk, Banded Mail, Banded Mail
-Hauberk, Ring Mail, Banded Mail
-Hauberk, Chain Mail, +Segmentata
-Hauberk, Breastplate, Banded Mail
-Hauberk, Segmentata, Banded Mail
-Hauberk, Scale Armor, Ring Mail
-Hauberk, Brigandine, Chain Mail
-Hauberk, Plate Mail, Breastplate
-Hauberk, Fluted Armor, Segmentata
-Hauberk, Hoplite Armor, Scale Armor
-Hauberk, Jazeraint Armor, Brigandine
-Hauberk, Dread Armor, Plate Mail
-Wizard Robe, Wizard Robe, Wizard Robe
-Wizard Robe, Cuirass, Cuirass
-Wizard Robe, Banded Mail, Banded Mail
-Wizard Robe, Ring Mail, +Breastplate
-Wizard Robe, Chain Mail, Banded Mail
-Wizard Robe, Breastplate, Banded Mail
-Wizard Robe, Segmentata, Banded Mail
-Wizard Robe, Scale Armor, Ring Mail
-Wizard Robe, Brigandine, Ring Mail
-Wizard Robe, Plate Mail, Chain Mail
-Wizard Robe, Fluted Armor, Breastplate
-Wizard Robe, Hoplite Armor, Segmentata
-Wizard Robe, Jazeraint Armor, Scale Armor
-Wizard Robe, Dread Armor, Brigandine
-Cuirass, Cuirass, Cuirass
-Cuirass, Banded Mail, +Ring Mail
-Cuirass, Ring Mail, Ring Mail
-Cuirass, Chain Mail, Banded Mail
-Cuirass, Breastplate, +Segmentata
-Cuirass, Segmentata, Banded Mail
-Cuirass, Scale Armor, Chain Mail
-Cuirass, Brigandine, Breastplate
-Cuirass, Plate Mail, Ring Mail
-Cuirass, Fluted Armor, Chain Mail
-Cuirass, Hoplite Armor, Breastplate
-Cuirass, Jazeraint Armor, Segmentata
-Cuirass, Dread Armor, Scale Armor
-Banded Mail, Banded Mail, Banded Mail
-Banded Mail, Ring Mail, +Chain Mail
-Banded Mail, Chain Mail, Chain Mail
-Banded Mail, Breastplate, Breastplate
-Banded Mail, Segmentata, Chain Mail
-Banded Mail, Scale Armor, Banded Mail
-Banded Mail, Brigandine, Chain Mail
-Banded Mail, Plate Mail, Banded Mail
-Banded Mail, Fluted Armor, Ring Mail
-Banded Mail, Hoplite Armor, Chain Mail
-Banded Mail, Jazeraint Armor, Breastplate
-Banded Mail, Dread Armor, Segmentata
-Ring Mail, Ring Mail, Ring Mail
-Ring Mail, Chain Mail, +Breastplate
-Ring Mail, Breastplate, -Banded Mail
-Ring Mail, Segmentata, -Banded Mail
-Ring Mail, Scale Armor, Breastplate
-Ring Mail, Brigandine, Ring Mail
-Ring Mail, Plate Mail, Segmentata
-Ring Mail, Fluted Armor, Scale Armor
-Ring Mail, Hoplite Armor, Ring Mail
-Ring Mail, Jazeraint Armor, Chain Mail
-Ring Mail, Dread Armor, Breastplate
-Chain Mail, Chain Mail, Chain Mail
-Chain Mail, Breastplate, +Segmentata
-Chain Mail, Segmentata, +Scale Armor
-Chain Mail, Scale Armor, -Banded Mail
-Chain Mail, Brigandine, Scale Armor
-Chain Mail, Plate Mail, -Banded Mail
-Chain Mail, Fluted Armor, Scale Armor
-Chain Mail, Hoplite Armor, Breastplate
-Chain Mail, Jazeraint Armor, -Ring Mail
-Chain Mail, Dread Armor, Chain Mail
-Breastplate, Breastplate, Breastplate
-Breastplate, Segmentata, +Scale Armor
-Breastplate, Scale Armor, +Brigandine
-Breastplate, Brigandine, +Plate Mail
-Breastplate, Plate Mail, Scale Armor
-Breastplate, Fluted Armor, Plate Mail
-Breastplate, Hoplite Armor, Fluted Armor
-Breastplate, Jazeraint Armor, -Banded Mail
-Breastplate, Dread Armor, -Ring Mail
-Segmentata, Segmentata, Segmentata
-Segmentata, Scale Armor, +Brigandine
-Segmentata, Brigandine, Segmentata
-Segmentata, Plate Mail, Brigandine
-Segmentata, Fluted Armor, -Banded Mail
-Segmentata, Hoplite Armor, Plate Mail
-Segmentata, Jazeraint Armor, Segmentata
-Segmentata, Dread Armor, Plate Mail
-Scale Armor, Scale Armor, Scale Armor
-Scale Armor, Brigandine, +Plate Mail
-Scale Armor, Plate Mail, -Banded Mail
-Scale Armor, Fluted Armor, Brigandine
-Scale Armor, Hoplite Armor, -Ring Mail
-Scale Armor, Jazeraint Armor, Fluted Armor
-Scale Armor, Dread Armor, -Banded Mail
-Brigandine, Brigandine, Brigandine
-Brigandine, Plate Mail, +Fluted Armor
-Brigandine, Fluted Armor, Brigandine
-Brigandine, Hoplite Armor, Plate Mail
-Brigandine, Jazeraint Armor, -Scale Armor
-Brigandine, Dread Armor, Fluted Armor
-Plate Mail, Plate Mail, Plate Mail
-Plate Mail, Fluted Armor, +Hoplite Armor
-Plate Mail, Hoplite Armor, -Brigandine
-Plate Mail, Jazeraint Armor, -Brigandine
-Plate Mail, Dread Armor, -Scale Armor
-Fluted Armor, Fluted Armor, Fluted Armor
-Fluted Armor, Hoplite Armor, -Scale Armor
-Fluted Armor, Jazeraint Armor, Fluted Armor
-Fluted Armor, Dread Armor, -Scale Armor
-Hoplite Armor, Hoplite Armor, +Jazeraint Armor
-Hoplite Armor, Jazeraint Armor, -Banded Mail
-Hoplite Armor, Dread Armor, -Plate Mail
-Jazeraint Armor, Jazeraint Armor, +Dread Armor
-Jazeraint Armor, Dread Armor, -Banded Mail
-Dread Armor, Dread Armor, Dread Armor
+slot1,slot2,result,tier_change
+Jerkin,Jerkin,Jerkin,0
+Jerkin,Hauberk,Hauberk,0
+Jerkin,Wizard Robe,Wizard Robe,0
+Jerkin,Cuirass,Cuirass,0
+Jerkin,Banded Mail,Banded Mail,0
+Jerkin,Ring Mail,Banded Mail,0
+Jerkin,Chain Mail,Breastplate,1
+Jerkin,Breastplate,Banded Mail,0
+Jerkin,Segmentata,Ring Mail,0
+Jerkin,Scale Armor,Chain Mail,0
+Jerkin,Brigandine,Breastplate,0
+Jerkin,Plate Mail,Segmentata,0
+Jerkin,Fluted Armor,Scale Armor,0
+Jerkin,Hoplite Armor,Brigandine,0
+Jerkin,Jazeraint Armor,Plate Mail,0
+Jerkin,Dread Armor,Fluted Armor,0
+Hauberk,Hauberk,Hauberk,0
+Hauberk,Wizard Robe,Wizard Robe,0
+Hauberk,Cuirass,Cuirass,0
+Hauberk,Banded Mail,Banded Mail,0
+Hauberk,Ring Mail,Banded Mail,0
+Hauberk,Chain Mail,Segmentata,1
+Hauberk,Breastplate,Banded Mail,0
+Hauberk,Segmentata,Banded Mail,0
+Hauberk,Scale Armor,Ring Mail,0
+Hauberk,Brigandine,Chain Mail,0
+Hauberk,Plate Mail,Breastplate,0
+Hauberk,Fluted Armor,Segmentata,0
+Hauberk,Hoplite Armor,Scale Armor,0
+Hauberk,Jazeraint Armor,Brigandine,0
+Hauberk,Dread Armor,Plate Mail,0
+Wizard Robe,Wizard Robe,Wizard Robe,0
+Wizard Robe,Cuirass,Cuirass,0
+Wizard Robe,Banded Mail,Banded Mail,0
+Wizard Robe,Ring Mail,Breastplate,1
+Wizard Robe,Chain Mail,Banded Mail,0
+Wizard Robe,Breastplate,Banded Mail,0
+Wizard Robe,Segmentata,Banded Mail,0
+Wizard Robe,Scale Armor,Ring Mail,0
+Wizard Robe,Brigandine,Ring Mail,0
+Wizard Robe,Plate Mail,Chain Mail,0
+Wizard Robe,Fluted Armor,Breastplate,0
+Wizard Robe,Hoplite Armor,Segmentata,0
+Wizard Robe,Jazeraint Armor,Scale Armor,0
+Wizard Robe,Dread Armor,Brigandine,0
+Cuirass,Cuirass,Cuirass,0
+Cuirass,Banded Mail,Ring Mail,1
+Cuirass,Ring Mail,Ring Mail,0
+Cuirass,Chain Mail,Banded Mail,0
+Cuirass,Breastplate,Segmentata,1
+Cuirass,Segmentata,Banded Mail,0
+Cuirass,Scale Armor,Chain Mail,0
+Cuirass,Brigandine,Breastplate,0
+Cuirass,Plate Mail,Ring Mail,0
+Cuirass,Fluted Armor,Chain Mail,0
+Cuirass,Hoplite Armor,Breastplate,0
+Cuirass,Jazeraint Armor,Segmentata,0
+Cuirass,Dread Armor,Scale Armor,0
+Banded Mail,Banded Mail,Banded Mail,0
+Banded Mail,Ring Mail,Chain Mail,1
+Banded Mail,Chain Mail,Chain Mail,0
+Banded Mail,Breastplate,Breastplate,0
+Banded Mail,Segmentata,Chain Mail,0
+Banded Mail,Scale Armor,Banded Mail,0
+Banded Mail,Brigandine,Chain Mail,0
+Banded Mail,Plate Mail,Banded Mail,0
+Banded Mail,Fluted Armor,Ring Mail,0
+Banded Mail,Hoplite Armor,Chain Mail,0
+Banded Mail,Jazeraint Armor,Breastplate,0
+Banded Mail,Dread Armor,Segmentata,0
+Ring Mail,Ring Mail,Ring Mail,0
+Ring Mail,Chain Mail,Breastplate,1
+Ring Mail,Breastplate,Banded Mail,-1
+Ring Mail,Segmentata,Banded Mail,-1
+Ring Mail,Scale Armor,Breastplate,0
+Ring Mail,Brigandine,Ring Mail,0
+Ring Mail,Plate Mail,Segmentata,0
+Ring Mail,Fluted Armor,Scale Armor,0
+Ring Mail,Hoplite Armor,Ring Mail,0
+Ring Mail,Jazeraint Armor,Chain Mail,0
+Ring Mail,Dread Armor,Breastplate,0
+Chain Mail,Chain Mail,Chain Mail,0
+Chain Mail,Breastplate,Segmentata,1
+Chain Mail,Segmentata,Scale Armor,1
+Chain Mail,Scale Armor,Banded Mail,-1
+Chain Mail,Brigandine,Scale Armor,0
+Chain Mail,Plate Mail,Banded Mail,-1
+Chain Mail,Fluted Armor,Scale Armor,0
+Chain Mail,Hoplite Armor,Breastplate,0
+Chain Mail,Jazeraint Armor,Ring Mail,-1
+Chain Mail,Dread Armor,Chain Mail,0
+Breastplate,Breastplate,Breastplate,0
+Breastplate,Segmentata,Scale Armor,1
+Breastplate,Scale Armor,Brigandine,1
+Breastplate,Brigandine,Plate Mail,1
+Breastplate,Plate Mail,Scale Armor,0
+Breastplate,Fluted Armor,Plate Mail,0
+Breastplate,Hoplite Armor,Fluted Armor,0
+Breastplate,Jazeraint Armor,Banded Mail,-1
+Breastplate,Dread Armor,Ring Mail,-1
+Segmentata,Segmentata,Segmentata,0
+Segmentata,Scale Armor,Brigandine,1
+Segmentata,Brigandine,Segmentata,0
+Segmentata,Plate Mail,Brigandine,0
+Segmentata,Fluted Armor,Banded Mail,-1
+Segmentata,Hoplite Armor,Plate Mail,0
+Segmentata,Jazeraint Armor,Segmentata,0
+Segmentata,Dread Armor,Plate Mail,0
+Scale Armor,Scale Armor,Scale Armor,0
+Scale Armor,Brigandine,Plate Mail,1
+Scale Armor,Plate Mail,Banded Mail,-1
+Scale Armor,Fluted Armor,Brigandine,0
+Scale Armor,Hoplite Armor,Ring Mail,-1
+Scale Armor,Jazeraint Armor,Fluted Armor,0
+Scale Armor,Dread Armor,Banded Mail,-1
+Brigandine,Brigandine,Brigandine,0
+Brigandine,Plate Mail,Fluted Armor,1
+Brigandine,Fluted Armor,Brigandine,0
+Brigandine,Hoplite Armor,Plate Mail,0
+Brigandine,Jazeraint Armor,Scale Armor,-1
+Brigandine,Dread Armor,Fluted Armor,0
+Plate Mail,Plate Mail,Plate Mail,0
+Plate Mail,Fluted Armor,Hoplite Armor,1
+Plate Mail,Hoplite Armor,Brigandine,-1
+Plate Mail,Jazeraint Armor,Brigandine,-1
+Plate Mail,Dread Armor,Scale Armor,-1
+Fluted Armor,Fluted Armor,Fluted Armor,0
+Fluted Armor,Hoplite Armor,Scale Armor,-1
+Fluted Armor,Jazeraint Armor,Fluted Armor,0
+Fluted Armor,Dread Armor,Scale Armor,-1
+Hoplite Armor,Hoplite Armor,Jazeraint Armor,1
+Hoplite Armor,Jazeraint Armor,Banded Mail,-1
+Hoplite Armor,Dread Armor,Plate Mail,-1
+Jazeraint Armor,Jazeraint Armor,Dread Armor,1
+Jazeraint Armor,Dread Armor,Banded Mail,-1
+Dread Armor,Dread Armor,Dread Armor,0

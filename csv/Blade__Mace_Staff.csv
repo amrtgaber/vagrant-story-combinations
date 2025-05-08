@@ -1,24 +1,24 @@
-first slot, second slot, result, swap
-Goblin Club, Wizard Staff, Gastraph Bow
-Goblin Club, Clergy Rod, Wizard Staff
-Goblin Club, Summoner Baton, Clergy Rod
-Goblin Club, Shamanic Staff, Summoner Baton
-Spiked Club, Wizard Staff, Langdebeve
-Spiked Club, Clergy Rod, Light Crossbow
-Spiked Club, Summoner Baton, Clergy Rod
-Spiked Club, Shamanic Staff, Clergy Rod
-Ball Mace, Wizard Staff, Spear
-Ball Mace, Clergy Rod, Sabre Mace
-Ball Mace, Summoner Baton, Target Bow
-Ball Mace, Shamanic Staff, Summoner Baton
-Morning Star, Wizard Staff, Ball Mace
-Morning Star, Clergy Rod, Spiked Club
-Morning Star, Summoner Baton, Scorpion
-Morning Star, Shamanic Staff, Gloomwing
-War Hammer, Clergy Rod, Ball Mace
-War Hammer, Summoner Baton, Ball Mace
-War Hammer, Shamanic Staff, Corcesca
-Bec de Corbin, Wizard Staff, Morning Star
-Bec de Corbin, Summoner Baton, Ball Mace
-War Maul, Wizard Staff, War Hammer
-War Maul, Clergy Rod, Morning Star
+slot1,slot2,result,tier_change
+Goblin Club,Wizard Staff,Gastraph Bow,0
+Goblin Club,Clergy Rod,Wizard Staff,0
+Goblin Club,Summoner Baton,Clergy Rod,0
+Goblin Club,Shamanic Staff,Summoner Baton,0
+Spiked Club,Wizard Staff,Langdebeve,0
+Spiked Club,Clergy Rod,Light Crossbow,0
+Spiked Club,Summoner Baton,Clergy Rod,0
+Spiked Club,Shamanic Staff,Clergy Rod,0
+Ball Mace,Wizard Staff,Spear,0
+Ball Mace,Clergy Rod,Sabre Mace,0
+Ball Mace,Summoner Baton,Target Bow,0
+Ball Mace,Shamanic Staff,Summoner Baton,0
+Morning Star,Wizard Staff,Ball Mace,0
+Morning Star,Clergy Rod,Spiked Club,0
+Morning Star,Summoner Baton,Scorpion,0
+Morning Star,Shamanic Staff,Gloomwing,0
+War Hammer,Clergy Rod,Ball Mace,0
+War Hammer,Summoner Baton,Ball Mace,0
+War Hammer,Shamanic Staff,Corcesca,0
+Bec de Corbin,Wizard Staff,Morning Star,0
+Bec de Corbin,Summoner Baton,Ball Mace,0
+War Maul,Wizard Staff,War Hammer,0
+War Maul,Clergy Rod,Morning Star,0

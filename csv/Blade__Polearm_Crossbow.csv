@@ -1,97 +1,102 @@
-first slot, second slot, result, swap
-Spear, Gastraph Bow, Spear
-Spear, Light Crossbow, Broad Sword
-Spear, Target Bow, Light Crossbow
-Spear, Windlass, Light Crossbow
-Spear, Cranequin, Light Crossbow
-Spear, Lug Crossbow, Target Bow
-Spear, Siege Bow, Windlass
-Spear, Arbalest, Cranequin
-Glaive, Gastraph Bow, Spear
-Glaive, Light Crossbow, Battle Knife
-Glaive, Target Bow, Light Crossbow
-Glaive, Windlass, Light Crossbow
-Glaive, Cranequin, Light Crossbow
-Glaive, Lug Crossbow, Light Crossbow
-Glaive, Siege Bow, Target Bow
-Glaive, Arbalest, Windlass
-Scorpion, Gastraph Bow, Spear
-Scorpion, Light Crossbow, Spatha
-Scorpion, Target Bow, Norse Sword
-Scorpion, Windlass, Target Bow
-Scorpion, Cranequin, Target Bow
-Scorpion, Lug Crossbow, Target Bow
-Scorpion, Siege Bow, Target Bow
-Scorpion, Arbalest, Windlass
-Corcesca, Gastraph Bow, Spear
-Corcesca, Light Crossbow, Glaive
-Corcesca, Target Bow, Scramasax
-Corcesca, Windlass, Windlass, Target Bow
-Corcesca, Cranequin, Windlass, Target Bow
-Corcesca, Lug Crossbow, Windlass, Target Bow
-Corcesca, Siege Bow, Windlass, Target Bow
-Corcesca, Arbalest, Windlass, Target Bow
-Trident, Gastraph Bow, Glaive
-Trident, Light Crossbow, Glaive
-Trident, Target Bow, Scimitar
-Trident, Windlass, Katana
-Trident, Cranequin, Windlass
-Trident, Lug Crossbow, Windlass
-Trident, Siege Bow, Windlass
-Trident, Arbalest, Windlass
-Awl Pike, Gastraph Bow, Scorpion
-Awl Pike, Light Crossbow, Glaive
-Awl Pike, Target Bow, Scorpion
-Awl Pike, Windlass, Dirk
-Awl Pike, Cranequin, Windlass
-Awl Pike, Lug Crossbow, Windlass
-Awl Pike, Siege Bow, Windlass
-Awl Pike, Arbalest, Windlass
-Boar Spear, Gastraph Bow, Corcesca
-Boar Spear, Light Crossbow, Scorpion
-Boar Spear, Target Bow, Scorpion
-Boar Spear, Windlass, Rapier
-Boar Spear, Cranequin, Executioner
-Boar Spear, Lug Crossbow, Cranequin
-Boar Spear, Siege Bow, Cranequin
-Boar Spear, Arbalest, Cranequin
-Fauchard, Gastraph Bow, Trident
-Fauchard, Light Crossbow, Corcesca
-Fauchard, Target Bow, Scorpion
-Fauchard, Windlass, Corcesca
-Fauchard, Cranequin, Throwing Knife
-Fauchard, Lug Crossbow, Cranequin
-Fauchard, Siege Bow, Cranequin
-Fauchard, Arbalest, Cranequin
-Voulge, Gastraph Bow, Awl Pike
-Voulge, Light Crossbow, Trident
-Voulge, Target Bow, Corcesca
-Voulge, Windlass, Corcesca
-Voulge, Cranequin, Short Sword
-Voulge, Lug Crossbow, Claymore
-Voulge, Siege Bow, Lug Crossbow
-Voulge, Arbalest, Lug Crossbow
-Pole Axe, Gastraph Bow, Boar Spear
-Pole Axe, Light Crossbow, Awl Pike
-Pole Axe, Target Bow, Trident
-Pole Axe, Windlass, Corcesca
-Pole Axe, Cranequin, Trident
-Pole Axe, Lug Crossbow, Kudi
-Pole Axe, Siege Bow, Lug Crossbow
-Pole Axe, Arbalest, Lug Crossbow
-Bardysh, Gastraph Bow, Fauchard
-Bardysh, Light Crossbow, Boar Spear
-Bardysh, Target Bow, Awl Pike
-Bardysh, Windlass, Trident
-Bardysh, Cranequin, Trident
-Bardysh, Lug Crossbow, Firangi
-Bardysh, Siege Bow, Schiavona
-Bardysh, Arbalest, Siege Bow
-Brandestoc, Gastraph Bow, Voulge
-Brandestoc, Light Crossbow, Fauchard
-Brandestoc, Target Bow, Boar Spear
-Brandestoc, Windlass, Awl Pike
-Brandestoc, Cranequin, Trident
-Brandestoc, Lug Crossbow, Awl Pike
-Brandestoc, Siege Bow, Cinquedea
-Brandestoc, Arbalest, Siege Bow
+slot1,slot2,result,tier_change
+Spear,Gastraph Bow,Spear,0
+Spear,Light Crossbow,Broad Sword,0
+Spear,Target Bow,Light Crossbow,0
+Spear,Windlass,Light Crossbow,0
+Spear,Cranequin,Light Crossbow,0
+Spear,Lug Crossbow,Target Bow,0
+Spear,Siege Bow,Windlass,0
+Spear,Arbalest,Cranequin,0
+Glaive,Gastraph Bow,Spear,0
+Glaive,Light Crossbow,Battle Knife,0
+Glaive,Target Bow,Light Crossbow,0
+Glaive,Windlass,Light Crossbow,0
+Glaive,Cranequin,Light Crossbow,0
+Glaive,Lug Crossbow,Light Crossbow,0
+Glaive,Siege Bow,Target Bow,0
+Glaive,Arbalest,Windlass,0
+Scorpion,Gastraph Bow,Spear,0
+Scorpion,Light Crossbow,Spatha,0
+Scorpion,Target Bow,Norse Sword,0
+Scorpion,Windlass,Target Bow,0
+Scorpion,Cranequin,Target Bow,0
+Scorpion,Lug Crossbow,Target Bow,0
+Scorpion,Siege Bow,Target Bow,0
+Scorpion,Arbalest,Windlass,0
+Corcesca,Gastraph Bow,Spear,0
+Corcesca,Light Crossbow,Glaive,0
+Corcesca,Target Bow,Scramasax,0
+Corcesca,Windlass,Windlass,0
+Windlass,Corcesca,Target Bow,0
+Corcesca,Cranequin,Windlass,0
+Cranequin,Corcesca,Target Bow,0
+Corcesca,Lug Crossbow,Windlass,0
+Lug Crossbow,Corcesca,Target Bow,0
+Corcesca,Siege Bow,Windlass,0
+Siege Bow,Corcesca,Target Bow,0
+Corcesca,Arbalest,Windlass,0
+Arbalest,Corcesca,Target Bow,0
+Trident,Gastraph Bow,Glaive,0
+Trident,Light Crossbow,Glaive,0
+Trident,Target Bow,Scimitar,0
+Trident,Windlass,Katana,0
+Trident,Cranequin,Windlass,0
+Trident,Lug Crossbow,Windlass,0
+Trident,Siege Bow,Windlass,0
+Trident,Arbalest,Windlass,0
+Awl Pike,Gastraph Bow,Scorpion,0
+Awl Pike,Light Crossbow,Glaive,0
+Awl Pike,Target Bow,Scorpion,0
+Awl Pike,Windlass,Dirk,0
+Awl Pike,Cranequin,Windlass,0
+Awl Pike,Lug Crossbow,Windlass,0
+Awl Pike,Siege Bow,Windlass,0
+Awl Pike,Arbalest,Windlass,0
+Boar Spear,Gastraph Bow,Corcesca,0
+Boar Spear,Light Crossbow,Scorpion,0
+Boar Spear,Target Bow,Scorpion,0
+Boar Spear,Windlass,Rapier,0
+Boar Spear,Cranequin,Executioner,0
+Boar Spear,Lug Crossbow,Cranequin,0
+Boar Spear,Siege Bow,Cranequin,0
+Boar Spear,Arbalest,Cranequin,0
+Fauchard,Gastraph Bow,Trident,0
+Fauchard,Light Crossbow,Corcesca,0
+Fauchard,Target Bow,Scorpion,0
+Fauchard,Windlass,Corcesca,0
+Fauchard,Cranequin,Throwing Knife,0
+Fauchard,Lug Crossbow,Cranequin,0
+Fauchard,Siege Bow,Cranequin,0
+Fauchard,Arbalest,Cranequin,0
+Voulge,Gastraph Bow,Awl Pike,0
+Voulge,Light Crossbow,Trident,0
+Voulge,Target Bow,Corcesca,0
+Voulge,Windlass,Corcesca,0
+Voulge,Cranequin,Short Sword,0
+Voulge,Lug Crossbow,Claymore,0
+Voulge,Siege Bow,Lug Crossbow,0
+Voulge,Arbalest,Lug Crossbow,0
+Pole Axe,Gastraph Bow,Boar Spear,0
+Pole Axe,Light Crossbow,Awl Pike,0
+Pole Axe,Target Bow,Trident,0
+Pole Axe,Windlass,Corcesca,0
+Pole Axe,Cranequin,Trident,0
+Pole Axe,Lug Crossbow,Kudi,0
+Pole Axe,Siege Bow,Lug Crossbow,0
+Pole Axe,Arbalest,Lug Crossbow,0
+Bardysh,Gastraph Bow,Fauchard,0
+Bardysh,Light Crossbow,Boar Spear,0
+Bardysh,Target Bow,Awl Pike,0
+Bardysh,Windlass,Trident,0
+Bardysh,Cranequin,Trident,0
+Bardysh,Lug Crossbow,Firangi,0
+Bardysh,Siege Bow,Schiavona,0
+Bardysh,Arbalest,Siege Bow,0
+Brandestoc,Gastraph Bow,Voulge,0
+Brandestoc,Light Crossbow,Fauchard,0
+Brandestoc,Target Bow,Boar Spear,0
+Brandestoc,Windlass,Awl Pike,0
+Brandestoc,Cranequin,Trident,0
+Brandestoc,Lug Crossbow,Awl Pike,0
+Brandestoc,Siege Bow,Cinquedea,0
+Brandestoc,Arbalest,Siege Bow,0

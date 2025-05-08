@@ -1,97 +1,97 @@
-first slot, second slot, result, swap
-Spatha, Gastraph Bow, Gastraph Bow
-Spatha, Light Crossbow, Gastraph Bow
-Spatha, Target Bow, Gastraph Bow
-Spatha, Windlass, Gastraph Bow
-Spatha, Cranequin, Light Crossbow
-Spatha, Lug Crossbow, Target Bow
-Spatha, Siege Bow, Windlass
-Spatha, Arbalest, Cranequin
-Scimitar, Gastraph Bow, Battle Knife
-Scimitar, Light Crossbow, Hand Axe
-Scimitar, Target Bow, Light Crossbow
-Scimitar, Windlass, Light Crossbow
-Scimitar, Cranequin, Light Crossbow
-Scimitar, Lug Crossbow, Light Crossbow
-Scimitar, Siege Bow, Target Bow
-Scimitar, Arbalest, Windlass
-Rapier, Gastraph Bow, Broad Sword
-Rapier, Light Crossbow, Scramasax
-Rapier, Target Bow, Battle Axe
-Rapier, Windlass, Target Bow
-Rapier, Cranequin, Target Bow
-Rapier, Lug Crossbow, Target Bow
-Rapier, Siege Bow, Target Bow
-Rapier, Arbalest, Target Bow
-Short Sword, Gastraph Bow, Spatha
-Short Sword, Light Crossbow, Norse Sword
-Short Sword, Target Bow, Dirk
-Short Sword, Windlass, Francisca
-Short Sword, Cranequin, Windlass
-Short Sword, Lug Crossbow, Windlass
-Short Sword, Siege Bow, Windlass
-Short Sword, Arbalest, Windlass
-Firangi, Gastraph Bow, Scimitar
-Firangi, Light Crossbow, Scimitar
-Firangi, Target Bow, Katana
-Firangi, Windlass, Throwing Knife
-Firangi, Cranequin, Tabarzin
-Firangi, Lug Crossbow, Cranequin
-Firangi, Siege Bow, Cranequin
-Firangi, Arbalest, Cranequin
-Shamshir, Gastraph Bow, Rapier
-Shamshir, Light Crossbow, Scimitar
-Shamshir, Target Bow, Rapier
-Shamshir, Windlass, Executioner
-Shamshir, Cranequin, Kudi
-Shamshir, Lug Crossbow, Chamkaq
-Shamshir, Siege Bow, Lug Crossbow
-Shamshir, Arbalest, Lug Crossbow
-Falchion, Gastraph Bow, Short Sword
-Falchion, Light Crossbow, Rapier
-Falchion, Target Bow, Rapier
-Falchion, Windlass, Short Sword
-Falchion, Cranequin, Claymore
-Falchion, Lug Crossbow, Cinquedea
-Falchion, Siege Bow, Tabar
-Falchion, Arbalest, Siege Bow
-Shotel, Gastraph Bow, Firangi
-Shotel, Light Crossbow, Short Sword
-Shotel, Target Bow, Rapier
-Shotel, Windlass, Short Sword
-Shotel, Cranequin, Firangi
-Shotel, Lug Crossbow, Schiavona
-Shotel, Siege Bow, Kris
-Shotel, Arbalest, Bullova
-Khora, Gastraph Bow, Shamshir
-Khora, Light Crossbow, Firangi
-Khora, Target Bow, Short Sword
-Khora, Windlass, Short Sword
-Khora, Cranequin, Firangi
-Khora, Lug Crossbow, Shamshir
-Khora, Siege Bow, Bastard Sword
-Khora, Arbalest, Hatchet
-Khopesh, Gastraph Bow, Falchion
-Khopesh, Light Crossbow, Shamshir
-Khopesh, Target Bow, Firangi
-Khopesh, Windlass, Short Sword
-Khopesh, Cranequin, Firangi
-Khopesh, Lug Crossbow, Shamshir
-Khopesh, Siege Bow, Falchion
-Khopesh, Arbalest, Nodachi
-Wakizashi, Gastraph Bow, Shotel
-Wakizashi, Light Crossbow, Falchion
-Wakizashi, Target Bow, Shamshir
-Wakizashi, Windlass, Firangi
-Wakizashi, Cranequin, Firangi
-Wakizashi, Lug Crossbow, Shamshir
-Wakizashi, Siege Bow, Falchion
-Wakizashi, Arbalest, Shotel
-Rhomphaia, Gastraph Bow, Gastraph Bow
-Rhomphaia, Light Crossbow, Light Crossbow
-Rhomphaia, Target Bow, Target Bow
-Rhomphaia, Windlass, Windlass
-Rhomphaia, Cranequin, Cranequin
-Rhomphaia, Lug Crossbow, Lug Crossbow
-Rhomphaia, Siege Bow, Siege Bow
-Rhomphaia, Arbalest, Arbalest
+slot1,slot2,result,tier_change
+Spatha,Gastraph Bow,Gastraph Bow,0
+Spatha,Light Crossbow,Gastraph Bow,0
+Spatha,Target Bow,Gastraph Bow,0
+Spatha,Windlass,Gastraph Bow,0
+Spatha,Cranequin,Light Crossbow,0
+Spatha,Lug Crossbow,Target Bow,0
+Spatha,Siege Bow,Windlass,0
+Spatha,Arbalest,Cranequin,0
+Scimitar,Gastraph Bow,Battle Knife,0
+Scimitar,Light Crossbow,Hand Axe,0
+Scimitar,Target Bow,Light Crossbow,0
+Scimitar,Windlass,Light Crossbow,0
+Scimitar,Cranequin,Light Crossbow,0
+Scimitar,Lug Crossbow,Light Crossbow,0
+Scimitar,Siege Bow,Target Bow,0
+Scimitar,Arbalest,Windlass,0
+Rapier,Gastraph Bow,Broad Sword,0
+Rapier,Light Crossbow,Scramasax,0
+Rapier,Target Bow,Battle Axe,0
+Rapier,Windlass,Target Bow,0
+Rapier,Cranequin,Target Bow,0
+Rapier,Lug Crossbow,Target Bow,0
+Rapier,Siege Bow,Target Bow,0
+Rapier,Arbalest,Target Bow,0
+Short Sword,Gastraph Bow,Spatha,0
+Short Sword,Light Crossbow,Norse Sword,0
+Short Sword,Target Bow,Dirk,0
+Short Sword,Windlass,Francisca,0
+Short Sword,Cranequin,Windlass,0
+Short Sword,Lug Crossbow,Windlass,0
+Short Sword,Siege Bow,Windlass,0
+Short Sword,Arbalest,Windlass,0
+Firangi,Gastraph Bow,Scimitar,0
+Firangi,Light Crossbow,Scimitar,0
+Firangi,Target Bow,Katana,0
+Firangi,Windlass,Throwing Knife,0
+Firangi,Cranequin,Tabarzin,0
+Firangi,Lug Crossbow,Cranequin,0
+Firangi,Siege Bow,Cranequin,0
+Firangi,Arbalest,Cranequin,0
+Shamshir,Gastraph Bow,Rapier,0
+Shamshir,Light Crossbow,Scimitar,0
+Shamshir,Target Bow,Rapier,0
+Shamshir,Windlass,Executioner,0
+Shamshir,Cranequin,Kudi,0
+Shamshir,Lug Crossbow,Chamkaq,0
+Shamshir,Siege Bow,Lug Crossbow,0
+Shamshir,Arbalest,Lug Crossbow,0
+Falchion,Gastraph Bow,Short Sword,0
+Falchion,Light Crossbow,Rapier,0
+Falchion,Target Bow,Rapier,0
+Falchion,Windlass,Short Sword,0
+Falchion,Cranequin,Claymore,0
+Falchion,Lug Crossbow,Cinquedea,0
+Falchion,Siege Bow,Tabar,0
+Falchion,Arbalest,Siege Bow,0
+Shotel,Gastraph Bow,Firangi,0
+Shotel,Light Crossbow,Short Sword,0
+Shotel,Target Bow,Rapier,0
+Shotel,Windlass,Short Sword,0
+Shotel,Cranequin,Firangi,0
+Shotel,Lug Crossbow,Schiavona,0
+Shotel,Siege Bow,Kris,0
+Shotel,Arbalest,Bullova,0
+Khora,Gastraph Bow,Shamshir,0
+Khora,Light Crossbow,Firangi,0
+Khora,Target Bow,Short Sword,0
+Khora,Windlass,Short Sword,0
+Khora,Cranequin,Firangi,0
+Khora,Lug Crossbow,Shamshir,0
+Khora,Siege Bow,Bastard Sword,0
+Khora,Arbalest,Hatchet,0
+Khopesh,Gastraph Bow,Falchion,0
+Khopesh,Light Crossbow,Shamshir,0
+Khopesh,Target Bow,Firangi,0
+Khopesh,Windlass,Short Sword,0
+Khopesh,Cranequin,Firangi,0
+Khopesh,Lug Crossbow,Shamshir,0
+Khopesh,Siege Bow,Falchion,0
+Khopesh,Arbalest,Nodachi,0
+Wakizashi,Gastraph Bow,Shotel,0
+Wakizashi,Light Crossbow,Falchion,0
+Wakizashi,Target Bow,Shamshir,0
+Wakizashi,Windlass,Firangi,0
+Wakizashi,Cranequin,Firangi,0
+Wakizashi,Lug Crossbow,Shamshir,0
+Wakizashi,Siege Bow,Falchion,0
+Wakizashi,Arbalest,Shotel,0
+Rhomphaia,Gastraph Bow,Gastraph Bow,0
+Rhomphaia,Light Crossbow,Light Crossbow,0
+Rhomphaia,Target Bow,Target Bow,0
+Rhomphaia,Windlass,Windlass,0
+Rhomphaia,Cranequin,Cranequin,0
+Rhomphaia,Lug Crossbow,Lug Crossbow,0
+Rhomphaia,Siege Bow,Siege Bow,0
+Rhomphaia,Arbalest,Arbalest,0

@@ -1,33 +1,33 @@
-first slot, second slot, result, swap
-Wizard Staff, Gastraph Bow, Spatha
-Wizard Staff, Light Crossbow, Battle Knife
-Wizard Staff, Target Bow, Broad Sword
-Wizard Staff, Windlass, Light Crossbow
-Wizard Staff, Cranequin, Light Crossbow
-Wizard Staff, Lug Crossbow, Target Bow
-Wizard Staff, Siege Bow, Windlass
-Wizard Staff, Arbalest, Cranequin
-Clergy Rod, Gastraph Bow, Wizard Staff
-Clergy Rod, Light Crossbow, Scimitar
-Clergy Rod, Target Bow, Scramasax
-Clergy Rod, Windlass, Norse Sword
-Clergy Rod, Cranequin, Target Bow
-Clergy Rod, Lug Crossbow, Target Bow
-Clergy Rod, Siege Bow, Target Bow
-Clergy Rod, Arbalest, Windlass
-Summoner Baton, Gastraph Bow, Wizard Staff
-Summoner Baton, Light Crossbow, Clergy Rod
-Summoner Baton, Target Bow, Rapier
-Summoner Baton, Windlass, Dirk
-Summoner Baton, Cranequin, Katana
-Summoner Baton, Lug Crossbow, Windlass
-Summoner Baton, Siege Bow, Windlass
-Summoner Baton, Arbalest, Windlass
-Shamanic Staff, Gastraph Bow, Clergy Rod
-Shamanic Staff, Light Crossbow, Clergy Rod
-Shamanic Staff, Target Bow, Summoner Baton
-Shamanic Staff, Windlass, Short Sword
-Shamanic Staff, Cranequin, Throwing Knife
-Shamanic Staff, Lug Crossbow, Executioner
-Shamanic Staff, Siege Bow, Cranequin
-Shamanic Staff, Arbalest, Cranequin
+slot1,slot2,result,tier_change
+Wizard Staff,Gastraph Bow,Spatha,0
+Wizard Staff,Light Crossbow,Battle Knife,0
+Wizard Staff,Target Bow,Broad Sword,0
+Wizard Staff,Windlass,Light Crossbow,0
+Wizard Staff,Cranequin,Light Crossbow,0
+Wizard Staff,Lug Crossbow,Target Bow,0
+Wizard Staff,Siege Bow,Windlass,0
+Wizard Staff,Arbalest,Cranequin,0
+Clergy Rod,Gastraph Bow,Wizard Staff,0
+Clergy Rod,Light Crossbow,Scimitar,0
+Clergy Rod,Target Bow,Scramasax,0
+Clergy Rod,Windlass,Norse Sword,0
+Clergy Rod,Cranequin,Target Bow,0
+Clergy Rod,Lug Crossbow,Target Bow,0
+Clergy Rod,Siege Bow,Target Bow,0
+Clergy Rod,Arbalest,Windlass,0
+Summoner Baton,Gastraph Bow,Wizard Staff,0
+Summoner Baton,Light Crossbow,Clergy Rod,0
+Summoner Baton,Target Bow,Rapier,0
+Summoner Baton,Windlass,Dirk,0
+Summoner Baton,Cranequin,Katana,0
+Summoner Baton,Lug Crossbow,Windlass,0
+Summoner Baton,Siege Bow,Windlass,0
+Summoner Baton,Arbalest,Windlass,0
+Shamanic Staff,Gastraph Bow,Clergy Rod,0
+Shamanic Staff,Light Crossbow,Clergy Rod,0
+Shamanic Staff,Target Bow,Summoner Baton,0
+Shamanic Staff,Windlass,Short Sword,0
+Shamanic Staff,Cranequin,Throwing Knife,0
+Shamanic Staff,Lug Crossbow,Executioner,0
+Shamanic Staff,Siege Bow,Cranequin,0
+Shamanic Staff,Arbalest,Cranequin,0

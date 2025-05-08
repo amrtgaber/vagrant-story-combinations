@@ -1,95 +1,95 @@
-first slot, second slot, result, swap
-Spatha, Hand Axe, Hand Axe
-Spatha, Battle Axe, Hand Axe
-Spatha, Francisca, Battle Axe
-Spatha, Tabarzin, Francisca
-Spatha, Chamkaq, Tabarzin
-Spatha, Tabar, Chamkaq
-Spatha, Bullova, Tabar
-Spatha, Crescent, Bullova
-Scimitar, Hand Axe, Goblin Club
-Scimitar, Battle Axe, Battle Axe
-Scimitar, Francisca, Battle Axe
-Scimitar, Tabarzin, Battle Axe
-Scimitar, Chamkaq, Francisca
-Scimitar, Tabar, Tabarzin
-Scimitar, Bullova, Chamkaq
-Scimitar, Crescent, Tabar
-Rapier, Hand Axe, Spatha
-Rapier, Battle Axe, Spiked Club
-Rapier, Francisca, Francisca
-Rapier, Tabarzin, Francisca
-Rapier, Chamkaq, Francisca
-Rapier, Tabar, Francisca
-Rapier, Bullova, Tabarzin
-Rapier, Crescent, Chamkaq
-Short Sword, Hand Axe, Spatha
-Short Sword, Battle Axe, Scimitar
-Short Sword, Francisca, Ball Mace
-Short Sword, Tabarzin, Wizard Staff
-Short Sword, Chamkaq, Tabarzin
-Short Sword, Tabar, Tabarzin
-Short Sword, Bullova, Tabarzin
-Short Sword, Crescent, Tabarzin
-Firangi, Hand Axe, Scimitar
-Firangi, Battle Axe, Scimitar
-Firangi, Francisca, Rapier
-Firangi, Chamkaq, Clergy Rod
-Firangi, Tabar, Chamkaq
-Firangi, Bullova, Chamkaq
-Firangi, Crescent, Chamkaq
-Shamshir, Hand Axe, Rapier
-Shamshir, Battle Axe, Scimitar
-Shamshir, Francisca, Rapier
-Shamshir, Tabarzin, Guisarme
-Shamshir, Chamkaq, Morning Star
-Shamshir, Tabar, Summoner Baton
-Shamshir, Bullova, Tabar
-Shamshir, Crescent, Tabar
-Falchion, Hand Axe, Short Sword
-Falchion, Battle Axe, Rapier
-Falchion, Francisca, Rapier
-Falchion, Tabarzin, Short Sword
-Falchion, Chamkaq, Large Crescent
-Falchion, Tabar, War Hammer
-Falchion, Bullova, Shamanic Staff
-Falchion, Crescent, Bullova
-Shotel, Hand Axe, Firangi
-Shotel, Battle Axe, Short Sword
-Shotel, Francisca, Rapier
-Shotel, Tabarzin, Short Sword
-Shotel, Chamkaq, Firangi
-Shotel, Tabar, Sabre Halberd
-Shotel, Bullova, Bec de Corbin
-Khora, Hand Axe, Shamshir
-Khora, Battle Axe, Firangi
-Khora, Francisca, Short Sword
-Khora, Tabarzin, Short Sword
-Khora, Chamkaq, Firangi
-Khora, Tabar, Shamshir
-Khora, Bullova, Balbriggan
-Khora, Crescent, War Maul
-Khopesh, Hand Axe, Falchion
-Khopesh, Battle Axe, Shamshir
-Khopesh, Francisca, Firangi
-Khopesh, Tabarzin, Short Sword
-Khopesh, Chamkaq, Firangi
-Khopesh, Tabar, Shamshir
-Khopesh, Bullova, Falchion
-Khopesh, Crescent, Double Blade
-Wakizashi, Hand Axe, Shotel
-Wakizashi, Battle Axe, Falchion
-Wakizashi, Francisca, Shamshir
-Wakizashi, Tabarzin, Firangi
-Wakizashi, Chamkaq, Firangi
-Wakizashi, Tabar, Shamshir
-Wakizashi, Bullova, Falchion
-Wakizashi, Crescent, Shotel
-Rhomphaia, Hand Axe, Hand Axe
-Rhomphaia, Battle Axe, Battle Axe
-Rhomphaia, Francisca, Francisca
-Rhomphaia, Tabarzin, Tabarzin
-Rhomphaia, Chamkaq, Chamkaq
-Rhomphaia, Tabar, Tabar
-Rhomphaia, Bullova, Bullova
-Rhomphaia, Crescent, Crescent
+slot1,slot2,result,tier_change
+Spatha,Hand Axe,Hand Axe,0
+Spatha,Battle Axe,Hand Axe,0
+Spatha,Francisca,Battle Axe,0
+Spatha,Tabarzin,Francisca,0
+Spatha,Chamkaq,Tabarzin,0
+Spatha,Tabar,Chamkaq,0
+Spatha,Bullova,Tabar,0
+Spatha,Crescent,Bullova,0
+Scimitar,Hand Axe,Goblin Club,0
+Scimitar,Battle Axe,Battle Axe,0
+Scimitar,Francisca,Battle Axe,0
+Scimitar,Tabarzin,Battle Axe,0
+Scimitar,Chamkaq,Francisca,0
+Scimitar,Tabar,Tabarzin,0
+Scimitar,Bullova,Chamkaq,0
+Scimitar,Crescent,Tabar,0
+Rapier,Hand Axe,Spatha,0
+Rapier,Battle Axe,Spiked Club,0
+Rapier,Francisca,Francisca,0
+Rapier,Tabarzin,Francisca,0
+Rapier,Chamkaq,Francisca,0
+Rapier,Tabar,Francisca,0
+Rapier,Bullova,Tabarzin,0
+Rapier,Crescent,Chamkaq,0
+Short Sword,Hand Axe,Spatha,0
+Short Sword,Battle Axe,Scimitar,0
+Short Sword,Francisca,Ball Mace,0
+Short Sword,Tabarzin,Wizard Staff,0
+Short Sword,Chamkaq,Tabarzin,0
+Short Sword,Tabar,Tabarzin,0
+Short Sword,Bullova,Tabarzin,0
+Short Sword,Crescent,Tabarzin,0
+Firangi,Hand Axe,Scimitar,0
+Firangi,Battle Axe,Scimitar,0
+Firangi,Francisca,Rapier,0
+Firangi,Chamkaq,Clergy Rod,0
+Firangi,Tabar,Chamkaq,0
+Firangi,Bullova,Chamkaq,0
+Firangi,Crescent,Chamkaq,0
+Shamshir,Hand Axe,Rapier,0
+Shamshir,Battle Axe,Scimitar,0
+Shamshir,Francisca,Rapier,0
+Shamshir,Tabarzin,Guisarme,0
+Shamshir,Chamkaq,Morning Star,0
+Shamshir,Tabar,Summoner Baton,0
+Shamshir,Bullova,Tabar,0
+Shamshir,Crescent,Tabar,0
+Falchion,Hand Axe,Short Sword,0
+Falchion,Battle Axe,Rapier,0
+Falchion,Francisca,Rapier,0
+Falchion,Tabarzin,Short Sword,0
+Falchion,Chamkaq,Large Crescent,0
+Falchion,Tabar,War Hammer,0
+Falchion,Bullova,Shamanic Staff,0
+Falchion,Crescent,Bullova,0
+Shotel,Hand Axe,Firangi,0
+Shotel,Battle Axe,Short Sword,0
+Shotel,Francisca,Rapier,0
+Shotel,Tabarzin,Short Sword,0
+Shotel,Chamkaq,Firangi,0
+Shotel,Tabar,Sabre Halberd,0
+Shotel,Bullova,Bec de Corbin,0
+Khora,Hand Axe,Shamshir,0
+Khora,Battle Axe,Firangi,0
+Khora,Francisca,Short Sword,0
+Khora,Tabarzin,Short Sword,0
+Khora,Chamkaq,Firangi,0
+Khora,Tabar,Shamshir,0
+Khora,Bullova,Balbriggan,0
+Khora,Crescent,War Maul,0
+Khopesh,Hand Axe,Falchion,0
+Khopesh,Battle Axe,Shamshir,0
+Khopesh,Francisca,Firangi,0
+Khopesh,Tabarzin,Short Sword,0
+Khopesh,Chamkaq,Firangi,0
+Khopesh,Tabar,Shamshir,0
+Khopesh,Bullova,Falchion,0
+Khopesh,Crescent,Double Blade,0
+Wakizashi,Hand Axe,Shotel,0
+Wakizashi,Battle Axe,Falchion,0
+Wakizashi,Francisca,Shamshir,0
+Wakizashi,Tabarzin,Firangi,0
+Wakizashi,Chamkaq,Firangi,0
+Wakizashi,Tabar,Shamshir,0
+Wakizashi,Bullova,Falchion,0
+Wakizashi,Crescent,Shotel,0
+Rhomphaia,Hand Axe,Hand Axe,0
+Rhomphaia,Battle Axe,Battle Axe,0
+Rhomphaia,Francisca,Francisca,0
+Rhomphaia,Tabarzin,Tabarzin,0
+Rhomphaia,Chamkaq,Chamkaq,0
+Rhomphaia,Tabar,Tabar,0
+Rhomphaia,Bullova,Bullova,0
+Rhomphaia,Crescent,Crescent,0

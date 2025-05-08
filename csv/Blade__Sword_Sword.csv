@@ -1,79 +1,81 @@
-first slot, second slot, result, swap
-Spatha, Spatha, Spatha
-Spatha, Scimitar, Spatha
-Spatha, Rapier, +Short Sword
-Spatha, Short Sword, Spatha
-Spatha, Firangi, Scimitar
-Spatha, Shamshir, Rapier
-Spatha, Falchion, Short Sword
-Spatha, Shotel, Firangi
-Spatha, Khora, Shamshir
-Spatha, Khopesh, Falchion
-Spatha, Wakizashi, Shotel
-Spatha, Rhomphaia, Spatha
-Scimitar, Scimitar, Scimitar
-Scimitar, Rapier, -Spatha
-Scimitar, Short Sword, Scimitar
-Scimitar, Firangi, Short Sword
-Scimitar, Shamshir, Scimitar
-Scimitar, Falchion, Rapier
-Scimitar, Shotel, Short Sword
-Scimitar, Khora, Firangi
-Scimitar, Khopesh, Shamshir
-Scimitar, Wakizashi, Falchion
-Scimitar, Rhomphaia, Scimitar
-Rapier, Rapier, Rapier
-Rapier, Short Sword, -Spatha
-Rapier, Firangi, Short Sword, -Spatha
-Rapier, Shamshir, -Spatha, Short Sword
-Rapier, Falchion, Firangi
-Rapier, Shotel, Rapier
-Rapier, Khora, Short Sword
-Rapier, Khopesh, Firangi
-Rapier, Wakizashi, Shamshir
-Rapier, Rhomphaia, Rapier
-Short Sword, Short Sword, Short Sword
-Short Sword, Firangi, +Shamshir
-Short Sword, Shamshir, -Rapier
-Short Sword, Falchion, -Spatha
-Short Sword, Shotel, -Scimitar
-Short Sword, Khora, -Rapier
-Short Sword, Khopesh, Short Sword
-Short Sword, Wakizashi, Firangi
-Short Sword, Rhomphaia, Short Sword
-Firangi, Firangi, Firangi
-Firangi, Shamshir, +Falchion
-Firangi, Falchion, Shamshir
-Firangi, Shotel, Falchion
-Firangi, Khora, -Scimitar
-Firangi, Khopesh, -Rapier
-Firangi, Wakizashi, -Short Sword
-Firangi, Rhomphaia, Firangi
-Shamshir, Shamshir, Shamshir
-Shamshir, Falchion, +Shotel
-Shamshir, Shotel, -Spatha
-Shamshir, Khora, Shamshir
-Shamshir, Khopesh, -Scimitar
-Shamshir, Wakizashi, -Rapier
-Shamshir, Rhomphaia, Shamshir
-Falchion, Falchion, Falchion
-Falchion, Shotel, +Khora
-Falchion, Khora, -Rapier
-Falchion, Khopesh, Khora
-Falchion, Wakizashi, -Scimitar
-Falchion, Rhomphaia, Falchion
-Shotel, Shotel, Shotel
-Shotel, Khora, -Spatha
-Shotel, Khopesh, Shotel
-Shotel, Wakizashi, -Rapier
-Shotel, Rhomphaia, Shotel
-Khora, Khora, +Khopesh
-Khora, Khopesh, -Spatha
-Khora, Wakizashi, Khora
-Khora, Rhomphaia, Khora
-Khopesh, Khopesh, +Wakizashi
-Khopesh, Wakizashi, Khopesh
-Khopesh, Rhomphaia, Khopesh
-Wakizashi, Wakizashi, Wakizashi
-Wakizashi, Rhomphaia, Wakizashi
-Rhomphaia, Rhomphaia, Rhomphaia
+slot1,slot2,result,tier_change
+Spatha,Spatha,Spatha,0
+Spatha,Scimitar,Spatha,0
+Spatha,Rapier,Short Sword,1
+Spatha,Short Sword,Spatha,0
+Spatha,Firangi,Scimitar,0
+Spatha,Shamshir,Rapier,0
+Spatha,Falchion,Short Sword,0
+Spatha,Shotel,Firangi,0
+Spatha,Khora,Shamshir,0
+Spatha,Khopesh,Falchion,0
+Spatha,Wakizashi,Shotel,0
+Spatha,Rhomphaia,Spatha,0
+Scimitar,Scimitar,Scimitar,0
+Scimitar,Rapier,Spatha,-1
+Scimitar,Short Sword,Scimitar,0
+Scimitar,Firangi,Short Sword,0
+Scimitar,Shamshir,Scimitar,0
+Scimitar,Falchion,Rapier,0
+Scimitar,Shotel,Short Sword,0
+Scimitar,Khora,Firangi,0
+Scimitar,Khopesh,Shamshir,0
+Scimitar,Wakizashi,Falchion,0
+Scimitar,Rhomphaia,Scimitar,0
+Rapier,Rapier,Rapier,0
+Rapier,Short Sword,Spatha,-1
+Rapier,Firangi,Short Sword,0
+Firangi,Rapier,Spatha,-1
+Rapier,Shamshir,Spatha,-1
+Shamshir,Rapier,Short Sword,0
+Rapier,Falchion,Firangi,0
+Rapier,Shotel,Rapier,0
+Rapier,Khora,Short Sword,0
+Rapier,Khopesh,Firangi,0
+Rapier,Wakizashi,Shamshir,0
+Rapier,Rhomphaia,Rapier,0
+Short Sword,Short Sword,Short Sword,0
+Short Sword,Firangi,Shamshir,1
+Short Sword,Shamshir,Rapier,-1
+Short Sword,Falchion,Spatha,-1
+Short Sword,Shotel,Scimitar,-1
+Short Sword,Khora,Rapier,-1
+Short Sword,Khopesh,Short Sword,0
+Short Sword,Wakizashi,Firangi,0
+Short Sword,Rhomphaia,Short Sword,0
+Firangi,Firangi,Firangi,0
+Firangi,Shamshir,Falchion,1
+Firangi,Falchion,Shamshir,0
+Firangi,Shotel,Falchion,0
+Firangi,Khora,Scimitar,-1
+Firangi,Khopesh,Rapier,-1
+Firangi,Wakizashi,Short Sword,-1
+Firangi,Rhomphaia,Firangi,0
+Shamshir,Shamshir,Shamshir,0
+Shamshir,Falchion,Shotel,1
+Shamshir,Shotel,Spatha,-1
+Shamshir,Khora,Shamshir,0
+Shamshir,Khopesh,Scimitar,-1
+Shamshir,Wakizashi,Rapier,-1
+Shamshir,Rhomphaia,Shamshir,0
+Falchion,Falchion,Falchion,0
+Falchion,Shotel,Khora,1
+Falchion,Khora,Rapier,-1
+Falchion,Khopesh,Khora,0
+Falchion,Wakizashi,Scimitar,-1
+Falchion,Rhomphaia,Falchion,0
+Shotel,Shotel,Shotel,0
+Shotel,Khora,Spatha,-1
+Shotel,Khopesh,Shotel,0
+Shotel,Wakizashi,Rapier,-1
+Shotel,Rhomphaia,Shotel,0
+Khora,Khora,Khopesh,1
+Khora,Khopesh,Spatha,-1
+Khora,Wakizashi,Khora,0
+Khora,Rhomphaia,Khora,0
+Khopesh,Khopesh,Wakizashi,1
+Khopesh,Wakizashi,Khopesh,0
+Khopesh,Rhomphaia,Khopesh,0
+Wakizashi,Wakizashi,Wakizashi,0
+Wakizashi,Rhomphaia,Wakizashi,0
+Rhomphaia,Rhomphaia,Rhomphaia,0

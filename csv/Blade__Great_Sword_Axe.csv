@@ -1,79 +1,79 @@
-first slot, second slot, result, swap
-Broad Sword, Hand Axe, Hand Axe
-Broad Sword, Battle Axe, Hand Axe
-Broad Sword, Francisca, Battle Axe
-Broad Sword, Tabarzin, Francisca
-Broad Sword, Chamkaq, Tabarzin
-Broad Sword, Tabar, Chamkaq
-Broad Sword, Bullova, Tabar
-Broad Sword, Crescent, Bullova
-Norse Sword, Hand Axe, Goblin Club
-Norse Sword, Battle Axe, Battle Axe
-Norse Sword, Francisca, Battle Axe
-Norse Sword, Tabarzin, Battle Axe
-Norse Sword, Chamkaq, Francisca
-Norse Sword, Tabar, Tabarzin
-Norse Sword, Bullova, Chamkaq
-Norse Sword, Crescent, Tabar
-Katana, Hand Axe, Broad Sword
-Katana, Battle Axe, Spiked Club
-Katana, Francisca, Francisca
-Katana, Tabarzin, Francisca
-Katana, Chamkaq, Francisca
-Katana, Tabar, Francisca
-Katana, Bullova, Tabarzin
-Katana, Crescent, Chamkaq
-Executioner, Hand Axe, Broad Sword
-Executioner, Battle Axe, Norse Sword
-Executioner, Francisca, Ball Mace
-Executioner, Tabarzin, Wizard Staff
-Executioner, Chamkaq, Tabarzin
-Executioner, Tabar, Tabarzin
-Executioner, Bullova, Tabarzin
-Executioner, Crescent, Tabarzin
-Claymore, Hand Axe, Norse Sword
-Claymore, Battle Axe, Norse Sword
-Claymore, Francisca, Guisarme
-Claymore, Chamkaq, Clergy Rod
-Claymore, Tabar, Chamkaq
-Claymore, Bullova, Chamkaq
-Claymore, Crescent, Chamkaq
-Schiavona, Hand Axe, Katana
-Schiavona, Battle Axe, Norse Sword
-Schiavona, Francisca, Katana
-Schiavona, Tabarzin, Large Crescent
-Schiavona, Chamkaq, Morning Star
-Schiavona, Tabar, Summoner Baton
-Schiavona, Bullova, Tabar
-Schiavona, Crescent, Tabar
-Bastard Sword, Hand Axe, Executioner
-Bastard Sword, Battle Axe, Katana
-Bastard Sword, Francisca, Katana
-Bastard Sword, Tabarzin, Executioner
-Bastard Sword, Chamkaq, Sabre Halberd
-Bastard Sword, Tabar, War Hammer
-Bastard Sword, Bullova, Shamanic Staff
-Bastard Sword, Crescent, Bullova
-Nodachi, Hand Axe, Claymore
-Nodachi, Battle Axe, Executioner
-Nodachi, Francisca, Katana
-Nodachi, Tabarzin, Executioner
-Nodachi, Chamkaq, Claymore
-Nodachi, Tabar, Balbriggan
-Nodachi, Bullova, Bec de Corbin
-Rune Blade, Hand Axe, Schiavona
-Rune Blade, Battle Axe, Claymore
-Rune Blade, Francisca, Executioner
-Rune Blade, Tabarzin, Executioner
-Rune Blade, Chamkaq, Claymore
-Rune Blade, Tabar, Schiavona
-Rune Blade, Bullova, Double Blade
-Rune Blade, Crescent, War Maul
-Holy Win, Hand Axe, Hand Axe
-Holy Win, Battle Axe, Battle Axe
-Holy Win, Francisca, Francisca
-Holy Win, Tabarzin, Tabarzin
-Holy Win, Chamkaq, Chamkaq
-Holy Win, Tabar, Tabar
-Holy Win, Bullova, Bullova
-Holy Win, Crescent, Crescent
+slot1,slot2,result,tier_change
+Broad Sword,Hand Axe,Hand Axe,0
+Broad Sword,Battle Axe,Hand Axe,0
+Broad Sword,Francisca,Battle Axe,0
+Broad Sword,Tabarzin,Francisca,0
+Broad Sword,Chamkaq,Tabarzin,0
+Broad Sword,Tabar,Chamkaq,0
+Broad Sword,Bullova,Tabar,0
+Broad Sword,Crescent,Bullova,0
+Norse Sword,Hand Axe,Goblin Club,0
+Norse Sword,Battle Axe,Battle Axe,0
+Norse Sword,Francisca,Battle Axe,0
+Norse Sword,Tabarzin,Battle Axe,0
+Norse Sword,Chamkaq,Francisca,0
+Norse Sword,Tabar,Tabarzin,0
+Norse Sword,Bullova,Chamkaq,0
+Norse Sword,Crescent,Tabar,0
+Katana,Hand Axe,Broad Sword,0
+Katana,Battle Axe,Spiked Club,0
+Katana,Francisca,Francisca,0
+Katana,Tabarzin,Francisca,0
+Katana,Chamkaq,Francisca,0
+Katana,Tabar,Francisca,0
+Katana,Bullova,Tabarzin,0
+Katana,Crescent,Chamkaq,0
+Executioner,Hand Axe,Broad Sword,0
+Executioner,Battle Axe,Norse Sword,0
+Executioner,Francisca,Ball Mace,0
+Executioner,Tabarzin,Wizard Staff,0
+Executioner,Chamkaq,Tabarzin,0
+Executioner,Tabar,Tabarzin,0
+Executioner,Bullova,Tabarzin,0
+Executioner,Crescent,Tabarzin,0
+Claymore,Hand Axe,Norse Sword,0
+Claymore,Battle Axe,Norse Sword,0
+Claymore,Francisca,Guisarme,0
+Claymore,Chamkaq,Clergy Rod,0
+Claymore,Tabar,Chamkaq,0
+Claymore,Bullova,Chamkaq,0
+Claymore,Crescent,Chamkaq,0
+Schiavona,Hand Axe,Katana,0
+Schiavona,Battle Axe,Norse Sword,0
+Schiavona,Francisca,Katana,0
+Schiavona,Tabarzin,Large Crescent,0
+Schiavona,Chamkaq,Morning Star,0
+Schiavona,Tabar,Summoner Baton,0
+Schiavona,Bullova,Tabar,0
+Schiavona,Crescent,Tabar,0
+Bastard Sword,Hand Axe,Executioner,0
+Bastard Sword,Battle Axe,Katana,0
+Bastard Sword,Francisca,Katana,0
+Bastard Sword,Tabarzin,Executioner,0
+Bastard Sword,Chamkaq,Sabre Halberd,0
+Bastard Sword,Tabar,War Hammer,0
+Bastard Sword,Bullova,Shamanic Staff,0
+Bastard Sword,Crescent,Bullova,0
+Nodachi,Hand Axe,Claymore,0
+Nodachi,Battle Axe,Executioner,0
+Nodachi,Francisca,Katana,0
+Nodachi,Tabarzin,Executioner,0
+Nodachi,Chamkaq,Claymore,0
+Nodachi,Tabar,Balbriggan,0
+Nodachi,Bullova,Bec de Corbin,0
+Rune Blade,Hand Axe,Schiavona,0
+Rune Blade,Battle Axe,Claymore,0
+Rune Blade,Francisca,Executioner,0
+Rune Blade,Tabarzin,Executioner,0
+Rune Blade,Chamkaq,Claymore,0
+Rune Blade,Tabar,Schiavona,0
+Rune Blade,Bullova,Double Blade,0
+Rune Blade,Crescent,War Maul,0
+Holy Win,Hand Axe,Hand Axe,0
+Holy Win,Battle Axe,Battle Axe,0
+Holy Win,Francisca,Francisca,0
+Holy Win,Tabarzin,Tabarzin,0
+Holy Win,Chamkaq,Chamkaq,0
+Holy Win,Tabar,Tabar,0
+Holy Win,Bullova,Bullova,0
+Holy Win,Crescent,Crescent,0

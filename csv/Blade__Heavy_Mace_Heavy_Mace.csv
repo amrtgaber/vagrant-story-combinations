@@ -1,25 +1,25 @@
-first slot, second slot, result, swap
-Langdebeve, Langdebeve, Langdebeve
-Langdebeve, Sabre Mace, Langdebeve
-Langdebeve, Gloomwing, Sabre Mace
-Langdebeve, Mjolnir, Sabre Mace
-Langdebeve, Destroyer, Gloomwing
-Langdebeve, Hand of Light, Langdebeve
-Sabre Mace, Sabre Mace, Sabre Mace
-Sabre Mace, Gloomwing, -Langdebeve
-Sabre Mace, Griever, Sabre Mace
-Sabre Mace, Hand of Light, Sabre Mace
-Gloomwing, Gloomwing, Gloomwing
-Gloomwing, Mjolnir, -Langdebeve
-Gloomwing, Griever, Gloomwing
-Gloomwing, Destroyer, Gloomwing
-Gloomwing, Hand of Light, Gloomwing
-Mjolnir, Mjolnir, +Griever
-Mjolnir, Griever, -Langdebeve
-Mjolnir, Destroyer, Mjolnir
-Mjolnir, Hand of Light, Mjolnir
-Griever, Griever, +Destroyer
-Griever, Hand of Light, Griever
-Destroyer, Destroyer, Destroyer
-Destroyer, Hand of Light, Destroyer
-Hand of Light, Hand of Light, Hand of Light
+slot1,slot2,result,tier_change
+Langdebeve,Langdebeve,Langdebeve,0
+Langdebeve,Sabre Mace,Langdebeve,0
+Langdebeve,Gloomwing,Sabre Mace,0
+Langdebeve,Mjolnir,Sabre Mace,0
+Langdebeve,Destroyer,Gloomwing,0
+Langdebeve,Hand of Light,Langdebeve,0
+Sabre Mace,Sabre Mace,Sabre Mace,0
+Sabre Mace,Gloomwing,Langdebeve,-1
+Sabre Mace,Griever,Sabre Mace,0
+Sabre Mace,Hand of Light,Sabre Mace,0
+Gloomwing,Gloomwing,Gloomwing,0
+Gloomwing,Mjolnir,Langdebeve,-1
+Gloomwing,Griever,Gloomwing,0
+Gloomwing,Destroyer,Gloomwing,0
+Gloomwing,Hand of Light,Gloomwing,0
+Mjolnir,Mjolnir,Griever,1
+Mjolnir,Griever,Langdebeve,-1
+Mjolnir,Destroyer,Mjolnir,0
+Mjolnir,Hand of Light,Mjolnir,0
+Griever,Griever,Destroyer,1
+Griever,Hand of Light,Griever,0
+Destroyer,Destroyer,Destroyer,0
+Destroyer,Hand of Light,Destroyer,0
+Hand of Light,Hand of Light,Hand of Light,0

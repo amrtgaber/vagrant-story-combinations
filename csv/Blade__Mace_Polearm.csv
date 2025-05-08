@@ -1,77 +1,77 @@
-first slot, second slot, result, swap
-Goblin Club, Spear, Spear
-Goblin Club, Glaive, Spear
-Goblin Club, Scorpion, Spear
-Goblin Club, Corcesca, Spear
-Goblin Club, Trident, Glaive
-Goblin Club, Awl Pike, Scorpion
-Goblin Club, Boar Spear, Corcesca
-Goblin Club, Fauchard, Trident
-Goblin Club, Voulge, Awl Pike
-Goblin Club, Pole Axe, Boar Spear
-Goblin Club, Bardysh, Fauchard
-Goblin Club, Brandestoc, Voulge
-Spiked Club, Spear, Battle Knife
-Spiked Club, Glaive, Gastraph Bow
-Spiked Club, Scorpion, Spatha
-Spiked Club, Corcesca, Glaive
-Spiked Club, Trident, Glaive
-Spiked Club, Awl Pike, Glaive
-Spiked Club, Boar Spear, Scorpion
-Spiked Club, Fauchard, Corcesca
-Spiked Club, Voulge, Trident
-Spiked Club, Pole Axe, Awl Pike
-Spiked Club, Bardysh, Boar Spear
-Spiked Club, Brandestoc, Fauchard
-Ball Mace, Spear, Goblin Club
-Ball Mace, Glaive, Goblin Club
-Ball Mace, Scorpion, Scramasax
-Ball Mace, Corcesca, Light Crossbow
-Ball Mace, Trident, Scimitar
-Ball Mace, Awl Pike, Scorpion
-Ball Mace, Boar Spear, Scorpion
-Ball Mace, Fauchard, Scorpion
-Ball Mace, Voulge, Corcesca
-Ball Mace, Pole Axe, Trident
-Ball Mace, Bardysh, Awl Pike
-Ball Mace, Brandestoc, Boar Spear
-Morning Star, Spear, Ball Mace
-Morning Star, Glaive, Spiked Club
-Morning Star, Scorpion, Spiked Club
-Morning Star, Corcesca, Spiked Club
-Morning Star, Trident, Ball Mace
-Morning Star, Awl Pike, Ball Mace
-Morning Star, Boar Spear, Throwing Knife
-Morning Star, Fauchard, Windlass
-Morning Star, Voulge, Short Sword
-Morning Star, Pole Axe, Trident
-Morning Star, Bardysh, Trident
-Morning Star, Brandestoc, Trident
-War Hammer, Glaive, Ball Mace
-War Hammer, Scorpion, Ball Mace
-War Hammer, Corcesca, Spiked Club
-War Hammer, Trident, Ball Mace
-War Hammer, Awl Pike, Ball Mace
-War Hammer, Fauchard, Morning Star
-War Hammer, Voulge, Kudi
-War Hammer, Pole Axe, Cranequin
-War Hammer, Bardysh, Firangi
-War Hammer, Brandestoc, Awl Pike
-Bec de Corbin, Spear, Morning Star
-Bec de Corbin, Corcesca, Ball Mace
-Bec de Corbin, Trident, Ball Mace
-Bec de Corbin, Awl Pike, Ball Mace
-Bec de Corbin, Fauchard, Morning Star
-Bec de Corbin, Voulge, Morning Star
-Bec de Corbin, Pole Axe, War Hammer
-Bec de Corbin, Bardysh, Cinquedea
-Bec de Corbin, Brandestoc, Lug Crossbow
-War Maul, Spear, War Hammer
-War Maul, Glaive, Morning Star
-War Maul, Scorpion, Morning Star
-War Maul, Awl Pike, Ball Mace
-War Maul, Fauchard, Morning Star
-War Maul, Voulge, Morning Star
-War Maul, Pole Axe, War Hammer
-War Maul, Bardysh, War Hammer
-War Maul, Brandestoc, Bec de Corbin
+slot1,slot2,result,tier_change
+Goblin Club,Spear,Spear,0
+Goblin Club,Glaive,Spear,0
+Goblin Club,Scorpion,Spear,0
+Goblin Club,Corcesca,Spear,0
+Goblin Club,Trident,Glaive,0
+Goblin Club,Awl Pike,Scorpion,0
+Goblin Club,Boar Spear,Corcesca,0
+Goblin Club,Fauchard,Trident,0
+Goblin Club,Voulge,Awl Pike,0
+Goblin Club,Pole Axe,Boar Spear,0
+Goblin Club,Bardysh,Fauchard,0
+Goblin Club,Brandestoc,Voulge,0
+Spiked Club,Spear,Battle Knife,0
+Spiked Club,Glaive,Gastraph Bow,0
+Spiked Club,Scorpion,Spatha,0
+Spiked Club,Corcesca,Glaive,0
+Spiked Club,Trident,Glaive,0
+Spiked Club,Awl Pike,Glaive,0
+Spiked Club,Boar Spear,Scorpion,0
+Spiked Club,Fauchard,Corcesca,0
+Spiked Club,Voulge,Trident,0
+Spiked Club,Pole Axe,Awl Pike,0
+Spiked Club,Bardysh,Boar Spear,0
+Spiked Club,Brandestoc,Fauchard,0
+Ball Mace,Spear,Goblin Club,0
+Ball Mace,Glaive,Goblin Club,0
+Ball Mace,Scorpion,Scramasax,0
+Ball Mace,Corcesca,Light Crossbow,0
+Ball Mace,Trident,Scimitar,0
+Ball Mace,Awl Pike,Scorpion,0
+Ball Mace,Boar Spear,Scorpion,0
+Ball Mace,Fauchard,Scorpion,0
+Ball Mace,Voulge,Corcesca,0
+Ball Mace,Pole Axe,Trident,0
+Ball Mace,Bardysh,Awl Pike,0
+Ball Mace,Brandestoc,Boar Spear,0
+Morning Star,Spear,Ball Mace,0
+Morning Star,Glaive,Spiked Club,0
+Morning Star,Scorpion,Spiked Club,0
+Morning Star,Corcesca,Spiked Club,0
+Morning Star,Trident,Ball Mace,0
+Morning Star,Awl Pike,Ball Mace,0
+Morning Star,Boar Spear,Throwing Knife,0
+Morning Star,Fauchard,Windlass,0
+Morning Star,Voulge,Short Sword,0
+Morning Star,Pole Axe,Trident,0
+Morning Star,Bardysh,Trident,0
+Morning Star,Brandestoc,Trident,0
+War Hammer,Glaive,Ball Mace,0
+War Hammer,Scorpion,Ball Mace,0
+War Hammer,Corcesca,Spiked Club,0
+War Hammer,Trident,Ball Mace,0
+War Hammer,Awl Pike,Ball Mace,0
+War Hammer,Fauchard,Morning Star,0
+War Hammer,Voulge,Kudi,0
+War Hammer,Pole Axe,Cranequin,0
+War Hammer,Bardysh,Firangi,0
+War Hammer,Brandestoc,Awl Pike,0
+Bec de Corbin,Spear,Morning Star,0
+Bec de Corbin,Corcesca,Ball Mace,0
+Bec de Corbin,Trident,Ball Mace,0
+Bec de Corbin,Awl Pike,Ball Mace,0
+Bec de Corbin,Fauchard,Morning Star,0
+Bec de Corbin,Voulge,Morning Star,0
+Bec de Corbin,Pole Axe,War Hammer,0
+Bec de Corbin,Bardysh,Cinquedea,0
+Bec de Corbin,Brandestoc,Lug Crossbow,0
+War Maul,Spear,War Hammer,0
+War Maul,Glaive,Morning Star,0
+War Maul,Scorpion,Morning Star,0
+War Maul,Awl Pike,Ball Mace,0
+War Maul,Fauchard,Morning Star,0
+War Maul,Voulge,Morning Star,0
+War Maul,Pole Axe,War Hammer,0
+War Maul,Bardysh,War Hammer,0
+War Maul,Brandestoc,Bec de Corbin,0

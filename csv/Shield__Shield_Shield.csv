@@ -1,137 +1,141 @@
-first slot, second slot, result, swap
-Buckler, Buckler, Buckler
-Buckler, Pelta, Buckler
-Buckler, Targe, Pelta
-Buckler, Quad, Buckler
-Buckler, Circle, Targe
-Buckler, Tower, Buckler
-Buckler, Spiked, Quad
-Buckler, Round, Buckler
-Buckler, Kite, Pelta
-Buckler, Casserole, Targe
-Buckler, Heater, Quad
-Buckler, Oval, Circle
-Buckler, Knight, Tower
-Buckler, Hoplite, Spiked
-Buckler, Jazeraint, Round
-Buckler, Dread, Kite
-Pelta, Pelta, Pelta
-Pelta, Targe, +Quad
-Pelta, Quad, Targe
-Pelta, Circle, -Buckler
-Pelta, Tower, Pelta
-Pelta, Spiked, -Buckler
-Pelta, Round, Pelta
-Pelta, Kite, -Buckler
-Pelta, Casserole, Pelta
-Pelta, Heater, Targe
-Pelta, Oval, Quad
-Pelta, Knight, Circle
-Pelta, Hoplite, Tower
-Pelta, Jazeraint, Spiked
-Pelta, Dread, Round
-Targe, Targe, Targe
-Targe, Quad, +Circle
-Targe, Circle, -Pelta
-Targe, Tower, -Buckler
-Targe, Spiked, Spiked
-Targe, Round, -Buckler
-Targe, Kite, Targe, -Buckler
-Targe, Casserole, Spiked
-Targe, Heater, -Pelta
-Targe, Oval, Targe
-Targe, Knight, Quad
-Targe, Hoplite, Circle
-Targe, Jazeraint, Tower
-Targe, Dread, Spiked
-Quad, Quad, Quad
-Quad, Circle, +Tower
-Quad, Tower, +Spiked
-Quad, Spiked, -Targe
-Quad, Round, Round
-Quad, Kite, -Buckler
-Quad, Casserole, -Buckler, -Targe
-Quad, Heater, -Buckler
-Quad, Oval, -Pelta
-Quad, Knight, -Targe
-Quad, Hoplite, Quad
-Quad, Jazeraint, Circle
-Quad, Dread, Tower
-Circle, Circle, Circle
-Circle, Tower, +Spiked
-Circle, Spiked, +Round
-Circle, Round, -Buckler
-Circle, Kite, Spiked
-Circle, Casserole, Kite
-Circle, Heater, -Quad
-Circle, Oval, -Buckler
-Circle, Knight, -Pelta
-Circle, Hoplite, -Targe
-Circle, Jazeraint, -Quad
-Circle, Dread, Circle
-Tower, Tower, Tower
-Tower, Spiked, +Round
-Tower, Round, +Kite
-Tower, Kite, -Buckler
-Tower, Casserole, -Targe
-Tower, Heater, Kite
-Tower, Oval, -Targe
-Tower, Knight, -Buckler
-Tower, Hoplite, -Pelta
-Tower, Jazeraint, -Targe
-Tower, Dread, -Quad
-Spiked, Spiked, Spiked
-Spiked, Round, +Kite
-Spiked, Kite, +Casserole
-Spiked, Casserole, -Buckler
-Spiked, Heater, Round
-Spiked, Oval, Kite
-Spiked, Knight, Casserole
-Spiked, Hoplite, -Buckler
-Spiked, Jazeraint, -Pelta
-Spiked, Dread, -Targe
-Round, Round, Round
-Round, Kite, +Casserole
-Round, Casserole, +Heater
-Round, Heater, -Buckler
-Round, Oval, Casserole
-Round, Knight, -Circle
-Round, Hoplite, -Quad
-Round, Jazeraint, -Buckler
-Round, Dread, -Pelta
-Kite, Kite, Kite
-Kite, Casserole, +Heater
-Kite, Heater, -Buckler
-Kite, Oval, -Targe
-Kite, Knight, -Buckler
-Kite, Hoplite, Casserole
-Kite, Jazeraint, -Buckler
-Kite, Dread, -Buckler
-Casserole, Casserole, Casserole
-Casserole, Heater, +Oval
-Casserole, Oval, -Spiked
-Casserole, Knight, -Round, -Buckler
-Casserole, Hoplite, -Buckler, -Round
-Casserole, Jazeraint, -Buckler
-Casserole, Dread, -Targe
-Heater, Heater, Heater
-Heater, Oval, +Knight
-Heater, Knight, -Targe
-Heater, Hoplite, -Circle
-Heater, Jazeraint, -Kite
-Heater, Dread, -Buckler
-Oval, Oval, Oval
-Oval, Knight, +Hoplite
-Oval, Hoplite, -Quad
-Oval, Jazeraint, -Buckler
-Oval, Dread, -Spiked
-Knight, Knight, Knight
-Knight, Hoplite, -Buckler
-Knight, Jazeraint, -Quad
-Knight, Dread, -Buckler
-Hoplite, Hoplite, +Jazeraint
-Hoplite, Jazeraint, -Buckler
-Hoplite, Dread, -Circle
-Jazeraint, Jazeraint, +Dread
-Jazeraint, Dread, -Buckler
-Dread, Dread, Dread
+slot1,slot2,result,tier_change
+Buckler,Buckler,Buckler,0
+Buckler,Pelta,Buckler,0
+Buckler,Targe,Pelta,0
+Buckler,Quad,Buckler,0
+Buckler,Circle,Targe,0
+Buckler,Tower,Buckler,0
+Buckler,Spiked,Quad,0
+Buckler,Round,Buckler,0
+Buckler,Kite,Pelta,0
+Buckler,Casserole,Targe,0
+Buckler,Heater,Quad,0
+Buckler,Oval,Circle,0
+Buckler,Knight,Tower,0
+Buckler,Hoplite,Spiked,0
+Buckler,Jazeraint,Round,0
+Buckler,Dread,Kite,0
+Pelta,Pelta,Pelta,0
+Pelta,Targe,Quad,1
+Pelta,Quad,Targe,0
+Pelta,Circle,Buckler,-1
+Pelta,Tower,Pelta,0
+Pelta,Spiked,Buckler,-1
+Pelta,Round,Pelta,0
+Pelta,Kite,Buckler,-1
+Pelta,Casserole,Pelta,0
+Pelta,Heater,Targe,0
+Pelta,Oval,Quad,0
+Pelta,Knight,Circle,0
+Pelta,Hoplite,Tower,0
+Pelta,Jazeraint,Spiked,0
+Pelta,Dread,Round,0
+Targe,Targe,Targe,0
+Targe,Quad,Circle,1
+Targe,Circle,Pelta,-1
+Targe,Tower,Buckler,-1
+Targe,Spiked,Spiked,0
+Targe,Round,Buckler,-1
+Targe,Kite,Targe,0
+Kite,Targe,Buckler,-1
+Targe,Casserole,Spiked,0
+Targe,Heater,Pelta,-1
+Targe,Oval,Targe,0
+Targe,Knight,Quad,0
+Targe,Hoplite,Circle,0
+Targe,Jazeraint,Tower,0
+Targe,Dread,Spiked,0
+Quad,Quad,Quad,0
+Quad,Circle,Tower,1
+Quad,Tower,Spiked,1
+Quad,Spiked,Targe,-1
+Quad,Round,Round,0
+Quad,Kite,Buckler,-1
+Quad,Casserole,Buckler,-1
+Casserole,Quad,Targe,-1
+Quad,Heater,Buckler,-1
+Quad,Oval,Pelta,-1
+Quad,Knight,Targe,-1
+Quad,Hoplite,Quad,0
+Quad,Jazeraint,Circle,0
+Quad,Dread,Tower,0
+Circle,Circle,Circle,0
+Circle,Tower,Spiked,1
+Circle,Spiked,Round,1
+Circle,Round,Buckler,-1
+Circle,Kite,Spiked,0
+Circle,Casserole,Kite,0
+Circle,Heater,Quad,-1
+Circle,Oval,Buckler,-1
+Circle,Knight,Pelta,-1
+Circle,Hoplite,Targe,-1
+Circle,Jazeraint,Quad,-1
+Circle,Dread,Circle,0
+Tower,Tower,Tower,0
+Tower,Spiked,Round,1
+Tower,Round,Kite,1
+Tower,Kite,Buckler,-1
+Tower,Casserole,Targe,-1
+Tower,Heater,Kite,0
+Tower,Oval,Targe,-1
+Tower,Knight,Buckler,-1
+Tower,Hoplite,Pelta,-1
+Tower,Jazeraint,Targe,-1
+Tower,Dread,Quad,-1
+Spiked,Spiked,Spiked,0
+Spiked,Round,Kite,1
+Spiked,Kite,Casserole,1
+Spiked,Casserole,Buckler,-1
+Spiked,Heater,Round,0
+Spiked,Oval,Kite,0
+Spiked,Knight,Casserole,0
+Spiked,Hoplite,Buckler,-1
+Spiked,Jazeraint,Pelta,-1
+Spiked,Dread,Targe,-1
+Round,Round,Round,0
+Round,Kite,Casserole,1
+Round,Casserole,Heater,1
+Round,Heater,Buckler,-1
+Round,Oval,Casserole,0
+Round,Knight,Circle,-1
+Round,Hoplite,Quad,-1
+Round,Jazeraint,Buckler,-1
+Round,Dread,Pelta,-1
+Kite,Kite,Kite,0
+Kite,Casserole,Heater,1
+Kite,Heater,Buckler,-1
+Kite,Oval,Targe,-1
+Kite,Knight,Buckler,-1
+Kite,Hoplite,Casserole,0
+Kite,Jazeraint,Buckler,-1
+Kite,Dread,Buckler,-1
+Casserole,Casserole,Casserole,0
+Casserole,Heater,Oval,1
+Casserole,Oval,Spiked,-1
+Casserole,Knight,Round,-1
+Knight,Casserole,Buckler,-1
+Casserole,Hoplite,Buckler,-1
+Hoplite,Casserole,Round,-1
+Casserole,Jazeraint,Buckler,-1
+Casserole,Dread,Targe,-1
+Heater,Heater,Heater,0
+Heater,Oval,Knight,1
+Heater,Knight,Targe,-1
+Heater,Hoplite,Circle,-1
+Heater,Jazeraint,Kite,-1
+Heater,Dread,Buckler,-1
+Oval,Oval,Oval,0
+Oval,Knight,Hoplite,1
+Oval,Hoplite,Quad,-1
+Oval,Jazeraint,Buckler,-1
+Oval,Dread,Spiked,-1
+Knight,Knight,Knight,0
+Knight,Hoplite,Buckler,-1
+Knight,Jazeraint,Quad,-1
+Knight,Dread,Buckler,-1
+Hoplite,Hoplite,Jazeraint,1
+Hoplite,Jazeraint,Buckler,-1
+Hoplite,Dread,Circle,-1
+Jazeraint,Jazeraint,Dread,1
+Jazeraint,Dread,Buckler,-1
+Dread,Dread,Dread,0

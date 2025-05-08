@@ -1,73 +1,81 @@
-first slot, second slot, result, swap
-Langdebeve, Spear, Gastraph Bow
-Langdebeve, Glaive, Spatha
-Langdebeve, Scorpion, Spear
-Langdebeve, Corcesca, Glaive
-Langdebeve, Trident, Glaive
-Langdebeve, Awl Pike, Scorpion
-Langdebeve, Boar Spear, Corcesca
-Langdebeve, Fauchard, Trident
-Langdebeve, Voulge, Awl Pike
-Langdebeve, Pole Axe, Boar Spear
-Langdebeve, Bardysh, Fauchard
-Langdebeve, Brandestoc, Voulge
-Sabre Mace, Spear, Langdebeve
-Sabre Mace, Glaive, Battle Knife
-Sabre Mace, Scorpion, Light Crossbow
-Sabre Mace, Corcesca, Scimitar
-Sabre Mace, Trident, Glaive
-Sabre Mace, Awl Pike, Glaive
-Sabre Mace, Boar Spear, Glaive
-Sabre Mace, Fauchard, Corcesca
-Sabre Mace, Voulge, Trident
-Sabre Mace, Pole Axe, Awl Pike
-Sabre Mace, Bardysh, Boar Spear
-Sabre Mace, Brandestoc, Fauchard
-Gloomwing, Spear, Langdebeve
-Gloomwing, Glaive, Langdebeve
-Gloomwing, Scorpion, Sabre Mace
-Gloomwing, Corcesca, Sabre Mace
-Gloomwing, Awl Pike, Dirk
-Gloomwing, Boar Spear, Windlass
-Gloomwing, Fauchard, Short Sword
-Gloomwing, Voulge, Corcesca
-Gloomwing, Pole Axe, Corcesca
-Gloomwing, Bardysh, Trident
-Gloomwing, Brandestoc, Awl Pike
-Mjolnir, Spear, Sabre Mace
-Mjolnir, Glaive, Langdebeve
-Mjolnir, Scorpion, Sabre Mace
-Mjolnir, Corcesca, Sabre Mace
-Mjolnir, Boar Spear, Gloomwing
-Mjolnir, Fauchard, Throwing Knife
-Mjolnir, Voulge, Cranequin
-Mjolnir, Pole Axe, Firangi
-Mjolnir, Bardysh, Trident
-Mjolnir, Brandestoc, Trident
-Griever, Glaive, Sabre Mace
-Griever, Scorpion, Sabre Mace
-Griever, Corcesca, Sabre Mace
-Griever, Boar Spear, Gloomwing
-Griever, Fauchard, Gloomwing
-Griever, Voulge, Mjolnir
-Griever, Pole Axe, Kudi
-Griever, Bardysh, Lug Crossbow
-Griever, Brandestoc, Shamshir
-Destroyer, Spear, Gloomwing
-Destroyer, Corcesca, Sabre Mace
-Destroyer, Boar Spear, Gloomwing
-Destroyer, Fauchard, Gloomwing
-Destroyer, Voulge, Mjolnir
-Destroyer, Pole Axe, Mjolnir
-Destroyer, Bardysh, Griever
-Destroyer, Brandestoc, Cinquedea
-Hand of Light, Spear, Spear
-Hand of Light, Glaive, Trident, Glaive
-Hand of Light, Scorpion, Scorpion
-Hand of Light, Corcesca, Spear, Corcesca
-Hand of Light, Trident, Destroyer, Trident
-Hand of Light, Awl Pike, Mjolnir, Awl Pike
-Hand of Light, Fauchard, Langdebeve, Fauchard
-Hand of Light, Pole Axe, Summoner Baton, Pole Axe
-Hand of Light, Bardysh, Wizard Staff, Bardysh
-Hand of Light, Brandestoc, Double Blade, Brandestoc
+slot1,slot2,result,tier_change
+Langdebeve,Spear,Gastraph Bow,0
+Langdebeve,Glaive,Spatha,0
+Langdebeve,Scorpion,Spear,0
+Langdebeve,Corcesca,Glaive,0
+Langdebeve,Trident,Glaive,0
+Langdebeve,Awl Pike,Scorpion,0
+Langdebeve,Boar Spear,Corcesca,0
+Langdebeve,Fauchard,Trident,0
+Langdebeve,Voulge,Awl Pike,0
+Langdebeve,Pole Axe,Boar Spear,0
+Langdebeve,Bardysh,Fauchard,0
+Langdebeve,Brandestoc,Voulge,0
+Sabre Mace,Spear,Langdebeve,0
+Sabre Mace,Glaive,Battle Knife,0
+Sabre Mace,Scorpion,Light Crossbow,0
+Sabre Mace,Corcesca,Scimitar,0
+Sabre Mace,Trident,Glaive,0
+Sabre Mace,Awl Pike,Glaive,0
+Sabre Mace,Boar Spear,Glaive,0
+Sabre Mace,Fauchard,Corcesca,0
+Sabre Mace,Voulge,Trident,0
+Sabre Mace,Pole Axe,Awl Pike,0
+Sabre Mace,Bardysh,Boar Spear,0
+Sabre Mace,Brandestoc,Fauchard,0
+Gloomwing,Spear,Langdebeve,0
+Gloomwing,Glaive,Langdebeve,0
+Gloomwing,Scorpion,Sabre Mace,0
+Gloomwing,Corcesca,Sabre Mace,0
+Gloomwing,Awl Pike,Dirk,0
+Gloomwing,Boar Spear,Windlass,0
+Gloomwing,Fauchard,Short Sword,0
+Gloomwing,Voulge,Corcesca,0
+Gloomwing,Pole Axe,Corcesca,0
+Gloomwing,Bardysh,Trident,0
+Gloomwing,Brandestoc,Awl Pike,0
+Mjolnir,Spear,Sabre Mace,0
+Mjolnir,Glaive,Langdebeve,0
+Mjolnir,Scorpion,Sabre Mace,0
+Mjolnir,Corcesca,Sabre Mace,0
+Mjolnir,Boar Spear,Gloomwing,0
+Mjolnir,Fauchard,Throwing Knife,0
+Mjolnir,Voulge,Cranequin,0
+Mjolnir,Pole Axe,Firangi,0
+Mjolnir,Bardysh,Trident,0
+Mjolnir,Brandestoc,Trident,0
+Griever,Glaive,Sabre Mace,0
+Griever,Scorpion,Sabre Mace,0
+Griever,Corcesca,Sabre Mace,0
+Griever,Boar Spear,Gloomwing,0
+Griever,Fauchard,Gloomwing,0
+Griever,Voulge,Mjolnir,0
+Griever,Pole Axe,Kudi,0
+Griever,Bardysh,Lug Crossbow,0
+Griever,Brandestoc,Shamshir,0
+Destroyer,Spear,Gloomwing,0
+Destroyer,Corcesca,Sabre Mace,0
+Destroyer,Boar Spear,Gloomwing,0
+Destroyer,Fauchard,Gloomwing,0
+Destroyer,Voulge,Mjolnir,0
+Destroyer,Pole Axe,Mjolnir,0
+Destroyer,Bardysh,Griever,0
+Destroyer,Brandestoc,Cinquedea,0
+Hand of Light,Spear,Spear,0
+Hand of Light,Glaive,Trident,0
+Glaive,Hand of Light,Glaive,0
+Hand of Light,Scorpion,Scorpion,0
+Hand of Light,Corcesca,Spear,0
+Corcesca,Hand of Light,Corcesca,0
+Hand of Light,Trident,Destroyer,0
+Trident,Hand of Light,Trident,0
+Hand of Light,Awl Pike,Mjolnir,0
+Awl Pike,Hand of Light,Awl Pike,0
+Hand of Light,Fauchard,Langdebeve,0
+Fauchard,Hand of Light,Fauchard,0
+Hand of Light,Pole Axe,Summoner Baton,0
+Pole Axe,Hand of Light,Pole Axe,0
+Hand of Light,Bardysh,Wizard Staff,0
+Bardysh,Hand of Light,Bardysh,0
+Hand of Light,Brandestoc,Double Blade,0
+Brandestoc,Hand of Light,Brandestoc,0

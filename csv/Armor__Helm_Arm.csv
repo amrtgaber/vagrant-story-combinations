@@ -1,257 +1,262 @@
-first slot, second slot, result, swap
-Bandana, Bandage, Bandage
-Bandana, Leather Glove, Leather Glove
-Bandana, Reinforced Glove, Reinforced Glove
-Bandana, Knuckles, Knuckles
-Bandana, Ring Sleeve, Knuckles
-Bandana, Chain Sleeve, Knuckles
-Bandana, Gauntlet, Knuckles
-Bandana, Vambrace, Chain Mail, Ring Sleeve
-Bandana, Plate Glove, Chain Sleeve
-Bandana, Rondanche, Gauntlet
-Bandana, Tilt Glove, Vambrace
-Bandana, Freiturnier, Plate Glove
-Bandana, Fluted Glove, Rondanche
-Bandana, Hoplite Glove, Tilt Glove
-Bandana, Jazeraint Glove, Freiturnier
-Bandana, Dread Glove, Fluted Glove
-Bear Mask, Bandage, Bear Mask
-Bear Mask, Leather Glove, Leather Glove
-Bear Mask, Reinforced Glove, Reinforced Glove
-Bear Mask, Knuckles, Knuckles
-Bear Mask, Ring Sleeve, Knuckles
-Bear Mask, Chain Sleeve, Knuckles
-Bear Mask, Gauntlet, Knuckles
-Bear Mask, Vambrace, Chain Mail, Ring Sleeve
-Bear Mask, Plate Glove, Chain Sleeve
-Bear Mask, Rondanche, Gauntlet
-Bear Mask, Tilt Glove, Vambrace
-Bear Mask, Freiturnier, Plate Glove
-Bear Mask, Fluted Glove, Rondanche
-Bear Mask, Hoplite Glove, Tilt Glove
-Bear Mask, Jazeraint Glove, Freiturnier
-Bear Mask, Dread Glove, Fluted Glove
-Wizard Hat, Bandage, Wizard Hat
-Wizard Hat, Leather Glove, Wizard Hat
-Wizard Hat, Reinforced Glove, Reinforced Glove
-Wizard Hat, Knuckles, Knuckles
-Wizard Hat, Ring Sleeve, Knuckles
-Wizard Hat, Chain Sleeve, Knuckles
-Wizard Hat, Gauntlet, Knuckles
-Wizard Hat, Vambrace, Chain Mail, Ring Sleeve
-Wizard Hat, Plate Glove, Chain Sleeve
-Wizard Hat, Rondanche, Gauntlet
-Wizard Hat, Tilt Glove, Vambrace
-Wizard Hat, Freiturnier, Plate Glove
-Wizard Hat, Fluted Glove, Rondanche
-Wizard Hat, Hoplite Glove, Tilt Glove
-Wizard Hat, Jazeraint Glove, Freiturnier
-Wizard Hat, Dread Glove, Fluted Glove
-Bone Helm, Bandage, Bone Helm
-Bone Helm, Leather Glove, Bone Helm
-Bone Helm, Reinforced Glove, Bone Helm
-Bone Helm, Knuckles, Bone Helm
-Bone Helm, Ring Sleeve, Knuckles
-Bone Helm, Chain Sleeve, Knuckles
-Bone Helm, Gauntlet, Knuckles
-Bone Helm, Vambrace, Chain Mail, Ring Sleeve
-Bone Helm, Plate Glove, Chain Sleeve
-Bone Helm, Rondanche, Gauntlet
-Bone Helm, Tilt Glove, Vambrace
-Bone Helm, Freiturnier, Plate Glove
-Bone Helm, Fluted Glove, Rondanche
-Bone Helm, Hoplite Glove, Tilt Glove
-Bone Helm, Jazeraint Glove, Freiturnier
-Bone Helm, Dread Glove, Fluted Glove
-Chain Coif, Bandage, Bone Helm
-Chain Coif, Leather Glove, Bone Helm
-Chain Coif, Reinforced Glove, Bone Helm
-Chain Coif, Knuckles, Bone Helm
-Chain Coif, Ring Sleeve, Banded Mail
-Chain Coif, Chain Sleeve, Ring Sleeve
-Chain Coif, Gauntlet, Ring Sleeve
-Chain Coif, Vambrace, Ring Sleeve
-Chain Coif, Plate Glove, Ring Sleeve
-Chain Coif, Rondanche, Chain Sleeve
-Chain Coif, Tilt Glove, Gauntlet
-Chain Coif, Freiturnier, Vambrace
-Chain Coif, Fluted Glove, Plate Glove
-Chain Coif, Hoplite Glove, Rondanche
-Chain Coif, Jazeraint Glove, Tilt Glove
-Chain Coif, Dread Glove, Freiturnier
-Spangenhelm, Bandage, Bone Helm
-Spangenhelm, Leather Glove, Bone Helm
-Spangenhelm, Reinforced Glove, Bone Helm
-Spangenhelm, Knuckles, Bone Helm
-Spangenhelm, Ring Sleeve, Chain Coif
-Spangenhelm, Chain Sleeve, Ring Mail
-Spangenhelm, Gauntlet, Chain Sleeve
-Spangenhelm, Vambrace, Chain Sleeve
-Spangenhelm, Plate Glove, Chain Sleeve
-Spangenhelm, Rondanche, Chain Sleeve
-Spangenhelm, Tilt Glove, Chain Sleeve
-Spangenhelm, Freiturnier, Gauntlet, Chain Sleeve
-Spangenhelm, Fluted Glove, Vambrace
-Spangenhelm, Hoplite Glove, Plate Glove
-Spangenhelm, Jazeraint Glove, Rondanche
-Spangenhelm, Dread Glove, Tilt Glove
-Cabasset, Bandage, Bone Helm
-Cabasset, Leather Glove, Bone Helm
-Cabasset, Reinforced Glove, Bone Helm
-Cabasset, Knuckles, Bone Helm
-Cabasset, Ring Sleeve, Chain Coif
-Cabasset, Chain Sleeve, Spangenhelm
-Cabasset, Gauntlet, Chain Mail
-Cabasset, Vambrace, Gauntlet
-Cabasset, Plate Glove, Gauntlet
-Cabasset, Rondanche, Gauntlet
-Cabasset, Tilt Glove, Gauntlet
-Cabasset, Freiturnier, Gauntlet
-Cabasset, Fluted Glove, Gauntlet
-Cabasset, Hoplite Glove, Vambrace
-Cabasset, Jazeraint Glove, Plate Glove
-Cabasset, Dread Glove, Rondanche
-Sallet, Bandage, Chain Coif
-Sallet, Leather Glove, Chain Coif
-Sallet, Reinforced Glove, Chain Coif
-Sallet, Knuckles, Chain Coif
-Sallet, Ring Sleeve, Chain Coif
-Sallet, Chain Sleeve, Spangenhelm
-Sallet, Gauntlet, Cabasset
-Sallet, Vambrace, Breastplate
-Sallet, Plate Glove, Vambrace
-Sallet, Rondanche, Vambrace
-Sallet, Tilt Glove, Vambrace
-Sallet, Freiturnier, Vambrace
-Sallet, Fluted Glove, Vambrace
-Sallet, Hoplite Glove, Vambrace
-Sallet, Jazeraint Glove, Vambrace
-Sallet, Dread Glove, Plate Glove
-Barbut, Bandage, Spangenhelm
-Barbut, Leather Glove, Spangenhelm
-Barbut, Reinforced Glove, Spangenhelm
-Barbut, Knuckles, Spangenhelm
-Barbut, Ring Sleeve, Chain Coif
-Barbut, Chain Sleeve, Spangenhelm
-Barbut, Gauntlet, Cabasset
-Barbut, Vambrace, Sallet
-Barbut, Plate Glove, Segmentata
-Barbut, Rondanche, Plate Glove
-Barbut, Tilt Glove, Plate Glove
-Barbut, Freiturnier, Plate Glove
-Barbut, Fluted Glove, Plate Glove
-Barbut, Hoplite Glove, Plate Glove
-Barbut, Jazeraint Glove, Plate Glove
-Barbut, Dread Glove, Plate Glove
-Basinet, Bandage, Cabasset
-Basinet, Leather Glove, Cabasset
-Basinet, Reinforced Glove, Cabasset
-Basinet, Knuckles, Cabasset
-Basinet, Ring Sleeve, Spangenhelm
-Basinet, Chain Sleeve, Spangenhelm
-Basinet, Gauntlet, Cabasset
-Basinet, Vambrace, Sallet
-Basinet, Plate Glove, Barbut
-Basinet, Rondanche, Scale Armor
-Basinet, Tilt Glove, Rondanche
-Basinet, Freiturnier, Rondanche
-Basinet, Fluted Glove, Rondanche
-Basinet, Hoplite Glove, Rondanche
-Basinet, Jazeraint Glove, Rondanche
-Basinet, Dread Glove, Rondanche
-Armet, Bandage, Sallet
-Armet, Leather Glove, Sallet
-Armet, Reinforced Glove, Sallet
-Armet, Knuckles, Sallet
-Armet, Ring Sleeve, Cabasset
-Armet, Chain Sleeve, Spangenhelm
-Armet, Gauntlet, Cabasset
-Armet, Vambrace, Sallet
-Armet, Plate Glove, Barbut
-Armet, Rondanche, Basinet
-Armet, Tilt Glove, Brigandine
-Armet, Freiturnier, Tilt Glove
-Armet, Fluted Glove, Tilt Glove
-Armet, Hoplite Glove, Tilt Glove
-Armet, Jazeraint Glove, Tilt Glove
-Armet, Dread Glove, Tilt Glove
-Close Helm, Bandage, Barbut
-Close Helm, Leather Glove, Barbut
-Close Helm, Reinforced Glove, Barbut
-Close Helm, Knuckles, Barbut
-Close Helm, Ring Sleeve, Sallet
-Close Helm, Chain Sleeve, Cabasset
-Close Helm, Gauntlet, Cabasset
-Close Helm, Vambrace, Sallet
-Close Helm, Plate Glove, Barbut
-Close Helm, Rondanche, Basinet
-Close Helm, Tilt Glove, Armet
-Close Helm, Freiturnier, Plate Mail
-Close Helm, Fluted Glove, Freiturnier
-Close Helm, Hoplite Glove, Freiturnier
-Close Helm, Jazeraint Glove, Freiturnier
-Close Helm, Dread Glove, Freiturnier
-Burgonet, Bandage, Basinet
-Burgonet, Leather Glove, Basinet
-Burgonet, Reinforced Glove, Basinet
-Burgonet, Knuckles, Basinet
-Burgonet, Ring Sleeve, Barbut
-Burgonet, Chain Sleeve, Sallet
-Burgonet, Gauntlet, Cabasset
-Burgonet, Vambrace, Sallet
-Burgonet, Plate Glove, Barbut
-Burgonet, Rondanche, Basinet
-Burgonet, Tilt Glove, Armet
-Burgonet, Freiturnier, Close Helm
-Burgonet, Fluted Glove, Fluted Armor
-Burgonet, Hoplite Glove, Fluted Glove
-Burgonet, Jazeraint Glove, Fluted Glove
-Burgonet, Dread Glove, Fluted Glove
-Hoplite Helm, Bandage, Armet
-Hoplite Helm, Leather Glove, Armet
-Hoplite Helm, Reinforced Glove, Armet
-Hoplite Helm, Knuckles, Armet
-Hoplite Helm, Ring Sleeve, Basinet
-Hoplite Helm, Chain Sleeve, Barbut
-Hoplite Helm, Gauntlet, Sallet
-Hoplite Helm, Vambrace, Sallet
-Hoplite Helm, Plate Glove, Barbut
-Hoplite Helm, Rondanche, Basinet
-Hoplite Helm, Tilt Glove, Armet
-Hoplite Helm, Freiturnier, Close Helm
-Hoplite Helm, Fluted Glove, Burgonet
-Hoplite Helm, Hoplite Glove, Hoplite Armor
-Hoplite Helm, Jazeraint Glove, Hoplite Glove
-Hoplite Helm, Dread Glove, Hoplite Glove
-Jazeraint Helm, Bandage, Close Helm
-Jazeraint Helm, Leather Glove, Close Helm
-Jazeraint Helm, Reinforced Glove, Close Helm
-Jazeraint Helm, Knuckles, Close Helm
-Jazeraint Helm, Ring Sleeve, Armet
-Jazeraint Helm, Chain Sleeve, Basinet
-Jazeraint Helm, Gauntlet, Barbut
-Jazeraint Helm, Vambrace, Sallet
-Jazeraint Helm, Plate Glove, Barbut
-Jazeraint Helm, Rondanche, Basinet
-Jazeraint Helm, Tilt Glove, Armet
-Jazeraint Helm, Freiturnier, Close Helm
-Jazeraint Helm, Fluted Glove, Burgonet
-Jazeraint Helm, Hoplite Glove, Hoplite Helm
-Jazeraint Helm, Jazeraint Glove, Jazeraint Armor
-Jazeraint Helm, Dread Glove, Jazeraint Glove
-Dread Helm, Bandage, Burgonet
-Dread Helm, Leather Glove, Burgonet
-Dread Helm, Reinforced Glove, Burgonet
-Dread Helm, Knuckles, Burgonet
-Dread Helm, Ring Sleeve, Close Helm
-Dread Helm, Chain Sleeve, Armet
-Dread Helm, Gauntlet, Basinet
-Dread Helm, Vambrace, Barbut
-Dread Helm, Plate Glove, Barbut
-Dread Helm, Rondanche, Basinet
-Dread Helm, Tilt Glove, Armet
-Dread Helm, Freiturnier, Close Helm
-Dread Helm, Fluted Glove, Burgonet
-Dread Helm, Hoplite Glove, Hoplite Helm
-Dread Helm, Jazeraint Glove, Jazeraint Helm
-Dread Helm, Dread Glove, Dread Armor
+slot1,slot2,result,tier_change
+Bandana,Bandage,Bandage,0
+Bandana,Leather Glove,Leather Glove,0
+Bandana,Reinforced Glove,Reinforced Glove,0
+Bandana,Knuckles,Knuckles,0
+Bandana,Ring Sleeve,Knuckles,0
+Bandana,Chain Sleeve,Knuckles,0
+Bandana,Gauntlet,Knuckles,0
+Bandana,Vambrace,Chain Mail,0
+Vambrace,Bandana,Ring Sleeve,0
+Bandana,Plate Glove,Chain Sleeve,0
+Bandana,Rondanche,Gauntlet,0
+Bandana,Tilt Glove,Vambrace,0
+Bandana,Freiturnier,Plate Glove,0
+Bandana,Fluted Glove,Rondanche,0
+Bandana,Hoplite Glove,Tilt Glove,0
+Bandana,Jazeraint Glove,Freiturnier,0
+Bandana,Dread Glove,Fluted Glove,0
+Bear Mask,Bandage,Bear Mask,0
+Bear Mask,Leather Glove,Leather Glove,0
+Bear Mask,Reinforced Glove,Reinforced Glove,0
+Bear Mask,Knuckles,Knuckles,0
+Bear Mask,Ring Sleeve,Knuckles,0
+Bear Mask,Chain Sleeve,Knuckles,0
+Bear Mask,Gauntlet,Knuckles,0
+Bear Mask,Vambrace,Chain Mail,0
+Vambrace,Bear Mask,Ring Sleeve,0
+Bear Mask,Plate Glove,Chain Sleeve,0
+Bear Mask,Rondanche,Gauntlet,0
+Bear Mask,Tilt Glove,Vambrace,0
+Bear Mask,Freiturnier,Plate Glove,0
+Bear Mask,Fluted Glove,Rondanche,0
+Bear Mask,Hoplite Glove,Tilt Glove,0
+Bear Mask,Jazeraint Glove,Freiturnier,0
+Bear Mask,Dread Glove,Fluted Glove,0
+Wizard Hat,Bandage,Wizard Hat,0
+Wizard Hat,Leather Glove,Wizard Hat,0
+Wizard Hat,Reinforced Glove,Reinforced Glove,0
+Wizard Hat,Knuckles,Knuckles,0
+Wizard Hat,Ring Sleeve,Knuckles,0
+Wizard Hat,Chain Sleeve,Knuckles,0
+Wizard Hat,Gauntlet,Knuckles,0
+Wizard Hat,Vambrace,Chain Mail,0
+Vambrace,Wizard Hat,Ring Sleeve,0
+Wizard Hat,Plate Glove,Chain Sleeve,0
+Wizard Hat,Rondanche,Gauntlet,0
+Wizard Hat,Tilt Glove,Vambrace,0
+Wizard Hat,Freiturnier,Plate Glove,0
+Wizard Hat,Fluted Glove,Rondanche,0
+Wizard Hat,Hoplite Glove,Tilt Glove,0
+Wizard Hat,Jazeraint Glove,Freiturnier,0
+Wizard Hat,Dread Glove,Fluted Glove,0
+Bone Helm,Bandage,Bone Helm,0
+Bone Helm,Leather Glove,Bone Helm,0
+Bone Helm,Reinforced Glove,Bone Helm,0
+Bone Helm,Knuckles,Bone Helm,0
+Bone Helm,Ring Sleeve,Knuckles,0
+Bone Helm,Chain Sleeve,Knuckles,0
+Bone Helm,Gauntlet,Knuckles,0
+Bone Helm,Vambrace,Chain Mail,0
+Vambrace,Bone Helm,Ring Sleeve,0
+Bone Helm,Plate Glove,Chain Sleeve,0
+Bone Helm,Rondanche,Gauntlet,0
+Bone Helm,Tilt Glove,Vambrace,0
+Bone Helm,Freiturnier,Plate Glove,0
+Bone Helm,Fluted Glove,Rondanche,0
+Bone Helm,Hoplite Glove,Tilt Glove,0
+Bone Helm,Jazeraint Glove,Freiturnier,0
+Bone Helm,Dread Glove,Fluted Glove,0
+Chain Coif,Bandage,Bone Helm,0
+Chain Coif,Leather Glove,Bone Helm,0
+Chain Coif,Reinforced Glove,Bone Helm,0
+Chain Coif,Knuckles,Bone Helm,0
+Chain Coif,Ring Sleeve,Banded Mail,0
+Chain Coif,Chain Sleeve,Ring Sleeve,0
+Chain Coif,Gauntlet,Ring Sleeve,0
+Chain Coif,Vambrace,Ring Sleeve,0
+Chain Coif,Plate Glove,Ring Sleeve,0
+Chain Coif,Rondanche,Chain Sleeve,0
+Chain Coif,Tilt Glove,Gauntlet,0
+Chain Coif,Freiturnier,Vambrace,0
+Chain Coif,Fluted Glove,Plate Glove,0
+Chain Coif,Hoplite Glove,Rondanche,0
+Chain Coif,Jazeraint Glove,Tilt Glove,0
+Chain Coif,Dread Glove,Freiturnier,0
+Spangenhelm,Bandage,Bone Helm,0
+Spangenhelm,Leather Glove,Bone Helm,0
+Spangenhelm,Reinforced Glove,Bone Helm,0
+Spangenhelm,Knuckles,Bone Helm,0
+Spangenhelm,Ring Sleeve,Chain Coif,0
+Spangenhelm,Chain Sleeve,Ring Mail,0
+Spangenhelm,Gauntlet,Chain Sleeve,0
+Spangenhelm,Vambrace,Chain Sleeve,0
+Spangenhelm,Plate Glove,Chain Sleeve,0
+Spangenhelm,Rondanche,Chain Sleeve,0
+Spangenhelm,Tilt Glove,Chain Sleeve,0
+Spangenhelm,Freiturnier,Gauntlet,0
+Freiturnier,Spangenhelm,Chain Sleeve,0
+Spangenhelm,Fluted Glove,Vambrace,0
+Spangenhelm,Hoplite Glove,Plate Glove,0
+Spangenhelm,Jazeraint Glove,Rondanche,0
+Spangenhelm,Dread Glove,Tilt Glove,0
+Cabasset,Bandage,Bone Helm,0
+Cabasset,Leather Glove,Bone Helm,0
+Cabasset,Reinforced Glove,Bone Helm,0
+Cabasset,Knuckles,Bone Helm,0
+Cabasset,Ring Sleeve,Chain Coif,0
+Cabasset,Chain Sleeve,Spangenhelm,0
+Cabasset,Gauntlet,Chain Mail,0
+Cabasset,Vambrace,Gauntlet,0
+Cabasset,Plate Glove,Gauntlet,0
+Cabasset,Rondanche,Gauntlet,0
+Cabasset,Tilt Glove,Gauntlet,0
+Cabasset,Freiturnier,Gauntlet,0
+Cabasset,Fluted Glove,Gauntlet,0
+Cabasset,Hoplite Glove,Vambrace,0
+Cabasset,Jazeraint Glove,Plate Glove,0
+Cabasset,Dread Glove,Rondanche,0
+Sallet,Bandage,Chain Coif,0
+Sallet,Leather Glove,Chain Coif,0
+Sallet,Reinforced Glove,Chain Coif,0
+Sallet,Knuckles,Chain Coif,0
+Sallet,Ring Sleeve,Chain Coif,0
+Sallet,Chain Sleeve,Spangenhelm,0
+Sallet,Gauntlet,Cabasset,0
+Sallet,Vambrace,Breastplate,0
+Sallet,Plate Glove,Vambrace,0
+Sallet,Rondanche,Vambrace,0
+Sallet,Tilt Glove,Vambrace,0
+Sallet,Freiturnier,Vambrace,0
+Sallet,Fluted Glove,Vambrace,0
+Sallet,Hoplite Glove,Vambrace,0
+Sallet,Jazeraint Glove,Vambrace,0
+Sallet,Dread Glove,Plate Glove,0
+Barbut,Bandage,Spangenhelm,0
+Barbut,Leather Glove,Spangenhelm,0
+Barbut,Reinforced Glove,Spangenhelm,0
+Barbut,Knuckles,Spangenhelm,0
+Barbut,Ring Sleeve,Chain Coif,0
+Barbut,Chain Sleeve,Spangenhelm,0
+Barbut,Gauntlet,Cabasset,0
+Barbut,Vambrace,Sallet,0
+Barbut,Plate Glove,Segmentata,0
+Barbut,Rondanche,Plate Glove,0
+Barbut,Tilt Glove,Plate Glove,0
+Barbut,Freiturnier,Plate Glove,0
+Barbut,Fluted Glove,Plate Glove,0
+Barbut,Hoplite Glove,Plate Glove,0
+Barbut,Jazeraint Glove,Plate Glove,0
+Barbut,Dread Glove,Plate Glove,0
+Basinet,Bandage,Cabasset,0
+Basinet,Leather Glove,Cabasset,0
+Basinet,Reinforced Glove,Cabasset,0
+Basinet,Knuckles,Cabasset,0
+Basinet,Ring Sleeve,Spangenhelm,0
+Basinet,Chain Sleeve,Spangenhelm,0
+Basinet,Gauntlet,Cabasset,0
+Basinet,Vambrace,Sallet,0
+Basinet,Plate Glove,Barbut,0
+Basinet,Rondanche,Scale Armor,0
+Basinet,Tilt Glove,Rondanche,0
+Basinet,Freiturnier,Rondanche,0
+Basinet,Fluted Glove,Rondanche,0
+Basinet,Hoplite Glove,Rondanche,0
+Basinet,Jazeraint Glove,Rondanche,0
+Basinet,Dread Glove,Rondanche,0
+Armet,Bandage,Sallet,0
+Armet,Leather Glove,Sallet,0
+Armet,Reinforced Glove,Sallet,0
+Armet,Knuckles,Sallet,0
+Armet,Ring Sleeve,Cabasset,0
+Armet,Chain Sleeve,Spangenhelm,0
+Armet,Gauntlet,Cabasset,0
+Armet,Vambrace,Sallet,0
+Armet,Plate Glove,Barbut,0
+Armet,Rondanche,Basinet,0
+Armet,Tilt Glove,Brigandine,0
+Armet,Freiturnier,Tilt Glove,0
+Armet,Fluted Glove,Tilt Glove,0
+Armet,Hoplite Glove,Tilt Glove,0
+Armet,Jazeraint Glove,Tilt Glove,0
+Armet,Dread Glove,Tilt Glove,0
+Close Helm,Bandage,Barbut,0
+Close Helm,Leather Glove,Barbut,0
+Close Helm,Reinforced Glove,Barbut,0
+Close Helm,Knuckles,Barbut,0
+Close Helm,Ring Sleeve,Sallet,0
+Close Helm,Chain Sleeve,Cabasset,0
+Close Helm,Gauntlet,Cabasset,0
+Close Helm,Vambrace,Sallet,0
+Close Helm,Plate Glove,Barbut,0
+Close Helm,Rondanche,Basinet,0
+Close Helm,Tilt Glove,Armet,0
+Close Helm,Freiturnier,Plate Mail,0
+Close Helm,Fluted Glove,Freiturnier,0
+Close Helm,Hoplite Glove,Freiturnier,0
+Close Helm,Jazeraint Glove,Freiturnier,0
+Close Helm,Dread Glove,Freiturnier,0
+Burgonet,Bandage,Basinet,0
+Burgonet,Leather Glove,Basinet,0
+Burgonet,Reinforced Glove,Basinet,0
+Burgonet,Knuckles,Basinet,0
+Burgonet,Ring Sleeve,Barbut,0
+Burgonet,Chain Sleeve,Sallet,0
+Burgonet,Gauntlet,Cabasset,0
+Burgonet,Vambrace,Sallet,0
+Burgonet,Plate Glove,Barbut,0
+Burgonet,Rondanche,Basinet,0
+Burgonet,Tilt Glove,Armet,0
+Burgonet,Freiturnier,Close Helm,0
+Burgonet,Fluted Glove,Fluted Armor,0
+Burgonet,Hoplite Glove,Fluted Glove,0
+Burgonet,Jazeraint Glove,Fluted Glove,0
+Burgonet,Dread Glove,Fluted Glove,0
+Hoplite Helm,Bandage,Armet,0
+Hoplite Helm,Leather Glove,Armet,0
+Hoplite Helm,Reinforced Glove,Armet,0
+Hoplite Helm,Knuckles,Armet,0
+Hoplite Helm,Ring Sleeve,Basinet,0
+Hoplite Helm,Chain Sleeve,Barbut,0
+Hoplite Helm,Gauntlet,Sallet,0
+Hoplite Helm,Vambrace,Sallet,0
+Hoplite Helm,Plate Glove,Barbut,0
+Hoplite Helm,Rondanche,Basinet,0
+Hoplite Helm,Tilt Glove,Armet,0
+Hoplite Helm,Freiturnier,Close Helm,0
+Hoplite Helm,Fluted Glove,Burgonet,0
+Hoplite Helm,Hoplite Glove,Hoplite Armor,0
+Hoplite Helm,Jazeraint Glove,Hoplite Glove,0
+Hoplite Helm,Dread Glove,Hoplite Glove,0
+Jazeraint Helm,Bandage,Close Helm,0
+Jazeraint Helm,Leather Glove,Close Helm,0
+Jazeraint Helm,Reinforced Glove,Close Helm,0
+Jazeraint Helm,Knuckles,Close Helm,0
+Jazeraint Helm,Ring Sleeve,Armet,0
+Jazeraint Helm,Chain Sleeve,Basinet,0
+Jazeraint Helm,Gauntlet,Barbut,0
+Jazeraint Helm,Vambrace,Sallet,0
+Jazeraint Helm,Plate Glove,Barbut,0
+Jazeraint Helm,Rondanche,Basinet,0
+Jazeraint Helm,Tilt Glove,Armet,0
+Jazeraint Helm,Freiturnier,Close Helm,0
+Jazeraint Helm,Fluted Glove,Burgonet,0
+Jazeraint Helm,Hoplite Glove,Hoplite Helm,0
+Jazeraint Helm,Jazeraint Glove,Jazeraint Armor,0
+Jazeraint Helm,Dread Glove,Jazeraint Glove,0
+Dread Helm,Bandage,Burgonet,0
+Dread Helm,Leather Glove,Burgonet,0
+Dread Helm,Reinforced Glove,Burgonet,0
+Dread Helm,Knuckles,Burgonet,0
+Dread Helm,Ring Sleeve,Close Helm,0
+Dread Helm,Chain Sleeve,Armet,0
+Dread Helm,Gauntlet,Basinet,0
+Dread Helm,Vambrace,Barbut,0
+Dread Helm,Plate Glove,Barbut,0
+Dread Helm,Rondanche,Basinet,0
+Dread Helm,Tilt Glove,Armet,0
+Dread Helm,Freiturnier,Close Helm,0
+Dread Helm,Fluted Glove,Burgonet,0
+Dread Helm,Hoplite Glove,Hoplite Helm,0
+Dread Helm,Jazeraint Glove,Jazeraint Helm,0
+Dread Helm,Dread Glove,Dread Armor,0

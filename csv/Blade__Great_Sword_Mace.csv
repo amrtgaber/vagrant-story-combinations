@@ -1,62 +1,62 @@
-first slot, second slot, result, swap
-Broad Sword, Goblin Club, Goblin Club
-Broad Sword, Spiked Club, Goblin Club
-Broad Sword, Ball Mace, Spiked Club
-Broad Sword, War Hammer, Morning Star
-Broad Sword, Bec de Corbin, War Hammer
-Broad Sword, War Maul, Bec de Corbin
-Norse Sword, Goblin Club, Broad Sword
-Norse Sword, Spiked Club, Spiked Club
-Norse Sword, Ball Mace, Spiked Club
-Norse Sword, Morning Star, Ball Mace
-Norse Sword, Bec de Corbin, Morning Star
-Norse Sword, War Maul, War Hammer
-Katana, Goblin Club, Broad Sword
-Katana, Spiked Club, Norse Sword
-Katana, Ball Mace, Langdebeve
-Katana, Morning Star, Ball Mace
-Katana, War Hammer, Ball Mace
-Katana, War Maul, Morning Star
-Executioner, Goblin Club, Broad Sword
-Executioner, Spiked Club, Norse Sword
-Executioner, Ball Mace, Guisarme
-Claymore, Goblin Club, Norse Sword
-Claymore, Spiked Club, Norse Sword
-Claymore, Ball Mace, Wizard Staff
-Claymore, War Hammer, Morning Star
-Claymore, Bec de Corbin, Morning Star
-Claymore, War Maul, Morning Star
-Schiavona, Goblin Club, Katana
-Schiavona, Spiked Club, Norse Sword
-Schiavona, Ball Mace, Katana
-Schiavona, Morning Star, Sabre Halberd
-Schiavona, War Hammer, Gloomwing
-Schiavona, Bec de Corbin, War Hammer
-Schiavona, War Maul, War Hammer
-Bastard Sword, Goblin Club, Executioner
-Bastard Sword, Spiked Club, Katana
-Bastard Sword, Ball Mace, Katana
-Bastard Sword, Morning Star, Summoner Baton
-Bastard Sword, War Hammer, Balbriggan
-Bastard Sword, Bec de Corbin, Mjolnir
-Bastard Sword, War Maul, Bec de Corbin
-Nodachi, Goblin Club, Claymore
-Nodachi, Spiked Club, Executioner
-Nodachi, Ball Mace, Katana
-Nodachi, Morning Star, Claymore
-Nodachi, War Hammer, Shamanic Staff
-Nodachi, Bec de Corbin, Double Blade
-Nodachi, War Maul, Griever
-Rune Blade, Goblin Club, Schiavona
-Rune Blade, Spiked Club, Claymore
-Rune Blade, Ball Mace, Executioner
-Rune Blade, Morning Star, Claymore
-Rune Blade, War Hammer, Schiavona
-Rune Blade, War Maul, Halberd
-Holy Win, Goblin Club, Goblin Club
-Holy Win, Spiked Club, Spiked Club
-Holy Win, Ball Mace, Ball Mace
-Holy Win, Morning Star, Morning Star
-Holy Win, War Hammer, War Hammer
-Holy Win, Bec de Corbin, Bec de Corbin
-Holy Win, War Maul, War Maul
+slot1,slot2,result,tier_change
+Broad Sword,Goblin Club,Goblin Club,0
+Broad Sword,Spiked Club,Goblin Club,0
+Broad Sword,Ball Mace,Spiked Club,0
+Broad Sword,War Hammer,Morning Star,0
+Broad Sword,Bec de Corbin,War Hammer,0
+Broad Sword,War Maul,Bec de Corbin,0
+Norse Sword,Goblin Club,Broad Sword,0
+Norse Sword,Spiked Club,Spiked Club,0
+Norse Sword,Ball Mace,Spiked Club,0
+Norse Sword,Morning Star,Ball Mace,0
+Norse Sword,Bec de Corbin,Morning Star,0
+Norse Sword,War Maul,War Hammer,0
+Katana,Goblin Club,Broad Sword,0
+Katana,Spiked Club,Norse Sword,0
+Katana,Ball Mace,Langdebeve,0
+Katana,Morning Star,Ball Mace,0
+Katana,War Hammer,Ball Mace,0
+Katana,War Maul,Morning Star,0
+Executioner,Goblin Club,Broad Sword,0
+Executioner,Spiked Club,Norse Sword,0
+Executioner,Ball Mace,Guisarme,0
+Claymore,Goblin Club,Norse Sword,0
+Claymore,Spiked Club,Norse Sword,0
+Claymore,Ball Mace,Wizard Staff,0
+Claymore,War Hammer,Morning Star,0
+Claymore,Bec de Corbin,Morning Star,0
+Claymore,War Maul,Morning Star,0
+Schiavona,Goblin Club,Katana,0
+Schiavona,Spiked Club,Norse Sword,0
+Schiavona,Ball Mace,Katana,0
+Schiavona,Morning Star,Sabre Halberd,0
+Schiavona,War Hammer,Gloomwing,0
+Schiavona,Bec de Corbin,War Hammer,0
+Schiavona,War Maul,War Hammer,0
+Bastard Sword,Goblin Club,Executioner,0
+Bastard Sword,Spiked Club,Katana,0
+Bastard Sword,Ball Mace,Katana,0
+Bastard Sword,Morning Star,Summoner Baton,0
+Bastard Sword,War Hammer,Balbriggan,0
+Bastard Sword,Bec de Corbin,Mjolnir,0
+Bastard Sword,War Maul,Bec de Corbin,0
+Nodachi,Goblin Club,Claymore,0
+Nodachi,Spiked Club,Executioner,0
+Nodachi,Ball Mace,Katana,0
+Nodachi,Morning Star,Claymore,0
+Nodachi,War Hammer,Shamanic Staff,0
+Nodachi,Bec de Corbin,Double Blade,0
+Nodachi,War Maul,Griever,0
+Rune Blade,Goblin Club,Schiavona,0
+Rune Blade,Spiked Club,Claymore,0
+Rune Blade,Ball Mace,Executioner,0
+Rune Blade,Morning Star,Claymore,0
+Rune Blade,War Hammer,Schiavona,0
+Rune Blade,War Maul,Halberd,0
+Holy Win,Goblin Club,Goblin Club,0
+Holy Win,Spiked Club,Spiked Club,0
+Holy Win,Ball Mace,Ball Mace,0
+Holy Win,Morning Star,Morning Star,0
+Holy Win,War Hammer,War Hammer,0
+Holy Win,Bec de Corbin,Bec de Corbin,0
+Holy Win,War Maul,War Maul,0

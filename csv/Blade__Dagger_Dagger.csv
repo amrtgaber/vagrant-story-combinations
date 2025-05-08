@@ -1,79 +1,79 @@
-first slot, second slot, result, swap
-Battle Knife, Battle Knife, Battle Knife
-Battle Knife, Scramasax, Battle Knife
-Battle Knife, Dirk, +Throwing Knife
-Battle Knife, Throwing Knife, Throwing Knife
-Battle Knife, Kudi, Scramasax
-Battle Knife, Cinquedea, Dirk
-Battle Knife, Kris, Throwing Knife
-Battle Knife, Hatchet, Kudi
-Battle Knife, Khukuri, Cinquedea
-Battle Knife, Baselard, Kris
-Battle Knife, Stiletto, Hatchet
-Battle Knife, Jamadhar, Khukuri
-Scramasax, Scramasax, Scramasax
-Scramasax, Dirk, +Throwing Knife
-Scramasax, Throwing Knife, +Kudi
-Scramasax, Kudi, Kudi
-Scramasax, Cinquedea, Scramasax
-Scramasax, Kris, Dirk
-Scramasax, Hatchet, Throwing Knife
-Scramasax, Khukuri, Kudi
-Scramasax, Baselard, Cinquedea
-Scramasax, Stiletto, Kris
-Scramasax, Jamadhar, Hatchet
-Dirk, Dirk, +Throwing Knife
-Dirk, Throwing Knife, +Kudi
-Dirk, Kudi, -Battle Knife
-Dirk, Cinquedea, Cinquedea
-Dirk, Kris, -Scramasax
-Dirk, Hatchet, Dirk
-Dirk, Khukuri, Throwing Knife
-Dirk, Baselard, Kudi
-Dirk, Stiletto, Cinquedea
-Dirk, Jamadhar, Kris
-Throwing Knife, Throwing Knife, Throwing Knife
-Throwing Knife, Kudi, +Cinquedea
-Throwing Knife, Cinquedea, +Kris
-Throwing Knife, Kris, -Battle Knife
-Throwing Knife, Hatchet, -Scramasax
-Throwing Knife, Khukuri, -Dirk
-Throwing Knife, Baselard, Throwing Knife
-Throwing Knife, Stiletto, Kudi
-Throwing Knife, Jamadhar, Cinquedea
-Kudi, Kudi, Kudi
-Kudi, Cinquedea, +Kris
-Kudi, Kris, +Hatchet
-Kudi, Hatchet, Kris
-Kudi, Khukuri, -Scramasax
-Kudi, Baselard, -Dirk
-Kudi, Stiletto, -Throwing Knife
-Kudi, Jamadhar, Kudi
-Cinquedea, Cinquedea, Cinquedea
-Cinquedea, Kris, +Hatchet
-Cinquedea, Hatchet, -Battle Knife
-Cinquedea, Khukuri, Hatchet
-Cinquedea, Baselard, -Scramasax
-Cinquedea, Stiletto, -Dirk
-Cinquedea, Jamadhar, -Throwing Knife
-Kris, Kris, Kris
-Kris, Hatchet, +Khukuri
-Kris, Khukuri, -Battle Knife
-Kris, Baselard, Hatchet
-Kris, Stiletto, -Scramasax
-Kris, Jamadhar, -Dirk
-Hatchet, Hatchet, Hatchet
-Hatchet, Khukuri, +Baselard
-Hatchet, Baselard, -Battle Knife
-Hatchet, Stiletto, Khukuri
-Hatchet, Jamadhar, -Scramasax
-Khukuri, Khukuri, Khukuri
-Khukuri, Baselard, -Battle Knife
-Khukuri, Stiletto, Baselard
-Khukuri, Jamadhar, Khukuri
-Baselard, Baselard, +Stiletto
-Baselard, Stiletto, -Battle Knife
-Baselard, Jamadhar, -Battle Knife
-Stiletto, Stiletto, +Jamadhar
-Stiletto, Jamadhar, -Battle Knife
-Jamadhar, Jamadhar, Jamadhar
+slot1,slot2,result,tier_change
+Battle Knife,Battle Knife,Battle Knife,0
+Battle Knife,Scramasax,Battle Knife,0
+Battle Knife,Dirk,Throwing Knife,1
+Battle Knife,Throwing Knife,Throwing Knife,0
+Battle Knife,Kudi,Scramasax,0
+Battle Knife,Cinquedea,Dirk,0
+Battle Knife,Kris,Throwing Knife,0
+Battle Knife,Hatchet,Kudi,0
+Battle Knife,Khukuri,Cinquedea,0
+Battle Knife,Baselard,Kris,0
+Battle Knife,Stiletto,Hatchet,0
+Battle Knife,Jamadhar,Khukuri,0
+Scramasax,Scramasax,Scramasax,0
+Scramasax,Dirk,Throwing Knife,1
+Scramasax,Throwing Knife,Kudi,1
+Scramasax,Kudi,Kudi,0
+Scramasax,Cinquedea,Scramasax,0
+Scramasax,Kris,Dirk,0
+Scramasax,Hatchet,Throwing Knife,0
+Scramasax,Khukuri,Kudi,0
+Scramasax,Baselard,Cinquedea,0
+Scramasax,Stiletto,Kris,0
+Scramasax,Jamadhar,Hatchet,0
+Dirk,Dirk,Throwing Knife,1
+Dirk,Throwing Knife,Kudi,1
+Dirk,Kudi,Battle Knife,-1
+Dirk,Cinquedea,Cinquedea,0
+Dirk,Kris,Scramasax,-1
+Dirk,Hatchet,Dirk,0
+Dirk,Khukuri,Throwing Knife,0
+Dirk,Baselard,Kudi,0
+Dirk,Stiletto,Cinquedea,0
+Dirk,Jamadhar,Kris,0
+Throwing Knife,Throwing Knife,Throwing Knife,0
+Throwing Knife,Kudi,Cinquedea,1
+Throwing Knife,Cinquedea,Kris,1
+Throwing Knife,Kris,Battle Knife,-1
+Throwing Knife,Hatchet,Scramasax,-1
+Throwing Knife,Khukuri,Dirk,-1
+Throwing Knife,Baselard,Throwing Knife,0
+Throwing Knife,Stiletto,Kudi,0
+Throwing Knife,Jamadhar,Cinquedea,0
+Kudi,Kudi,Kudi,0
+Kudi,Cinquedea,Kris,1
+Kudi,Kris,Hatchet,1
+Kudi,Hatchet,Kris,0
+Kudi,Khukuri,Scramasax,-1
+Kudi,Baselard,Dirk,-1
+Kudi,Stiletto,Throwing Knife,-1
+Kudi,Jamadhar,Kudi,0
+Cinquedea,Cinquedea,Cinquedea,0
+Cinquedea,Kris,Hatchet,1
+Cinquedea,Hatchet,Battle Knife,-1
+Cinquedea,Khukuri,Hatchet,0
+Cinquedea,Baselard,Scramasax,-1
+Cinquedea,Stiletto,Dirk,-1
+Cinquedea,Jamadhar,Throwing Knife,-1
+Kris,Kris,Kris,0
+Kris,Hatchet,Khukuri,1
+Kris,Khukuri,Battle Knife,-1
+Kris,Baselard,Hatchet,0
+Kris,Stiletto,Scramasax,-1
+Kris,Jamadhar,Dirk,-1
+Hatchet,Hatchet,Hatchet,0
+Hatchet,Khukuri,Baselard,1
+Hatchet,Baselard,Battle Knife,-1
+Hatchet,Stiletto,Khukuri,0
+Hatchet,Jamadhar,Scramasax,-1
+Khukuri,Khukuri,Khukuri,0
+Khukuri,Baselard,Battle Knife,-1
+Khukuri,Stiletto,Baselard,0
+Khukuri,Jamadhar,Khukuri,0
+Baselard,Baselard,Stiletto,1
+Baselard,Stiletto,Battle Knife,-1
+Baselard,Jamadhar,Battle Knife,-1
+Stiletto,Stiletto,Jamadhar,1
+Stiletto,Jamadhar,Battle Knife,-1
+Jamadhar,Jamadhar,Jamadhar,0

@@ -1,49 +1,49 @@
-first slot, second slot, result, swap
-Guisarme, Gastraph Bow, Spatha
-Guisarme, Light Crossbow, Battle Knife
-Guisarme, Target Bow, Broad Sword
-Guisarme, Windlass, Light Crossbow
-Guisarme, Cranequin, Light Crossbow
-Guisarme, Lug Crossbow, Target Bow
-Guisarme, Siege Bow, Windlass
-Guisarme, Arbalest, Cranequin
-Large Crescent, Gastraph Bow, Guisarme
-Large Crescent, Light Crossbow, Scimitar
-Large Crescent, Target Bow, Scramasax
-Large Crescent, Windlass, Norse Sword
-Large Crescent, Cranequin, Target Bow
-Large Crescent, Lug Crossbow, Target Bow
-Large Crescent, Siege Bow, Target Bow
-Large Crescent, Arbalest, Windlass
-Sabre Halberd, Gastraph Bow, Guisarme
-Sabre Halberd, Light Crossbow, Large Crescent
-Sabre Halberd, Target Bow, Rapier
-Sabre Halberd, Windlass, Dirk
-Sabre Halberd, Cranequin, Katana
-Sabre Halberd, Lug Crossbow, Windlass
-Sabre Halberd, Siege Bow, Windlass
-Sabre Halberd, Arbalest, Windlass
-Balbriggan, Gastraph Bow, Large Crescent
-Balbriggan, Light Crossbow, Large Crescent
-Balbriggan, Target Bow, Sabre Halberd
-Balbriggan, Windlass, Short Sword
-Balbriggan, Cranequin, Throwing Knife
-Balbriggan, Lug Crossbow, Executioner
-Balbriggan, Siege Bow, Cranequin
-Balbriggan, Arbalest, Cranequin
-Double Blade, Gastraph Bow, Sabre Halberd
-Double Blade, Light Crossbow, Large Crescent
-Double Blade, Target Bow, Sabre Halberd
-Double Blade, Windlass, Balbriggan
-Double Blade, Cranequin, Firangi
-Double Blade, Lug Crossbow, Kudi
-Double Blade, Siege Bow, Claymore
-Double Blade, Arbalest, Lug Crossbow
-Halberd, Gastraph Bow, Balbriggan
-Halberd, Light Crossbow, Sabre Halberd
-Halberd, Target Bow, Sabre Halberd
-Halberd, Windlass, Balbriggan
-Halberd, Cranequin, Double Blade
-Halberd, Lug Crossbow, Shamshir
-Halberd, Siege Bow, Cinquedea
-Halberd, Arbalest, Schiavona
+slot1,slot2,result,tier_change
+Guisarme,Gastraph Bow,Spatha,0
+Guisarme,Light Crossbow,Battle Knife,0
+Guisarme,Target Bow,Broad Sword,0
+Guisarme,Windlass,Light Crossbow,0
+Guisarme,Cranequin,Light Crossbow,0
+Guisarme,Lug Crossbow,Target Bow,0
+Guisarme,Siege Bow,Windlass,0
+Guisarme,Arbalest,Cranequin,0
+Large Crescent,Gastraph Bow,Guisarme,0
+Large Crescent,Light Crossbow,Scimitar,0
+Large Crescent,Target Bow,Scramasax,0
+Large Crescent,Windlass,Norse Sword,0
+Large Crescent,Cranequin,Target Bow,0
+Large Crescent,Lug Crossbow,Target Bow,0
+Large Crescent,Siege Bow,Target Bow,0
+Large Crescent,Arbalest,Windlass,0
+Sabre Halberd,Gastraph Bow,Guisarme,0
+Sabre Halberd,Light Crossbow,Large Crescent,0
+Sabre Halberd,Target Bow,Rapier,0
+Sabre Halberd,Windlass,Dirk,0
+Sabre Halberd,Cranequin,Katana,0
+Sabre Halberd,Lug Crossbow,Windlass,0
+Sabre Halberd,Siege Bow,Windlass,0
+Sabre Halberd,Arbalest,Windlass,0
+Balbriggan,Gastraph Bow,Large Crescent,0
+Balbriggan,Light Crossbow,Large Crescent,0
+Balbriggan,Target Bow,Sabre Halberd,0
+Balbriggan,Windlass,Short Sword,0
+Balbriggan,Cranequin,Throwing Knife,0
+Balbriggan,Lug Crossbow,Executioner,0
+Balbriggan,Siege Bow,Cranequin,0
+Balbriggan,Arbalest,Cranequin,0
+Double Blade,Gastraph Bow,Sabre Halberd,0
+Double Blade,Light Crossbow,Large Crescent,0
+Double Blade,Target Bow,Sabre Halberd,0
+Double Blade,Windlass,Balbriggan,0
+Double Blade,Cranequin,Firangi,0
+Double Blade,Lug Crossbow,Kudi,0
+Double Blade,Siege Bow,Claymore,0
+Double Blade,Arbalest,Lug Crossbow,0
+Halberd,Gastraph Bow,Balbriggan,0
+Halberd,Light Crossbow,Sabre Halberd,0
+Halberd,Target Bow,Sabre Halberd,0
+Halberd,Windlass,Balbriggan,0
+Halberd,Cranequin,Double Blade,0
+Halberd,Lug Crossbow,Shamshir,0
+Halberd,Siege Bow,Cinquedea,0
+Halberd,Arbalest,Schiavona,0

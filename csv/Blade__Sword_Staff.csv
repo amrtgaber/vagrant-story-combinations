@@ -1,48 +1,48 @@
-first slot, second slot, result, swap
-Spatha, Wizard Staff, Sabre Mace
-Spatha, Clergy Rod, Wizard Staff
-Spatha, Summoner Baton, Clergy Rod
-Spatha, Shamanic Staff, Summoner Baton
-Scimitar, Wizard Staff, Spear
-Scimitar, Clergy Rod, Gastraph Bow
-Scimitar, Summoner Baton, Clergy Rod
-Scimitar, Shamanic Staff, Summoner Baton
-Rapier, Wizard Staff, Spatha
-Rapier, Summoner Baton, Clergy Rod
-Rapier, Shamanic Staff, Clergy Rod
-Short Sword, Wizard Staff, Spatha
-Short Sword, Clergy Rod, Glaive
-Short Sword, Summoner Baton, Light Crossbow
-Short Sword, Shamanic Staff, Summoner Baton
-Firangi, Wizard Staff, Scimitar
-Firangi, Clergy Rod, Scimitar
-Firangi, Summoner Baton, Gloomwing
-Firangi, Shamanic Staff, Summoner Baton
-Shamshir, Wizard Staff, Rapier
-Shamshir, Clergy Rod, Scimitar
-Shamshir, Summoner Baton, Scorpion
-Shamshir, Shamanic Staff, Target Bow
-Falchion, Wizard Staff, Short Sword
-Falchion, Clergy Rod, Rapier
-Falchion, Summoner Baton, Rapier
-Falchion, Shamanic Staff, Mjolnir
-Shotel, Wizard Staff, Firangi
-Shotel, Clergy Rod, Short Sword
-Shotel, Summoner Baton, Rapier
-Shotel, Shamanic Staff, Corcesca
-Khora, Wizard Staff, Shamshir
-Khora, Clergy Rod, Firangi
-Khora, Summoner Baton, Short Sword
-Khora, Shamanic Staff, Short Sword
-Khopesh, Wizard Staff, Falchion
-Khopesh, Clergy Rod, Shamshir
-Khopesh, Summoner Baton, Firangi
-Khopesh, Shamanic Staff, Short Sword
-Wakizashi, Wizard Staff, Shotel
-Wakizashi, Clergy Rod, Falchion
-Wakizashi, Summoner Baton, Shamshir
-Wakizashi, Shamanic Staff, Firangi
-Rhomphaia, Wizard Staff, Wizard Staff
-Rhomphaia, Clergy Rod, Clergy Rod
-Rhomphaia, Summoner Baton, Summoner Baton
-Rhomphaia, Shamanic Staff, Shamanic Staff
+slot1,slot2,result,tier_change
+Spatha,Wizard Staff,Sabre Mace,0
+Spatha,Clergy Rod,Wizard Staff,0
+Spatha,Summoner Baton,Clergy Rod,0
+Spatha,Shamanic Staff,Summoner Baton,0
+Scimitar,Wizard Staff,Spear,0
+Scimitar,Clergy Rod,Gastraph Bow,0
+Scimitar,Summoner Baton,Clergy Rod,0
+Scimitar,Shamanic Staff,Summoner Baton,0
+Rapier,Wizard Staff,Spatha,0
+Rapier,Summoner Baton,Clergy Rod,0
+Rapier,Shamanic Staff,Clergy Rod,0
+Short Sword,Wizard Staff,Spatha,0
+Short Sword,Clergy Rod,Glaive,0
+Short Sword,Summoner Baton,Light Crossbow,0
+Short Sword,Shamanic Staff,Summoner Baton,0
+Firangi,Wizard Staff,Scimitar,0
+Firangi,Clergy Rod,Scimitar,0
+Firangi,Summoner Baton,Gloomwing,0
+Firangi,Shamanic Staff,Summoner Baton,0
+Shamshir,Wizard Staff,Rapier,0
+Shamshir,Clergy Rod,Scimitar,0
+Shamshir,Summoner Baton,Scorpion,0
+Shamshir,Shamanic Staff,Target Bow,0
+Falchion,Wizard Staff,Short Sword,0
+Falchion,Clergy Rod,Rapier,0
+Falchion,Summoner Baton,Rapier,0
+Falchion,Shamanic Staff,Mjolnir,0
+Shotel,Wizard Staff,Firangi,0
+Shotel,Clergy Rod,Short Sword,0
+Shotel,Summoner Baton,Rapier,0
+Shotel,Shamanic Staff,Corcesca,0
+Khora,Wizard Staff,Shamshir,0
+Khora,Clergy Rod,Firangi,0
+Khora,Summoner Baton,Short Sword,0
+Khora,Shamanic Staff,Short Sword,0
+Khopesh,Wizard Staff,Falchion,0
+Khopesh,Clergy Rod,Shamshir,0
+Khopesh,Summoner Baton,Firangi,0
+Khopesh,Shamanic Staff,Short Sword,0
+Wakizashi,Wizard Staff,Shotel,0
+Wakizashi,Clergy Rod,Falchion,0
+Wakizashi,Summoner Baton,Shamshir,0
+Wakizashi,Shamanic Staff,Firangi,0
+Rhomphaia,Wizard Staff,Wizard Staff,0
+Rhomphaia,Clergy Rod,Clergy Rod,0
+Rhomphaia,Summoner Baton,Summoner Baton,0
+Rhomphaia,Shamanic Staff,Shamanic Staff,0

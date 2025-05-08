@@ -1,32 +1,32 @@
-first slot, second slot, result, swap
-Hand Axe, Wizard Staff, Gastraph Bow
-Hand Axe, Clergy Rod, Wizard Staff
-Hand Axe, Summoner Baton, Clergy Rod
-Hand Axe, Shamanic Staff, Summoner Baton
-Battle Axe, Wizard Staff, Langdebeve
-Battle Axe, Clergy Rod, Light Crossbow
-Battle Axe, Summoner Baton, Clergy Rod
-Battle Axe, Shamanic Staff, Summoner Baton
-Francisca, Wizard Staff, Spear
-Francisca, Clergy Rod, Sabre Mace
-Francisca, Summoner Baton, Target Bow
-Francisca, Shamanic Staff, Summoner Baton
-Tabarzin, Wizard Staff, Battle Axe
-Tabarzin, Clergy Rod, Glaive
-Tabarzin, Shamanic Staff, Windlass
-Chamkaq, Wizard Staff, Francisca
-Chamkaq, Clergy Rod, Battle Axe
-Chamkaq, Summoner Baton, Scorpion
-Chamkaq, Shamanic Staff, Gloomwing
-Tabar, Wizard Staff, Tabarzin
-Tabar, Clergy Rod, Francisca
-Tabar, Summoner Baton, Battle Axe
-Tabar, Shamanic Staff, Corcesca
-Bullova, Wizard Staff, Chamkaq
-Bullova, Clergy Rod, Tabarzin
-Bullova, Summoner Baton, Francisca
-Bullova, Shamanic Staff, Tabarzin
-Crescent, Wizard Staff, Tabar
-Crescent, Clergy Rod, Chamkaq
-Crescent, Summoner Baton, Tabarzin
-Crescent, Shamanic Staff, Tabarzin
+slot1,slot2,result,tier_change
+Hand Axe,Wizard Staff,Gastraph Bow,0
+Hand Axe,Clergy Rod,Wizard Staff,0
+Hand Axe,Summoner Baton,Clergy Rod,0
+Hand Axe,Shamanic Staff,Summoner Baton,0
+Battle Axe,Wizard Staff,Langdebeve,0
+Battle Axe,Clergy Rod,Light Crossbow,0
+Battle Axe,Summoner Baton,Clergy Rod,0
+Battle Axe,Shamanic Staff,Summoner Baton,0
+Francisca,Wizard Staff,Spear,0
+Francisca,Clergy Rod,Sabre Mace,0
+Francisca,Summoner Baton,Target Bow,0
+Francisca,Shamanic Staff,Summoner Baton,0
+Tabarzin,Wizard Staff,Battle Axe,0
+Tabarzin,Clergy Rod,Glaive,0
+Tabarzin,Shamanic Staff,Windlass,0
+Chamkaq,Wizard Staff,Francisca,0
+Chamkaq,Clergy Rod,Battle Axe,0
+Chamkaq,Summoner Baton,Scorpion,0
+Chamkaq,Shamanic Staff,Gloomwing,0
+Tabar,Wizard Staff,Tabarzin,0
+Tabar,Clergy Rod,Francisca,0
+Tabar,Summoner Baton,Battle Axe,0
+Tabar,Shamanic Staff,Corcesca,0
+Bullova,Wizard Staff,Chamkaq,0
+Bullova,Clergy Rod,Tabarzin,0
+Bullova,Summoner Baton,Francisca,0
+Bullova,Shamanic Staff,Tabarzin,0
+Crescent,Wizard Staff,Tabar,0
+Crescent,Clergy Rod,Chamkaq,0
+Crescent,Summoner Baton,Tabarzin,0
+Crescent,Shamanic Staff,Tabarzin,0

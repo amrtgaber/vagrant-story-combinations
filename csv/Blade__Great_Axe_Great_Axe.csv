@@ -1,22 +1,23 @@
-first slot, second slot, result, swap
-Guisarme, Guisarme, Guisarme
-Guisarme, Large Crescent, Guisarme
-Guisarme, Sabre Halberd, Sabre Halberd
-Guisarme, Balbriggan, Large Crescent
-Guisarme, Double Blade, Sabre Halberd
-Guisarme, Halberd, Balbriggan
-Large Crescent, Large Crescent, Large Crescent
-Large Crescent, Sabre Halberd, +Balbriggan
-Large Crescent, Balbriggan, Sabre Halberd
-Large Crescent, Double Blade, Large Crescent
-Large Crescent, Halberd, Sabre Halberd
-Sabre Halberd, Sabre Halberd, Sabre Halberd
-Sabre Halberd, Balbriggan, +Double Blade
-Sabre Halberd, Double Blade, Balbriggan
-Sabre Halberd, Halberd, Sabre Halberd, -Large Crescent
-Balbriggan, Balbriggan, Balbriggan
-Balbriggan, Double Blade, -Guisarme
-Balbriggan, Halberd, Double Blade
-Double Blade, Double Blade, +Halberd
-Double Blade, Halberd, -Guisarme
-Halberd, Halberd, Halberd
+slot1,slot2,result,tier_change
+Guisarme,Guisarme,Guisarme,0
+Guisarme,Large Crescent,Guisarme,0
+Guisarme,Sabre Halberd,Sabre Halberd,0
+Guisarme,Balbriggan,Large Crescent,0
+Guisarme,Double Blade,Sabre Halberd,0
+Guisarme,Halberd,Balbriggan,0
+Large Crescent,Large Crescent,Large Crescent,0
+Large Crescent,Sabre Halberd,Balbriggan,1
+Large Crescent,Balbriggan,Sabre Halberd,0
+Large Crescent,Double Blade,Large Crescent,0
+Large Crescent,Halberd,Sabre Halberd,0
+Sabre Halberd,Sabre Halberd,Sabre Halberd,0
+Sabre Halberd,Balbriggan,Double Blade,1
+Sabre Halberd,Double Blade,Balbriggan,0
+Sabre Halberd,Halberd,Sabre Halberd,0
+Halberd,Sabre Halberd,Large Crescent,-1
+Balbriggan,Balbriggan,Balbriggan,0
+Balbriggan,Double Blade,Guisarme,-1
+Balbriggan,Halberd,Double Blade,0
+Double Blade,Double Blade,Halberd,1
+Double Blade,Halberd,Guisarme,-1
+Halberd,Halberd,Halberd,0

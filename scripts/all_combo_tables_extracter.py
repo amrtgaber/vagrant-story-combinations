@@ -1,8 +1,31 @@
+import csv
 import os
 import re
 
+current_dir = os.getcwd()
+if "scripts" not in current_dir:
+    os.chdir(".\\scripts")
+
 INPUT_FILE = "../vagrant_story_combinations_guide.txt"  # Path to the input guide file
 OUTPUT_DIR = "../csv"  # Directory to save the output CSV files
+
+
+def parse_cell(value):
+    """Extract base material and upgrade/downgrade flags"""
+    if not value:
+        return "", 0
+
+    if value.startswith("+"):
+        tier_change = 1
+        base = value[1:]
+    elif value.startswith("-"):
+        tier_change = -1
+        base = value[1:]
+    else:
+        tier_change = 0
+        base = value
+
+    return base, tier_change
 
 
 def extract_tables_from_guide():
@@ -58,14 +81,43 @@ def extract_tables_from_guide():
             match = item_row_regex.match(line.strip())
             if match:
                 item1, item2, result, swap = match.groups()
-                item_rows.append(
-                    f"{item1.strip()}, {item2.strip()}, {result.strip()}{f', {swap.strip()}' if swap is not None else ''}"
+
+                result, result_tier_change = parse_cell(result)
+                swap_result, swap_tier_change = (
+                    parse_cell(swap) if swap else [None, None]
                 )
 
-        # Write the filtered item rows to a file
-        with open(filename, "w") as file:
-            file.write("first slot, second slot, result, swap\n")  # Header
-            file.write("\n".join(item_rows))
+                item_rows.append(
+                    {
+                        "slot1": item1.strip(),
+                        "slot2": item2.strip(),
+                        "result": result.strip(),
+                        "tier_change": result_tier_change,
+                    }
+                )
+
+                if swap:
+                    item_rows.append(
+                        {
+                            "slot1": item2.strip(),
+                            "slot2": item1.strip(),
+                            "result": swap_result.strip(),
+                            "tier_change": swap_tier_change,
+                        }
+                    )
+
+        with open(filename, "w", newline="") as csvfile:
+            writer = csv.DictWriter(
+                csvfile,
+                fieldnames=[
+                    "slot1",
+                    "slot2",
+                    "result",
+                    "tier_change",
+                ],
+            )
+            writer.writeheader()
+            writer.writerows(item_rows)
 
         print(
             f"Wrote {len(item_rows)} lines for table '{title.strip()}' saved as '{filename}'."

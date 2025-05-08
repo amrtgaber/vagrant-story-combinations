@@ -1,137 +1,137 @@
-first slot, second slot, result, swap
-Bandage, Bandage, Bandage
-Bandage, Leather Glove, Leather Glove
-Bandage, Reinforced Glove, Reinforced Glove
-Bandage, Knuckles, Knuckles
-Bandage, Ring Sleeve, Knuckles
-Bandage, Chain Sleeve, Knuckles
-Bandage, Gauntlet, Chain Sleeve
-Bandage, Vambrace, Ring Sleeve
-Bandage, Plate Glove, Chain Sleeve
-Bandage, Rondanche, Gauntlet
-Bandage, Tilt Glove, Vambrace
-Bandage, Freiturnier, Plate Glove
-Bandage, Fluted Glove, Rondanche
-Bandage, Hoplite Glove, Tilt Glove
-Bandage, Jazeraint Glove, Freiturnier
-Bandage, Dread Glove, Fluted Glove
-Leather Glove, Leather Glove, Leather Glove
-Leather Glove, Reinforced Glove, Reinforced Glove
-Leather Glove, Knuckles, Knuckles
-Leather Glove, Ring Sleeve, +Chain Sleeve
-Leather Glove, Chain Sleeve, Ring Sleeve
-Leather Glove, Gauntlet, Knuckles
-Leather Glove, Vambrace, Chain Sleeve
-Leather Glove, Plate Glove, Ring Sleeve
-Leather Glove, Rondanche, Chain Sleeve
-Leather Glove, Tilt Glove, Gauntlet
-Leather Glove, Freiturnier, Vambrace
-Leather Glove, Fluted Glove, Plate Glove
-Leather Glove, Hoplite Glove, Rondanche
-Leather Glove, Jazeraint Glove, Tilt Glove
-Leather Glove, Dread Glove, Freiturnier
-Reinforced Glove, Reinforced Glove, Reinforced Glove
-Reinforced Glove, Knuckles, +Ring Sleeve
-Reinforced Glove, Ring Sleeve, Knuckles
-Reinforced Glove, Chain Sleeve, +Gauntlet
-Reinforced Glove, Gauntlet, Chain Sleeve
-Reinforced Glove, Vambrace, Vambrace
-Reinforced Glove, Plate Glove, Vambrace
-Reinforced Glove, Rondanche, Ring Sleeve
-Reinforced Glove, Tilt Glove, Chain Sleeve
-Reinforced Glove, Freiturnier, Gauntlet
-Reinforced Glove, Fluted Glove, Vambrace
-Reinforced Glove, Hoplite Glove, Plate Glove
-Reinforced Glove, Jazeraint Glove, Rondanche
-Reinforced Glove, Dread Glove, Tilt Glove
-Knuckles, Knuckles, Knuckles
-Knuckles, Ring Sleeve, +Chain Sleeve
-Knuckles, Chain Sleeve, Chain Sleeve
-Knuckles, Gauntlet, Knuckles
-Knuckles, Vambrace, Gauntlet
-Knuckles, Plate Glove, Plate Glove
-Knuckles, Rondanche, Rondanche
-Knuckles, Tilt Glove, Ring Sleeve
-Knuckles, Freiturnier, Chain Sleeve
-Knuckles, Fluted Glove, Gauntlet
-Knuckles, Hoplite Glove, Vambrace
-Knuckles, Jazeraint Glove, Plate Glove
-Knuckles, Dread Glove, Rondanche
-Ring Sleeve, Ring Sleeve, Ring Sleeve
-Ring Sleeve, Chain Sleeve, +Gauntlet
-Ring Sleeve, Gauntlet, +Vambrace
-Ring Sleeve, Vambrace, Vambrace
-Ring Sleeve, Plate Glove, Ring Sleeve
-Ring Sleeve, Rondanche, Gauntlet
-Ring Sleeve, Tilt Glove, Plate Glove
-Ring Sleeve, Freiturnier, Ring Sleeve
-Ring Sleeve, Fluted Glove, Chain Sleeve
-Ring Sleeve, Hoplite Glove, Gauntlet
-Ring Sleeve, Jazeraint Glove, Vambrace
-Ring Sleeve, Dread Glove, Plate Glove
-Chain Sleeve, Chain Sleeve, Chain Sleeve
-Chain Sleeve, Gauntlet, Gauntlet
-Chain Sleeve, Vambrace, -Knuckles
-Chain Sleeve, Plate Glove, +Rondanche
-Chain Sleeve, Rondanche, Rondanche
-Chain Sleeve, Tilt Glove, Vambrace
-Chain Sleeve, Freiturnier, Rondanche
-Chain Sleeve, Fluted Glove, -Ring Sleeve
-Chain Sleeve, Hoplite Glove, Chain Sleeve
-Chain Sleeve, Jazeraint Glove, Gauntlet
-Chain Sleeve, Dread Glove, Vambrace
-Gauntlet, Gauntlet, Gauntlet
-Gauntlet, Vambrace, +Plate Glove
-Gauntlet, Plate Glove, Plate Glove
-Gauntlet, Rondanche, -Knuckles
-Gauntlet, Tilt Glove, Tilt Glove
-Gauntlet, Freiturnier, -Chain Sleeve
-Gauntlet, Fluted Glove, Freiturnier
-Gauntlet, Hoplite Glove, -Ring Sleeve
-Gauntlet, Jazeraint Glove, -Chain Sleeve
-Gauntlet, Dread Glove, Gauntlet
-Vambrace, Vambrace, +Plate Glove
-Vambrace, Plate Glove, +Rondanche
-Vambrace, Rondanche, Plate Glove
-Vambrace, Tilt Glove, -Gauntlet
-Vambrace, Freiturnier, Freiturnier
-Vambrace, Fluted Glove, Tilt Glove
-Vambrace, Hoplite Glove, -Knuckles
-Vambrace, Jazeraint Glove, -Ring Sleeve
-Vambrace, Dread Glove, -Chain Sleeve
-Plate Glove, Plate Glove, Plate Glove
-Plate Glove, Rondanche, +Tilt Glove
-Plate Glove, Tilt Glove, Tilt Glove
-Plate Glove, Freiturnier, Plate Glove
-Plate Glove, Fluted Glove, Freiturnier
-Plate Glove, Hoplite Glove, Fluted Glove
-Plate Glove, Jazeraint Glove, -Vambrace
-Plate Glove, Dread Glove, -Ring Sleeve
-Rondanche, Rondanche, Rondanche
-Rondanche, Tilt Glove, Rondanche
-Rondanche, Freiturnier, +Fluted Glove
-Rondanche, Fluted Glove, -Knuckles
-Rondanche, Hoplite Glove, Freiturnier
-Rondanche, Jazeraint Glove, Rondanche
-Rondanche, Dread Glove, Freiturnier
-Tilt Glove, Tilt Glove, +Freiturnier
-Tilt Glove, Freiturnier, Tilt Glove
-Tilt Glove, Fluted Glove, Fluted Glove
-Tilt Glove, Hoplite Glove, -Plate Glove
-Tilt Glove, Jazeraint Glove, Fluted Glove
-Tilt Glove, Dread Glove, -Gauntlet
-Freiturnier, Freiturnier, Freiturnier
-Freiturnier, Fluted Glove, +Hoplite Glove
-Freiturnier, Hoplite Glove, Fluted Glove
-Freiturnier, Jazeraint Glove, -Rondanche
-Freiturnier, Dread Glove, -Tilt Glove
-Fluted Glove, Fluted Glove, Fluted Glove
-Fluted Glove, Hoplite Glove, -Tilt Glove
-Fluted Glove, Jazeraint Glove, -Freiturnier
-Fluted Glove, Dread Glove, Fluted Glove
-Hoplite Glove, Hoplite Glove, +Jazeraint Glove
-Hoplite Glove, Jazeraint Glove, -Knuckles
-Hoplite Glove, Dread Glove, -Fluted Glove
-Jazeraint Glove, Jazeraint Glove, +Dread Glove
-Jazeraint Glove, Dread Glove, -Rondanche
-Dread Glove, Dread Glove, Dread Glove
+slot1,slot2,result,tier_change
+Bandage,Bandage,Bandage,0
+Bandage,Leather Glove,Leather Glove,0
+Bandage,Reinforced Glove,Reinforced Glove,0
+Bandage,Knuckles,Knuckles,0
+Bandage,Ring Sleeve,Knuckles,0
+Bandage,Chain Sleeve,Knuckles,0
+Bandage,Gauntlet,Chain Sleeve,0
+Bandage,Vambrace,Ring Sleeve,0
+Bandage,Plate Glove,Chain Sleeve,0
+Bandage,Rondanche,Gauntlet,0
+Bandage,Tilt Glove,Vambrace,0
+Bandage,Freiturnier,Plate Glove,0
+Bandage,Fluted Glove,Rondanche,0
+Bandage,Hoplite Glove,Tilt Glove,0
+Bandage,Jazeraint Glove,Freiturnier,0
+Bandage,Dread Glove,Fluted Glove,0
+Leather Glove,Leather Glove,Leather Glove,0
+Leather Glove,Reinforced Glove,Reinforced Glove,0
+Leather Glove,Knuckles,Knuckles,0
+Leather Glove,Ring Sleeve,Chain Sleeve,1
+Leather Glove,Chain Sleeve,Ring Sleeve,0
+Leather Glove,Gauntlet,Knuckles,0
+Leather Glove,Vambrace,Chain Sleeve,0
+Leather Glove,Plate Glove,Ring Sleeve,0
+Leather Glove,Rondanche,Chain Sleeve,0
+Leather Glove,Tilt Glove,Gauntlet,0
+Leather Glove,Freiturnier,Vambrace,0
+Leather Glove,Fluted Glove,Plate Glove,0
+Leather Glove,Hoplite Glove,Rondanche,0
+Leather Glove,Jazeraint Glove,Tilt Glove,0
+Leather Glove,Dread Glove,Freiturnier,0
+Reinforced Glove,Reinforced Glove,Reinforced Glove,0
+Reinforced Glove,Knuckles,Ring Sleeve,1
+Reinforced Glove,Ring Sleeve,Knuckles,0
+Reinforced Glove,Chain Sleeve,Gauntlet,1
+Reinforced Glove,Gauntlet,Chain Sleeve,0
+Reinforced Glove,Vambrace,Vambrace,0
+Reinforced Glove,Plate Glove,Vambrace,0
+Reinforced Glove,Rondanche,Ring Sleeve,0
+Reinforced Glove,Tilt Glove,Chain Sleeve,0
+Reinforced Glove,Freiturnier,Gauntlet,0
+Reinforced Glove,Fluted Glove,Vambrace,0
+Reinforced Glove,Hoplite Glove,Plate Glove,0
+Reinforced Glove,Jazeraint Glove,Rondanche,0
+Reinforced Glove,Dread Glove,Tilt Glove,0
+Knuckles,Knuckles,Knuckles,0
+Knuckles,Ring Sleeve,Chain Sleeve,1
+Knuckles,Chain Sleeve,Chain Sleeve,0
+Knuckles,Gauntlet,Knuckles,0
+Knuckles,Vambrace,Gauntlet,0
+Knuckles,Plate Glove,Plate Glove,0
+Knuckles,Rondanche,Rondanche,0
+Knuckles,Tilt Glove,Ring Sleeve,0
+Knuckles,Freiturnier,Chain Sleeve,0
+Knuckles,Fluted Glove,Gauntlet,0
+Knuckles,Hoplite Glove,Vambrace,0
+Knuckles,Jazeraint Glove,Plate Glove,0
+Knuckles,Dread Glove,Rondanche,0
+Ring Sleeve,Ring Sleeve,Ring Sleeve,0
+Ring Sleeve,Chain Sleeve,Gauntlet,1
+Ring Sleeve,Gauntlet,Vambrace,1
+Ring Sleeve,Vambrace,Vambrace,0
+Ring Sleeve,Plate Glove,Ring Sleeve,0
+Ring Sleeve,Rondanche,Gauntlet,0
+Ring Sleeve,Tilt Glove,Plate Glove,0
+Ring Sleeve,Freiturnier,Ring Sleeve,0
+Ring Sleeve,Fluted Glove,Chain Sleeve,0
+Ring Sleeve,Hoplite Glove,Gauntlet,0
+Ring Sleeve,Jazeraint Glove,Vambrace,0
+Ring Sleeve,Dread Glove,Plate Glove,0
+Chain Sleeve,Chain Sleeve,Chain Sleeve,0
+Chain Sleeve,Gauntlet,Gauntlet,0
+Chain Sleeve,Vambrace,Knuckles,-1
+Chain Sleeve,Plate Glove,Rondanche,1
+Chain Sleeve,Rondanche,Rondanche,0
+Chain Sleeve,Tilt Glove,Vambrace,0
+Chain Sleeve,Freiturnier,Rondanche,0
+Chain Sleeve,Fluted Glove,Ring Sleeve,-1
+Chain Sleeve,Hoplite Glove,Chain Sleeve,0
+Chain Sleeve,Jazeraint Glove,Gauntlet,0
+Chain Sleeve,Dread Glove,Vambrace,0
+Gauntlet,Gauntlet,Gauntlet,0
+Gauntlet,Vambrace,Plate Glove,1
+Gauntlet,Plate Glove,Plate Glove,0
+Gauntlet,Rondanche,Knuckles,-1
+Gauntlet,Tilt Glove,Tilt Glove,0
+Gauntlet,Freiturnier,Chain Sleeve,-1
+Gauntlet,Fluted Glove,Freiturnier,0
+Gauntlet,Hoplite Glove,Ring Sleeve,-1
+Gauntlet,Jazeraint Glove,Chain Sleeve,-1
+Gauntlet,Dread Glove,Gauntlet,0
+Vambrace,Vambrace,Plate Glove,1
+Vambrace,Plate Glove,Rondanche,1
+Vambrace,Rondanche,Plate Glove,0
+Vambrace,Tilt Glove,Gauntlet,-1
+Vambrace,Freiturnier,Freiturnier,0
+Vambrace,Fluted Glove,Tilt Glove,0
+Vambrace,Hoplite Glove,Knuckles,-1
+Vambrace,Jazeraint Glove,Ring Sleeve,-1
+Vambrace,Dread Glove,Chain Sleeve,-1
+Plate Glove,Plate Glove,Plate Glove,0
+Plate Glove,Rondanche,Tilt Glove,1
+Plate Glove,Tilt Glove,Tilt Glove,0
+Plate Glove,Freiturnier,Plate Glove,0
+Plate Glove,Fluted Glove,Freiturnier,0
+Plate Glove,Hoplite Glove,Fluted Glove,0
+Plate Glove,Jazeraint Glove,Vambrace,-1
+Plate Glove,Dread Glove,Ring Sleeve,-1
+Rondanche,Rondanche,Rondanche,0
+Rondanche,Tilt Glove,Rondanche,0
+Rondanche,Freiturnier,Fluted Glove,1
+Rondanche,Fluted Glove,Knuckles,-1
+Rondanche,Hoplite Glove,Freiturnier,0
+Rondanche,Jazeraint Glove,Rondanche,0
+Rondanche,Dread Glove,Freiturnier,0
+Tilt Glove,Tilt Glove,Freiturnier,1
+Tilt Glove,Freiturnier,Tilt Glove,0
+Tilt Glove,Fluted Glove,Fluted Glove,0
+Tilt Glove,Hoplite Glove,Plate Glove,-1
+Tilt Glove,Jazeraint Glove,Fluted Glove,0
+Tilt Glove,Dread Glove,Gauntlet,-1
+Freiturnier,Freiturnier,Freiturnier,0
+Freiturnier,Fluted Glove,Hoplite Glove,1
+Freiturnier,Hoplite Glove,Fluted Glove,0
+Freiturnier,Jazeraint Glove,Rondanche,-1
+Freiturnier,Dread Glove,Tilt Glove,-1
+Fluted Glove,Fluted Glove,Fluted Glove,0
+Fluted Glove,Hoplite Glove,Tilt Glove,-1
+Fluted Glove,Jazeraint Glove,Freiturnier,-1
+Fluted Glove,Dread Glove,Fluted Glove,0
+Hoplite Glove,Hoplite Glove,Jazeraint Glove,1
+Hoplite Glove,Jazeraint Glove,Knuckles,-1
+Hoplite Glove,Dread Glove,Fluted Glove,-1
+Jazeraint Glove,Jazeraint Glove,Dread Glove,1
+Jazeraint Glove,Dread Glove,Rondanche,-1
+Dread Glove,Dread Glove,Dread Glove,0

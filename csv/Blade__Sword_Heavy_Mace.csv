@@ -1,76 +1,77 @@
-first slot, second slot, result, swap
-Spatha, Langdebeve, Spear
-Spatha, Sabre Mace, Sabre Mace
-Spatha, Gloomwing, Sabre Mace
-Spatha, Griever, Gloomwing
-Spatha, Destroyer, Mjolnir
-Spatha, Hand of Light, Spatha
-Scimitar, Langdebeve, Gastraph Bow
-Scimitar, Sabre Mace, Spatha
-Scimitar, Gloomwing, Sabre Mace
-Scimitar, Mjolnir, Sabre Mace
-Scimitar, Destroyer, Gloomwing
-Scimitar, Hand of Light, Scimitar
-Rapier, Langdebeve, Spatha
-Rapier, Sabre Mace, Glaive
-Rapier, Destroyer, Gloomwing
-Rapier, Hand of Light, Rapier
-Short Sword, Langdebeve, Spatha
-Short Sword, Sabre Mace, Light Crossbow
-Short Sword, Hand of Light, Short Sword
-Firangi, Langdebeve, Scimitar
-Firangi, Sabre Mace, Scimitar
-Firangi, Gloomwing, Rapier
-Firangi, Mjolnir, Gloomwing
-Firangi, Griever, Gloomwing
-Firangi, Destroyer, Gloomwing
-Firangi, Hand of Light, Firangi
-Shamshir, Langdebeve, Rapier
-Shamshir, Sabre Mace, Scimitar
-Shamshir, Gloomwing, Corcesca
-Shamshir, Mjolnir, Gloomwing
-Shamshir, Griever, Gloomwing
-Shamshir, Destroyer, Gloomwing
-Shamshir, Hand of Light, Shamshir
-Falchion, Langdebeve, Short Sword
-Falchion, Sabre Mace, Rapier
-Falchion, Gloomwing, Windlass
-Falchion, Mjolnir, Short Sword
-Falchion, Griever, Mjolnir
-Falchion, Destroyer, Mjolnir
-Falchion, Hand of Light, Falchion
-Shotel, Langdebeve, Firangi
-Shotel, Sabre Mace, Short Sword
-Shotel, Gloomwing, Short Sword
-Shotel, Mjolnir, Trident
-Shotel, Griever, Mjolnir
-Shotel, Destroyer, Mjolnir
-Shotel, Hand of Light, Shotel
-Khora, Langdebeve, Shamshir
-Khora, Sabre Mace, Firangi
-Khora, Gloomwing, Short Sword
-Khora, Mjolnir, Cranequin
-Khora, Griever, Firangi
-Khora, Destroyer, Griever
-Khora, Hand of Light, Khora
-Khopesh, Langdebeve, Falchion
-Khopesh, Sabre Mace, Shamshir
-Khopesh, Gloomwing, Short Sword
-Khopesh, Mjolnir, Firangi
-Khopesh, Griever, Awl Pike
-Khopesh, Destroyer, Griever
-Khopesh, Hand of Light, Khopesh
-Wakizashi, Langdebeve, Shotel
-Wakizashi, Sabre Mace, Falchion
-Wakizashi, Gloomwing, Firangi
-Wakizashi, Mjolnir, Firangi
-Wakizashi, Griever, Lug Crossbow
-Wakizashi, Destroyer, Shamshir
-Wakizashi, Hand of Light, Wakizashi
-Rhomphaia, Langdebeve, Langdebeve
-Rhomphaia, Sabre Mace, Sabre Mace
-Rhomphaia, Gloomwing, Gloomwing
-Rhomphaia, Mjolnir, Mjolnir
-Rhomphaia, Griever, Griever
-Rhomphaia, Destroyer, Destroyer
-Rhomphaia, Hand of Light, Rhomphaia, Hand of Light
+slot1,slot2,result,tier_change
+Spatha,Langdebeve,Spear,0
+Spatha,Sabre Mace,Sabre Mace,0
+Spatha,Gloomwing,Sabre Mace,0
+Spatha,Griever,Gloomwing,0
+Spatha,Destroyer,Mjolnir,0
+Spatha,Hand of Light,Spatha,0
+Scimitar,Langdebeve,Gastraph Bow,0
+Scimitar,Sabre Mace,Spatha,0
+Scimitar,Gloomwing,Sabre Mace,0
+Scimitar,Mjolnir,Sabre Mace,0
+Scimitar,Destroyer,Gloomwing,0
+Scimitar,Hand of Light,Scimitar,0
+Rapier,Langdebeve,Spatha,0
+Rapier,Sabre Mace,Glaive,0
+Rapier,Destroyer,Gloomwing,0
+Rapier,Hand of Light,Rapier,0
+Short Sword,Langdebeve,Spatha,0
+Short Sword,Sabre Mace,Light Crossbow,0
+Short Sword,Hand of Light,Short Sword,0
+Firangi,Langdebeve,Scimitar,0
+Firangi,Sabre Mace,Scimitar,0
+Firangi,Gloomwing,Rapier,0
+Firangi,Mjolnir,Gloomwing,0
+Firangi,Griever,Gloomwing,0
+Firangi,Destroyer,Gloomwing,0
+Firangi,Hand of Light,Firangi,0
+Shamshir,Langdebeve,Rapier,0
+Shamshir,Sabre Mace,Scimitar,0
+Shamshir,Gloomwing,Corcesca,0
+Shamshir,Mjolnir,Gloomwing,0
+Shamshir,Griever,Gloomwing,0
+Shamshir,Destroyer,Gloomwing,0
+Shamshir,Hand of Light,Shamshir,0
+Falchion,Langdebeve,Short Sword,0
+Falchion,Sabre Mace,Rapier,0
+Falchion,Gloomwing,Windlass,0
+Falchion,Mjolnir,Short Sword,0
+Falchion,Griever,Mjolnir,0
+Falchion,Destroyer,Mjolnir,0
+Falchion,Hand of Light,Falchion,0
+Shotel,Langdebeve,Firangi,0
+Shotel,Sabre Mace,Short Sword,0
+Shotel,Gloomwing,Short Sword,0
+Shotel,Mjolnir,Trident,0
+Shotel,Griever,Mjolnir,0
+Shotel,Destroyer,Mjolnir,0
+Shotel,Hand of Light,Shotel,0
+Khora,Langdebeve,Shamshir,0
+Khora,Sabre Mace,Firangi,0
+Khora,Gloomwing,Short Sword,0
+Khora,Mjolnir,Cranequin,0
+Khora,Griever,Firangi,0
+Khora,Destroyer,Griever,0
+Khora,Hand of Light,Khora,0
+Khopesh,Langdebeve,Falchion,0
+Khopesh,Sabre Mace,Shamshir,0
+Khopesh,Gloomwing,Short Sword,0
+Khopesh,Mjolnir,Firangi,0
+Khopesh,Griever,Awl Pike,0
+Khopesh,Destroyer,Griever,0
+Khopesh,Hand of Light,Khopesh,0
+Wakizashi,Langdebeve,Shotel,0
+Wakizashi,Sabre Mace,Falchion,0
+Wakizashi,Gloomwing,Firangi,0
+Wakizashi,Mjolnir,Firangi,0
+Wakizashi,Griever,Lug Crossbow,0
+Wakizashi,Destroyer,Shamshir,0
+Wakizashi,Hand of Light,Wakizashi,0
+Rhomphaia,Langdebeve,Langdebeve,0
+Rhomphaia,Sabre Mace,Sabre Mace,0
+Rhomphaia,Gloomwing,Gloomwing,0
+Rhomphaia,Mjolnir,Mjolnir,0
+Rhomphaia,Griever,Griever,0
+Rhomphaia,Destroyer,Destroyer,0
+Rhomphaia,Hand of Light,Rhomphaia,0
+Hand of Light,Rhomphaia,Hand of Light,0

@@ -1,65 +1,65 @@
-first slot, second slot, result, swap
-Hand Axe, Gastraph Bow, Broad Sword
-Hand Axe, Light Crossbow, Gastraph Bow
-Hand Axe, Target Bow, Gastraph Bow
-Hand Axe, Windlass, Gastraph Bow
-Hand Axe, Cranequin, Light Crossbow
-Hand Axe, Lug Crossbow, Target Bow
-Hand Axe, Siege Bow, Windlass
-Hand Axe, Arbalest, Cranequin
-Battle Axe, Gastraph Bow, Battle Knife
-Battle Axe, Light Crossbow, Norse Sword
-Battle Axe, Target Bow, Light Crossbow
-Battle Axe, Windlass, Light Crossbow
-Battle Axe, Cranequin, Light Crossbow
-Battle Axe, Lug Crossbow, Light Crossbow
-Battle Axe, Siege Bow, Target Bow
-Battle Axe, Arbalest, Windlass
-Francisca, Gastraph Bow, Spatha
-Francisca, Light Crossbow, Scramasax
-Francisca, Target Bow, Katana
-Francisca, Windlass, Target Bow
-Francisca, Cranequin, Target Bow
-Francisca, Lug Crossbow, Target Bow
-Francisca, Siege Bow, Target Bow
-Francisca, Arbalest, Target Bow
-Tabarzin, Gastraph Bow, Battle Axe
-Tabarzin, Light Crossbow, Scimitar
-Tabarzin, Target Bow, Dirk
-Tabarzin, Windlass, Executioner
-Tabarzin, Cranequin, Windlass
-Tabarzin, Lug Crossbow, Windlass
-Tabarzin, Siege Bow, Windlass
-Tabarzin, Arbalest, Windlass
-Chamkaq, Gastraph Bow, Francisca
-Chamkaq, Light Crossbow, Battle Axe
-Chamkaq, Target Bow, Rapier
-Chamkaq, Windlass, Throwing Knife
-Chamkaq, Cranequin, Claymore
-Chamkaq, Lug Crossbow, Cranequin
-Chamkaq, Siege Bow, Cranequin
-Chamkaq, Arbalest, Cranequin
-Tabar, Gastraph Bow, Tabarzin
-Tabar, Light Crossbow, Francisca
-Tabar, Target Bow, Francisca
-Tabar, Windlass, Short Sword
-Tabar, Cranequin, Kudi
-Tabar, Lug Crossbow, Schiavona
-Tabar, Siege Bow, Lug Crossbow
-Tabar, Arbalest, Lug Crossbow
-Bullova, Gastraph Bow, Chamkaq
-Bullova, Light Crossbow, Tabarzin
-Bullova, Target Bow, Francisca
-Bullova, Windlass, Tabarzin
-Bullova, Cranequin, Firangi
-Bullova, Lug Crossbow, Cinquedea
-Bullova, Siege Bow, Bastard Sword
-Bullova, Arbalest, Siege Bow
-Crescent, Gastraph Bow, Tabar
-Crescent, Light Crossbow, Chamkaq
-Crescent, Target Bow, Tabarzin
-Crescent, Windlass, Tabarzin
-Crescent, Cranequin, Chamkaq
-Crescent, Lug Crossbow, Shamshir
-Crescent, Siege Bow, Kris
-Crescent, Arbalest, Nodachi
+slot1,slot2,result,tier_change
+Hand Axe,Gastraph Bow,Broad Sword,0
+Hand Axe,Light Crossbow,Gastraph Bow,0
+Hand Axe,Target Bow,Gastraph Bow,0
+Hand Axe,Windlass,Gastraph Bow,0
+Hand Axe,Cranequin,Light Crossbow,0
+Hand Axe,Lug Crossbow,Target Bow,0
+Hand Axe,Siege Bow,Windlass,0
+Hand Axe,Arbalest,Cranequin,0
+Battle Axe,Gastraph Bow,Battle Knife,0
+Battle Axe,Light Crossbow,Norse Sword,0
+Battle Axe,Target Bow,Light Crossbow,0
+Battle Axe,Windlass,Light Crossbow,0
+Battle Axe,Cranequin,Light Crossbow,0
+Battle Axe,Lug Crossbow,Light Crossbow,0
+Battle Axe,Siege Bow,Target Bow,0
+Battle Axe,Arbalest,Windlass,0
+Francisca,Gastraph Bow,Spatha,0
+Francisca,Light Crossbow,Scramasax,0
+Francisca,Target Bow,Katana,0
+Francisca,Windlass,Target Bow,0
+Francisca,Cranequin,Target Bow,0
+Francisca,Lug Crossbow,Target Bow,0
+Francisca,Siege Bow,Target Bow,0
+Francisca,Arbalest,Target Bow,0
+Tabarzin,Gastraph Bow,Battle Axe,0
+Tabarzin,Light Crossbow,Scimitar,0
+Tabarzin,Target Bow,Dirk,0
+Tabarzin,Windlass,Executioner,0
+Tabarzin,Cranequin,Windlass,0
+Tabarzin,Lug Crossbow,Windlass,0
+Tabarzin,Siege Bow,Windlass,0
+Tabarzin,Arbalest,Windlass,0
+Chamkaq,Gastraph Bow,Francisca,0
+Chamkaq,Light Crossbow,Battle Axe,0
+Chamkaq,Target Bow,Rapier,0
+Chamkaq,Windlass,Throwing Knife,0
+Chamkaq,Cranequin,Claymore,0
+Chamkaq,Lug Crossbow,Cranequin,0
+Chamkaq,Siege Bow,Cranequin,0
+Chamkaq,Arbalest,Cranequin,0
+Tabar,Gastraph Bow,Tabarzin,0
+Tabar,Light Crossbow,Francisca,0
+Tabar,Target Bow,Francisca,0
+Tabar,Windlass,Short Sword,0
+Tabar,Cranequin,Kudi,0
+Tabar,Lug Crossbow,Schiavona,0
+Tabar,Siege Bow,Lug Crossbow,0
+Tabar,Arbalest,Lug Crossbow,0
+Bullova,Gastraph Bow,Chamkaq,0
+Bullova,Light Crossbow,Tabarzin,0
+Bullova,Target Bow,Francisca,0
+Bullova,Windlass,Tabarzin,0
+Bullova,Cranequin,Firangi,0
+Bullova,Lug Crossbow,Cinquedea,0
+Bullova,Siege Bow,Bastard Sword,0
+Bullova,Arbalest,Siege Bow,0
+Crescent,Gastraph Bow,Tabar,0
+Crescent,Light Crossbow,Chamkaq,0
+Crescent,Target Bow,Tabarzin,0
+Crescent,Windlass,Tabarzin,0
+Crescent,Cranequin,Chamkaq,0
+Crescent,Lug Crossbow,Shamshir,0
+Crescent,Siege Bow,Kris,0
+Crescent,Arbalest,Nodachi,0

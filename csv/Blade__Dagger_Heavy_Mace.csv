@@ -1,76 +1,76 @@
-first slot, second slot, result, swap
-Battle Knife, Langdebeve, Spear
-Battle Knife, Sabre Mace, Sabre Mace
-Battle Knife, Gloomwing, Sabre Mace
-Battle Knife, Griever, Gloomwing
-Battle Knife, Destroyer, Mjolnir
-Battle Knife, Hand of Light, Battle Knife
-Scramasax, Langdebeve, Gastraph Bow
-Scramasax, Sabre Mace, Spatha
-Scramasax, Gloomwing, Sabre Mace
-Scramasax, Mjolnir, Sabre Mace
-Scramasax, Destroyer, Gloomwing
-Scramasax, Hand of Light, Scramasax
-Dirk, Langdebeve, Battle Knife
-Dirk, Sabre Mace, Glaive
-Dirk, Destroyer, Gloomwing
-Dirk, Hand of Light, Dirk
-Throwing Knife, Langdebeve, Battle Knife
-Throwing Knife, Sabre Mace, Light Crossbow
-Throwing Knife, Hand of Light, Throwing Knife
-Kudi, Langdebeve, Scramasax
-Kudi, Sabre Mace, Scramasax
-Kudi, Gloomwing, Gloomwing
-Kudi, Mjolnir, Gloomwing
-Kudi, Griever, Gloomwing
-Kudi, Destroyer, Gloomwing
-Kudi, Hand of Light, Kudi
-Cinquedea, Langdebeve, Dirk
-Cinquedea, Sabre Mace, Scramasax
-Cinquedea, Gloomwing, Rapier
-Cinquedea, Mjolnir, Gloomwing
-Cinquedea, Griever, Gloomwing
-Cinquedea, Destroyer, Gloomwing
-Cinquedea, Hand of Light, Cinquedea
-Kris, Langdebeve, Throwing Knife
-Kris, Sabre Mace, Dirk
-Kris, Gloomwing, Corcesca
-Kris, Mjolnir, Mjolnir
-Kris, Griever, Mjolnir
-Kris, Destroyer, Mjolnir
-Kris, Hand of Light, Kris
-Hatchet, Langdebeve, Kudi
-Hatchet, Sabre Mace, Throwing Knife
-Hatchet, Gloomwing, Windlass
-Hatchet, Mjolnir, Short Sword
-Hatchet, Griever, Mjolnir
-Hatchet, Destroyer, Mjolnir
-Hatchet, Hand of Light, Hatchet
-Khukuri, Langdebeve, Cinquedea
-Khukuri, Sabre Mace, Kudi
-Khukuri, Gloomwing, Throwing Knife
-Khukuri, Mjolnir, Trident
-Khukuri, Griever, Griever
-Khukuri, Destroyer, Griever
-Khukuri, Hand of Light, Khukuri
-Baselard, Langdebeve, Kris
-Baselard, Sabre Mace, Cinquedea
-Baselard, Gloomwing, Throwing Knife
-Baselard, Mjolnir, Cranequin
-Baselard, Griever, Firangi
-Baselard, Destroyer, Griever
-Baselard, Hand of Light, Baselard
-Stiletto, Langdebeve, Hatchet
-Stiletto, Sabre Mace, Kris
-Stiletto, Gloomwing, Kudi
-Stiletto, Mjolnir, Kudi
-Stiletto, Griever, Awl Pike
-Stiletto, Destroyer, Destroyer
-Stiletto, Hand of Light, Stiletto
-Jamadhar, Langdebeve, Khukuri
-Jamadhar, Sabre Mace, Hatchet
-Jamadhar, Gloomwing, Cinquedea
-Jamadhar, Mjolnir, Kudi
-Jamadhar, Griever, Lug Crossbow
-Jamadhar, Destroyer, Shamshir
-Jamadhar, Hand of Light, Jamadhar
+slot1,slot2,result,tier_change
+Battle Knife,Langdebeve,Spear,0
+Battle Knife,Sabre Mace,Sabre Mace,0
+Battle Knife,Gloomwing,Sabre Mace,0
+Battle Knife,Griever,Gloomwing,0
+Battle Knife,Destroyer,Mjolnir,0
+Battle Knife,Hand of Light,Battle Knife,0
+Scramasax,Langdebeve,Gastraph Bow,0
+Scramasax,Sabre Mace,Spatha,0
+Scramasax,Gloomwing,Sabre Mace,0
+Scramasax,Mjolnir,Sabre Mace,0
+Scramasax,Destroyer,Gloomwing,0
+Scramasax,Hand of Light,Scramasax,0
+Dirk,Langdebeve,Battle Knife,0
+Dirk,Sabre Mace,Glaive,0
+Dirk,Destroyer,Gloomwing,0
+Dirk,Hand of Light,Dirk,0
+Throwing Knife,Langdebeve,Battle Knife,0
+Throwing Knife,Sabre Mace,Light Crossbow,0
+Throwing Knife,Hand of Light,Throwing Knife,0
+Kudi,Langdebeve,Scramasax,0
+Kudi,Sabre Mace,Scramasax,0
+Kudi,Gloomwing,Gloomwing,0
+Kudi,Mjolnir,Gloomwing,0
+Kudi,Griever,Gloomwing,0
+Kudi,Destroyer,Gloomwing,0
+Kudi,Hand of Light,Kudi,0
+Cinquedea,Langdebeve,Dirk,0
+Cinquedea,Sabre Mace,Scramasax,0
+Cinquedea,Gloomwing,Rapier,0
+Cinquedea,Mjolnir,Gloomwing,0
+Cinquedea,Griever,Gloomwing,0
+Cinquedea,Destroyer,Gloomwing,0
+Cinquedea,Hand of Light,Cinquedea,0
+Kris,Langdebeve,Throwing Knife,0
+Kris,Sabre Mace,Dirk,0
+Kris,Gloomwing,Corcesca,0
+Kris,Mjolnir,Mjolnir,0
+Kris,Griever,Mjolnir,0
+Kris,Destroyer,Mjolnir,0
+Kris,Hand of Light,Kris,0
+Hatchet,Langdebeve,Kudi,0
+Hatchet,Sabre Mace,Throwing Knife,0
+Hatchet,Gloomwing,Windlass,0
+Hatchet,Mjolnir,Short Sword,0
+Hatchet,Griever,Mjolnir,0
+Hatchet,Destroyer,Mjolnir,0
+Hatchet,Hand of Light,Hatchet,0
+Khukuri,Langdebeve,Cinquedea,0
+Khukuri,Sabre Mace,Kudi,0
+Khukuri,Gloomwing,Throwing Knife,0
+Khukuri,Mjolnir,Trident,0
+Khukuri,Griever,Griever,0
+Khukuri,Destroyer,Griever,0
+Khukuri,Hand of Light,Khukuri,0
+Baselard,Langdebeve,Kris,0
+Baselard,Sabre Mace,Cinquedea,0
+Baselard,Gloomwing,Throwing Knife,0
+Baselard,Mjolnir,Cranequin,0
+Baselard,Griever,Firangi,0
+Baselard,Destroyer,Griever,0
+Baselard,Hand of Light,Baselard,0
+Stiletto,Langdebeve,Hatchet,0
+Stiletto,Sabre Mace,Kris,0
+Stiletto,Gloomwing,Kudi,0
+Stiletto,Mjolnir,Kudi,0
+Stiletto,Griever,Awl Pike,0
+Stiletto,Destroyer,Destroyer,0
+Stiletto,Hand of Light,Stiletto,0
+Jamadhar,Langdebeve,Khukuri,0
+Jamadhar,Sabre Mace,Hatchet,0
+Jamadhar,Gloomwing,Cinquedea,0
+Jamadhar,Mjolnir,Kudi,0
+Jamadhar,Griever,Lug Crossbow,0
+Jamadhar,Destroyer,Shamshir,0
+Jamadhar,Hand of Light,Jamadhar,0

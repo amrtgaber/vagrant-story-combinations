@@ -1,73 +1,75 @@
-first slot, second slot, result, swap
-Guisarme, Spear, Spear
-Guisarme, Glaive, Spear
-Guisarme, Scorpion, Spear
-Guisarme, Corcesca, Spear
-Guisarme, Trident, Glaive
-Guisarme, Awl Pike, Scorpion
-Guisarme, Boar Spear, Corcesca
-Guisarme, Fauchard, Trident
-Guisarme, Voulge, Awl Pike
-Guisarme, Pole Axe, Boar Spear
-Guisarme, Bardysh, Fauchard
-Guisarme, Brandestoc, Voulge
-Large Crescent, Spear, Battle Knife
-Large Crescent, Glaive, Gastraph Bow
-Large Crescent, Scorpion, Spatha
-Large Crescent, Corcesca, Glaive
-Large Crescent, Trident, Glaive
-Large Crescent, Awl Pike, Glaive
-Large Crescent, Boar Spear, Scorpion
-Large Crescent, Fauchard, Corcesca
-Large Crescent, Voulge, Trident
-Large Crescent, Pole Axe, Awl Pike
-Large Crescent, Bardysh, Boar Spear
-Large Crescent, Brandestoc, Fauchard
-Sabre Halberd, Spear, Guisarme
-Sabre Halberd, Glaive, Guisarme
-Sabre Halberd, Scorpion, Scramasax
-Sabre Halberd, Corcesca, Light Crossbow
-Sabre Halberd, Trident, Scimitar
-Sabre Halberd, Awl Pike, Scorpion
-Sabre Halberd, Boar Spear, Scorpion
-Sabre Halberd, Fauchard, Scorpion
-Sabre Halberd, Voulge, Corcesca
-Sabre Halberd, Pole Axe, Trident
-Sabre Halberd, Bardysh, Awl Pike
-Sabre Halberd, Brandestoc, Boar Spear
-Balbriggan, Spear, Large Crescent
-Balbriggan, Glaive, Guisarme
-Balbriggan, Scorpion, Large Crescent
-Balbriggan, Corcesca, Large Crescent
-Balbriggan, Trident, Spatha, Dirk
-Balbriggan, Awl Pike, Target Bow
-Balbriggan, Boar Spear, Rapier
-Balbriggan, Fauchard, Corcesca
-Balbriggan, Voulge, Corcesca
-Balbriggan, Pole Axe, Trident
-Balbriggan, Bardysh, Trident
-Balbriggan, Brandestoc, Awl Pike
-Double Blade, Spear, Sabre Halberd
-Double Blade, Glaive, Large Crescent
-Double Blade, Scorpion, Large Crescent
-Double Blade, Corcesca, Large Crescent
-Double Blade, Trident, Sabre Halberd
-Double Blade, Awl Pike, Sabre Halberd
-Double Blade, Boar Spear, Throwing Knife
-Double Blade, Fauchard, Windlass
-Double Blade, Voulge, Short Sword
-Double Blade, Pole Axe, Trident
-Double Blade, Bardysh, Trident
-Double Blade, Brandestoc, Trident
-Halberd, Spear, Balbriggan
-Halberd, Glaive, Sabre Halberd
-Halberd, Scorpion, Large Crescent, Sabre Halberd
-Halberd, Corcesca, Large Crescent
-Halberd, Trident, Sabre Halberd
-Halberd, Awl Pike, Sabre Halberd
-Halberd, Boar Spear, Balbriggan
-Halberd, Fauchard, Balbriggan
-Halberd, Voulge, Kudi
-Halberd, Pole Axe, Cranequin
-Halberd, Bardysh, Firangi
-Halberd, Brandestoc, Awl Pike
+slot1,slot2,result,tier_change
+Guisarme,Spear,Spear,0
+Guisarme,Glaive,Spear,0
+Guisarme,Scorpion,Spear,0
+Guisarme,Corcesca,Spear,0
+Guisarme,Trident,Glaive,0
+Guisarme,Awl Pike,Scorpion,0
+Guisarme,Boar Spear,Corcesca,0
+Guisarme,Fauchard,Trident,0
+Guisarme,Voulge,Awl Pike,0
+Guisarme,Pole Axe,Boar Spear,0
+Guisarme,Bardysh,Fauchard,0
+Guisarme,Brandestoc,Voulge,0
+Large Crescent,Spear,Battle Knife,0
+Large Crescent,Glaive,Gastraph Bow,0
+Large Crescent,Scorpion,Spatha,0
+Large Crescent,Corcesca,Glaive,0
+Large Crescent,Trident,Glaive,0
+Large Crescent,Awl Pike,Glaive,0
+Large Crescent,Boar Spear,Scorpion,0
+Large Crescent,Fauchard,Corcesca,0
+Large Crescent,Voulge,Trident,0
+Large Crescent,Pole Axe,Awl Pike,0
+Large Crescent,Bardysh,Boar Spear,0
+Large Crescent,Brandestoc,Fauchard,0
+Sabre Halberd,Spear,Guisarme,0
+Sabre Halberd,Glaive,Guisarme,0
+Sabre Halberd,Scorpion,Scramasax,0
+Sabre Halberd,Corcesca,Light Crossbow,0
+Sabre Halberd,Trident,Scimitar,0
+Sabre Halberd,Awl Pike,Scorpion,0
+Sabre Halberd,Boar Spear,Scorpion,0
+Sabre Halberd,Fauchard,Scorpion,0
+Sabre Halberd,Voulge,Corcesca,0
+Sabre Halberd,Pole Axe,Trident,0
+Sabre Halberd,Bardysh,Awl Pike,0
+Sabre Halberd,Brandestoc,Boar Spear,0
+Balbriggan,Spear,Large Crescent,0
+Balbriggan,Glaive,Guisarme,0
+Balbriggan,Scorpion,Large Crescent,0
+Balbriggan,Corcesca,Large Crescent,0
+Balbriggan,Trident,Spatha,0
+Trident,Balbriggan,Dirk,0
+Balbriggan,Awl Pike,Target Bow,0
+Balbriggan,Boar Spear,Rapier,0
+Balbriggan,Fauchard,Corcesca,0
+Balbriggan,Voulge,Corcesca,0
+Balbriggan,Pole Axe,Trident,0
+Balbriggan,Bardysh,Trident,0
+Balbriggan,Brandestoc,Awl Pike,0
+Double Blade,Spear,Sabre Halberd,0
+Double Blade,Glaive,Large Crescent,0
+Double Blade,Scorpion,Large Crescent,0
+Double Blade,Corcesca,Large Crescent,0
+Double Blade,Trident,Sabre Halberd,0
+Double Blade,Awl Pike,Sabre Halberd,0
+Double Blade,Boar Spear,Throwing Knife,0
+Double Blade,Fauchard,Windlass,0
+Double Blade,Voulge,Short Sword,0
+Double Blade,Pole Axe,Trident,0
+Double Blade,Bardysh,Trident,0
+Double Blade,Brandestoc,Trident,0
+Halberd,Spear,Balbriggan,0
+Halberd,Glaive,Sabre Halberd,0
+Halberd,Scorpion,Large Crescent,0
+Scorpion,Halberd,Sabre Halberd,0
+Halberd,Corcesca,Large Crescent,0
+Halberd,Trident,Sabre Halberd,0
+Halberd,Awl Pike,Sabre Halberd,0
+Halberd,Boar Spear,Balbriggan,0
+Halberd,Fauchard,Balbriggan,0
+Halberd,Voulge,Kudi,0
+Halberd,Pole Axe,Cranequin,0
+Halberd,Bardysh,Firangi,0
+Halberd,Brandestoc,Awl Pike,0

@@ -1,97 +1,97 @@
-first slot, second slot, result, swap
-Battle Knife, Gastraph Bow, Gastraph Bow
-Battle Knife, Light Crossbow, Gastraph Bow
-Battle Knife, Target Bow, Gastraph Bow
-Battle Knife, Windlass, Gastraph Bow
-Battle Knife, Cranequin, Light Crossbow
-Battle Knife, Lug Crossbow, Target Bow
-Battle Knife, Siege Bow, Windlass
-Battle Knife, Arbalest, Cranequin
-Scramasax, Gastraph Bow, Spatha
-Scramasax, Light Crossbow, Hand Axe
-Scramasax, Target Bow, Light Crossbow
-Scramasax, Windlass, Light Crossbow
-Scramasax, Cranequin, Light Crossbow
-Scramasax, Lug Crossbow, Light Crossbow
-Scramasax, Siege Bow, Target Bow
-Scramasax, Arbalest, Windlass
-Dirk, Gastraph Bow, Broad Sword
-Dirk, Light Crossbow, Scimitar
-Dirk, Target Bow, Battle Axe
-Dirk, Windlass, Target Bow
-Dirk, Cranequin, Target Bow
-Dirk, Lug Crossbow, Target Bow
-Dirk, Siege Bow, Target Bow
-Dirk, Arbalest, Target Bow
-Throwing Knife, Gastraph Bow, Battle Knife
-Throwing Knife, Light Crossbow, Norse Sword
-Throwing Knife, Target Bow, Rapier
-Throwing Knife, Windlass, Francisca
-Throwing Knife, Cranequin, Windlass
-Throwing Knife, Lug Crossbow, Windlass
-Throwing Knife, Siege Bow, Windlass
-Throwing Knife, Arbalest, Windlass
-Kudi, Gastraph Bow, Scramasax
-Kudi, Light Crossbow, Scramasax
-Kudi, Target Bow, Katana
-Kudi, Windlass, Short Sword
-Kudi, Cranequin, Tabarzin
-Kudi, Lug Crossbow, Cranequin
-Kudi, Siege Bow, Cranequin
-Kudi, Arbalest, Cranequin
-Cinquedea, Gastraph Bow, Dirk
-Cinquedea, Light Crossbow, Scramasax
-Cinquedea, Target Bow, Dirk
-Cinquedea, Windlass, Executioner
-Cinquedea, Cranequin, Firangi
-Cinquedea, Lug Crossbow, Chamkaq
-Cinquedea, Siege Bow, Lug Crossbow
-Cinquedea, Arbalest, Lug Crossbow
-Kris, Gastraph Bow, Throwing Knife
-Kris, Light Crossbow, Dirk
-Kris, Target Bow, Dirk
-Kris, Windlass, Throwing Knife
-Kris, Cranequin, Claymore
-Kris, Lug Crossbow, Shamshir
-Kris, Siege Bow, Tabar
-Kris, Arbalest, Siege Bow
-Hatchet, Gastraph Bow, Kudi
-Hatchet, Light Crossbow, Throwing Knife
-Hatchet, Target Bow, Dirk
-Hatchet, Windlass, Throwing Knife
-Hatchet, Cranequin, Kudi
-Hatchet, Lug Crossbow, Schiavona
-Hatchet, Siege Bow, Falchion
-Hatchet, Arbalest, Bullova
-Khukuri, Gastraph Bow, Cinquedea
-Khukuri, Light Crossbow, Kudi
-Khukuri, Target Bow, Throwing Knife
-Khukuri, Windlass, Throwing Knife
-Khukuri, Cranequin, Kudi
-Khukuri, Lug Crossbow, Cinquedea
-Khukuri, Siege Bow, Bastard Sword
-Khukuri, Arbalest, Shotel
-Baselard, Gastraph Bow, Kris
-Baselard, Light Crossbow, Cinquedea
-Baselard, Target Bow, Kudi
-Baselard, Windlass, Throwing Knife
-Baselard, Cranequin, Kudi
-Baselard, Lug Crossbow, Cinquedea
-Baselard, Siege Bow, Kris
-Baselard, Arbalest, Nodachi
-Stiletto, Gastraph Bow, Hatchet
-Stiletto, Light Crossbow, Kris
-Stiletto, Target Bow, Cinquedea
-Stiletto, Windlass, Kudi
-Stiletto, Cranequin, Kudi
-Stiletto, Lug Crossbow, Cinquedea
-Stiletto, Siege Bow, Kris
-Stiletto, Arbalest, Hatchet
-Jamadhar, Gastraph Bow, Khukuri
-Jamadhar, Light Crossbow, Hatchet
-Jamadhar, Target Bow, Kris
-Jamadhar, Windlass, Cinquedea
-Jamadhar, Cranequin, Kudi
-Jamadhar, Lug Crossbow, Cinquedea
-Jamadhar, Siege Bow, Kris
-Jamadhar, Arbalest, Hatchet
+slot1,slot2,result,tier_change
+Battle Knife,Gastraph Bow,Gastraph Bow,0
+Battle Knife,Light Crossbow,Gastraph Bow,0
+Battle Knife,Target Bow,Gastraph Bow,0
+Battle Knife,Windlass,Gastraph Bow,0
+Battle Knife,Cranequin,Light Crossbow,0
+Battle Knife,Lug Crossbow,Target Bow,0
+Battle Knife,Siege Bow,Windlass,0
+Battle Knife,Arbalest,Cranequin,0
+Scramasax,Gastraph Bow,Spatha,0
+Scramasax,Light Crossbow,Hand Axe,0
+Scramasax,Target Bow,Light Crossbow,0
+Scramasax,Windlass,Light Crossbow,0
+Scramasax,Cranequin,Light Crossbow,0
+Scramasax,Lug Crossbow,Light Crossbow,0
+Scramasax,Siege Bow,Target Bow,0
+Scramasax,Arbalest,Windlass,0
+Dirk,Gastraph Bow,Broad Sword,0
+Dirk,Light Crossbow,Scimitar,0
+Dirk,Target Bow,Battle Axe,0
+Dirk,Windlass,Target Bow,0
+Dirk,Cranequin,Target Bow,0
+Dirk,Lug Crossbow,Target Bow,0
+Dirk,Siege Bow,Target Bow,0
+Dirk,Arbalest,Target Bow,0
+Throwing Knife,Gastraph Bow,Battle Knife,0
+Throwing Knife,Light Crossbow,Norse Sword,0
+Throwing Knife,Target Bow,Rapier,0
+Throwing Knife,Windlass,Francisca,0
+Throwing Knife,Cranequin,Windlass,0
+Throwing Knife,Lug Crossbow,Windlass,0
+Throwing Knife,Siege Bow,Windlass,0
+Throwing Knife,Arbalest,Windlass,0
+Kudi,Gastraph Bow,Scramasax,0
+Kudi,Light Crossbow,Scramasax,0
+Kudi,Target Bow,Katana,0
+Kudi,Windlass,Short Sword,0
+Kudi,Cranequin,Tabarzin,0
+Kudi,Lug Crossbow,Cranequin,0
+Kudi,Siege Bow,Cranequin,0
+Kudi,Arbalest,Cranequin,0
+Cinquedea,Gastraph Bow,Dirk,0
+Cinquedea,Light Crossbow,Scramasax,0
+Cinquedea,Target Bow,Dirk,0
+Cinquedea,Windlass,Executioner,0
+Cinquedea,Cranequin,Firangi,0
+Cinquedea,Lug Crossbow,Chamkaq,0
+Cinquedea,Siege Bow,Lug Crossbow,0
+Cinquedea,Arbalest,Lug Crossbow,0
+Kris,Gastraph Bow,Throwing Knife,0
+Kris,Light Crossbow,Dirk,0
+Kris,Target Bow,Dirk,0
+Kris,Windlass,Throwing Knife,0
+Kris,Cranequin,Claymore,0
+Kris,Lug Crossbow,Shamshir,0
+Kris,Siege Bow,Tabar,0
+Kris,Arbalest,Siege Bow,0
+Hatchet,Gastraph Bow,Kudi,0
+Hatchet,Light Crossbow,Throwing Knife,0
+Hatchet,Target Bow,Dirk,0
+Hatchet,Windlass,Throwing Knife,0
+Hatchet,Cranequin,Kudi,0
+Hatchet,Lug Crossbow,Schiavona,0
+Hatchet,Siege Bow,Falchion,0
+Hatchet,Arbalest,Bullova,0
+Khukuri,Gastraph Bow,Cinquedea,0
+Khukuri,Light Crossbow,Kudi,0
+Khukuri,Target Bow,Throwing Knife,0
+Khukuri,Windlass,Throwing Knife,0
+Khukuri,Cranequin,Kudi,0
+Khukuri,Lug Crossbow,Cinquedea,0
+Khukuri,Siege Bow,Bastard Sword,0
+Khukuri,Arbalest,Shotel,0
+Baselard,Gastraph Bow,Kris,0
+Baselard,Light Crossbow,Cinquedea,0
+Baselard,Target Bow,Kudi,0
+Baselard,Windlass,Throwing Knife,0
+Baselard,Cranequin,Kudi,0
+Baselard,Lug Crossbow,Cinquedea,0
+Baselard,Siege Bow,Kris,0
+Baselard,Arbalest,Nodachi,0
+Stiletto,Gastraph Bow,Hatchet,0
+Stiletto,Light Crossbow,Kris,0
+Stiletto,Target Bow,Cinquedea,0
+Stiletto,Windlass,Kudi,0
+Stiletto,Cranequin,Kudi,0
+Stiletto,Lug Crossbow,Cinquedea,0
+Stiletto,Siege Bow,Kris,0
+Stiletto,Arbalest,Hatchet,0
+Jamadhar,Gastraph Bow,Khukuri,0
+Jamadhar,Light Crossbow,Hatchet,0
+Jamadhar,Target Bow,Kris,0
+Jamadhar,Windlass,Cinquedea,0
+Jamadhar,Cranequin,Kudi,0
+Jamadhar,Lug Crossbow,Cinquedea,0
+Jamadhar,Siege Bow,Kris,0
+Jamadhar,Arbalest,Hatchet,0

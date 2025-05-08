@@ -1,59 +1,59 @@
-first slot, second slot, result, swap
-Broad Sword, Guisarme, Wizard Staff
-Broad Sword, Large Crescent, Guisarme
-Broad Sword, Sabre Halberd, Large Crescent
-Broad Sword, Balbriggan, Sabre Halberd
-Broad Sword, Double Blade, Balbriggan
-Broad Sword, Halberd, Double Blade
-Norse Sword, Guisarme, Langdebeve
-Norse Sword, Large Crescent, Glaive
-Norse Sword, Sabre Halberd, Large Crescent
-Norse Sword, Balbriggan, Sabre Halberd
-Norse Sword, Double Blade, Balbriggan
-Norse Sword, Halberd, Double Blade
-Katana, Guisarme, Broad Sword
-Katana, Large Crescent, Clergy Rod
-Katana, Sabre Halberd, Large Crescent
-Katana, Balbriggan, Large Crescent
-Katana, Double Blade, Sabre Halberd
-Katana, Halberd, Balbriggan
-Executioner, Guisarme, Broad Sword
-Executioner, Large Crescent, Sabre Mace
-Executioner, Sabre Halberd, Scorpion
-Executioner, Balbriggan, Sabre Halberd
-Executioner, Double Blade, Sabre Halberd
-Executioner, Halberd, Balbriggan
-Claymore, Guisarme, Norse Sword
-Claymore, Large Crescent, Norse Sword
-Claymore, Sabre Halberd, Summoner Baton
-Claymore, Balbriggan, Sabre Halberd
-Claymore, Double Blade, Sabre Halberd
-Claymore, Halberd, Sabre Halberd
-Schiavona, Guisarme, Katana
-Schiavona, Large Crescent, Norse Sword
-Schiavona, Balbriggan, Corcesca
-Schiavona, Double Blade, Balbriggan
-Schiavona, Halberd, Balbriggan
-Bastard Sword, Guisarme, Executioner
-Bastard Sword, Large Crescent, Katana
-Bastard Sword, Sabre Halberd, Katana
-Bastard Sword, Balbriggan, Shamanic Staff
-Bastard Sword, Double Blade, Balbriggan
-Bastard Sword, Halberd, Balbriggan
-Nodachi, Guisarme, Claymore
-Nodachi, Large Crescent, Executioner
-Nodachi, Sabre Halberd, Katana
-Nodachi, Balbriggan, Gloomwing
-Nodachi, Double Blade, Trident
-Nodachi, Halberd, Double Blade
-Rune Blade, Guisarme, Schiavona
-Rune Blade, Large Crescent, Claymore
-Rune Blade, Sabre Halberd, Executioner
-Rune Blade, Balbriggan, Executioner
-Rune Blade, Halberd, Double Blade
-Holy Win, Guisarme, Guisarme
-Holy Win, Large Crescent, Large Crescent
-Holy Win, Sabre Halberd, Sabre Halberd
-Holy Win, Balbriggan, Balbriggan
-Holy Win, Double Blade, Double Blade
-Holy Win, Halberd, Halberd
+slot1,slot2,result,tier_change
+Broad Sword,Guisarme,Wizard Staff,0
+Broad Sword,Large Crescent,Guisarme,0
+Broad Sword,Sabre Halberd,Large Crescent,0
+Broad Sword,Balbriggan,Sabre Halberd,0
+Broad Sword,Double Blade,Balbriggan,0
+Broad Sword,Halberd,Double Blade,0
+Norse Sword,Guisarme,Langdebeve,0
+Norse Sword,Large Crescent,Glaive,0
+Norse Sword,Sabre Halberd,Large Crescent,0
+Norse Sword,Balbriggan,Sabre Halberd,0
+Norse Sword,Double Blade,Balbriggan,0
+Norse Sword,Halberd,Double Blade,0
+Katana,Guisarme,Broad Sword,0
+Katana,Large Crescent,Clergy Rod,0
+Katana,Sabre Halberd,Large Crescent,0
+Katana,Balbriggan,Large Crescent,0
+Katana,Double Blade,Sabre Halberd,0
+Katana,Halberd,Balbriggan,0
+Executioner,Guisarme,Broad Sword,0
+Executioner,Large Crescent,Sabre Mace,0
+Executioner,Sabre Halberd,Scorpion,0
+Executioner,Balbriggan,Sabre Halberd,0
+Executioner,Double Blade,Sabre Halberd,0
+Executioner,Halberd,Balbriggan,0
+Claymore,Guisarme,Norse Sword,0
+Claymore,Large Crescent,Norse Sword,0
+Claymore,Sabre Halberd,Summoner Baton,0
+Claymore,Balbriggan,Sabre Halberd,0
+Claymore,Double Blade,Sabre Halberd,0
+Claymore,Halberd,Sabre Halberd,0
+Schiavona,Guisarme,Katana,0
+Schiavona,Large Crescent,Norse Sword,0
+Schiavona,Balbriggan,Corcesca,0
+Schiavona,Double Blade,Balbriggan,0
+Schiavona,Halberd,Balbriggan,0
+Bastard Sword,Guisarme,Executioner,0
+Bastard Sword,Large Crescent,Katana,0
+Bastard Sword,Sabre Halberd,Katana,0
+Bastard Sword,Balbriggan,Shamanic Staff,0
+Bastard Sword,Double Blade,Balbriggan,0
+Bastard Sword,Halberd,Balbriggan,0
+Nodachi,Guisarme,Claymore,0
+Nodachi,Large Crescent,Executioner,0
+Nodachi,Sabre Halberd,Katana,0
+Nodachi,Balbriggan,Gloomwing,0
+Nodachi,Double Blade,Trident,0
+Nodachi,Halberd,Double Blade,0
+Rune Blade,Guisarme,Schiavona,0
+Rune Blade,Large Crescent,Claymore,0
+Rune Blade,Sabre Halberd,Executioner,0
+Rune Blade,Balbriggan,Executioner,0
+Rune Blade,Halberd,Double Blade,0
+Holy Win,Guisarme,Guisarme,0
+Holy Win,Large Crescent,Large Crescent,0
+Holy Win,Sabre Halberd,Sabre Halberd,0
+Holy Win,Balbriggan,Balbriggan,0
+Holy Win,Double Blade,Double Blade,0
+Holy Win,Halberd,Halberd,0
