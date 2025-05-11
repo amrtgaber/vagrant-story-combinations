@@ -1,260 +1,260 @@
-slot1,slot2,result,tier_change
-Bandana,Sandals,Sandals,0
-Bandana,Boots,Boots,0
-Bandana,Long Boots,Long Boots,0
-Bandana,Cuisse,Cuisse,0
-Bandana,Light Greave,Cuisse,0
-Bandana,Ring Leggings,Cuisse,0
-Bandana,Chain Leggings,Cuisse,0
-Bandana,Fusskampf,Light Greave,0
-Bandana,Poleyn,Ring Leggings,0
-Bandana,Jambeau,Chain Leggings,0
-Bandana,Missaglia,Fusskampf,0
-Bandana,Plate Leggings,Poleyn,0
-Bandana,Fluted Leggings,Jambeau,0
-Bandana,Hoplite Leggings,Missaglia,0
-Bandana,Jazeraint Leggings,Plate Leggings,0
-Bandana,Dread Leggings,Fluted Leggings,0
-Bear Mask,Sandals,Bear Mask,0
-Bear Mask,Boots,Boots,0
-Bear Mask,Long Boots,Long Boots,0
-Bear Mask,Cuisse,Cuisse,0
-Bear Mask,Light Greave,Cuisse,0
-Bear Mask,Ring Leggings,Cuisse,0
-Bear Mask,Chain Leggings,Cuisse,0
-Bear Mask,Fusskampf,Light Greave,0
-Bear Mask,Poleyn,Ring Leggings,0
-Bear Mask,Jambeau,Chain Leggings,0
-Bear Mask,Missaglia,Fusskampf,0
-Bear Mask,Plate Leggings,Poleyn,0
-Bear Mask,Fluted Leggings,Jambeau,0
-Bear Mask,Hoplite Leggings,Missaglia,0
-Bear Mask,Jazeraint Leggings,Plate Leggings,0
-Bear Mask,Dread Leggings,Fluted Leggings,0
-Wizard Hat,Sandals,Wizard Hat,0
-Wizard Hat,Boots,Wizard Hat,0
-Wizard Hat,Long Boots,Long Boots,0
-Wizard Hat,Cuisse,Cuisse,0
-Wizard Hat,Light Greave,Cuisse,0
-Wizard Hat,Ring Leggings,Cuisse,0
-Wizard Hat,Chain Leggings,Cuisse,0
-Wizard Hat,Fusskampf,Light Greave,0
-Wizard Hat,Poleyn,Ring Leggings,0
-Wizard Hat,Jambeau,Chain Leggings,0
-Wizard Hat,Missaglia,Fusskampf,0
-Wizard Hat,Plate Leggings,Poleyn,0
-Wizard Hat,Fluted Leggings,Jambeau,0
-Wizard Hat,Hoplite Leggings,Missaglia,0
-Wizard Hat,Jazeraint Leggings,Plate Leggings,0
-Wizard Hat,Dread Leggings,Fluted Leggings,0
-Bone Helm,Sandals,Bone Helm,0
-Bone Helm,Boots,Bone Helm,0
-Bone Helm,Long Boots,Bone Helm,0
-Bone Helm,Cuisse,Knuckles,0
-Bone Helm,Light Greave,Cuisse,0
-Bone Helm,Ring Leggings,Cuisse,0
-Bone Helm,Chain Leggings,Cuisse,0
-Bone Helm,Fusskampf,Light Greave,0
-Bone Helm,Poleyn,Ring Leggings,0
-Bone Helm,Jambeau,Chain Leggings,0
-Bone Helm,Missaglia,Fusskampf,0
-Bone Helm,Plate Leggings,Poleyn,0
-Bone Helm,Fluted Leggings,Jambeau,0
-Bone Helm,Hoplite Leggings,Missaglia,0
-Bone Helm,Jazeraint Leggings,Plate Leggings,0
-Bone Helm,Dread Leggings,Fluted Leggings,0
-Chain Coif,Sandals,Bone Helm,0
-Chain Coif,Boots,Bone Helm,0
-Chain Coif,Long Boots,Bone Helm,0
-Chain Coif,Cuisse,Bone Helm,0
-Chain Coif,Light Greave,Ring Sleeve,0
-Chain Coif,Ring Leggings,Light Greave,0
-Chain Coif,Chain Leggings,Light Greave,0
-Chain Coif,Fusskampf,Light Greave,0
-Chain Coif,Poleyn,Light Greave,0
-Chain Coif,Jambeau,Ring Leggings,0
-Chain Coif,Missaglia,Chain Leggings,0
-Chain Coif,Plate Leggings,Fusskampf,0
-Chain Coif,Fluted Leggings,Poleyn,0
-Chain Coif,Hoplite Leggings,Jambeau,0
-Chain Coif,Jazeraint Leggings,Missaglia,0
-Chain Coif,Dread Leggings,Plate Leggings,0
-Spangenhelm,Sandals,Bone Helm,0
-Spangenhelm,Boots,Bone Helm,0
-Spangenhelm,Long Boots,Bone Helm,0
-Spangenhelm,Cuisse,Bone Helm,0
-Spangenhelm,Light Greave,Chain Coif,0
-Spangenhelm,Ring Leggings,Chain Sleeve,0
-Spangenhelm,Chain Leggings,Ring Leggings,0
-Spangenhelm,Fusskampf,Ring Leggings,0
-Spangenhelm,Poleyn,Ring Leggings,0
-Spangenhelm,Jambeau,Ring Leggings,0
-Spangenhelm,Missaglia,Ring Leggings,0
-Spangenhelm,Plate Leggings,Chain Leggings,0
-Spangenhelm,Fluted Leggings,Fusskampf,0
-Spangenhelm,Hoplite Leggings,Poleyn,0
-Spangenhelm,Jazeraint Leggings,Jambeau,0
-Spangenhelm,Dread Leggings,Missaglia,0
-Cabasset,Sandals,Bone Helm,0
-Cabasset,Boots,Bone Helm,0
-Cabasset,Long Boots,Bone Helm,0
-Cabasset,Cuisse,Bone Helm,0
-Cabasset,Light Greave,Chain Coif,0
-Cabasset,Ring Leggings,Spangenhelm,0
-Cabasset,Chain Leggings,Gauntlet,0
-Cabasset,Fusskampf,Chain Leggings,0
-Cabasset,Poleyn,Chain Leggings,0
-Cabasset,Jambeau,Chain Leggings,0
-Cabasset,Missaglia,Chain Leggings,0
-Cabasset,Plate Leggings,Chain Leggings,0
-Cabasset,Fluted Leggings,Chain Leggings,0
-Cabasset,Hoplite Leggings,Fusskampf,0
-Cabasset,Jazeraint Leggings,Poleyn,0
-Cabasset,Dread Leggings,Jambeau,0
-Sallet,Sandals,Chain Coif,0
-Sallet,Boots,Chain Coif,0
-Sallet,Long Boots,Chain Coif,0
-Sallet,Cuisse,Chain Coif,0
-Sallet,Light Greave,Chain Coif,0
-Sallet,Ring Leggings,Spangenhelm,0
-Sallet,Chain Leggings,Cabasset,0
-Sallet,Fusskampf,Vambrace,0
-Sallet,Poleyn,Fusskampf,0
-Sallet,Jambeau,Fusskampf,0
-Sallet,Missaglia,Fusskampf,0
-Sallet,Plate Leggings,Fusskampf,0
-Sallet,Fluted Leggings,Fusskampf,0
-Sallet,Hoplite Leggings,Fusskampf,0
-Sallet,Jazeraint Leggings,Fusskampf,0
-Sallet,Dread Leggings,Poleyn,0
-Barbut,Sandals,Spangenhelm,0
-Barbut,Boots,Spangenhelm,0
-Barbut,Long Boots,Spangenhelm,0
-Barbut,Cuisse,Spangenhelm,0
-Barbut,Light Greave,Chain Coif,0
-Barbut,Ring Leggings,Spangenhelm,0
-Barbut,Chain Leggings,Cabasset,0
-Barbut,Fusskampf,Sallet,0
-Barbut,Poleyn,Plate Glove,0
-Barbut,Jambeau,Poleyn,0
-Barbut,Missaglia,Poleyn,0
-Barbut,Plate Leggings,Poleyn,0
-Barbut,Fluted Leggings,Poleyn,0
-Barbut,Hoplite Leggings,Poleyn,0
-Barbut,Jazeraint Leggings,Poleyn,0
-Barbut,Dread Leggings,Poleyn,0
-Basinet,Sandals,Cabasset,0
-Basinet,Boots,Cabasset,0
-Basinet,Long Boots,Cabasset,0
-Basinet,Cuisse,Cabasset,0
-Basinet,Light Greave,Spangenhelm,0
-Light Greave,Basinet,Chain Coif,0
-Basinet,Ring Leggings,Spangenhelm,0
-Basinet,Chain Leggings,Cabasset,0
-Basinet,Fusskampf,Sallet,0
-Basinet,Poleyn,Barbut,0
-Basinet,Jambeau,Rondanche,0
-Basinet,Missaglia,Jambeau,0
-Basinet,Plate Leggings,Jambeau,0
-Basinet,Fluted Leggings,Jambeau,0
-Basinet,Hoplite Leggings,Jambeau,0
-Basinet,Jazeraint Leggings,Jambeau,0
-Basinet,Dread Leggings,Jambeau,0
-Armet,Sandals,Sallet,0
-Armet,Boots,Sallet,0
-Armet,Long Boots,Sallet,0
-Armet,Cuisse,Sallet,0
-Armet,Light Greave,Cabasset,0
-Light Greave,Armet,Chain Coif,0
-Armet,Ring Leggings,Spangenhelm,0
-Armet,Chain Leggings,Cabasset,0
-Armet,Fusskampf,Sallet,0
-Armet,Poleyn,Barbut,0
-Armet,Jambeau,Basinet,0
-Armet,Missaglia,Tilt Glove,0
-Armet,Plate Leggings,Missaglia,0
-Armet,Fluted Leggings,Missaglia,0
-Armet,Hoplite Leggings,Missaglia,0
-Armet,Jazeraint Leggings,Missaglia,0
-Armet,Dread Leggings,Missaglia,0
-Close Helm,Sandals,Barbut,0
-Close Helm,Boots,Barbut,0
-Close Helm,Long Boots,Barbut,0
-Close Helm,Cuisse,Barbut,0
-Close Helm,Light Greave,Sallet,0
-Close Helm,Ring Leggings,Cabasset,0
-Ring Leggings,Close Helm,Spangenhelm,0
-Close Helm,Chain Leggings,Cabasset,0
-Close Helm,Fusskampf,Sallet,0
-Close Helm,Poleyn,Barbut,0
-Close Helm,Jambeau,Basinet,0
-Close Helm,Missaglia,Armet,0
-Close Helm,Plate Leggings,Freiturnier,0
-Close Helm,Fluted Leggings,Plate Leggings,0
-Close Helm,Hoplite Leggings,Plate Leggings,0
-Close Helm,Jazeraint Leggings,Plate Leggings,0
-Close Helm,Dread Leggings,Plate Leggings,0
-Burgonet,Sandals,Basinet,0
-Burgonet,Boots,Basinet,0
-Burgonet,Long Boots,Basinet,0
-Burgonet,Cuisse,Basinet,0
-Burgonet,Light Greave,Barbut,0
-Burgonet,Ring Leggings,Sallet,0
-Burgonet,Chain Leggings,Cabasset,0
-Burgonet,Fusskampf,Sallet,0
-Burgonet,Poleyn,Barbut,0
-Burgonet,Jambeau,Basinet,0
-Burgonet,Missaglia,Armet,0
-Burgonet,Plate Leggings,Close Helm,0
-Burgonet,Fluted Leggings,Fluted Glove,0
-Burgonet,Hoplite Leggings,Fluted Leggings,0
-Burgonet,Jazeraint Leggings,Fluted Leggings,0
-Burgonet,Dread Leggings,Fluted Leggings,0
-Hoplite Helm,Sandals,Armet,0
-Hoplite Helm,Boots,Armet,0
-Hoplite Helm,Long Boots,Armet,0
-Hoplite Helm,Cuisse,Armet,0
-Hoplite Helm,Light Greave,Basinet,0
-Hoplite Helm,Ring Leggings,Barbut,0
-Hoplite Helm,Chain Leggings,Sallet,0
-Hoplite Helm,Fusskampf,Sallet,0
-Hoplite Helm,Poleyn,Barbut,0
-Hoplite Helm,Jambeau,Basinet,0
-Hoplite Helm,Missaglia,Armet,0
-Hoplite Helm,Plate Leggings,Close Helm,0
-Hoplite Helm,Fluted Leggings,Burgonet,0
-Hoplite Helm,Hoplite Leggings,Hoplite Glove,0
-Hoplite Helm,Jazeraint Leggings,Hoplite Leggings,0
-Hoplite Helm,Dread Leggings,Hoplite Leggings,0
-Jazeraint Helm,Sandals,Close Helm,0
-Jazeraint Helm,Boots,Close Helm,0
-Jazeraint Helm,Long Boots,Close Helm,0
-Jazeraint Helm,Cuisse,Close Helm,0
-Jazeraint Helm,Light Greave,Armet,0
-Jazeraint Helm,Ring Leggings,Basinet,0
-Jazeraint Helm,Chain Leggings,Barbut,0
-Jazeraint Helm,Fusskampf,Sallet,0
-Jazeraint Helm,Poleyn,Barbut,0
-Jazeraint Helm,Jambeau,Basinet,0
-Jazeraint Helm,Missaglia,Armet,0
-Jazeraint Helm,Plate Leggings,Close Helm,0
-Jazeraint Helm,Fluted Leggings,Burgonet,0
-Jazeraint Helm,Hoplite Leggings,Hoplite Helm,0
-Jazeraint Helm,Jazeraint Leggings,Jazeraint Glove,0
-Jazeraint Helm,Dread Leggings,Jazeraint Leggings,0
-Dread Helm,Sandals,Burgonet,0
-Dread Helm,Boots,Burgonet,0
-Dread Helm,Long Boots,Burgonet,0
-Dread Helm,Cuisse,Burgonet,0
-Dread Helm,Light Greave,Close Helm,0
-Dread Helm,Ring Leggings,Armet,0
-Dread Helm,Chain Leggings,Basinet,0
-Dread Helm,Fusskampf,Barbut,0
-Dread Helm,Poleyn,Barbut,0
-Dread Helm,Jambeau,Basinet,0
-Dread Helm,Missaglia,Armet,0
-Dread Helm,Plate Leggings,Close Helm,0
-Dread Helm,Fluted Leggings,Burgonet,0
-Dread Helm,Hoplite Leggings,Hoplite Helm,0
-Dread Helm,Jazeraint Leggings,Jazeraint Helm,0
-Dread Helm,Dread Leggings,Dread Glove,0
+slot1,slot2,result,tier_change,has_swap
+Bandana,Sandals,Sandals,0,False
+Bandana,Boots,Boots,0,False
+Bandana,Long Boots,Long Boots,0,False
+Bandana,Cuisse,Cuisse,0,False
+Bandana,Light Greave,Cuisse,0,False
+Bandana,Ring Leggings,Cuisse,0,False
+Bandana,Chain Leggings,Cuisse,0,False
+Bandana,Fusskampf,Light Greave,0,False
+Bandana,Poleyn,Ring Leggings,0,False
+Bandana,Jambeau,Chain Leggings,0,False
+Bandana,Missaglia,Fusskampf,0,False
+Bandana,Plate Leggings,Poleyn,0,False
+Bandana,Fluted Leggings,Jambeau,0,False
+Bandana,Hoplite Leggings,Missaglia,0,False
+Bandana,Jazeraint Leggings,Plate Leggings,0,False
+Bandana,Dread Leggings,Fluted Leggings,0,False
+Bear Mask,Sandals,Bear Mask,0,False
+Bear Mask,Boots,Boots,0,False
+Bear Mask,Long Boots,Long Boots,0,False
+Bear Mask,Cuisse,Cuisse,0,False
+Bear Mask,Light Greave,Cuisse,0,False
+Bear Mask,Ring Leggings,Cuisse,0,False
+Bear Mask,Chain Leggings,Cuisse,0,False
+Bear Mask,Fusskampf,Light Greave,0,False
+Bear Mask,Poleyn,Ring Leggings,0,False
+Bear Mask,Jambeau,Chain Leggings,0,False
+Bear Mask,Missaglia,Fusskampf,0,False
+Bear Mask,Plate Leggings,Poleyn,0,False
+Bear Mask,Fluted Leggings,Jambeau,0,False
+Bear Mask,Hoplite Leggings,Missaglia,0,False
+Bear Mask,Jazeraint Leggings,Plate Leggings,0,False
+Bear Mask,Dread Leggings,Fluted Leggings,0,False
+Wizard Hat,Sandals,Wizard Hat,0,False
+Wizard Hat,Boots,Wizard Hat,0,False
+Wizard Hat,Long Boots,Long Boots,0,False
+Wizard Hat,Cuisse,Cuisse,0,False
+Wizard Hat,Light Greave,Cuisse,0,False
+Wizard Hat,Ring Leggings,Cuisse,0,False
+Wizard Hat,Chain Leggings,Cuisse,0,False
+Wizard Hat,Fusskampf,Light Greave,0,False
+Wizard Hat,Poleyn,Ring Leggings,0,False
+Wizard Hat,Jambeau,Chain Leggings,0,False
+Wizard Hat,Missaglia,Fusskampf,0,False
+Wizard Hat,Plate Leggings,Poleyn,0,False
+Wizard Hat,Fluted Leggings,Jambeau,0,False
+Wizard Hat,Hoplite Leggings,Missaglia,0,False
+Wizard Hat,Jazeraint Leggings,Plate Leggings,0,False
+Wizard Hat,Dread Leggings,Fluted Leggings,0,False
+Bone Helm,Sandals,Bone Helm,0,False
+Bone Helm,Boots,Bone Helm,0,False
+Bone Helm,Long Boots,Bone Helm,0,False
+Bone Helm,Cuisse,Knuckles,0,False
+Bone Helm,Light Greave,Cuisse,0,False
+Bone Helm,Ring Leggings,Cuisse,0,False
+Bone Helm,Chain Leggings,Cuisse,0,False
+Bone Helm,Fusskampf,Light Greave,0,False
+Bone Helm,Poleyn,Ring Leggings,0,False
+Bone Helm,Jambeau,Chain Leggings,0,False
+Bone Helm,Missaglia,Fusskampf,0,False
+Bone Helm,Plate Leggings,Poleyn,0,False
+Bone Helm,Fluted Leggings,Jambeau,0,False
+Bone Helm,Hoplite Leggings,Missaglia,0,False
+Bone Helm,Jazeraint Leggings,Plate Leggings,0,False
+Bone Helm,Dread Leggings,Fluted Leggings,0,False
+Chain Coif,Sandals,Bone Helm,0,False
+Chain Coif,Boots,Bone Helm,0,False
+Chain Coif,Long Boots,Bone Helm,0,False
+Chain Coif,Cuisse,Bone Helm,0,False
+Chain Coif,Light Greave,Ring Sleeve,0,False
+Chain Coif,Ring Leggings,Light Greave,0,False
+Chain Coif,Chain Leggings,Light Greave,0,False
+Chain Coif,Fusskampf,Light Greave,0,False
+Chain Coif,Poleyn,Light Greave,0,False
+Chain Coif,Jambeau,Ring Leggings,0,False
+Chain Coif,Missaglia,Chain Leggings,0,False
+Chain Coif,Plate Leggings,Fusskampf,0,False
+Chain Coif,Fluted Leggings,Poleyn,0,False
+Chain Coif,Hoplite Leggings,Jambeau,0,False
+Chain Coif,Jazeraint Leggings,Missaglia,0,False
+Chain Coif,Dread Leggings,Plate Leggings,0,False
+Spangenhelm,Sandals,Bone Helm,0,False
+Spangenhelm,Boots,Bone Helm,0,False
+Spangenhelm,Long Boots,Bone Helm,0,False
+Spangenhelm,Cuisse,Bone Helm,0,False
+Spangenhelm,Light Greave,Chain Coif,0,False
+Spangenhelm,Ring Leggings,Chain Sleeve,0,False
+Spangenhelm,Chain Leggings,Ring Leggings,0,False
+Spangenhelm,Fusskampf,Ring Leggings,0,False
+Spangenhelm,Poleyn,Ring Leggings,0,False
+Spangenhelm,Jambeau,Ring Leggings,0,False
+Spangenhelm,Missaglia,Ring Leggings,0,False
+Spangenhelm,Plate Leggings,Chain Leggings,0,False
+Spangenhelm,Fluted Leggings,Fusskampf,0,False
+Spangenhelm,Hoplite Leggings,Poleyn,0,False
+Spangenhelm,Jazeraint Leggings,Jambeau,0,False
+Spangenhelm,Dread Leggings,Missaglia,0,False
+Cabasset,Sandals,Bone Helm,0,False
+Cabasset,Boots,Bone Helm,0,False
+Cabasset,Long Boots,Bone Helm,0,False
+Cabasset,Cuisse,Bone Helm,0,False
+Cabasset,Light Greave,Chain Coif,0,False
+Cabasset,Ring Leggings,Spangenhelm,0,False
+Cabasset,Chain Leggings,Gauntlet,0,False
+Cabasset,Fusskampf,Chain Leggings,0,False
+Cabasset,Poleyn,Chain Leggings,0,False
+Cabasset,Jambeau,Chain Leggings,0,False
+Cabasset,Missaglia,Chain Leggings,0,False
+Cabasset,Plate Leggings,Chain Leggings,0,False
+Cabasset,Fluted Leggings,Chain Leggings,0,False
+Cabasset,Hoplite Leggings,Fusskampf,0,False
+Cabasset,Jazeraint Leggings,Poleyn,0,False
+Cabasset,Dread Leggings,Jambeau,0,False
+Sallet,Sandals,Chain Coif,0,False
+Sallet,Boots,Chain Coif,0,False
+Sallet,Long Boots,Chain Coif,0,False
+Sallet,Cuisse,Chain Coif,0,False
+Sallet,Light Greave,Chain Coif,0,False
+Sallet,Ring Leggings,Spangenhelm,0,False
+Sallet,Chain Leggings,Cabasset,0,False
+Sallet,Fusskampf,Vambrace,0,False
+Sallet,Poleyn,Fusskampf,0,False
+Sallet,Jambeau,Fusskampf,0,False
+Sallet,Missaglia,Fusskampf,0,False
+Sallet,Plate Leggings,Fusskampf,0,False
+Sallet,Fluted Leggings,Fusskampf,0,False
+Sallet,Hoplite Leggings,Fusskampf,0,False
+Sallet,Jazeraint Leggings,Fusskampf,0,False
+Sallet,Dread Leggings,Poleyn,0,False
+Barbut,Sandals,Spangenhelm,0,False
+Barbut,Boots,Spangenhelm,0,False
+Barbut,Long Boots,Spangenhelm,0,False
+Barbut,Cuisse,Spangenhelm,0,False
+Barbut,Light Greave,Chain Coif,0,False
+Barbut,Ring Leggings,Spangenhelm,0,False
+Barbut,Chain Leggings,Cabasset,0,False
+Barbut,Fusskampf,Sallet,0,False
+Barbut,Poleyn,Plate Glove,0,False
+Barbut,Jambeau,Poleyn,0,False
+Barbut,Missaglia,Poleyn,0,False
+Barbut,Plate Leggings,Poleyn,0,False
+Barbut,Fluted Leggings,Poleyn,0,False
+Barbut,Hoplite Leggings,Poleyn,0,False
+Barbut,Jazeraint Leggings,Poleyn,0,False
+Barbut,Dread Leggings,Poleyn,0,False
+Basinet,Sandals,Cabasset,0,False
+Basinet,Boots,Cabasset,0,False
+Basinet,Long Boots,Cabasset,0,False
+Basinet,Cuisse,Cabasset,0,False
+Basinet,Light Greave,Spangenhelm,0,True
+Light Greave,Basinet,Chain Coif,0,True
+Basinet,Ring Leggings,Spangenhelm,0,False
+Basinet,Chain Leggings,Cabasset,0,False
+Basinet,Fusskampf,Sallet,0,False
+Basinet,Poleyn,Barbut,0,False
+Basinet,Jambeau,Rondanche,0,False
+Basinet,Missaglia,Jambeau,0,False
+Basinet,Plate Leggings,Jambeau,0,False
+Basinet,Fluted Leggings,Jambeau,0,False
+Basinet,Hoplite Leggings,Jambeau,0,False
+Basinet,Jazeraint Leggings,Jambeau,0,False
+Basinet,Dread Leggings,Jambeau,0,False
+Armet,Sandals,Sallet,0,False
+Armet,Boots,Sallet,0,False
+Armet,Long Boots,Sallet,0,False
+Armet,Cuisse,Sallet,0,False
+Armet,Light Greave,Cabasset,0,True
+Light Greave,Armet,Chain Coif,0,True
+Armet,Ring Leggings,Spangenhelm,0,False
+Armet,Chain Leggings,Cabasset,0,False
+Armet,Fusskampf,Sallet,0,False
+Armet,Poleyn,Barbut,0,False
+Armet,Jambeau,Basinet,0,False
+Armet,Missaglia,Tilt Glove,0,False
+Armet,Plate Leggings,Missaglia,0,False
+Armet,Fluted Leggings,Missaglia,0,False
+Armet,Hoplite Leggings,Missaglia,0,False
+Armet,Jazeraint Leggings,Missaglia,0,False
+Armet,Dread Leggings,Missaglia,0,False
+Close Helm,Sandals,Barbut,0,False
+Close Helm,Boots,Barbut,0,False
+Close Helm,Long Boots,Barbut,0,False
+Close Helm,Cuisse,Barbut,0,False
+Close Helm,Light Greave,Sallet,0,False
+Close Helm,Ring Leggings,Cabasset,0,True
+Ring Leggings,Close Helm,Spangenhelm,0,True
+Close Helm,Chain Leggings,Cabasset,0,False
+Close Helm,Fusskampf,Sallet,0,False
+Close Helm,Poleyn,Barbut,0,False
+Close Helm,Jambeau,Basinet,0,False
+Close Helm,Missaglia,Armet,0,False
+Close Helm,Plate Leggings,Freiturnier,0,False
+Close Helm,Fluted Leggings,Plate Leggings,0,False
+Close Helm,Hoplite Leggings,Plate Leggings,0,False
+Close Helm,Jazeraint Leggings,Plate Leggings,0,False
+Close Helm,Dread Leggings,Plate Leggings,0,False
+Burgonet,Sandals,Basinet,0,False
+Burgonet,Boots,Basinet,0,False
+Burgonet,Long Boots,Basinet,0,False
+Burgonet,Cuisse,Basinet,0,False
+Burgonet,Light Greave,Barbut,0,False
+Burgonet,Ring Leggings,Sallet,0,False
+Burgonet,Chain Leggings,Cabasset,0,False
+Burgonet,Fusskampf,Sallet,0,False
+Burgonet,Poleyn,Barbut,0,False
+Burgonet,Jambeau,Basinet,0,False
+Burgonet,Missaglia,Armet,0,False
+Burgonet,Plate Leggings,Close Helm,0,False
+Burgonet,Fluted Leggings,Fluted Glove,0,False
+Burgonet,Hoplite Leggings,Fluted Leggings,0,False
+Burgonet,Jazeraint Leggings,Fluted Leggings,0,False
+Burgonet,Dread Leggings,Fluted Leggings,0,False
+Hoplite Helm,Sandals,Armet,0,False
+Hoplite Helm,Boots,Armet,0,False
+Hoplite Helm,Long Boots,Armet,0,False
+Hoplite Helm,Cuisse,Armet,0,False
+Hoplite Helm,Light Greave,Basinet,0,False
+Hoplite Helm,Ring Leggings,Barbut,0,False
+Hoplite Helm,Chain Leggings,Sallet,0,False
+Hoplite Helm,Fusskampf,Sallet,0,False
+Hoplite Helm,Poleyn,Barbut,0,False
+Hoplite Helm,Jambeau,Basinet,0,False
+Hoplite Helm,Missaglia,Armet,0,False
+Hoplite Helm,Plate Leggings,Close Helm,0,False
+Hoplite Helm,Fluted Leggings,Burgonet,0,False
+Hoplite Helm,Hoplite Leggings,Hoplite Glove,0,False
+Hoplite Helm,Jazeraint Leggings,Hoplite Leggings,0,False
+Hoplite Helm,Dread Leggings,Hoplite Leggings,0,False
+Jazeraint Helm,Sandals,Close Helm,0,False
+Jazeraint Helm,Boots,Close Helm,0,False
+Jazeraint Helm,Long Boots,Close Helm,0,False
+Jazeraint Helm,Cuisse,Close Helm,0,False
+Jazeraint Helm,Light Greave,Armet,0,False
+Jazeraint Helm,Ring Leggings,Basinet,0,False
+Jazeraint Helm,Chain Leggings,Barbut,0,False
+Jazeraint Helm,Fusskampf,Sallet,0,False
+Jazeraint Helm,Poleyn,Barbut,0,False
+Jazeraint Helm,Jambeau,Basinet,0,False
+Jazeraint Helm,Missaglia,Armet,0,False
+Jazeraint Helm,Plate Leggings,Close Helm,0,False
+Jazeraint Helm,Fluted Leggings,Burgonet,0,False
+Jazeraint Helm,Hoplite Leggings,Hoplite Helm,0,False
+Jazeraint Helm,Jazeraint Leggings,Jazeraint Glove,0,False
+Jazeraint Helm,Dread Leggings,Jazeraint Leggings,0,False
+Dread Helm,Sandals,Burgonet,0,False
+Dread Helm,Boots,Burgonet,0,False
+Dread Helm,Long Boots,Burgonet,0,False
+Dread Helm,Cuisse,Burgonet,0,False
+Dread Helm,Light Greave,Close Helm,0,False
+Dread Helm,Ring Leggings,Armet,0,False
+Dread Helm,Chain Leggings,Basinet,0,False
+Dread Helm,Fusskampf,Barbut,0,False
+Dread Helm,Poleyn,Barbut,0,False
+Dread Helm,Jambeau,Basinet,0,False
+Dread Helm,Missaglia,Armet,0,False
+Dread Helm,Plate Leggings,Close Helm,0,False
+Dread Helm,Fluted Leggings,Burgonet,0,False
+Dread Helm,Hoplite Leggings,Hoplite Helm,0,False
+Dread Helm,Jazeraint Leggings,Jazeraint Helm,0,False
+Dread Helm,Dread Leggings,Dread Glove,0,False

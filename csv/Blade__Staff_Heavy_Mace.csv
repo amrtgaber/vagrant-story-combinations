@@ -1,25 +1,25 @@
-slot1,slot2,result,tier_change
-Wizard Staff,Langdebeve,Spear,0
-Wizard Staff,Sabre Mace,Battle Knife,0
-Wizard Staff,Gloomwing,Sabre Mace,0
-Wizard Staff,Griever,Gloomwing,0
-Wizard Staff,Destroyer,Mjolnir,0
-Wizard Staff,Hand of Light,Wizard Staff,0
-Clergy Rod,Langdebeve,Gastraph Bow,0
-Clergy Rod,Sabre Mace,Glaive,0
-Clergy Rod,Destroyer,Gloomwing,0
-Clergy Rod,Hand of Light,Clergy Rod,0
-Summoner Baton,Langdebeve,Wizard Staff,0
-Summoner Baton,Sabre Mace,Light Crossbow,0
-Summoner Baton,Gloomwing,Dirk,0
-Summoner Baton,Mjolnir,Gloomwing,0
-Summoner Baton,Griever,Gloomwing,0
-Summoner Baton,Destroyer,Gloomwing,0
-Summoner Baton,Hand of Light,Summoner Baton,0
-Shamanic Staff,Langdebeve,Clergy Rod,0
-Shamanic Staff,Sabre Mace,Clergy Rod,0
-Shamanic Staff,Gloomwing,Corcesca,0
-Shamanic Staff,Mjolnir,Throwing Knife,0
-Shamanic Staff,Griever,Mjolnir,0
-Shamanic Staff,Destroyer,Mjolnir,0
-Shamanic Staff,Hand of Light,Shamanic Staff,0
+slot1,slot2,result,tier_change,has_swap
+Wizard Staff,Langdebeve,Spear,0,False
+Wizard Staff,Sabre Mace,Battle Knife,0,False
+Wizard Staff,Gloomwing,Sabre Mace,0,False
+Wizard Staff,Griever,Gloomwing,0,False
+Wizard Staff,Destroyer,Mjolnir,0,False
+Wizard Staff,Hand of Light,Wizard Staff,0,False
+Clergy Rod,Langdebeve,Gastraph Bow,0,False
+Clergy Rod,Sabre Mace,Glaive,0,False
+Clergy Rod,Destroyer,Gloomwing,0,False
+Clergy Rod,Hand of Light,Clergy Rod,0,False
+Summoner Baton,Langdebeve,Wizard Staff,0,False
+Summoner Baton,Sabre Mace,Light Crossbow,0,False
+Summoner Baton,Gloomwing,Dirk,0,False
+Summoner Baton,Mjolnir,Gloomwing,0,False
+Summoner Baton,Griever,Gloomwing,0,False
+Summoner Baton,Destroyer,Gloomwing,0,False
+Summoner Baton,Hand of Light,Summoner Baton,0,False
+Shamanic Staff,Langdebeve,Clergy Rod,0,False
+Shamanic Staff,Sabre Mace,Clergy Rod,0,False
+Shamanic Staff,Gloomwing,Corcesca,0,False
+Shamanic Staff,Mjolnir,Throwing Knife,0,False
+Shamanic Staff,Griever,Mjolnir,0,False
+Shamanic Staff,Destroyer,Mjolnir,0,False
+Shamanic Staff,Hand of Light,Shamanic Staff,0,False

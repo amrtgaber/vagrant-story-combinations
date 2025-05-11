@@ -1,95 +1,95 @@
-slot1,slot2,result,tier_change
-Battle Knife,Hand Axe,Hand Axe,0
-Battle Knife,Battle Axe,Hand Axe,0
-Battle Knife,Francisca,Battle Axe,0
-Battle Knife,Tabarzin,Francisca,0
-Battle Knife,Chamkaq,Tabarzin,0
-Battle Knife,Tabar,Chamkaq,0
-Battle Knife,Bullova,Tabar,0
-Battle Knife,Crescent,Bullova,0
-Scramasax,Hand Axe,Goblin Club,0
-Scramasax,Battle Axe,Battle Axe,0
-Scramasax,Francisca,Battle Axe,0
-Scramasax,Tabarzin,Battle Axe,0
-Scramasax,Chamkaq,Francisca,0
-Scramasax,Tabar,Tabarzin,0
-Scramasax,Bullova,Chamkaq,0
-Scramasax,Crescent,Tabar,0
-Dirk,Hand Axe,Battle Knife,0
-Dirk,Battle Axe,Spiked Club,0
-Dirk,Francisca,Francisca,0
-Dirk,Tabarzin,Francisca,0
-Dirk,Chamkaq,Francisca,0
-Dirk,Tabar,Francisca,0
-Dirk,Bullova,Tabarzin,0
-Dirk,Crescent,Chamkaq,0
-Throwing Knife,Hand Axe,Battle Knife,0
-Throwing Knife,Battle Axe,Scramasax,0
-Throwing Knife,Francisca,Ball Mace,0
-Throwing Knife,Tabarzin,Wizard Staff,0
-Throwing Knife,Chamkaq,Tabarzin,0
-Throwing Knife,Tabar,Tabarzin,0
-Throwing Knife,Bullova,Tabarzin,0
-Throwing Knife,Crescent,Tabarzin,0
-Kudi,Hand Axe,Scramasax,0
-Kudi,Battle Axe,Scramasax,0
-Kudi,Francisca,Dirk,0
-Kudi,Chamkaq,Clergy Rod,0
-Kudi,Tabar,Chamkaq,0
-Kudi,Bullova,Chamkaq,0
-Kudi,Crescent,Chamkaq,0
-Cinquedea,Hand Axe,Dirk,0
-Cinquedea,Battle Axe,Scramasax,0
-Cinquedea,Francisca,Dirk,0
-Cinquedea,Tabarzin,Guisarme,0
-Cinquedea,Chamkaq,Morning Star,0
-Cinquedea,Tabar,Summoner Baton,0
-Cinquedea,Bullova,Tabar,0
-Cinquedea,Crescent,Tabar,0
-Kris,Hand Axe,Throwing Knife,0
-Kris,Battle Axe,Dirk,0
-Kris,Francisca,Dirk,0
-Kris,Tabarzin,Throwing Knife,0
-Kris,Chamkaq,Large Crescent,0
-Kris,Tabar,War Hammer,0
-Kris,Bullova,Shamanic Staff,0
-Kris,Crescent,Bullova,0
-Hatchet,Hand Axe,Kudi,0
-Hatchet,Battle Axe,Throwing Knife,0
-Hatchet,Francisca,Dirk,0
-Hatchet,Tabarzin,Throwing Knife,0
-Hatchet,Chamkaq,Kudi,0
-Hatchet,Tabar,Sabre Halberd,0
-Hatchet,Bullova,Bec de Corbin,0
-Khukuri,Hand Axe,Cinquedea,0
-Khukuri,Battle Axe,Kudi,0
-Khukuri,Francisca,Throwing Knife,0
-Khukuri,Tabarzin,Throwing Knife,0
-Khukuri,Chamkaq,Kudi,0
-Khukuri,Tabar,Cinquedea,0
-Khukuri,Bullova,Balbriggan,0
-Khukuri,Crescent,War Maul,0
-Baselard,Hand Axe,Kris,0
-Baselard,Battle Axe,Cinquedea,0
-Baselard,Francisca,Kudi,0
-Baselard,Tabarzin,Throwing Knife,0
-Baselard,Chamkaq,Kudi,0
-Baselard,Tabar,Cinquedea,0
-Baselard,Bullova,Kris,0
-Baselard,Crescent,Double Blade,0
-Stiletto,Hand Axe,Hatchet,0
-Stiletto,Battle Axe,Kris,0
-Stiletto,Francisca,Cinquedea,0
-Stiletto,Tabarzin,Kudi,0
-Stiletto,Chamkaq,Kudi,0
-Stiletto,Tabar,Cinquedea,0
-Stiletto,Bullova,Kris,0
-Stiletto,Crescent,Hatchet,0
-Jamadhar,Hand Axe,Khukuri,0
-Jamadhar,Battle Axe,Hatchet,0
-Jamadhar,Francisca,Kris,0
-Jamadhar,Tabarzin,Cinquedea,0
-Jamadhar,Chamkaq,Kudi,0
-Jamadhar,Tabar,Cinquedea,0
-Jamadhar,Bullova,Kris,0
-Jamadhar,Crescent,Hatchet,0
+slot1,slot2,result,tier_change,has_swap
+Battle Knife,Hand Axe,Hand Axe,0,False
+Battle Knife,Battle Axe,Hand Axe,0,False
+Battle Knife,Francisca,Battle Axe,0,False
+Battle Knife,Tabarzin,Francisca,0,False
+Battle Knife,Chamkaq,Tabarzin,0,False
+Battle Knife,Tabar,Chamkaq,0,False
+Battle Knife,Bullova,Tabar,0,False
+Battle Knife,Crescent,Bullova,0,False
+Scramasax,Hand Axe,Goblin Club,0,False
+Scramasax,Battle Axe,Battle Axe,0,False
+Scramasax,Francisca,Battle Axe,0,False
+Scramasax,Tabarzin,Battle Axe,0,False
+Scramasax,Chamkaq,Francisca,0,False
+Scramasax,Tabar,Tabarzin,0,False
+Scramasax,Bullova,Chamkaq,0,False
+Scramasax,Crescent,Tabar,0,False
+Dirk,Hand Axe,Battle Knife,0,False
+Dirk,Battle Axe,Spiked Club,0,False
+Dirk,Francisca,Francisca,0,False
+Dirk,Tabarzin,Francisca,0,False
+Dirk,Chamkaq,Francisca,0,False
+Dirk,Tabar,Francisca,0,False
+Dirk,Bullova,Tabarzin,0,False
+Dirk,Crescent,Chamkaq,0,False
+Throwing Knife,Hand Axe,Battle Knife,0,False
+Throwing Knife,Battle Axe,Scramasax,0,False
+Throwing Knife,Francisca,Ball Mace,0,False
+Throwing Knife,Tabarzin,Wizard Staff,0,False
+Throwing Knife,Chamkaq,Tabarzin,0,False
+Throwing Knife,Tabar,Tabarzin,0,False
+Throwing Knife,Bullova,Tabarzin,0,False
+Throwing Knife,Crescent,Tabarzin,0,False
+Kudi,Hand Axe,Scramasax,0,False
+Kudi,Battle Axe,Scramasax,0,False
+Kudi,Francisca,Dirk,0,False
+Kudi,Chamkaq,Clergy Rod,0,False
+Kudi,Tabar,Chamkaq,0,False
+Kudi,Bullova,Chamkaq,0,False
+Kudi,Crescent,Chamkaq,0,False
+Cinquedea,Hand Axe,Dirk,0,False
+Cinquedea,Battle Axe,Scramasax,0,False
+Cinquedea,Francisca,Dirk,0,False
+Cinquedea,Tabarzin,Guisarme,0,False
+Cinquedea,Chamkaq,Morning Star,0,False
+Cinquedea,Tabar,Summoner Baton,0,False
+Cinquedea,Bullova,Tabar,0,False
+Cinquedea,Crescent,Tabar,0,False
+Kris,Hand Axe,Throwing Knife,0,False
+Kris,Battle Axe,Dirk,0,False
+Kris,Francisca,Dirk,0,False
+Kris,Tabarzin,Throwing Knife,0,False
+Kris,Chamkaq,Large Crescent,0,False
+Kris,Tabar,War Hammer,0,False
+Kris,Bullova,Shamanic Staff,0,False
+Kris,Crescent,Bullova,0,False
+Hatchet,Hand Axe,Kudi,0,False
+Hatchet,Battle Axe,Throwing Knife,0,False
+Hatchet,Francisca,Dirk,0,False
+Hatchet,Tabarzin,Throwing Knife,0,False
+Hatchet,Chamkaq,Kudi,0,False
+Hatchet,Tabar,Sabre Halberd,0,False
+Hatchet,Bullova,Bec de Corbin,0,False
+Khukuri,Hand Axe,Cinquedea,0,False
+Khukuri,Battle Axe,Kudi,0,False
+Khukuri,Francisca,Throwing Knife,0,False
+Khukuri,Tabarzin,Throwing Knife,0,False
+Khukuri,Chamkaq,Kudi,0,False
+Khukuri,Tabar,Cinquedea,0,False
+Khukuri,Bullova,Balbriggan,0,False
+Khukuri,Crescent,War Maul,0,False
+Baselard,Hand Axe,Kris,0,False
+Baselard,Battle Axe,Cinquedea,0,False
+Baselard,Francisca,Kudi,0,False
+Baselard,Tabarzin,Throwing Knife,0,False
+Baselard,Chamkaq,Kudi,0,False
+Baselard,Tabar,Cinquedea,0,False
+Baselard,Bullova,Kris,0,False
+Baselard,Crescent,Double Blade,0,False
+Stiletto,Hand Axe,Hatchet,0,False
+Stiletto,Battle Axe,Kris,0,False
+Stiletto,Francisca,Cinquedea,0,False
+Stiletto,Tabarzin,Kudi,0,False
+Stiletto,Chamkaq,Kudi,0,False
+Stiletto,Tabar,Cinquedea,0,False
+Stiletto,Bullova,Kris,0,False
+Stiletto,Crescent,Hatchet,0,False
+Jamadhar,Hand Axe,Khukuri,0,False
+Jamadhar,Battle Axe,Hatchet,0,False
+Jamadhar,Francisca,Kris,0,False
+Jamadhar,Tabarzin,Cinquedea,0,False
+Jamadhar,Chamkaq,Kudi,0,False
+Jamadhar,Tabar,Cinquedea,0,False
+Jamadhar,Bullova,Kris,0,False
+Jamadhar,Crescent,Hatchet,0,False

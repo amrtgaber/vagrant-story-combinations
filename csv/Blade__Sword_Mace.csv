@@ -1,76 +1,76 @@
-slot1,slot2,result,tier_change
-Spatha,Goblin Club,Goblin Club,0
-Spatha,Spiked Club,Goblin Club,0
-Spatha,Ball Mace,Spiked Club,0
-Spatha,War Hammer,Morning Star,0
-Spatha,Bec de Corbin,War Hammer,0
-Spatha,War Maul,Bec de Corbin,0
-Scimitar,Goblin Club,Spatha,0
-Scimitar,Spiked Club,Spiked Club,0
-Scimitar,Ball Mace,Spiked Club,0
-Scimitar,Morning Star,Ball Mace,0
-Scimitar,Bec de Corbin,Morning Star,0
-Scimitar,War Maul,War Hammer,0
-Rapier,Goblin Club,Spatha,0
-Rapier,Spiked Club,Scimitar,0
-Rapier,Ball Mace,Ball Mace,0
-Rapier,Morning Star,Ball Mace,0
-Rapier,War Hammer,Ball Mace,0
-Rapier,War Maul,Morning Star,0
-Short Sword,Goblin Club,Spatha,0
-Short Sword,Spiked Club,Scimitar,0
-Short Sword,Ball Mace,Guisarme,0
-Firangi,Goblin Club,Scimitar,0
-Firangi,Spiked Club,Scimitar,0
-Firangi,Ball Mace,Rapier,0
-Firangi,War Hammer,Morning Star,0
-Firangi,Bec de Corbin,Morning Star,0
-Firangi,War Maul,Morning Star,0
-Shamshir,Goblin Club,Rapier,0
-Shamshir,Spiked Club,Scimitar,0
-Shamshir,Ball Mace,Rapier,0
-Shamshir,Morning Star,Sabre Halberd,0
-Shamshir,War Hammer,Gloomwing,0
-Shamshir,Bec de Corbin,War Hammer,0
-Shamshir,War Maul,War Hammer,0
-Falchion,Goblin Club,Short Sword,0
-Falchion,Spiked Club,Rapier,0
-Falchion,Ball Mace,Rapier,0
-Falchion,Morning Star,Clergy Rod,0
-Falchion,War Hammer,Balbriggan,0
-Falchion,Bec de Corbin,Mjolnir,0
-Falchion,War Maul,Bec de Corbin,0
-Shotel,Goblin Club,Firangi,0
-Shotel,Spiked Club,Short Sword,0
-Shotel,Ball Mace,Rapier,0
-Shotel,Morning Star,Firangi,0
-Shotel,War Hammer,Summoner Baton,0
-Shotel,Bec de Corbin,Double Blade,0
-Shotel,War Maul,Griever,0
-Khora,Goblin Club,Shamshir,0
-Khora,Spiked Club,Firangi,0
-Khora,Ball Mace,Short Sword,0
-Khora,Morning Star,Firangi,0
-Khora,War Hammer,Shamshir,0
-Khora,Bec de Corbin,Shamanic Staff,0
-Khora,War Maul,Halberd,0
-Khopesh,Goblin Club,Falchion,0
-Khopesh,Spiked Club,Shamshir,0
-Khopesh,Ball Mace,Firangi,0
-Khopesh,Morning Star,Firangi,0
-Khopesh,War Hammer,Shamshir,0
-Khopesh,Bec de Corbin,Falchion,0
-Wakizashi,Goblin Club,Shotel,0
-Wakizashi,Spiked Club,Falchion,0
-Wakizashi,Ball Mace,Shamshir,0
-Wakizashi,Morning Star,Firangi,0
-Wakizashi,War Hammer,Shamshir,0
-Wakizashi,Bec de Corbin,Falchion,0
-Wakizashi,War Maul,Shotel,0
-Rhomphaia,Goblin Club,Goblin Club,0
-Rhomphaia,Spiked Club,Spiked Club,0
-Rhomphaia,Ball Mace,Ball Mace,0
-Rhomphaia,Morning Star,Morning Star,0
-Rhomphaia,War Hammer,War Hammer,0
-Rhomphaia,Bec de Corbin,Bec de Corbin,0
-Rhomphaia,War Maul,War Maul,0
+slot1,slot2,result,tier_change,has_swap
+Spatha,Goblin Club,Goblin Club,0,False
+Spatha,Spiked Club,Goblin Club,0,False
+Spatha,Ball Mace,Spiked Club,0,False
+Spatha,War Hammer,Morning Star,0,False
+Spatha,Bec de Corbin,War Hammer,0,False
+Spatha,War Maul,Bec de Corbin,0,False
+Scimitar,Goblin Club,Spatha,0,False
+Scimitar,Spiked Club,Spiked Club,0,False
+Scimitar,Ball Mace,Spiked Club,0,False
+Scimitar,Morning Star,Ball Mace,0,False
+Scimitar,Bec de Corbin,Morning Star,0,False
+Scimitar,War Maul,War Hammer,0,False
+Rapier,Goblin Club,Spatha,0,False
+Rapier,Spiked Club,Scimitar,0,False
+Rapier,Ball Mace,Ball Mace,0,False
+Rapier,Morning Star,Ball Mace,0,False
+Rapier,War Hammer,Ball Mace,0,False
+Rapier,War Maul,Morning Star,0,False
+Short Sword,Goblin Club,Spatha,0,False
+Short Sword,Spiked Club,Scimitar,0,False
+Short Sword,Ball Mace,Guisarme,0,False
+Firangi,Goblin Club,Scimitar,0,False
+Firangi,Spiked Club,Scimitar,0,False
+Firangi,Ball Mace,Rapier,0,False
+Firangi,War Hammer,Morning Star,0,False
+Firangi,Bec de Corbin,Morning Star,0,False
+Firangi,War Maul,Morning Star,0,False
+Shamshir,Goblin Club,Rapier,0,False
+Shamshir,Spiked Club,Scimitar,0,False
+Shamshir,Ball Mace,Rapier,0,False
+Shamshir,Morning Star,Sabre Halberd,0,False
+Shamshir,War Hammer,Gloomwing,0,False
+Shamshir,Bec de Corbin,War Hammer,0,False
+Shamshir,War Maul,War Hammer,0,False
+Falchion,Goblin Club,Short Sword,0,False
+Falchion,Spiked Club,Rapier,0,False
+Falchion,Ball Mace,Rapier,0,False
+Falchion,Morning Star,Clergy Rod,0,False
+Falchion,War Hammer,Balbriggan,0,False
+Falchion,Bec de Corbin,Mjolnir,0,False
+Falchion,War Maul,Bec de Corbin,0,False
+Shotel,Goblin Club,Firangi,0,False
+Shotel,Spiked Club,Short Sword,0,False
+Shotel,Ball Mace,Rapier,0,False
+Shotel,Morning Star,Firangi,0,False
+Shotel,War Hammer,Summoner Baton,0,False
+Shotel,Bec de Corbin,Double Blade,0,False
+Shotel,War Maul,Griever,0,False
+Khora,Goblin Club,Shamshir,0,False
+Khora,Spiked Club,Firangi,0,False
+Khora,Ball Mace,Short Sword,0,False
+Khora,Morning Star,Firangi,0,False
+Khora,War Hammer,Shamshir,0,False
+Khora,Bec de Corbin,Shamanic Staff,0,False
+Khora,War Maul,Halberd,0,False
+Khopesh,Goblin Club,Falchion,0,False
+Khopesh,Spiked Club,Shamshir,0,False
+Khopesh,Ball Mace,Firangi,0,False
+Khopesh,Morning Star,Firangi,0,False
+Khopesh,War Hammer,Shamshir,0,False
+Khopesh,Bec de Corbin,Falchion,0,False
+Wakizashi,Goblin Club,Shotel,0,False
+Wakizashi,Spiked Club,Falchion,0,False
+Wakizashi,Ball Mace,Shamshir,0,False
+Wakizashi,Morning Star,Firangi,0,False
+Wakizashi,War Hammer,Shamshir,0,False
+Wakizashi,Bec de Corbin,Falchion,0,False
+Wakizashi,War Maul,Shotel,0,False
+Rhomphaia,Goblin Club,Goblin Club,0,False
+Rhomphaia,Spiked Club,Spiked Club,0,False
+Rhomphaia,Ball Mace,Ball Mace,0,False
+Rhomphaia,Morning Star,Morning Star,0,False
+Rhomphaia,War Hammer,War Hammer,0,False
+Rhomphaia,Bec de Corbin,Bec de Corbin,0,False
+Rhomphaia,War Maul,War Maul,0,False

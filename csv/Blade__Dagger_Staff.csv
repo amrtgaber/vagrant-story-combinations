@@ -1,48 +1,48 @@
-slot1,slot2,result,tier_change
-Battle Knife,Wizard Staff,Wizard Staff,0
-Battle Knife,Clergy Rod,Wizard Staff,0
-Battle Knife,Summoner Baton,Clergy Rod,0
-Battle Knife,Shamanic Staff,Summoner Baton,0
-Scramasax,Wizard Staff,Sabre Mace,0
-Scramasax,Clergy Rod,Clergy Rod,0
-Scramasax,Summoner Baton,Clergy Rod,0
-Scramasax,Shamanic Staff,Summoner Baton,0
-Dirk,Wizard Staff,Spear,0
-Dirk,Clergy Rod,Gastraph Bow,0
-Dirk,Summoner Baton,Clergy Rod,0
-Dirk,Shamanic Staff,Clergy Rod,0
-Throwing Knife,Wizard Staff,Battle Knife,0
-Throwing Knife,Summoner Baton,Summoner Baton,0
-Throwing Knife,Shamanic Staff,Summoner Baton,0
-Kudi,Wizard Staff,Scramasax,0
-Kudi,Clergy Rod,Glaive,0
-Kudi,Summoner Baton,Light Crossbow,0
-Kudi,Shamanic Staff,Summoner Baton,0
-Cinquedea,Wizard Staff,Dirk,0
-Cinquedea,Clergy Rod,Scramasax,0
-Cinquedea,Summoner Baton,Gloomwing,0
-Cinquedea,Shamanic Staff,Shamanic Staff,0
-Kris,Wizard Staff,Throwing Knife,0
-Kris,Clergy Rod,Dirk,0
-Kris,Summoner Baton,Scorpion,0
-Kris,Shamanic Staff,Target Bow,0
-Hatchet,Wizard Staff,Kudi,0
-Hatchet,Clergy Rod,Throwing Knife,0
-Hatchet,Summoner Baton,Dirk,0
-Hatchet,Shamanic Staff,Mjolnir,0
-Khukuri,Wizard Staff,Cinquedea,0
-Khukuri,Clergy Rod,Kudi,0
-Khukuri,Summoner Baton,Throwing Knife,0
-Khukuri,Shamanic Staff,Corcesca,0
-Baselard,Wizard Staff,Kris,0
-Baselard,Clergy Rod,Cinquedea,0
-Baselard,Summoner Baton,Kudi,0
-Baselard,Shamanic Staff,Throwing Knife,0
-Stiletto,Wizard Staff,Hatchet,0
-Stiletto,Clergy Rod,Kris,0
-Stiletto,Summoner Baton,Cinquedea,0
-Stiletto,Shamanic Staff,Kudi,0
-Jamadhar,Wizard Staff,Khukuri,0
-Jamadhar,Clergy Rod,Hatchet,0
-Jamadhar,Summoner Baton,Kris,0
-Jamadhar,Shamanic Staff,Cinquedea,0
+slot1,slot2,result,tier_change,has_swap
+Battle Knife,Wizard Staff,Wizard Staff,0,False
+Battle Knife,Clergy Rod,Wizard Staff,0,False
+Battle Knife,Summoner Baton,Clergy Rod,0,False
+Battle Knife,Shamanic Staff,Summoner Baton,0,False
+Scramasax,Wizard Staff,Sabre Mace,0,False
+Scramasax,Clergy Rod,Clergy Rod,0,False
+Scramasax,Summoner Baton,Clergy Rod,0,False
+Scramasax,Shamanic Staff,Summoner Baton,0,False
+Dirk,Wizard Staff,Spear,0,False
+Dirk,Clergy Rod,Gastraph Bow,0,False
+Dirk,Summoner Baton,Clergy Rod,0,False
+Dirk,Shamanic Staff,Clergy Rod,0,False
+Throwing Knife,Wizard Staff,Battle Knife,0,False
+Throwing Knife,Summoner Baton,Summoner Baton,0,False
+Throwing Knife,Shamanic Staff,Summoner Baton,0,False
+Kudi,Wizard Staff,Scramasax,0,False
+Kudi,Clergy Rod,Glaive,0,False
+Kudi,Summoner Baton,Light Crossbow,0,False
+Kudi,Shamanic Staff,Summoner Baton,0,False
+Cinquedea,Wizard Staff,Dirk,0,False
+Cinquedea,Clergy Rod,Scramasax,0,False
+Cinquedea,Summoner Baton,Gloomwing,0,False
+Cinquedea,Shamanic Staff,Shamanic Staff,0,False
+Kris,Wizard Staff,Throwing Knife,0,False
+Kris,Clergy Rod,Dirk,0,False
+Kris,Summoner Baton,Scorpion,0,False
+Kris,Shamanic Staff,Target Bow,0,False
+Hatchet,Wizard Staff,Kudi,0,False
+Hatchet,Clergy Rod,Throwing Knife,0,False
+Hatchet,Summoner Baton,Dirk,0,False
+Hatchet,Shamanic Staff,Mjolnir,0,False
+Khukuri,Wizard Staff,Cinquedea,0,False
+Khukuri,Clergy Rod,Kudi,0,False
+Khukuri,Summoner Baton,Throwing Knife,0,False
+Khukuri,Shamanic Staff,Corcesca,0,False
+Baselard,Wizard Staff,Kris,0,False
+Baselard,Clergy Rod,Cinquedea,0,False
+Baselard,Summoner Baton,Kudi,0,False
+Baselard,Shamanic Staff,Throwing Knife,0,False
+Stiletto,Wizard Staff,Hatchet,0,False
+Stiletto,Clergy Rod,Kris,0,False
+Stiletto,Summoner Baton,Cinquedea,0,False
+Stiletto,Shamanic Staff,Kudi,0,False
+Jamadhar,Wizard Staff,Khukuri,0,False
+Jamadhar,Clergy Rod,Hatchet,0,False
+Jamadhar,Summoner Baton,Kris,0,False
+Jamadhar,Shamanic Staff,Cinquedea,0,False

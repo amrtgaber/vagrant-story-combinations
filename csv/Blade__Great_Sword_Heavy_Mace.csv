@@ -1,66 +1,66 @@
-slot1,slot2,result,tier_change
-Broad Sword,Langdebeve,Battle Knife,0
-Broad Sword,Sabre Mace,Sabre Mace,0
-Broad Sword,Gloomwing,Sabre Mace,0
-Broad Sword,Griever,Gloomwing,0
-Broad Sword,Destroyer,Mjolnir,0
-Broad Sword,Hand of Light,Broad Sword,0
-Norse Sword,Langdebeve,Glaive,0
-Norse Sword,Sabre Mace,Scramasax,0
-Norse Sword,Gloomwing,Sabre Mace,0
-Norse Sword,Mjolnir,Sabre Mace,0
-Norse Sword,Destroyer,Gloomwing,0
-Norse Sword,Hand of Light,Norse Sword,0
-Katana,Langdebeve,Gastraph Bow,0
-Katana,Sabre Mace,Scorpion,0
-Katana,Destroyer,Gloomwing,0
-Katana,Hand of Light,Katana,0
-Executioner,Langdebeve,Broad Sword,0
-Executioner,Sabre Mace,Light Crossbow,0
-Executioner,Gloomwing,Throwing Knife,0
-Executioner,Mjolnir,Gloomwing,0
-Executioner,Griever,Gloomwing,0
-Executioner,Destroyer,Gloomwing,0
-Executioner,Hand of Light,Executioner,0
-Claymore,Langdebeve,Norse Sword,0
-Claymore,Sabre Mace,Norse Sword,0
-Claymore,Gloomwing,Trident,0
-Claymore,Mjolnir,Kudi,0
-Claymore,Griever,Mjolnir,0
-Claymore,Destroyer,Mjolnir,0
-Claymore,Hand of Light,Claymore,0
-Schiavona,Langdebeve,Katana,0
-Schiavona,Sabre Mace,Norse Sword,0
-Schiavona,Gloomwing,Windlass,0
-Schiavona,Mjolnir,Awl Pike,0
-Schiavona,Griever,Cinquedea,0
-Schiavona,Destroyer,Griever,0
-Schiavona,Hand of Light,Schiavona,0
-Bastard Sword,Langdebeve,Executioner,0
-Bastard Sword,Sabre Mace,Katana,0
-Bastard Sword,Gloomwing,Executioner,0
-Bastard Sword,Mjolnir,Cranequin,0
-Bastard Sword,Griever,Boar Spear,0
-Bastard Sword,Destroyer,Kris,0
-Bastard Sword,Hand of Light,Bastard Sword,0
-Nodachi,Langdebeve,Claymore,0
-Nodachi,Sabre Mace,Executioner,0
-Nodachi,Gloomwing,Executioner,0
-Nodachi,Mjolnir,Claymore,0
-Nodachi,Griever,Lug Crossbow,0
-Nodachi,Destroyer,Fauchard,0
-Nodachi,Hand of Light,Nodachi,0
-Rune Blade,Langdebeve,Schiavona,0
-Rune Blade,Sabre Mace,Claymore,0
-Rune Blade,Gloomwing,Executioner,0
-Rune Blade,Mjolnir,Claymore,0
-Rune Blade,Griever,Schiavona,0
-Rune Blade,Destroyer,Siege Bow,0
-Rune Blade,Hand of Light,Rune Blade,0
-Holy Win,Langdebeve,Langdebeve,0
-Holy Win,Sabre Mace,Sabre Mace,0
-Holy Win,Gloomwing,Gloomwing,0
-Holy Win,Mjolnir,Mjolnir,0
-Holy Win,Griever,Griever,0
-Holy Win,Destroyer,Destroyer,0
-Holy Win,Hand of Light,Hand of Light,0
+slot1,slot2,result,tier_change,has_swap
+Broad Sword,Langdebeve,Battle Knife,0,False
+Broad Sword,Sabre Mace,Sabre Mace,0,False
+Broad Sword,Gloomwing,Sabre Mace,0,False
+Broad Sword,Griever,Gloomwing,0,False
+Broad Sword,Destroyer,Mjolnir,0,False
+Broad Sword,Hand of Light,Broad Sword,0,False
+Norse Sword,Langdebeve,Glaive,0,False
+Norse Sword,Sabre Mace,Scramasax,0,False
+Norse Sword,Gloomwing,Sabre Mace,0,False
+Norse Sword,Mjolnir,Sabre Mace,0,False
+Norse Sword,Destroyer,Gloomwing,0,False
+Norse Sword,Hand of Light,Norse Sword,0,False
+Katana,Langdebeve,Gastraph Bow,0,False
+Katana,Sabre Mace,Scorpion,0,False
+Katana,Destroyer,Gloomwing,0,False
+Katana,Hand of Light,Katana,0,False
+Executioner,Langdebeve,Broad Sword,0,False
+Executioner,Sabre Mace,Light Crossbow,0,False
+Executioner,Gloomwing,Throwing Knife,0,False
+Executioner,Mjolnir,Gloomwing,0,False
+Executioner,Griever,Gloomwing,0,False
+Executioner,Destroyer,Gloomwing,0,False
+Executioner,Hand of Light,Executioner,0,False
+Claymore,Langdebeve,Norse Sword,0,False
+Claymore,Sabre Mace,Norse Sword,0,False
+Claymore,Gloomwing,Trident,0,False
+Claymore,Mjolnir,Kudi,0,False
+Claymore,Griever,Mjolnir,0,False
+Claymore,Destroyer,Mjolnir,0,False
+Claymore,Hand of Light,Claymore,0,False
+Schiavona,Langdebeve,Katana,0,False
+Schiavona,Sabre Mace,Norse Sword,0,False
+Schiavona,Gloomwing,Windlass,0,False
+Schiavona,Mjolnir,Awl Pike,0,False
+Schiavona,Griever,Cinquedea,0,False
+Schiavona,Destroyer,Griever,0,False
+Schiavona,Hand of Light,Schiavona,0,False
+Bastard Sword,Langdebeve,Executioner,0,False
+Bastard Sword,Sabre Mace,Katana,0,False
+Bastard Sword,Gloomwing,Executioner,0,False
+Bastard Sword,Mjolnir,Cranequin,0,False
+Bastard Sword,Griever,Boar Spear,0,False
+Bastard Sword,Destroyer,Kris,0,False
+Bastard Sword,Hand of Light,Bastard Sword,0,False
+Nodachi,Langdebeve,Claymore,0,False
+Nodachi,Sabre Mace,Executioner,0,False
+Nodachi,Gloomwing,Executioner,0,False
+Nodachi,Mjolnir,Claymore,0,False
+Nodachi,Griever,Lug Crossbow,0,False
+Nodachi,Destroyer,Fauchard,0,False
+Nodachi,Hand of Light,Nodachi,0,False
+Rune Blade,Langdebeve,Schiavona,0,False
+Rune Blade,Sabre Mace,Claymore,0,False
+Rune Blade,Gloomwing,Executioner,0,False
+Rune Blade,Mjolnir,Claymore,0,False
+Rune Blade,Griever,Schiavona,0,False
+Rune Blade,Destroyer,Siege Bow,0,False
+Rune Blade,Hand of Light,Rune Blade,0,False
+Holy Win,Langdebeve,Langdebeve,0,False
+Holy Win,Sabre Mace,Sabre Mace,0,False
+Holy Win,Gloomwing,Gloomwing,0,False
+Holy Win,Mjolnir,Mjolnir,0,False
+Holy Win,Griever,Griever,0,False
+Holy Win,Destroyer,Destroyer,0,False
+Holy Win,Hand of Light,Hand of Light,0,False

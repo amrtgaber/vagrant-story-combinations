@@ -1,52 +1,52 @@
-slot1,slot2,result,tier_change
-Goblin Club,Gastraph Bow,Broad Sword,0
-Goblin Club,Light Crossbow,Gastraph Bow,0
-Goblin Club,Target Bow,Gastraph Bow,0
-Goblin Club,Windlass,Gastraph Bow,0
-Goblin Club,Cranequin,Light Crossbow,0
-Goblin Club,Lug Crossbow,Target Bow,0
-Goblin Club,Siege Bow,Windlass,0
-Goblin Club,Arbalest,Cranequin,0
-Spiked Club,Gastraph Bow,Battle Knife,0
-Spiked Club,Light Crossbow,Norse Sword,0
-Spiked Club,Target Bow,Light Crossbow,0
-Spiked Club,Windlass,Light Crossbow,0
-Spiked Club,Cranequin,Light Crossbow,0
-Spiked Club,Lug Crossbow,Light Crossbow,0
-Spiked Club,Siege Bow,Target Bow,0
-Spiked Club,Arbalest,Windlass,0
-Ball Mace,Gastraph Bow,Spatha,0
-Ball Mace,Light Crossbow,Scramasax,0
-Ball Mace,Target Bow,Katana,0
-Ball Mace,Windlass,Target Bow,0
-Ball Mace,Cranequin,Target Bow,0
-Ball Mace,Lug Crossbow,Target Bow,0
-Ball Mace,Siege Bow,Target Bow,0
-Ball Mace,Arbalest,Target Bow,0
-Morning Star,Gastraph Bow,Ball Mace,0
-Morning Star,Light Crossbow,Spiked Club,0
-Morning Star,Target Bow,Rapier,0
-Morning Star,Windlass,Throwing Knife,0
-Morning Star,Cranequin,Claymore,0
-Morning Star,Lug Crossbow,Cranequin,0
-Morning Star,Siege Bow,Cranequin,0
-Morning Star,Arbalest,Cranequin,0
-War Hammer,Light Crossbow,Ball Mace,0
-War Hammer,Target Bow,Ball Mace,0
-War Hammer,Windlass,Short Sword,0
-War Hammer,Cranequin,Kudi,0
-War Hammer,Lug Crossbow,Schiavona,0
-War Hammer,Siege Bow,Lug Crossbow,0
-War Hammer,Arbalest,Lug Crossbow,0
-Bec de Corbin,Gastraph Bow,Morning Star,0
-Bec de Corbin,Target Bow,Ball Mace,0
-Bec de Corbin,Cranequin,Firangi,0
-Bec de Corbin,Lug Crossbow,Cinquedea,0
-Bec de Corbin,Siege Bow,Bastard Sword,0
-Bec de Corbin,Arbalest,Siege Bow,0
-War Maul,Gastraph Bow,War Hammer,0
-War Maul,Light Crossbow,Morning Star,0
-War Maul,Cranequin,Morning Star,0
-War Maul,Lug Crossbow,Shamshir,0
-War Maul,Siege Bow,Kris,0
-War Maul,Arbalest,Nodachi,0
+slot1,slot2,result,tier_change,has_swap
+Goblin Club,Gastraph Bow,Broad Sword,0,False
+Goblin Club,Light Crossbow,Gastraph Bow,0,False
+Goblin Club,Target Bow,Gastraph Bow,0,False
+Goblin Club,Windlass,Gastraph Bow,0,False
+Goblin Club,Cranequin,Light Crossbow,0,False
+Goblin Club,Lug Crossbow,Target Bow,0,False
+Goblin Club,Siege Bow,Windlass,0,False
+Goblin Club,Arbalest,Cranequin,0,False
+Spiked Club,Gastraph Bow,Battle Knife,0,False
+Spiked Club,Light Crossbow,Norse Sword,0,False
+Spiked Club,Target Bow,Light Crossbow,0,False
+Spiked Club,Windlass,Light Crossbow,0,False
+Spiked Club,Cranequin,Light Crossbow,0,False
+Spiked Club,Lug Crossbow,Light Crossbow,0,False
+Spiked Club,Siege Bow,Target Bow,0,False
+Spiked Club,Arbalest,Windlass,0,False
+Ball Mace,Gastraph Bow,Spatha,0,False
+Ball Mace,Light Crossbow,Scramasax,0,False
+Ball Mace,Target Bow,Katana,0,False
+Ball Mace,Windlass,Target Bow,0,False
+Ball Mace,Cranequin,Target Bow,0,False
+Ball Mace,Lug Crossbow,Target Bow,0,False
+Ball Mace,Siege Bow,Target Bow,0,False
+Ball Mace,Arbalest,Target Bow,0,False
+Morning Star,Gastraph Bow,Ball Mace,0,False
+Morning Star,Light Crossbow,Spiked Club,0,False
+Morning Star,Target Bow,Rapier,0,False
+Morning Star,Windlass,Throwing Knife,0,False
+Morning Star,Cranequin,Claymore,0,False
+Morning Star,Lug Crossbow,Cranequin,0,False
+Morning Star,Siege Bow,Cranequin,0,False
+Morning Star,Arbalest,Cranequin,0,False
+War Hammer,Light Crossbow,Ball Mace,0,False
+War Hammer,Target Bow,Ball Mace,0,False
+War Hammer,Windlass,Short Sword,0,False
+War Hammer,Cranequin,Kudi,0,False
+War Hammer,Lug Crossbow,Schiavona,0,False
+War Hammer,Siege Bow,Lug Crossbow,0,False
+War Hammer,Arbalest,Lug Crossbow,0,False
+Bec de Corbin,Gastraph Bow,Morning Star,0,False
+Bec de Corbin,Target Bow,Ball Mace,0,False
+Bec de Corbin,Cranequin,Firangi,0,False
+Bec de Corbin,Lug Crossbow,Cinquedea,0,False
+Bec de Corbin,Siege Bow,Bastard Sword,0,False
+Bec de Corbin,Arbalest,Siege Bow,0,False
+War Maul,Gastraph Bow,War Hammer,0,False
+War Maul,Light Crossbow,Morning Star,0,False
+War Maul,Cranequin,Morning Star,0,False
+War Maul,Lug Crossbow,Shamshir,0,False
+War Maul,Siege Bow,Kris,0,False
+War Maul,Arbalest,Nodachi,0,False

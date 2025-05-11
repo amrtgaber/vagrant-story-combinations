@@ -1,49 +1,49 @@
-slot1,slot2,result,tier_change
-Wizard Staff,Spear,Battle Knife,0
-Wizard Staff,Glaive,Gastraph Bow,0
-Wizard Staff,Scorpion,Spatha,0
-Wizard Staff,Corcesca,Glaive,0
-Wizard Staff,Trident,Glaive,0
-Wizard Staff,Awl Pike,Scorpion,0
-Wizard Staff,Boar Spear,Corcesca,0
-Wizard Staff,Fauchard,Trident,0
-Wizard Staff,Voulge,Awl Pike,0
-Wizard Staff,Pole Axe,Boar Spear,0
-Wizard Staff,Bardysh,Fauchard,0
-Wizard Staff,Brandestoc,Voulge,0
-Clergy Rod,Spear,Wizard Staff,0
-Clergy Rod,Glaive,Wizard Staff,0
-Clergy Rod,Scorpion,Scramasax,0
-Clergy Rod,Corcesca,Light Crossbow,0
-Clergy Rod,Trident,Scimitar,0
-Clergy Rod,Awl Pike,Scorpion,0
-Clergy Rod,Boar Spear,Scorpion,0
-Clergy Rod,Fauchard,Corcesca,0
-Clergy Rod,Voulge,Trident,0
-Clergy Rod,Pole Axe,Awl Pike,0
-Clergy Rod,Bardysh,Boar Spear,0
-Clergy Rod,Brandestoc,Fauchard,0
-Summoner Baton,Spear,Wizard Staff,0
-Summoner Baton,Glaive,Wizard Staff,0
-Summoner Baton,Scorpion,Clergy Rod,0
-Summoner Baton,Corcesca,Clergy Rod,0
-Summoner Baton,Trident,Dirk,0
-Summoner Baton,Awl Pike,Target Bow,0
-Summoner Baton,Boar Spear,Rapier,0
-Summoner Baton,Fauchard,Corcesca,0
-Summoner Baton,Voulge,Corcesca,0
-Summoner Baton,Pole Axe,Trident,0
-Summoner Baton,Bardysh,Awl Pike,0
-Summoner Baton,Brandestoc,Boar Spear,0
-Shamanic Staff,Spear,Clergy Rod,0
-Shamanic Staff,Glaive,Clergy Rod,0
-Shamanic Staff,Scorpion,Clergy Rod,0
-Shamanic Staff,Corcesca,Clergy Rod,0
-Shamanic Staff,Trident,Summoner Baton,0
-Shamanic Staff,Awl Pike,Summoner Baton,0
-Shamanic Staff,Boar Spear,Throwing Knife,0
-Shamanic Staff,Fauchard,Windlass,0
-Shamanic Staff,Voulge,Short Sword,0
-Shamanic Staff,Pole Axe,Trident,0
-Shamanic Staff,Bardysh,Trident,0
-Shamanic Staff,Brandestoc,Awl Pike,0
+slot1,slot2,result,tier_change,has_swap
+Wizard Staff,Spear,Battle Knife,0,False
+Wizard Staff,Glaive,Gastraph Bow,0,False
+Wizard Staff,Scorpion,Spatha,0,False
+Wizard Staff,Corcesca,Glaive,0,False
+Wizard Staff,Trident,Glaive,0,False
+Wizard Staff,Awl Pike,Scorpion,0,False
+Wizard Staff,Boar Spear,Corcesca,0,False
+Wizard Staff,Fauchard,Trident,0,False
+Wizard Staff,Voulge,Awl Pike,0,False
+Wizard Staff,Pole Axe,Boar Spear,0,False
+Wizard Staff,Bardysh,Fauchard,0,False
+Wizard Staff,Brandestoc,Voulge,0,False
+Clergy Rod,Spear,Wizard Staff,0,False
+Clergy Rod,Glaive,Wizard Staff,0,False
+Clergy Rod,Scorpion,Scramasax,0,False
+Clergy Rod,Corcesca,Light Crossbow,0,False
+Clergy Rod,Trident,Scimitar,0,False
+Clergy Rod,Awl Pike,Scorpion,0,False
+Clergy Rod,Boar Spear,Scorpion,0,False
+Clergy Rod,Fauchard,Corcesca,0,False
+Clergy Rod,Voulge,Trident,0,False
+Clergy Rod,Pole Axe,Awl Pike,0,False
+Clergy Rod,Bardysh,Boar Spear,0,False
+Clergy Rod,Brandestoc,Fauchard,0,False
+Summoner Baton,Spear,Wizard Staff,0,False
+Summoner Baton,Glaive,Wizard Staff,0,False
+Summoner Baton,Scorpion,Clergy Rod,0,False
+Summoner Baton,Corcesca,Clergy Rod,0,False
+Summoner Baton,Trident,Dirk,0,False
+Summoner Baton,Awl Pike,Target Bow,0,False
+Summoner Baton,Boar Spear,Rapier,0,False
+Summoner Baton,Fauchard,Corcesca,0,False
+Summoner Baton,Voulge,Corcesca,0,False
+Summoner Baton,Pole Axe,Trident,0,False
+Summoner Baton,Bardysh,Awl Pike,0,False
+Summoner Baton,Brandestoc,Boar Spear,0,False
+Shamanic Staff,Spear,Clergy Rod,0,False
+Shamanic Staff,Glaive,Clergy Rod,0,False
+Shamanic Staff,Scorpion,Clergy Rod,0,False
+Shamanic Staff,Corcesca,Clergy Rod,0,False
+Shamanic Staff,Trident,Summoner Baton,0,False
+Shamanic Staff,Awl Pike,Summoner Baton,0,False
+Shamanic Staff,Boar Spear,Throwing Knife,0,False
+Shamanic Staff,Fauchard,Windlass,0,False
+Shamanic Staff,Voulge,Short Sword,0,False
+Shamanic Staff,Pole Axe,Trident,0,False
+Shamanic Staff,Bardysh,Trident,0,False
+Shamanic Staff,Brandestoc,Awl Pike,0,False

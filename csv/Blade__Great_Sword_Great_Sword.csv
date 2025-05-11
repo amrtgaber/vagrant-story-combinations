@@ -1,56 +1,56 @@
-slot1,slot2,result,tier_change
-Broad Sword,Broad Sword,Broad Sword,0
-Broad Sword,Norse Sword,Broad Sword,0
-Broad Sword,Katana,Executioner,1
-Broad Sword,Executioner,Broad Sword,0
-Broad Sword,Claymore,Norse Sword,0
-Broad Sword,Schiavona,Katana,0
-Broad Sword,Bastard Sword,Executioner,0
-Broad Sword,Nodachi,Claymore,0
-Broad Sword,Rune Blade,Schiavona,0
-Broad Sword,Holy Win,Broad Sword,0
-Norse Sword,Norse Sword,Norse Sword,0
-Norse Sword,Katana,Broad Sword,-1
-Norse Sword,Executioner,Broad Sword,-1
-Norse Sword,Claymore,Katana,0
-Norse Sword,Schiavona,Norse Sword,0
-Norse Sword,Bastard Sword,Katana,0
-Norse Sword,Nodachi,Executioner,0
-Norse Sword,Rune Blade,Claymore,0
-Norse Sword,Holy Win,Norse Sword,0
-Katana,Katana,Katana,0
-Katana,Executioner,Claymore,1
-Katana,Claymore,Broad Sword,-1
-Katana,Schiavona,Executioner,0
-Katana,Bastard Sword,Norse Sword,-1
-Katana,Nodachi,Katana,0
-Katana,Rune Blade,Executioner,0
-Katana,Holy Win,Katana,0
-Executioner,Executioner,Executioner,0
-Executioner,Claymore,Schiavona,1
-Executioner,Schiavona,Broad Sword,-1
-Executioner,Bastard Sword,Katana,-1
-Executioner,Nodachi,Norse Sword,-1
-Executioner,Rune Blade,Katana,-1
-Executioner,Holy Win,Executioner,0
-Claymore,Claymore,Claymore,0
-Claymore,Schiavona,Bastard Sword,1
-Claymore,Bastard Sword,Claymore,0
-Claymore,Nodachi,Schiavona,0
-Claymore,Rune Blade,Norse Sword,-1
-Claymore,Holy Win,Claymore,0
-Schiavona,Schiavona,Schiavona,0
-Schiavona,Bastard Sword,Broad Sword,-1
-Schiavona,Nodachi,Bastard Sword,0
-Schiavona,Rune Blade,Schiavona,0
-Schiavona,Holy Win,Schiavona,0
-Bastard Sword,Bastard Sword,Nodachi,1
-Bastard Sword,Nodachi,Broad Sword,-1
-Bastard Sword,Rune Blade,Broad Sword,-1
-Bastard Sword,Holy Win,Bastard Sword,0
-Nodachi,Nodachi,Rune Blade,1
-Nodachi,Rune Blade,Bastard Sword,-1
-Nodachi,Holy Win,Nodachi,0
-Rune Blade,Rune Blade,Rune Blade,0
-Rune Blade,Holy Win,Rune Blade,0
-Holy Win,Holy Win,Holy Win,0
+slot1,slot2,result,tier_change,has_swap
+Broad Sword,Broad Sword,Broad Sword,0,False
+Broad Sword,Norse Sword,Broad Sword,0,False
+Broad Sword,Katana,Executioner,1,False
+Broad Sword,Executioner,Broad Sword,0,False
+Broad Sword,Claymore,Norse Sword,0,False
+Broad Sword,Schiavona,Katana,0,False
+Broad Sword,Bastard Sword,Executioner,0,False
+Broad Sword,Nodachi,Claymore,0,False
+Broad Sword,Rune Blade,Schiavona,0,False
+Broad Sword,Holy Win,Broad Sword,0,False
+Norse Sword,Norse Sword,Norse Sword,0,False
+Norse Sword,Katana,Broad Sword,-1,False
+Norse Sword,Executioner,Broad Sword,-1,False
+Norse Sword,Claymore,Katana,0,False
+Norse Sword,Schiavona,Norse Sword,0,False
+Norse Sword,Bastard Sword,Katana,0,False
+Norse Sword,Nodachi,Executioner,0,False
+Norse Sword,Rune Blade,Claymore,0,False
+Norse Sword,Holy Win,Norse Sword,0,False
+Katana,Katana,Katana,0,False
+Katana,Executioner,Claymore,1,False
+Katana,Claymore,Broad Sword,-1,False
+Katana,Schiavona,Executioner,0,False
+Katana,Bastard Sword,Norse Sword,-1,False
+Katana,Nodachi,Katana,0,False
+Katana,Rune Blade,Executioner,0,False
+Katana,Holy Win,Katana,0,False
+Executioner,Executioner,Executioner,0,False
+Executioner,Claymore,Schiavona,1,False
+Executioner,Schiavona,Broad Sword,-1,False
+Executioner,Bastard Sword,Katana,-1,False
+Executioner,Nodachi,Norse Sword,-1,False
+Executioner,Rune Blade,Katana,-1,False
+Executioner,Holy Win,Executioner,0,False
+Claymore,Claymore,Claymore,0,False
+Claymore,Schiavona,Bastard Sword,1,False
+Claymore,Bastard Sword,Claymore,0,False
+Claymore,Nodachi,Schiavona,0,False
+Claymore,Rune Blade,Norse Sword,-1,False
+Claymore,Holy Win,Claymore,0,False
+Schiavona,Schiavona,Schiavona,0,False
+Schiavona,Bastard Sword,Broad Sword,-1,False
+Schiavona,Nodachi,Bastard Sword,0,False
+Schiavona,Rune Blade,Schiavona,0,False
+Schiavona,Holy Win,Schiavona,0,False
+Bastard Sword,Bastard Sword,Nodachi,1,False
+Bastard Sword,Nodachi,Broad Sword,-1,False
+Bastard Sword,Rune Blade,Broad Sword,-1,False
+Bastard Sword,Holy Win,Bastard Sword,0,False
+Nodachi,Nodachi,Rune Blade,1,False
+Nodachi,Rune Blade,Bastard Sword,-1,False
+Nodachi,Holy Win,Nodachi,0,False
+Rune Blade,Rune Blade,Rune Blade,0,False
+Rune Blade,Holy Win,Rune Blade,0,False
+Holy Win,Holy Win,Holy Win,0,False

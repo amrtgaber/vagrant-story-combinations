@@ -1,24 +1,24 @@
-slot1,slot2,result,tier_change
-Goblin Club,Wizard Staff,Gastraph Bow,0
-Goblin Club,Clergy Rod,Wizard Staff,0
-Goblin Club,Summoner Baton,Clergy Rod,0
-Goblin Club,Shamanic Staff,Summoner Baton,0
-Spiked Club,Wizard Staff,Langdebeve,0
-Spiked Club,Clergy Rod,Light Crossbow,0
-Spiked Club,Summoner Baton,Clergy Rod,0
-Spiked Club,Shamanic Staff,Clergy Rod,0
-Ball Mace,Wizard Staff,Spear,0
-Ball Mace,Clergy Rod,Sabre Mace,0
-Ball Mace,Summoner Baton,Target Bow,0
-Ball Mace,Shamanic Staff,Summoner Baton,0
-Morning Star,Wizard Staff,Ball Mace,0
-Morning Star,Clergy Rod,Spiked Club,0
-Morning Star,Summoner Baton,Scorpion,0
-Morning Star,Shamanic Staff,Gloomwing,0
-War Hammer,Clergy Rod,Ball Mace,0
-War Hammer,Summoner Baton,Ball Mace,0
-War Hammer,Shamanic Staff,Corcesca,0
-Bec de Corbin,Wizard Staff,Morning Star,0
-Bec de Corbin,Summoner Baton,Ball Mace,0
-War Maul,Wizard Staff,War Hammer,0
-War Maul,Clergy Rod,Morning Star,0
+slot1,slot2,result,tier_change,has_swap
+Goblin Club,Wizard Staff,Gastraph Bow,0,False
+Goblin Club,Clergy Rod,Wizard Staff,0,False
+Goblin Club,Summoner Baton,Clergy Rod,0,False
+Goblin Club,Shamanic Staff,Summoner Baton,0,False
+Spiked Club,Wizard Staff,Langdebeve,0,False
+Spiked Club,Clergy Rod,Light Crossbow,0,False
+Spiked Club,Summoner Baton,Clergy Rod,0,False
+Spiked Club,Shamanic Staff,Clergy Rod,0,False
+Ball Mace,Wizard Staff,Spear,0,False
+Ball Mace,Clergy Rod,Sabre Mace,0,False
+Ball Mace,Summoner Baton,Target Bow,0,False
+Ball Mace,Shamanic Staff,Summoner Baton,0,False
+Morning Star,Wizard Staff,Ball Mace,0,False
+Morning Star,Clergy Rod,Spiked Club,0,False
+Morning Star,Summoner Baton,Scorpion,0,False
+Morning Star,Shamanic Staff,Gloomwing,0,False
+War Hammer,Clergy Rod,Ball Mace,0,False
+War Hammer,Summoner Baton,Ball Mace,0,False
+War Hammer,Shamanic Staff,Corcesca,0,False
+Bec de Corbin,Wizard Staff,Morning Star,0,False
+Bec de Corbin,Summoner Baton,Ball Mace,0,False
+War Maul,Wizard Staff,War Hammer,0,False
+War Maul,Clergy Rod,Morning Star,0,False

@@ -1,23 +1,23 @@
-slot1,slot2,result,tier_change
-Goblin Club,Goblin Club,Goblin Club,0
-Goblin Club,Spiked Club,Goblin Club,0
-Goblin Club,Ball Mace,Spiked Club,0
-Goblin Club,Morning Star,Spiked Club,0
-Goblin Club,War Hammer,Ball Mace,0
-Goblin Club,War Maul,Morning Star,0
-Spiked Club,Spiked Club,Spiked Club,0
-Spiked Club,Morning Star,Ball Mace,0
-Spiked Club,War Hammer,Spiked Club,0
-Spiked Club,Bec de Corbin,Ball Mace,0
-Ball Mace,Ball Mace,Ball Mace,0
-Ball Mace,War Hammer,Morning Star,0
-Ball Mace,Bec de Corbin,Spiked Club,-1
-Ball Mace,War Maul,Ball Mace,0
-Morning Star,Morning Star,Morning Star,0
-Morning Star,War Hammer,Morning Star,0
-Morning Star,War Maul,Goblin Club,-1
-War Hammer,War Hammer,Bec de Corbin,1
-War Hammer,Bec de Corbin,Goblin Club,-1
-War Hammer,War Maul,War Hammer,0
-Bec de Corbin,Bec de Corbin,War Maul,1
-War Maul,War Maul,War Maul,0
+slot1,slot2,result,tier_change,has_swap
+Goblin Club,Goblin Club,Goblin Club,0,False
+Goblin Club,Spiked Club,Goblin Club,0,False
+Goblin Club,Ball Mace,Spiked Club,0,False
+Goblin Club,Morning Star,Spiked Club,0,False
+Goblin Club,War Hammer,Ball Mace,0,False
+Goblin Club,War Maul,Morning Star,0,False
+Spiked Club,Spiked Club,Spiked Club,0,False
+Spiked Club,Morning Star,Ball Mace,0,False
+Spiked Club,War Hammer,Spiked Club,0,False
+Spiked Club,Bec de Corbin,Ball Mace,0,False
+Ball Mace,Ball Mace,Ball Mace,0,False
+Ball Mace,War Hammer,Morning Star,0,False
+Ball Mace,Bec de Corbin,Spiked Club,-1,False
+Ball Mace,War Maul,Ball Mace,0,False
+Morning Star,Morning Star,Morning Star,0,False
+Morning Star,War Hammer,Morning Star,0,False
+Morning Star,War Maul,Goblin Club,-1,False
+War Hammer,War Hammer,Bec de Corbin,1,False
+War Hammer,Bec de Corbin,Goblin Club,-1,False
+War Hammer,War Maul,War Hammer,0,False
+Bec de Corbin,Bec de Corbin,War Maul,1,False
+War Maul,War Maul,War Maul,0,False

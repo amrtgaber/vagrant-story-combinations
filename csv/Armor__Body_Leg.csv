@@ -1,264 +1,264 @@
-slot1,slot2,result,tier_change
-Jerkin,Sandals,Jerkin,0
-Jerkin,Boots,Boots,0
-Jerkin,Long Boots,Long Boots,0
-Jerkin,Cuisse,Cuisse,0
-Jerkin,Light Greave,Cuisse,0
-Jerkin,Ring Leggings,Cuisse,0
-Jerkin,Chain Leggings,Cuisse,0
-Jerkin,Fusskampf,Light Greave,0
-Jerkin,Poleyn,Ring Leggings,0
-Jerkin,Jambeau,Chain Leggings,0
-Jerkin,Missaglia,Fusskampf,0
-Jerkin,Plate Leggings,Poleyn,0
-Jerkin,Fluted Leggings,Jambeau,0
-Jerkin,Hoplite Leggings,Missaglia,0
-Jerkin,Jazeraint Leggings,Plate Leggings,0
-Jerkin,Dread Leggings,Fluted Leggings,0
-Hauberk,Sandals,Hauberk,0
-Hauberk,Boots,Boots,0
-Hauberk,Long Boots,Long Boots,0
-Hauberk,Cuisse,Cuisse,0
-Hauberk,Light Greave,Cuisse,0
-Hauberk,Ring Leggings,Cuisse,0
-Hauberk,Chain Leggings,Cuisse,0
-Hauberk,Fusskampf,Light Greave,0
-Hauberk,Poleyn,Ring Leggings,0
-Hauberk,Jambeau,Chain Leggings,0
-Hauberk,Missaglia,Fusskampf,0
-Hauberk,Plate Leggings,Poleyn,0
-Hauberk,Fluted Leggings,Jambeau,0
-Hauberk,Hoplite Leggings,Missaglia,0
-Hauberk,Jazeraint Leggings,Plate Leggings,0
-Hauberk,Dread Leggings,Fluted Leggings,0
-Wizard Robe,Sandals,Wizard Robe,0
-Wizard Robe,Boots,Wizard Robe,0
-Wizard Robe,Long Boots,Long Boots,0
-Wizard Robe,Cuisse,Cuisse,0
-Wizard Robe,Light Greave,Cuisse,0
-Wizard Robe,Ring Leggings,Cuisse,0
-Wizard Robe,Chain Leggings,Cuisse,0
-Wizard Robe,Fusskampf,Light Greave,0
-Wizard Robe,Poleyn,Ring Leggings,0
-Wizard Robe,Jambeau,Chain Leggings,0
-Wizard Robe,Missaglia,Fusskampf,0
-Wizard Robe,Plate Leggings,Poleyn,0
-Wizard Robe,Fluted Leggings,Jambeau,0
-Wizard Robe,Hoplite Leggings,Missaglia,0
-Wizard Robe,Jazeraint Leggings,Plate Leggings,0
-Wizard Robe,Dread Leggings,Fluted Leggings,0
-Cuirass,Sandals,Cuirass,0
-Cuirass,Boots,Cuirass,0
-Cuirass,Long Boots,Cuirass,0
-Cuirass,Cuisse,Knuckles,0
-Cuirass,Light Greave,Cuisse,0
-Cuirass,Ring Leggings,Cuisse,0
-Cuirass,Chain Leggings,Cuisse,0
-Cuirass,Fusskampf,Light Greave,0
-Cuirass,Poleyn,Ring Leggings,0
-Cuirass,Jambeau,Chain Leggings,0
-Cuirass,Missaglia,Fusskampf,0
-Cuirass,Plate Leggings,Poleyn,0
-Cuirass,Fluted Leggings,Jambeau,0
-Cuirass,Hoplite Leggings,Missaglia,0
-Cuirass,Jazeraint Leggings,Plate Leggings,0
-Cuirass,Dread Leggings,Fluted Leggings,0
-Banded Mail,Sandals,Banded Mail,0
-Banded Mail,Boots,Banded Mail,0
-Banded Mail,Long Boots,Banded Mail,0
-Banded Mail,Cuisse,Banded Mail,0
-Banded Mail,Light Greave,Ring Sleeve,0
-Banded Mail,Ring Leggings,Cuisse,0
-Banded Mail,Chain Leggings,Cuisse,0
-Banded Mail,Fusskampf,Light Greave,0
-Banded Mail,Poleyn,Ring Leggings,0
-Banded Mail,Jambeau,Chain Leggings,0
-Banded Mail,Missaglia,Fusskampf,0
-Banded Mail,Plate Leggings,Poleyn,0
-Banded Mail,Fluted Leggings,Jambeau,0
-Banded Mail,Hoplite Leggings,Missaglia,0
-Hoplite Leggings,Banded Mail,Jambeau,0
-Banded Mail,Jazeraint Leggings,Plate Leggings,0
-Banded Mail,Dread Leggings,Fluted Leggings,0
-Ring Mail,Sandals,Banded Mail,0
-Ring Mail,Boots,Banded Mail,0
-Ring Mail,Long Boots,Banded Mail,0
-Ring Mail,Cuisse,Banded Mail,0
-Ring Mail,Light Greave,Ring Mail,0
-Ring Mail,Ring Leggings,Chain Sleeve,0
-Ring Mail,Chain Leggings,Light Greave,0
-Ring Mail,Fusskampf,Light Greave,0
-Ring Mail,Poleyn,Light Greave,0
-Ring Mail,Jambeau,Ring Leggings,0
-Ring Mail,Missaglia,Chain Leggings,0
-Ring Mail,Plate Leggings,Fusskampf,0
-Ring Mail,Fluted Leggings,Poleyn,0
-Fluted Leggings,Ring Mail,Fusskampf,0
-Ring Mail,Hoplite Leggings,Jambeau,0
-Hoplite Leggings,Ring Mail,Poleyn,0
-Ring Mail,Jazeraint Leggings,Missaglia,0
-Ring Mail,Dread Leggings,Plate Leggings,0
-Chain Mail,Sandals,Banded Mail,0
-Chain Mail,Boots,Banded Mail,0
-Chain Mail,Long Boots,Banded Mail,0
-Chain Mail,Cuisse,Banded Mail,0
-Chain Mail,Light Greave,Ring Mail,0
-Chain Mail,Ring Leggings,Chain Mail,0
-Chain Mail,Chain Leggings,Gauntlet,0
-Chain Mail,Fusskampf,Ring Leggings,0
-Chain Mail,Poleyn,Ring Leggings,0
-Chain Mail,Jambeau,Ring Leggings,0
-Chain Mail,Missaglia,Ring Leggings,0
-Chain Mail,Plate Leggings,Chain Leggings,0
-Plate Leggings,Chain Mail,Ring Leggings,0
-Chain Mail,Fluted Leggings,Fusskampf,0
-Fluted Leggings,Chain Mail,Chain Leggings,0
-Chain Mail,Hoplite Leggings,Poleyn,0
-Hoplite Leggings,Chain Mail,Fusskampf,0
-Chain Mail,Jazeraint Leggings,Jambeau,0
-Chain Mail,Dread Leggings,Missaglia,0
-Breastplate,Sandals,Banded Mail,0
-Breastplate,Boots,Banded Mail,0
-Breastplate,Long Boots,Banded Mail,0
-Breastplate,Cuisse,Banded Mail,0
-Breastplate,Light Greave,Ring Mail,0
-Breastplate,Ring Leggings,Chain Mail,0
-Breastplate,Chain Leggings,Breastplate,0
-Breastplate,Fusskampf,Vambrace,0
-Breastplate,Poleyn,Chain Leggings,0
-Breastplate,Jambeau,Chain Leggings,0
-Breastplate,Missaglia,Chain Leggings,0
-Breastplate,Plate Leggings,Chain Leggings,0
-Breastplate,Fluted Leggings,Chain Leggings,0
-Breastplate,Hoplite Leggings,Fusskampf,0
-Hoplite Leggings,Breastplate,Chain Leggings,0
-Breastplate,Jazeraint Leggings,Poleyn,0
-Breastplate,Dread Leggings,Jambeau,0
-Segmentata,Sandals,Ring Mail,0
-Segmentata,Boots,Ring Mail,0
-Segmentata,Long Boots,Ring Mail,0
-Segmentata,Cuisse,Ring Mail,0
-Segmentata,Light Greave,Ring Mail,0
-Segmentata,Ring Leggings,Chain Mail,0
-Segmentata,Chain Leggings,Breastplate,0
-Segmentata,Fusskampf,Segmentata,0
-Segmentata,Poleyn,Plate Glove,0
-Segmentata,Jambeau,Fusskampf,0
-Segmentata,Missaglia,Fusskampf,0
-Segmentata,Plate Leggings,Fusskampf,0
-Segmentata,Fluted Leggings,Fusskampf,0
-Segmentata,Hoplite Leggings,Fusskampf,0
-Segmentata,Jazeraint Leggings,Fusskampf,0
-Segmentata,Dread Leggings,Poleyn,0
-Scale Armor,Sandals,Chain Mail,0
-Scale Armor,Boots,Chain Mail,0
-Scale Armor,Long Boots,Chain Mail,0
-Scale Armor,Cuisse,Chain Mail,0
-Scale Armor,Light Greave,Ring Mail,0
-Scale Armor,Ring Leggings,Chain Mail,0
-Scale Armor,Chain Leggings,Breastplate,0
-Scale Armor,Fusskampf,Segmentata,0
-Scale Armor,Poleyn,Scale Armor,0
-Scale Armor,Jambeau,Rondanche,0
-Scale Armor,Missaglia,Poleyn,0
-Scale Armor,Plate Leggings,Poleyn,0
-Scale Armor,Fluted Leggings,Poleyn,0
-Scale Armor,Hoplite Leggings,Poleyn,0
-Scale Armor,Jazeraint Leggings,Poleyn,0
-Scale Armor,Dread Leggings,Poleyn,0
-Brigandine,Sandals,Breastplate,0
-Brigandine,Boots,Breastplate,0
-Brigandine,Long Boots,Breastplate,0
-Brigandine,Cuisse,Breastplate,0
-Brigandine,Light Greave,Chain Mail,0
-Brigandine,Ring Leggings,Chain Mail,0
-Brigandine,Chain Leggings,Breastplate,0
-Brigandine,Fusskampf,Segmentata,0
-Brigandine,Poleyn,Scale Armor,0
-Brigandine,Jambeau,Brigandine,0
-Brigandine,Missaglia,Tilt Glove,0
-Brigandine,Plate Leggings,Jambeau,0
-Brigandine,Fluted Leggings,Jambeau,0
-Brigandine,Hoplite Leggings,Jambeau,0
-Brigandine,Jazeraint Leggings,Jambeau,0
-Brigandine,Dread Leggings,Jambeau,0
-Plate Mail,Sandals,Segmentata,0
-Plate Mail,Boots,Segmentata,0
-Plate Mail,Long Boots,Segmentata,0
-Plate Mail,Cuisse,Segmentata,0
-Plate Mail,Light Greave,Breastplate,0
-Plate Mail,Ring Leggings,Chain Mail,0
-Plate Mail,Chain Leggings,Breastplate,0
-Plate Mail,Fusskampf,Segmentata,0
-Plate Mail,Poleyn,Scale Armor,0
-Plate Mail,Jambeau,Brigandine,0
-Plate Mail,Missaglia,Plate Mail,0
-Plate Mail,Plate Leggings,Freiturnier,0
-Plate Mail,Fluted Leggings,Missaglia,0
-Plate Mail,Hoplite Leggings,Missaglia,0
-Plate Mail,Jazeraint Leggings,Missaglia,0
-Plate Mail,Dread Leggings,Missaglia,0
-Fluted Armor,Sandals,Scale Armor,0
-Fluted Armor,Boots,Scale Armor,0
-Fluted Armor,Long Boots,Scale Armor,0
-Fluted Armor,Cuisse,Scale Armor,0
-Fluted Armor,Light Greave,Segmentata,0
-Fluted Armor,Ring Leggings,Breastplate,0
-Fluted Armor,Chain Leggings,Breastplate,0
-Fluted Armor,Fusskampf,Segmentata,0
-Fluted Armor,Poleyn,Scale Armor,0
-Fluted Armor,Jambeau,Brigandine,0
-Fluted Armor,Missaglia,Plate Mail,0
-Fluted Armor,Plate Leggings,Fluted Armor,0
-Fluted Armor,Fluted Leggings,Fluted Glove,0
-Fluted Armor,Hoplite Leggings,Plate Leggings,0
-Fluted Armor,Jazeraint Leggings,Plate Leggings,0
-Fluted Armor,Dread Leggings,Plate Leggings,0
-Hoplite Armor,Sandals,Brigandine,0
-Hoplite Armor,Boots,Brigandine,0
-Hoplite Armor,Long Boots,Brigandine,0
-Hoplite Armor,Cuisse,Brigandine,0
-Hoplite Armor,Light Greave,Scale Armor,0
-Hoplite Armor,Ring Leggings,Segmentata,0
-Hoplite Armor,Chain Leggings,Breastplate,0
-Hoplite Armor,Fusskampf,Segmentata,0
-Hoplite Armor,Poleyn,Scale Armor,0
-Hoplite Armor,Jambeau,Brigandine,0
-Hoplite Armor,Missaglia,Plate Mail,0
-Hoplite Armor,Plate Leggings,Fluted Armor,0
-Hoplite Armor,Fluted Leggings,Hoplite Armor,0
-Hoplite Armor,Hoplite Leggings,Hoplite Glove,0
-Hoplite Armor,Jazeraint Leggings,Fluted Leggings,0
-Hoplite Armor,Dread Leggings,Fluted Leggings,0
-Jazeraint Armor,Sandals,Plate Mail,0
-Jazeraint Armor,Boots,Plate Mail,0
-Jazeraint Armor,Long Boots,Plate Mail,0
-Jazeraint Armor,Cuisse,Plate Mail,0
-Jazeraint Armor,Light Greave,Brigandine,0
-Jazeraint Armor,Ring Leggings,Scale Armor,0
-Jazeraint Armor,Chain Leggings,Segmentata,0
-Jazeraint Armor,Fusskampf,Segmentata,0
-Jazeraint Armor,Poleyn,Scale Armor,0
-Jazeraint Armor,Jambeau,Brigandine,0
-Jazeraint Armor,Missaglia,Plate Mail,0
-Jazeraint Armor,Plate Leggings,Fluted Armor,0
-Jazeraint Armor,Fluted Leggings,Hoplite Armor,0
-Jazeraint Armor,Hoplite Leggings,Jazeraint Armor,0
-Jazeraint Armor,Jazeraint Leggings,Jazeraint Glove,0
-Jazeraint Armor,Dread Leggings,Hoplite Leggings,0
-Dread Armor,Sandals,Fluted Armor,0
-Dread Armor,Boots,Fluted Armor,0
-Dread Armor,Long Boots,Fluted Armor,0
-Dread Armor,Cuisse,Fluted Armor,0
-Dread Armor,Light Greave,Plate Mail,0
-Dread Armor,Ring Leggings,Brigandine,0
-Dread Armor,Chain Leggings,Scale Armor,0
-Dread Armor,Fusskampf,Segmentata,0
-Dread Armor,Poleyn,Scale Armor,0
-Dread Armor,Jambeau,Brigandine,0
-Dread Armor,Missaglia,Plate Mail,0
-Dread Armor,Plate Leggings,Fluted Armor,0
-Dread Armor,Fluted Leggings,Hoplite Armor,0
-Dread Armor,Hoplite Leggings,Jazeraint Armor,0
-Dread Armor,Jazeraint Leggings,Dread Armor,0
-Dread Armor,Dread Leggings,Dread Glove,0
+slot1,slot2,result,tier_change,has_swap
+Jerkin,Sandals,Jerkin,0,False
+Jerkin,Boots,Boots,0,False
+Jerkin,Long Boots,Long Boots,0,False
+Jerkin,Cuisse,Cuisse,0,False
+Jerkin,Light Greave,Cuisse,0,False
+Jerkin,Ring Leggings,Cuisse,0,False
+Jerkin,Chain Leggings,Cuisse,0,False
+Jerkin,Fusskampf,Light Greave,0,False
+Jerkin,Poleyn,Ring Leggings,0,False
+Jerkin,Jambeau,Chain Leggings,0,False
+Jerkin,Missaglia,Fusskampf,0,False
+Jerkin,Plate Leggings,Poleyn,0,False
+Jerkin,Fluted Leggings,Jambeau,0,False
+Jerkin,Hoplite Leggings,Missaglia,0,False
+Jerkin,Jazeraint Leggings,Plate Leggings,0,False
+Jerkin,Dread Leggings,Fluted Leggings,0,False
+Hauberk,Sandals,Hauberk,0,False
+Hauberk,Boots,Boots,0,False
+Hauberk,Long Boots,Long Boots,0,False
+Hauberk,Cuisse,Cuisse,0,False
+Hauberk,Light Greave,Cuisse,0,False
+Hauberk,Ring Leggings,Cuisse,0,False
+Hauberk,Chain Leggings,Cuisse,0,False
+Hauberk,Fusskampf,Light Greave,0,False
+Hauberk,Poleyn,Ring Leggings,0,False
+Hauberk,Jambeau,Chain Leggings,0,False
+Hauberk,Missaglia,Fusskampf,0,False
+Hauberk,Plate Leggings,Poleyn,0,False
+Hauberk,Fluted Leggings,Jambeau,0,False
+Hauberk,Hoplite Leggings,Missaglia,0,False
+Hauberk,Jazeraint Leggings,Plate Leggings,0,False
+Hauberk,Dread Leggings,Fluted Leggings,0,False
+Wizard Robe,Sandals,Wizard Robe,0,False
+Wizard Robe,Boots,Wizard Robe,0,False
+Wizard Robe,Long Boots,Long Boots,0,False
+Wizard Robe,Cuisse,Cuisse,0,False
+Wizard Robe,Light Greave,Cuisse,0,False
+Wizard Robe,Ring Leggings,Cuisse,0,False
+Wizard Robe,Chain Leggings,Cuisse,0,False
+Wizard Robe,Fusskampf,Light Greave,0,False
+Wizard Robe,Poleyn,Ring Leggings,0,False
+Wizard Robe,Jambeau,Chain Leggings,0,False
+Wizard Robe,Missaglia,Fusskampf,0,False
+Wizard Robe,Plate Leggings,Poleyn,0,False
+Wizard Robe,Fluted Leggings,Jambeau,0,False
+Wizard Robe,Hoplite Leggings,Missaglia,0,False
+Wizard Robe,Jazeraint Leggings,Plate Leggings,0,False
+Wizard Robe,Dread Leggings,Fluted Leggings,0,False
+Cuirass,Sandals,Cuirass,0,False
+Cuirass,Boots,Cuirass,0,False
+Cuirass,Long Boots,Cuirass,0,False
+Cuirass,Cuisse,Knuckles,0,False
+Cuirass,Light Greave,Cuisse,0,False
+Cuirass,Ring Leggings,Cuisse,0,False
+Cuirass,Chain Leggings,Cuisse,0,False
+Cuirass,Fusskampf,Light Greave,0,False
+Cuirass,Poleyn,Ring Leggings,0,False
+Cuirass,Jambeau,Chain Leggings,0,False
+Cuirass,Missaglia,Fusskampf,0,False
+Cuirass,Plate Leggings,Poleyn,0,False
+Cuirass,Fluted Leggings,Jambeau,0,False
+Cuirass,Hoplite Leggings,Missaglia,0,False
+Cuirass,Jazeraint Leggings,Plate Leggings,0,False
+Cuirass,Dread Leggings,Fluted Leggings,0,False
+Banded Mail,Sandals,Banded Mail,0,False
+Banded Mail,Boots,Banded Mail,0,False
+Banded Mail,Long Boots,Banded Mail,0,False
+Banded Mail,Cuisse,Banded Mail,0,False
+Banded Mail,Light Greave,Ring Sleeve,0,False
+Banded Mail,Ring Leggings,Cuisse,0,False
+Banded Mail,Chain Leggings,Cuisse,0,False
+Banded Mail,Fusskampf,Light Greave,0,False
+Banded Mail,Poleyn,Ring Leggings,0,False
+Banded Mail,Jambeau,Chain Leggings,0,False
+Banded Mail,Missaglia,Fusskampf,0,False
+Banded Mail,Plate Leggings,Poleyn,0,False
+Banded Mail,Fluted Leggings,Jambeau,0,False
+Banded Mail,Hoplite Leggings,Missaglia,0,True
+Hoplite Leggings,Banded Mail,Jambeau,0,True
+Banded Mail,Jazeraint Leggings,Plate Leggings,0,False
+Banded Mail,Dread Leggings,Fluted Leggings,0,False
+Ring Mail,Sandals,Banded Mail,0,False
+Ring Mail,Boots,Banded Mail,0,False
+Ring Mail,Long Boots,Banded Mail,0,False
+Ring Mail,Cuisse,Banded Mail,0,False
+Ring Mail,Light Greave,Ring Mail,0,False
+Ring Mail,Ring Leggings,Chain Sleeve,0,False
+Ring Mail,Chain Leggings,Light Greave,0,False
+Ring Mail,Fusskampf,Light Greave,0,False
+Ring Mail,Poleyn,Light Greave,0,False
+Ring Mail,Jambeau,Ring Leggings,0,False
+Ring Mail,Missaglia,Chain Leggings,0,False
+Ring Mail,Plate Leggings,Fusskampf,0,False
+Ring Mail,Fluted Leggings,Poleyn,0,True
+Fluted Leggings,Ring Mail,Fusskampf,0,True
+Ring Mail,Hoplite Leggings,Jambeau,0,True
+Hoplite Leggings,Ring Mail,Poleyn,0,True
+Ring Mail,Jazeraint Leggings,Missaglia,0,False
+Ring Mail,Dread Leggings,Plate Leggings,0,False
+Chain Mail,Sandals,Banded Mail,0,False
+Chain Mail,Boots,Banded Mail,0,False
+Chain Mail,Long Boots,Banded Mail,0,False
+Chain Mail,Cuisse,Banded Mail,0,False
+Chain Mail,Light Greave,Ring Mail,0,False
+Chain Mail,Ring Leggings,Chain Mail,0,False
+Chain Mail,Chain Leggings,Gauntlet,0,False
+Chain Mail,Fusskampf,Ring Leggings,0,False
+Chain Mail,Poleyn,Ring Leggings,0,False
+Chain Mail,Jambeau,Ring Leggings,0,False
+Chain Mail,Missaglia,Ring Leggings,0,False
+Chain Mail,Plate Leggings,Chain Leggings,0,True
+Plate Leggings,Chain Mail,Ring Leggings,0,True
+Chain Mail,Fluted Leggings,Fusskampf,0,True
+Fluted Leggings,Chain Mail,Chain Leggings,0,True
+Chain Mail,Hoplite Leggings,Poleyn,0,True
+Hoplite Leggings,Chain Mail,Fusskampf,0,True
+Chain Mail,Jazeraint Leggings,Jambeau,0,False
+Chain Mail,Dread Leggings,Missaglia,0,False
+Breastplate,Sandals,Banded Mail,0,False
+Breastplate,Boots,Banded Mail,0,False
+Breastplate,Long Boots,Banded Mail,0,False
+Breastplate,Cuisse,Banded Mail,0,False
+Breastplate,Light Greave,Ring Mail,0,False
+Breastplate,Ring Leggings,Chain Mail,0,False
+Breastplate,Chain Leggings,Breastplate,0,False
+Breastplate,Fusskampf,Vambrace,0,False
+Breastplate,Poleyn,Chain Leggings,0,False
+Breastplate,Jambeau,Chain Leggings,0,False
+Breastplate,Missaglia,Chain Leggings,0,False
+Breastplate,Plate Leggings,Chain Leggings,0,False
+Breastplate,Fluted Leggings,Chain Leggings,0,False
+Breastplate,Hoplite Leggings,Fusskampf,0,True
+Hoplite Leggings,Breastplate,Chain Leggings,0,True
+Breastplate,Jazeraint Leggings,Poleyn,0,False
+Breastplate,Dread Leggings,Jambeau,0,False
+Segmentata,Sandals,Ring Mail,0,False
+Segmentata,Boots,Ring Mail,0,False
+Segmentata,Long Boots,Ring Mail,0,False
+Segmentata,Cuisse,Ring Mail,0,False
+Segmentata,Light Greave,Ring Mail,0,False
+Segmentata,Ring Leggings,Chain Mail,0,False
+Segmentata,Chain Leggings,Breastplate,0,False
+Segmentata,Fusskampf,Segmentata,0,False
+Segmentata,Poleyn,Plate Glove,0,False
+Segmentata,Jambeau,Fusskampf,0,False
+Segmentata,Missaglia,Fusskampf,0,False
+Segmentata,Plate Leggings,Fusskampf,0,False
+Segmentata,Fluted Leggings,Fusskampf,0,False
+Segmentata,Hoplite Leggings,Fusskampf,0,False
+Segmentata,Jazeraint Leggings,Fusskampf,0,False
+Segmentata,Dread Leggings,Poleyn,0,False
+Scale Armor,Sandals,Chain Mail,0,False
+Scale Armor,Boots,Chain Mail,0,False
+Scale Armor,Long Boots,Chain Mail,0,False
+Scale Armor,Cuisse,Chain Mail,0,False
+Scale Armor,Light Greave,Ring Mail,0,False
+Scale Armor,Ring Leggings,Chain Mail,0,False
+Scale Armor,Chain Leggings,Breastplate,0,False
+Scale Armor,Fusskampf,Segmentata,0,False
+Scale Armor,Poleyn,Scale Armor,0,False
+Scale Armor,Jambeau,Rondanche,0,False
+Scale Armor,Missaglia,Poleyn,0,False
+Scale Armor,Plate Leggings,Poleyn,0,False
+Scale Armor,Fluted Leggings,Poleyn,0,False
+Scale Armor,Hoplite Leggings,Poleyn,0,False
+Scale Armor,Jazeraint Leggings,Poleyn,0,False
+Scale Armor,Dread Leggings,Poleyn,0,False
+Brigandine,Sandals,Breastplate,0,False
+Brigandine,Boots,Breastplate,0,False
+Brigandine,Long Boots,Breastplate,0,False
+Brigandine,Cuisse,Breastplate,0,False
+Brigandine,Light Greave,Chain Mail,0,False
+Brigandine,Ring Leggings,Chain Mail,0,False
+Brigandine,Chain Leggings,Breastplate,0,False
+Brigandine,Fusskampf,Segmentata,0,False
+Brigandine,Poleyn,Scale Armor,0,False
+Brigandine,Jambeau,Brigandine,0,False
+Brigandine,Missaglia,Tilt Glove,0,False
+Brigandine,Plate Leggings,Jambeau,0,False
+Brigandine,Fluted Leggings,Jambeau,0,False
+Brigandine,Hoplite Leggings,Jambeau,0,False
+Brigandine,Jazeraint Leggings,Jambeau,0,False
+Brigandine,Dread Leggings,Jambeau,0,False
+Plate Mail,Sandals,Segmentata,0,False
+Plate Mail,Boots,Segmentata,0,False
+Plate Mail,Long Boots,Segmentata,0,False
+Plate Mail,Cuisse,Segmentata,0,False
+Plate Mail,Light Greave,Breastplate,0,False
+Plate Mail,Ring Leggings,Chain Mail,0,False
+Plate Mail,Chain Leggings,Breastplate,0,False
+Plate Mail,Fusskampf,Segmentata,0,False
+Plate Mail,Poleyn,Scale Armor,0,False
+Plate Mail,Jambeau,Brigandine,0,False
+Plate Mail,Missaglia,Plate Mail,0,False
+Plate Mail,Plate Leggings,Freiturnier,0,False
+Plate Mail,Fluted Leggings,Missaglia,0,False
+Plate Mail,Hoplite Leggings,Missaglia,0,False
+Plate Mail,Jazeraint Leggings,Missaglia,0,False
+Plate Mail,Dread Leggings,Missaglia,0,False
+Fluted Armor,Sandals,Scale Armor,0,False
+Fluted Armor,Boots,Scale Armor,0,False
+Fluted Armor,Long Boots,Scale Armor,0,False
+Fluted Armor,Cuisse,Scale Armor,0,False
+Fluted Armor,Light Greave,Segmentata,0,False
+Fluted Armor,Ring Leggings,Breastplate,0,False
+Fluted Armor,Chain Leggings,Breastplate,0,False
+Fluted Armor,Fusskampf,Segmentata,0,False
+Fluted Armor,Poleyn,Scale Armor,0,False
+Fluted Armor,Jambeau,Brigandine,0,False
+Fluted Armor,Missaglia,Plate Mail,0,False
+Fluted Armor,Plate Leggings,Fluted Armor,0,False
+Fluted Armor,Fluted Leggings,Fluted Glove,0,False
+Fluted Armor,Hoplite Leggings,Plate Leggings,0,False
+Fluted Armor,Jazeraint Leggings,Plate Leggings,0,False
+Fluted Armor,Dread Leggings,Plate Leggings,0,False
+Hoplite Armor,Sandals,Brigandine,0,False
+Hoplite Armor,Boots,Brigandine,0,False
+Hoplite Armor,Long Boots,Brigandine,0,False
+Hoplite Armor,Cuisse,Brigandine,0,False
+Hoplite Armor,Light Greave,Scale Armor,0,False
+Hoplite Armor,Ring Leggings,Segmentata,0,False
+Hoplite Armor,Chain Leggings,Breastplate,0,False
+Hoplite Armor,Fusskampf,Segmentata,0,False
+Hoplite Armor,Poleyn,Scale Armor,0,False
+Hoplite Armor,Jambeau,Brigandine,0,False
+Hoplite Armor,Missaglia,Plate Mail,0,False
+Hoplite Armor,Plate Leggings,Fluted Armor,0,False
+Hoplite Armor,Fluted Leggings,Hoplite Armor,0,False
+Hoplite Armor,Hoplite Leggings,Hoplite Glove,0,False
+Hoplite Armor,Jazeraint Leggings,Fluted Leggings,0,False
+Hoplite Armor,Dread Leggings,Fluted Leggings,0,False
+Jazeraint Armor,Sandals,Plate Mail,0,False
+Jazeraint Armor,Boots,Plate Mail,0,False
+Jazeraint Armor,Long Boots,Plate Mail,0,False
+Jazeraint Armor,Cuisse,Plate Mail,0,False
+Jazeraint Armor,Light Greave,Brigandine,0,False
+Jazeraint Armor,Ring Leggings,Scale Armor,0,False
+Jazeraint Armor,Chain Leggings,Segmentata,0,False
+Jazeraint Armor,Fusskampf,Segmentata,0,False
+Jazeraint Armor,Poleyn,Scale Armor,0,False
+Jazeraint Armor,Jambeau,Brigandine,0,False
+Jazeraint Armor,Missaglia,Plate Mail,0,False
+Jazeraint Armor,Plate Leggings,Fluted Armor,0,False
+Jazeraint Armor,Fluted Leggings,Hoplite Armor,0,False
+Jazeraint Armor,Hoplite Leggings,Jazeraint Armor,0,False
+Jazeraint Armor,Jazeraint Leggings,Jazeraint Glove,0,False
+Jazeraint Armor,Dread Leggings,Hoplite Leggings,0,False
+Dread Armor,Sandals,Fluted Armor,0,False
+Dread Armor,Boots,Fluted Armor,0,False
+Dread Armor,Long Boots,Fluted Armor,0,False
+Dread Armor,Cuisse,Fluted Armor,0,False
+Dread Armor,Light Greave,Plate Mail,0,False
+Dread Armor,Ring Leggings,Brigandine,0,False
+Dread Armor,Chain Leggings,Scale Armor,0,False
+Dread Armor,Fusskampf,Segmentata,0,False
+Dread Armor,Poleyn,Scale Armor,0,False
+Dread Armor,Jambeau,Brigandine,0,False
+Dread Armor,Missaglia,Plate Mail,0,False
+Dread Armor,Plate Leggings,Fluted Armor,0,False
+Dread Armor,Fluted Leggings,Hoplite Armor,0,False
+Dread Armor,Hoplite Leggings,Jazeraint Armor,0,False
+Dread Armor,Jazeraint Leggings,Dread Armor,0,False
+Dread Armor,Dread Leggings,Dread Glove,0,False

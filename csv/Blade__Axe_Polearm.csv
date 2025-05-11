@@ -1,118 +1,118 @@
-slot1,slot2,result,tier_change
-Hand Axe,Spear,Spear,0
-Hand Axe,Glaive,Spear,0
-Hand Axe,Scorpion,Spear,0
-Hand Axe,Corcesca,Spear,0
-Hand Axe,Trident,Spear,0
-Trident,Hand Axe,Glaive,0
-Hand Axe,Awl Pike,Spear,0
-Awl Pike,Hand Axe,Scorpion,0
-Hand Axe,Boar Spear,Spear,0
-Boar Spear,Hand Axe,Corcesca,0
-Hand Axe,Fauchard,Spear,0
-Fauchard,Hand Axe,Trident,0
-Hand Axe,Voulge,Spear,0
-Voulge,Hand Axe,Awl Pike,0
-Hand Axe,Pole Axe,Spear,0
-Pole Axe,Hand Axe,Boar Spear,0
-Hand Axe,Bardysh,Spear,0
-Bardysh,Hand Axe,Fauchard,0
-Hand Axe,Brandestoc,Spear,0
-Brandestoc,Hand Axe,Voulge,0
-Battle Axe,Spear,Battle Knife,0
-Battle Axe,Glaive,Gastraph Bow,0
-Battle Axe,Scorpion,Spatha,0
-Battle Axe,Corcesca,Glaive,0
-Battle Axe,Trident,Glaive,0
-Battle Axe,Awl Pike,Glaive,0
-Battle Axe,Boar Spear,Glaive,0
-Boar Spear,Battle Axe,Scorpion,0
-Battle Axe,Fauchard,Glaive,0
-Fauchard,Battle Axe,Corcesca,0
-Battle Axe,Voulge,Glaive,0
-Voulge,Battle Axe,Trident,0
-Battle Axe,Pole Axe,Glaive,0
-Pole Axe,Battle Axe,Awl Pike,0
-Battle Axe,Bardysh,Glaive,0
-Bardysh,Battle Axe,Boar Spear,0
-Battle Axe,Brandestoc,Glaive,0
-Brandestoc,Battle Axe,Fauchard,0
-Francisca,Spear,Hand Axe,0
-Francisca,Glaive,Hand Axe,0
-Francisca,Scorpion,Scramasax,0
-Francisca,Corcesca,Light Crossbow,0
-Francisca,Trident,Scimitar,0
-Francisca,Awl Pike,Scorpion,0
-Francisca,Boar Spear,Scorpion,0
-Francisca,Fauchard,Scorpion,0
-Francisca,Voulge,Scorpion,0
-Voulge,Francisca,Corcesca,0
-Francisca,Pole Axe,Scorpion,0
-Pole Axe,Francisca,Trident,0
-Francisca,Bardysh,Scorpion,0
-Bardysh,Francisca,Awl Pike,0
-Francisca,Brandestoc,Scorpion,0
-Brandestoc,Francisca,Boar Spear,0
-Tabarzin,Spear,Battle Axe,0
-Tabarzin,Glaive,Battle Axe,0
-Tabarzin,Scorpion,Battle Axe,0
-Tabarzin,Corcesca,Battle Axe,0
-Tabarzin,Trident,Dirk,0
-Tabarzin,Awl Pike,Target Bow,0
-Tabarzin,Boar Spear,Rapier,0
-Tabarzin,Fauchard,Corcesca,0
-Tabarzin,Voulge,Corcesca,0
-Tabarzin,Pole Axe,Corcesca,0
-Pole Axe,Tabarzin,Trident,0
-Tabarzin,Bardysh,Corcesca,0
-Bardysh,Tabarzin,Trident,0
-Tabarzin,Brandestoc,Corcesca,0
-Brandestoc,Tabarzin,Awl Pike,0
-Chamkaq,Spear,Francisca,0
-Chamkaq,Glaive,Francisca,0
-Chamkaq,Scorpion,Battle Axe,0
-Chamkaq,Corcesca,Battle Axe,0
-Chamkaq,Trident,Francisca,0
-Chamkaq,Awl Pike,Francisca,0
-Chamkaq,Boar Spear,Throwing Knife,0
-Chamkaq,Fauchard,Windlass,0
-Chamkaq,Voulge,Short Sword,0
-Chamkaq,Pole Axe,Trident,0
-Chamkaq,Bardysh,Trident,0
-Chamkaq,Brandestoc,Trident,0
-Tabar,Spear,Tabarzin,0
-Tabar,Glaive,Tabarzin,0
-Tabar,Scorpion,Francisca,0
-Tabar,Corcesca,Francisca,0
-Tabar,Trident,Francisca,0
-Tabar,Awl Pike,Francisca,0
-Tabar,Boar Spear,Tabarzin,0
-Tabar,Fauchard,Tabarzin,0
-Tabar,Voulge,Kudi,0
-Tabar,Pole Axe,Cranequin,0
-Tabar,Bardysh,Firangi,0
-Tabar,Brandestoc,Awl Pike,0
-Bullova,Spear,Chamkaq,0
-Bullova,Glaive,Chamkaq,0
-Bullova,Scorpion,Tabarzin,0
-Bullova,Corcesca,Tabarzin,0
-Bullova,Trident,Francisca,0
-Bullova,Awl Pike,Francisca,0
-Bullova,Boar Spear,Tabarzin,0
-Bullova,Fauchard,Tabarzin,0
-Bullova,Voulge,Chamkaq,0
-Bullova,Pole Axe,Chamkaq,0
-Bullova,Bardysh,Cinquedea,0
-Bullova,Brandestoc,Lug Crossbow,0
-Crescent,Spear,Tabar,0
-Crescent,Glaive,Chamkaq,0
-Crescent,Scorpion,Chamkaq,0
-Crescent,Corcesca,Tabarzin,0
-Crescent,Trident,Tabarzin,0
-Crescent,Awl Pike,Francisca,0
-Crescent,Boar Spear,Tabarzin,0
-Crescent,Fauchard,Tabarzin,0
-Crescent,Voulge,Chamkaq,0
-Crescent,Pole Axe,Chamkaq,0
-Crescent,Bardysh,Tabar,0
-Crescent,Brandestoc,Tabar,0
+slot1,slot2,result,tier_change,has_swap
+Hand Axe,Spear,Spear,0,False
+Hand Axe,Glaive,Spear,0,False
+Hand Axe,Scorpion,Spear,0,False
+Hand Axe,Corcesca,Spear,0,False
+Hand Axe,Trident,Spear,0,True
+Trident,Hand Axe,Glaive,0,True
+Hand Axe,Awl Pike,Spear,0,True
+Awl Pike,Hand Axe,Scorpion,0,True
+Hand Axe,Boar Spear,Spear,0,True
+Boar Spear,Hand Axe,Corcesca,0,True
+Hand Axe,Fauchard,Spear,0,True
+Fauchard,Hand Axe,Trident,0,True
+Hand Axe,Voulge,Spear,0,True
+Voulge,Hand Axe,Awl Pike,0,True
+Hand Axe,Pole Axe,Spear,0,True
+Pole Axe,Hand Axe,Boar Spear,0,True
+Hand Axe,Bardysh,Spear,0,True
+Bardysh,Hand Axe,Fauchard,0,True
+Hand Axe,Brandestoc,Spear,0,True
+Brandestoc,Hand Axe,Voulge,0,True
+Battle Axe,Spear,Battle Knife,0,False
+Battle Axe,Glaive,Gastraph Bow,0,False
+Battle Axe,Scorpion,Spatha,0,False
+Battle Axe,Corcesca,Glaive,0,False
+Battle Axe,Trident,Glaive,0,False
+Battle Axe,Awl Pike,Glaive,0,False
+Battle Axe,Boar Spear,Glaive,0,True
+Boar Spear,Battle Axe,Scorpion,0,True
+Battle Axe,Fauchard,Glaive,0,True
+Fauchard,Battle Axe,Corcesca,0,True
+Battle Axe,Voulge,Glaive,0,True
+Voulge,Battle Axe,Trident,0,True
+Battle Axe,Pole Axe,Glaive,0,True
+Pole Axe,Battle Axe,Awl Pike,0,True
+Battle Axe,Bardysh,Glaive,0,True
+Bardysh,Battle Axe,Boar Spear,0,True
+Battle Axe,Brandestoc,Glaive,0,True
+Brandestoc,Battle Axe,Fauchard,0,True
+Francisca,Spear,Hand Axe,0,False
+Francisca,Glaive,Hand Axe,0,False
+Francisca,Scorpion,Scramasax,0,False
+Francisca,Corcesca,Light Crossbow,0,False
+Francisca,Trident,Scimitar,0,False
+Francisca,Awl Pike,Scorpion,0,False
+Francisca,Boar Spear,Scorpion,0,False
+Francisca,Fauchard,Scorpion,0,False
+Francisca,Voulge,Scorpion,0,True
+Voulge,Francisca,Corcesca,0,True
+Francisca,Pole Axe,Scorpion,0,True
+Pole Axe,Francisca,Trident,0,True
+Francisca,Bardysh,Scorpion,0,True
+Bardysh,Francisca,Awl Pike,0,True
+Francisca,Brandestoc,Scorpion,0,True
+Brandestoc,Francisca,Boar Spear,0,True
+Tabarzin,Spear,Battle Axe,0,False
+Tabarzin,Glaive,Battle Axe,0,False
+Tabarzin,Scorpion,Battle Axe,0,False
+Tabarzin,Corcesca,Battle Axe,0,False
+Tabarzin,Trident,Dirk,0,False
+Tabarzin,Awl Pike,Target Bow,0,False
+Tabarzin,Boar Spear,Rapier,0,False
+Tabarzin,Fauchard,Corcesca,0,False
+Tabarzin,Voulge,Corcesca,0,False
+Tabarzin,Pole Axe,Corcesca,0,True
+Pole Axe,Tabarzin,Trident,0,True
+Tabarzin,Bardysh,Corcesca,0,True
+Bardysh,Tabarzin,Trident,0,True
+Tabarzin,Brandestoc,Corcesca,0,True
+Brandestoc,Tabarzin,Awl Pike,0,True
+Chamkaq,Spear,Francisca,0,False
+Chamkaq,Glaive,Francisca,0,False
+Chamkaq,Scorpion,Battle Axe,0,False
+Chamkaq,Corcesca,Battle Axe,0,False
+Chamkaq,Trident,Francisca,0,False
+Chamkaq,Awl Pike,Francisca,0,False
+Chamkaq,Boar Spear,Throwing Knife,0,False
+Chamkaq,Fauchard,Windlass,0,False
+Chamkaq,Voulge,Short Sword,0,False
+Chamkaq,Pole Axe,Trident,0,False
+Chamkaq,Bardysh,Trident,0,False
+Chamkaq,Brandestoc,Trident,0,False
+Tabar,Spear,Tabarzin,0,False
+Tabar,Glaive,Tabarzin,0,False
+Tabar,Scorpion,Francisca,0,False
+Tabar,Corcesca,Francisca,0,False
+Tabar,Trident,Francisca,0,False
+Tabar,Awl Pike,Francisca,0,False
+Tabar,Boar Spear,Tabarzin,0,False
+Tabar,Fauchard,Tabarzin,0,False
+Tabar,Voulge,Kudi,0,False
+Tabar,Pole Axe,Cranequin,0,False
+Tabar,Bardysh,Firangi,0,False
+Tabar,Brandestoc,Awl Pike,0,False
+Bullova,Spear,Chamkaq,0,False
+Bullova,Glaive,Chamkaq,0,False
+Bullova,Scorpion,Tabarzin,0,False
+Bullova,Corcesca,Tabarzin,0,False
+Bullova,Trident,Francisca,0,False
+Bullova,Awl Pike,Francisca,0,False
+Bullova,Boar Spear,Tabarzin,0,False
+Bullova,Fauchard,Tabarzin,0,False
+Bullova,Voulge,Chamkaq,0,False
+Bullova,Pole Axe,Chamkaq,0,False
+Bullova,Bardysh,Cinquedea,0,False
+Bullova,Brandestoc,Lug Crossbow,0,False
+Crescent,Spear,Tabar,0,False
+Crescent,Glaive,Chamkaq,0,False
+Crescent,Scorpion,Chamkaq,0,False
+Crescent,Corcesca,Tabarzin,0,False
+Crescent,Trident,Tabarzin,0,False
+Crescent,Awl Pike,Francisca,0,False
+Crescent,Boar Spear,Tabarzin,0,False
+Crescent,Fauchard,Tabarzin,0,False
+Crescent,Voulge,Chamkaq,0,False
+Crescent,Pole Axe,Chamkaq,0,False
+Crescent,Bardysh,Tabar,0,False
+Crescent,Brandestoc,Tabar,0,False

@@ -1,37 +1,37 @@
-slot1,slot2,result,tier_change
-Gastraph Bow,Gastraph Bow,Gastraph Bow,0
-Gastraph Bow,Light Crossbow,Gastraph Bow,0
-Gastraph Bow,Target Bow,Light Crossbow,0
-Gastraph Bow,Windlass,Gastraph Bow,0
-Gastraph Bow,Cranequin,Light Crossbow,0
-Gastraph Bow,Lug Crossbow,Target Bow,0
-Gastraph Bow,Siege Bow,Windlass,0
-Gastraph Bow,Arbalest,Cranequin,0
-Light Crossbow,Light Crossbow,Light Crossbow,0
-Light Crossbow,Target Bow,Windlass,1
-Light Crossbow,Windlass,Gastraph Bow,-1
-Light Crossbow,Cranequin,Light Crossbow,0
-Light Crossbow,Lug Crossbow,Light Crossbow,0
-Light Crossbow,Siege Bow,Target Bow,0
-Light Crossbow,Arbalest,Windlass,0
-Target Bow,Target Bow,Target Bow,0
-Target Bow,Windlass,Cranequin,1
-Target Bow,Cranequin,Target Bow,0
-Target Bow,Lug Crossbow,Windlass,0
-Target Bow,Siege Bow,Light Crossbow,-1
-Target Bow,Arbalest,Target Bow,0
-Windlass,Windlass,Windlass,0
-Windlass,Cranequin,Lug Crossbow,1
-Windlass,Lug Crossbow,Light Crossbow,-1
-Windlass,Siege Bow,Cranequin,0
-Windlass,Arbalest,Light Crossbow,-1
-Cranequin,Cranequin,Cranequin,0
-Cranequin,Lug Crossbow,Cranequin,0
-Cranequin,Siege Bow,Target Bow,-1
-Cranequin,Arbalest,Windlass,-1
-Lug Crossbow,Lug Crossbow,Siege Bow,1
-Lug Crossbow,Siege Bow,Gastraph Bow,-1
-Lug Crossbow,Arbalest,Lug Crossbow,0
-Siege Bow,Siege Bow,Arbalest,1
-Siege Bow,Arbalest,Target Bow,-1
-Arbalest,Arbalest,Arbalest,0
+slot1,slot2,result,tier_change,has_swap
+Gastraph Bow,Gastraph Bow,Gastraph Bow,0,False
+Gastraph Bow,Light Crossbow,Gastraph Bow,0,False
+Gastraph Bow,Target Bow,Light Crossbow,0,False
+Gastraph Bow,Windlass,Gastraph Bow,0,False
+Gastraph Bow,Cranequin,Light Crossbow,0,False
+Gastraph Bow,Lug Crossbow,Target Bow,0,False
+Gastraph Bow,Siege Bow,Windlass,0,False
+Gastraph Bow,Arbalest,Cranequin,0,False
+Light Crossbow,Light Crossbow,Light Crossbow,0,False
+Light Crossbow,Target Bow,Windlass,1,False
+Light Crossbow,Windlass,Gastraph Bow,-1,False
+Light Crossbow,Cranequin,Light Crossbow,0,False
+Light Crossbow,Lug Crossbow,Light Crossbow,0,False
+Light Crossbow,Siege Bow,Target Bow,0,False
+Light Crossbow,Arbalest,Windlass,0,False
+Target Bow,Target Bow,Target Bow,0,False
+Target Bow,Windlass,Cranequin,1,False
+Target Bow,Cranequin,Target Bow,0,False
+Target Bow,Lug Crossbow,Windlass,0,False
+Target Bow,Siege Bow,Light Crossbow,-1,False
+Target Bow,Arbalest,Target Bow,0,False
+Windlass,Windlass,Windlass,0,False
+Windlass,Cranequin,Lug Crossbow,1,False
+Windlass,Lug Crossbow,Light Crossbow,-1,False
+Windlass,Siege Bow,Cranequin,0,False
+Windlass,Arbalest,Light Crossbow,-1,False
+Cranequin,Cranequin,Cranequin,0,False
+Cranequin,Lug Crossbow,Cranequin,0,False
+Cranequin,Siege Bow,Target Bow,-1,False
+Cranequin,Arbalest,Windlass,-1,False
+Lug Crossbow,Lug Crossbow,Siege Bow,1,False
+Lug Crossbow,Siege Bow,Gastraph Bow,-1,False
+Lug Crossbow,Arbalest,Lug Crossbow,0,False
+Siege Bow,Siege Bow,Arbalest,1,False
+Siege Bow,Arbalest,Target Bow,-1,False
+Arbalest,Arbalest,Arbalest,0,False

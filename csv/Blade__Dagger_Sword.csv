@@ -1,144 +1,144 @@
-slot1,slot2,result,tier_change
-Battle Knife,Spatha,Spatha,0
-Battle Knife,Scimitar,Spatha,0
-Battle Knife,Rapier,Spatha,0
-Battle Knife,Short Sword,Spatha,0
-Battle Knife,Firangi,Spatha,0
-Battle Knife,Shamshir,Scimitar,0
-Battle Knife,Falchion,Rapier,0
-Battle Knife,Shotel,Short Sword,0
-Battle Knife,Khora,Firangi,0
-Battle Knife,Khopesh,Shamshir,0
-Battle Knife,Wakizashi,Falchion,0
-Battle Knife,Rhomphaia,Battle Knife,0
-Scramasax,Spatha,Battle Knife,0
-Scramasax,Scimitar,Scimitar,0
-Scramasax,Rapier,Scimitar,0
-Scramasax,Short Sword,Scimitar,0
-Scramasax,Firangi,Scimitar,0
-Scramasax,Shamshir,Scimitar,0
-Scramasax,Falchion,Scimitar,0
-Scramasax,Shotel,Rapier,0
-Scramasax,Khora,Short Sword,0
-Scramasax,Khopesh,Firangi,0
-Scramasax,Wakizashi,Shamshir,0
-Scramasax,Rhomphaia,Scramasax,0
-Dirk,Spatha,Battle Knife,0
-Dirk,Scimitar,Scramasax,0
-Dirk,Rapier,Broad Sword,0
-Dirk,Short Sword,Rapier,0
-Dirk,Firangi,Rapier,0
-Dirk,Shamshir,Rapier,0
-Dirk,Falchion,Rapier,0
-Dirk,Shotel,Rapier,0
-Dirk,Khora,Rapier,0
-Dirk,Khopesh,Short Sword,0
-Dirk,Wakizashi,Firangi,0
-Dirk,Rhomphaia,Dirk,0
-Throwing Knife,Spatha,Battle Knife,0
-Throwing Knife,Scimitar,Scramasax,0
-Throwing Knife,Rapier,Dirk,0
-Throwing Knife,Short Sword,Norse Sword,0
-Throwing Knife,Firangi,Goblin Club,0
-Throwing Knife,Shamshir,Short Sword,0
-Throwing Knife,Falchion,Short Sword,0
-Throwing Knife,Shotel,Short Sword,0
-Throwing Knife,Khora,Short Sword,0
-Throwing Knife,Khopesh,Short Sword,0
-Throwing Knife,Wakizashi,Short Sword,0
-Throwing Knife,Rhomphaia,Throwing Knife,0
-Kudi,Spatha,Scramasax,0
-Kudi,Scimitar,Scramasax,0
-Kudi,Rapier,Dirk,0
-Kudi,Short Sword,Throwing Knife,0
-Kudi,Firangi,Katana,0
-Kudi,Shamshir,Spiked Club,0
-Kudi,Falchion,Firangi,0
-Kudi,Shotel,Firangi,0
-Kudi,Khora,Firangi,0
-Kudi,Khopesh,Firangi,0
-Kudi,Wakizashi,Firangi,0
-Kudi,Rhomphaia,Kudi,0
-Cinquedea,Spatha,Dirk,0
-Cinquedea,Scimitar,Scramasax,0
-Cinquedea,Rapier,Dirk,0
-Cinquedea,Short Sword,Throwing Knife,0
-Cinquedea,Firangi,Hand Axe,0
-Cinquedea,Shamshir,Executioner,0
-Cinquedea,Falchion,Ball Mace,0
-Cinquedea,Shotel,Shamshir,0
-Cinquedea,Khora,Shamshir,0
-Cinquedea,Khopesh,Shamshir,0
-Cinquedea,Wakizashi,Shamshir,0
-Cinquedea,Rhomphaia,Cinquedea,0
-Kris,Spatha,Throwing Knife,0
-Kris,Scimitar,Dirk,0
-Kris,Rapier,Dirk,0
-Kris,Short Sword,Throwing Knife,0
-Kris,Firangi,Kudi,0
-Kris,Shamshir,Battle Axe,0
-Kris,Falchion,Claymore,0
-Kris,Khora,Falchion,0
-Kris,Khopesh,Falchion,0
-Kris,Wakizashi,Falchion,0
-Kris,Rhomphaia,Kris,0
-Hatchet,Spatha,Kudi,0
-Hatchet,Scimitar,Throwing Knife,0
-Hatchet,Rapier,Dirk,0
-Hatchet,Short Sword,Throwing Knife,0
-Hatchet,Firangi,Kudi,0
-Hatchet,Shamshir,Cinquedea,0
-Hatchet,Falchion,Francisca,0
-Hatchet,Shotel,Schiavona,0
-Hatchet,Khora,Morning Star,0
-Hatchet,Khopesh,Shotel,0
-Hatchet,Wakizashi,Shotel,0
-Hatchet,Rhomphaia,Hatchet,0
-Khukuri,Spatha,Cinquedea,0
-Khukuri,Scimitar,Kudi,0
-Khukuri,Rapier,Throwing Knife,0
-Khukuri,Short Sword,Throwing Knife,0
-Khukuri,Firangi,Kudi,0
-Khukuri,Shamshir,Cinquedea,0
-Khukuri,Falchion,Kris,0
-Khukuri,Shotel,Tabarzin,0
-Khukuri,Khora,Bastard Sword,0
-Khukuri,Khopesh,War Hammer,0
-Khukuri,Wakizashi,Khora,0
-Khukuri,Rhomphaia,Khukuri,0
-Baselard,Spatha,Kris,0
-Baselard,Scimitar,Cinquedea,0
-Baselard,Rapier,Kudi,0
-Baselard,Short Sword,Throwing Knife,0
-Baselard,Firangi,Kudi,0
-Baselard,Shamshir,Cinquedea,0
-Baselard,Falchion,Kris,0
-Baselard,Shotel,Hatchet,0
-Baselard,Khora,Chamkaq,0
-Baselard,Khopesh,Nodachi,0
-Baselard,Wakizashi,Bec de Corbin,0
-Baselard,Rhomphaia,Baselard,0
-Stiletto,Spatha,Hatchet,0
-Stiletto,Scimitar,Kris,0
-Stiletto,Rapier,Cinquedea,0
-Stiletto,Short Sword,Kudi,0
-Stiletto,Firangi,Kudi,0
-Stiletto,Shamshir,Cinquedea,0
-Stiletto,Falchion,Kris,0
-Stiletto,Shotel,Hatchet,0
-Stiletto,Khora,Khukuri,0
-Stiletto,Khopesh,Tabar,0
-Stiletto,Wakizashi,Rune Blade,0
-Stiletto,Rhomphaia,Stiletto,0
-Jamadhar,Spatha,Khukuri,0
-Jamadhar,Scimitar,Hatchet,0
-Jamadhar,Rapier,Kris,0
-Jamadhar,Short Sword,Cinquedea,0
-Jamadhar,Firangi,Kudi,0
-Jamadhar,Shamshir,Cinquedea,0
-Jamadhar,Falchion,Kris,0
-Jamadhar,Shotel,Hatchet,0
-Jamadhar,Khora,Khukuri,0
-Jamadhar,Khopesh,Baselard,0
-Jamadhar,Wakizashi,Bullova,0
-Jamadhar,Rhomphaia,Jamadhar,0
+slot1,slot2,result,tier_change,has_swap
+Battle Knife,Spatha,Spatha,0,False
+Battle Knife,Scimitar,Spatha,0,False
+Battle Knife,Rapier,Spatha,0,False
+Battle Knife,Short Sword,Spatha,0,False
+Battle Knife,Firangi,Spatha,0,False
+Battle Knife,Shamshir,Scimitar,0,False
+Battle Knife,Falchion,Rapier,0,False
+Battle Knife,Shotel,Short Sword,0,False
+Battle Knife,Khora,Firangi,0,False
+Battle Knife,Khopesh,Shamshir,0,False
+Battle Knife,Wakizashi,Falchion,0,False
+Battle Knife,Rhomphaia,Battle Knife,0,False
+Scramasax,Spatha,Battle Knife,0,False
+Scramasax,Scimitar,Scimitar,0,False
+Scramasax,Rapier,Scimitar,0,False
+Scramasax,Short Sword,Scimitar,0,False
+Scramasax,Firangi,Scimitar,0,False
+Scramasax,Shamshir,Scimitar,0,False
+Scramasax,Falchion,Scimitar,0,False
+Scramasax,Shotel,Rapier,0,False
+Scramasax,Khora,Short Sword,0,False
+Scramasax,Khopesh,Firangi,0,False
+Scramasax,Wakizashi,Shamshir,0,False
+Scramasax,Rhomphaia,Scramasax,0,False
+Dirk,Spatha,Battle Knife,0,False
+Dirk,Scimitar,Scramasax,0,False
+Dirk,Rapier,Broad Sword,0,False
+Dirk,Short Sword,Rapier,0,False
+Dirk,Firangi,Rapier,0,False
+Dirk,Shamshir,Rapier,0,False
+Dirk,Falchion,Rapier,0,False
+Dirk,Shotel,Rapier,0,False
+Dirk,Khora,Rapier,0,False
+Dirk,Khopesh,Short Sword,0,False
+Dirk,Wakizashi,Firangi,0,False
+Dirk,Rhomphaia,Dirk,0,False
+Throwing Knife,Spatha,Battle Knife,0,False
+Throwing Knife,Scimitar,Scramasax,0,False
+Throwing Knife,Rapier,Dirk,0,False
+Throwing Knife,Short Sword,Norse Sword,0,False
+Throwing Knife,Firangi,Goblin Club,0,False
+Throwing Knife,Shamshir,Short Sword,0,False
+Throwing Knife,Falchion,Short Sword,0,False
+Throwing Knife,Shotel,Short Sword,0,False
+Throwing Knife,Khora,Short Sword,0,False
+Throwing Knife,Khopesh,Short Sword,0,False
+Throwing Knife,Wakizashi,Short Sword,0,False
+Throwing Knife,Rhomphaia,Throwing Knife,0,False
+Kudi,Spatha,Scramasax,0,False
+Kudi,Scimitar,Scramasax,0,False
+Kudi,Rapier,Dirk,0,False
+Kudi,Short Sword,Throwing Knife,0,False
+Kudi,Firangi,Katana,0,False
+Kudi,Shamshir,Spiked Club,0,False
+Kudi,Falchion,Firangi,0,False
+Kudi,Shotel,Firangi,0,False
+Kudi,Khora,Firangi,0,False
+Kudi,Khopesh,Firangi,0,False
+Kudi,Wakizashi,Firangi,0,False
+Kudi,Rhomphaia,Kudi,0,False
+Cinquedea,Spatha,Dirk,0,False
+Cinquedea,Scimitar,Scramasax,0,False
+Cinquedea,Rapier,Dirk,0,False
+Cinquedea,Short Sword,Throwing Knife,0,False
+Cinquedea,Firangi,Hand Axe,0,False
+Cinquedea,Shamshir,Executioner,0,False
+Cinquedea,Falchion,Ball Mace,0,False
+Cinquedea,Shotel,Shamshir,0,False
+Cinquedea,Khora,Shamshir,0,False
+Cinquedea,Khopesh,Shamshir,0,False
+Cinquedea,Wakizashi,Shamshir,0,False
+Cinquedea,Rhomphaia,Cinquedea,0,False
+Kris,Spatha,Throwing Knife,0,False
+Kris,Scimitar,Dirk,0,False
+Kris,Rapier,Dirk,0,False
+Kris,Short Sword,Throwing Knife,0,False
+Kris,Firangi,Kudi,0,False
+Kris,Shamshir,Battle Axe,0,False
+Kris,Falchion,Claymore,0,False
+Kris,Khora,Falchion,0,False
+Kris,Khopesh,Falchion,0,False
+Kris,Wakizashi,Falchion,0,False
+Kris,Rhomphaia,Kris,0,False
+Hatchet,Spatha,Kudi,0,False
+Hatchet,Scimitar,Throwing Knife,0,False
+Hatchet,Rapier,Dirk,0,False
+Hatchet,Short Sword,Throwing Knife,0,False
+Hatchet,Firangi,Kudi,0,False
+Hatchet,Shamshir,Cinquedea,0,False
+Hatchet,Falchion,Francisca,0,False
+Hatchet,Shotel,Schiavona,0,False
+Hatchet,Khora,Morning Star,0,False
+Hatchet,Khopesh,Shotel,0,False
+Hatchet,Wakizashi,Shotel,0,False
+Hatchet,Rhomphaia,Hatchet,0,False
+Khukuri,Spatha,Cinquedea,0,False
+Khukuri,Scimitar,Kudi,0,False
+Khukuri,Rapier,Throwing Knife,0,False
+Khukuri,Short Sword,Throwing Knife,0,False
+Khukuri,Firangi,Kudi,0,False
+Khukuri,Shamshir,Cinquedea,0,False
+Khukuri,Falchion,Kris,0,False
+Khukuri,Shotel,Tabarzin,0,False
+Khukuri,Khora,Bastard Sword,0,False
+Khukuri,Khopesh,War Hammer,0,False
+Khukuri,Wakizashi,Khora,0,False
+Khukuri,Rhomphaia,Khukuri,0,False
+Baselard,Spatha,Kris,0,False
+Baselard,Scimitar,Cinquedea,0,False
+Baselard,Rapier,Kudi,0,False
+Baselard,Short Sword,Throwing Knife,0,False
+Baselard,Firangi,Kudi,0,False
+Baselard,Shamshir,Cinquedea,0,False
+Baselard,Falchion,Kris,0,False
+Baselard,Shotel,Hatchet,0,False
+Baselard,Khora,Chamkaq,0,False
+Baselard,Khopesh,Nodachi,0,False
+Baselard,Wakizashi,Bec de Corbin,0,False
+Baselard,Rhomphaia,Baselard,0,False
+Stiletto,Spatha,Hatchet,0,False
+Stiletto,Scimitar,Kris,0,False
+Stiletto,Rapier,Cinquedea,0,False
+Stiletto,Short Sword,Kudi,0,False
+Stiletto,Firangi,Kudi,0,False
+Stiletto,Shamshir,Cinquedea,0,False
+Stiletto,Falchion,Kris,0,False
+Stiletto,Shotel,Hatchet,0,False
+Stiletto,Khora,Khukuri,0,False
+Stiletto,Khopesh,Tabar,0,False
+Stiletto,Wakizashi,Rune Blade,0,False
+Stiletto,Rhomphaia,Stiletto,0,False
+Jamadhar,Spatha,Khukuri,0,False
+Jamadhar,Scimitar,Hatchet,0,False
+Jamadhar,Rapier,Kris,0,False
+Jamadhar,Short Sword,Cinquedea,0,False
+Jamadhar,Firangi,Kudi,0,False
+Jamadhar,Shamshir,Cinquedea,0,False
+Jamadhar,Falchion,Kris,0,False
+Jamadhar,Shotel,Hatchet,0,False
+Jamadhar,Khora,Khukuri,0,False
+Jamadhar,Khopesh,Baselard,0,False
+Jamadhar,Wakizashi,Bullova,0,False
+Jamadhar,Rhomphaia,Jamadhar,0,False

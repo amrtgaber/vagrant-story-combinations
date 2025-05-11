@@ -1,36 +1,36 @@
-slot1,slot2,result,tier_change
-Goblin Club,Guisarme,Spear,0
-Goblin Club,Large Crescent,Guisarme,0
-Goblin Club,Sabre Halberd,Large Crescent,0
-Goblin Club,Balbriggan,Sabre Halberd,0
-Goblin Club,Double Blade,Balbriggan,0
-Goblin Club,Halberd,Double Blade,0
-Spiked Club,Guisarme,Wizard Staff,0
-Spiked Club,Large Crescent,Glaive,0
-Spiked Club,Sabre Halberd,Large Crescent,0
-Spiked Club,Balbriggan,Sabre Halberd,0
-Spiked Club,Double Blade,Balbriggan,0
-Spiked Club,Halberd,Balbriggan,0
-Ball Mace,Guisarme,Langdebeve,0
-Ball Mace,Large Crescent,Clergy Rod,0
-Ball Mace,Sabre Halberd,Scorpion,0
-Ball Mace,Balbriggan,Sabre Halberd,0
-Ball Mace,Double Blade,Sabre Halberd,0
-Ball Mace,Halberd,Sabre Halberd,0
-Morning Star,Guisarme,Ball Mace,0
-Morning Star,Large Crescent,Spiked Club,0
-Morning Star,Balbriggan,Shamanic Staff,0
-Morning Star,Double Blade,Trident,0
-Morning Star,Halberd,Double Blade,0
-War Hammer,Large Crescent,Ball Mace,0
-War Hammer,Sabre Halberd,Ball Mace,0
-War Hammer,Balbriggan,Gloomwing,0
-War Hammer,Halberd,Awl Pike,0
-Bec de Corbin,Guisarme,Morning Star,0
-Bec de Corbin,Sabre Halberd,Ball Mace,0
-Bec de Corbin,Double Blade,Gloomwing,0
-Double Blade,Bec de Corbin,Mjolnir,0
-War Maul,Guisarme,War Hammer,0
-War Maul,Large Crescent,Morning Star,0
-War Maul,Double Blade,Morning Star,0
-War Maul,Halberd,Griever,0
+slot1,slot2,result,tier_change,has_swap
+Goblin Club,Guisarme,Spear,0,False
+Goblin Club,Large Crescent,Guisarme,0,False
+Goblin Club,Sabre Halberd,Large Crescent,0,False
+Goblin Club,Balbriggan,Sabre Halberd,0,False
+Goblin Club,Double Blade,Balbriggan,0,False
+Goblin Club,Halberd,Double Blade,0,False
+Spiked Club,Guisarme,Wizard Staff,0,False
+Spiked Club,Large Crescent,Glaive,0,False
+Spiked Club,Sabre Halberd,Large Crescent,0,False
+Spiked Club,Balbriggan,Sabre Halberd,0,False
+Spiked Club,Double Blade,Balbriggan,0,False
+Spiked Club,Halberd,Balbriggan,0,False
+Ball Mace,Guisarme,Langdebeve,0,False
+Ball Mace,Large Crescent,Clergy Rod,0,False
+Ball Mace,Sabre Halberd,Scorpion,0,False
+Ball Mace,Balbriggan,Sabre Halberd,0,False
+Ball Mace,Double Blade,Sabre Halberd,0,False
+Ball Mace,Halberd,Sabre Halberd,0,False
+Morning Star,Guisarme,Ball Mace,0,False
+Morning Star,Large Crescent,Spiked Club,0,False
+Morning Star,Balbriggan,Shamanic Staff,0,False
+Morning Star,Double Blade,Trident,0,False
+Morning Star,Halberd,Double Blade,0,False
+War Hammer,Large Crescent,Ball Mace,0,False
+War Hammer,Sabre Halberd,Ball Mace,0,False
+War Hammer,Balbriggan,Gloomwing,0,False
+War Hammer,Halberd,Awl Pike,0,False
+Bec de Corbin,Guisarme,Morning Star,0,False
+Bec de Corbin,Sabre Halberd,Ball Mace,0,False
+Bec de Corbin,Double Blade,Gloomwing,0,True
+Double Blade,Bec de Corbin,Mjolnir,0,True
+War Maul,Guisarme,War Hammer,0,False
+War Maul,Large Crescent,Morning Star,0,False
+War Maul,Double Blade,Morning Star,0,False
+War Maul,Halberd,Griever,0,False

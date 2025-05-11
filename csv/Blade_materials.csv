@@ -1,2026 +1,2026 @@
-slot1,slot2,material1,material2,result_material,is_upgrade,is_downgrade
-Dagger,Dagger,B,B,B,False,False
-Dagger,Dagger,I,B,H,True,False
-Dagger,Dagger,H,B,H,False,False
-Dagger,Dagger,S,B,H,False,False
-Dagger,Dagger,D,B,H,False,False
-Sword,Dagger,B,B,B,False,False
-Sword,Dagger,I,B,I,False,False
-Sword,Dagger,H,B,H,False,False
-Sword,Dagger,S,B,S,False,False
-Sword,Dagger,D,B,D,False,False
-Great Sword,Dagger,B,B,B,False,False
-Great Sword,Dagger,I,B,I,False,False
-Great Sword,Dagger,H,B,H,False,False
-Great Sword,Dagger,S,B,S,False,False
-Great Sword,Dagger,D,B,D,False,False
-AxeMace,Dagger,B,B,B,False,False
-AxeMace,Dagger,I,B,I,False,False
-AxeMace,Dagger,H,B,H,False,False
-AxeMace,Dagger,S,B,S,False,False
-AxeMace,Dagger,D,B,D,False,False
-Great Axe,Dagger,B,B,B,False,False
-Great Axe,Dagger,I,B,I,False,False
-Great Axe,Dagger,H,B,H,False,False
-Great Axe,Dagger,S,B,S,False,False
-Great Axe,Dagger,D,B,D,False,False
-Staff,Dagger,B,B,B,False,False
-Staff,Dagger,I,B,I,False,False
-Staff,Dagger,H,B,H,False,False
-Staff,Dagger,S,B,S,False,False
-Staff,Dagger,D,B,D,False,False
-Heavy Mace,Dagger,B,B,B,False,False
-Heavy Mace,Dagger,I,B,I,False,False
-Heavy Mace,Dagger,H,B,H,False,False
-Heavy Mace,Dagger,S,B,S,False,False
-Heavy Mace,Dagger,D,B,D,False,False
-Polearm,Dagger,B,B,B,False,False
-Polearm,Dagger,I,B,I,False,False
-Polearm,Dagger,H,B,H,False,False
-Polearm,Dagger,S,B,S,False,False
-Polearm,Dagger,D,B,D,False,False
-Crossbow,Dagger,B,B,B,False,False
-Crossbow,Dagger,I,B,I,False,False
-Crossbow,Dagger,H,B,H,False,False
-Crossbow,Dagger,S,B,S,False,False
-Crossbow,Dagger,D,B,D,False,False
-Dagger,Dagger,B,I,H,True,False
-Dagger,Dagger,I,I,I,False,False
-Dagger,Dagger,H,I,H,False,False
-Dagger,Dagger,S,I,H,False,False
-Dagger,Dagger,D,I,H,False,False
-Sword,Dagger,B,I,B,False,False
-Sword,Dagger,I,I,I,False,False
-Sword,Dagger,H,I,H,False,False
-Sword,Dagger,S,I,S,False,False
-Sword,Dagger,D,I,D,False,False
-Great Sword,Dagger,B,I,B,False,False
-Great Sword,Dagger,I,I,I,False,False
-Great Sword,Dagger,H,I,H,False,False
-Great Sword,Dagger,S,I,S,False,False
-Great Sword,Dagger,D,I,D,False,False
-AxeMace,Dagger,B,I,B,False,False
-AxeMace,Dagger,I,I,I,False,False
-AxeMace,Dagger,H,I,H,False,False
-AxeMace,Dagger,S,I,S,False,False
-AxeMace,Dagger,D,I,D,False,False
-Great Axe,Dagger,B,I,B,False,False
-Great Axe,Dagger,I,I,I,False,False
-Great Axe,Dagger,H,I,H,False,False
-Great Axe,Dagger,S,I,S,False,False
-Great Axe,Dagger,D,I,D,False,False
-Staff,Dagger,B,I,B,False,False
-Staff,Dagger,I,I,I,False,False
-Staff,Dagger,H,I,H,False,False
-Staff,Dagger,S,I,S,False,False
-Staff,Dagger,D,I,D,False,False
-Heavy Mace,Dagger,B,I,B,False,False
-Heavy Mace,Dagger,I,I,I,False,False
-Heavy Mace,Dagger,H,I,H,False,False
-Heavy Mace,Dagger,S,I,S,False,False
-Heavy Mace,Dagger,D,I,D,False,False
-Polearm,Dagger,B,I,B,False,False
-Polearm,Dagger,I,I,I,False,False
-Polearm,Dagger,H,I,H,False,False
-Polearm,Dagger,S,I,S,False,False
-Polearm,Dagger,D,I,D,False,False
-Crossbow,Dagger,B,I,B,False,False
-Crossbow,Dagger,I,I,I,False,False
-Crossbow,Dagger,H,I,H,False,False
-Crossbow,Dagger,S,I,S,False,False
-Crossbow,Dagger,D,I,D,False,False
-Dagger,Dagger,B,H,H,False,False
-Dagger,Dagger,I,H,H,False,False
-Dagger,Dagger,H,H,H,False,False
-Dagger,Dagger,S,H,H,False,False
-Dagger,Dagger,D,H,H,False,False
-Sword,Dagger,B,H,B,False,False
-Sword,Dagger,I,H,I,False,False
-Sword,Dagger,H,H,H,False,False
-Sword,Dagger,S,H,S,False,False
-Sword,Dagger,D,H,D,False,False
-Great Sword,Dagger,B,H,B,False,False
-Great Sword,Dagger,I,H,I,False,False
-Great Sword,Dagger,H,H,H,False,False
-Great Sword,Dagger,S,H,S,False,False
-Great Sword,Dagger,D,H,D,False,False
-AxeMace,Dagger,B,H,B,False,False
-AxeMace,Dagger,I,H,I,False,False
-AxeMace,Dagger,H,H,H,False,False
-AxeMace,Dagger,S,H,S,False,False
-AxeMace,Dagger,D,H,D,False,False
-Great Axe,Dagger,B,H,B,False,False
-Great Axe,Dagger,I,H,I,False,False
-Great Axe,Dagger,H,H,H,False,False
-Great Axe,Dagger,S,H,S,False,False
-Great Axe,Dagger,D,H,D,False,False
-Staff,Dagger,B,H,B,False,False
-Staff,Dagger,I,H,I,False,False
-Staff,Dagger,H,H,H,False,False
-Staff,Dagger,S,H,S,False,False
-Staff,Dagger,D,H,D,False,False
-Heavy Mace,Dagger,B,H,B,False,False
-Heavy Mace,Dagger,I,H,I,False,False
-Heavy Mace,Dagger,H,H,H,False,False
-Heavy Mace,Dagger,S,H,S,False,False
-Heavy Mace,Dagger,D,H,D,False,False
-Polearm,Dagger,B,H,B,False,False
-Polearm,Dagger,I,H,I,False,False
-Polearm,Dagger,H,H,H,False,False
-Polearm,Dagger,S,H,D,True,False
-Polearm,Dagger,D,H,D,False,False
-Crossbow,Dagger,B,H,B,False,False
-Crossbow,Dagger,I,H,I,False,False
-Crossbow,Dagger,H,H,H,False,False
-Crossbow,Dagger,S,H,S,False,False
-Crossbow,Dagger,D,H,D,False,False
-Dagger,Dagger,B,S,H,False,False
-Dagger,Dagger,I,S,H,False,False
-Dagger,Dagger,H,S,H,False,False
-Dagger,Dagger,S,S,S,False,False
-Dagger,Dagger,D,S,S,False,False
-Sword,Dagger,B,S,B,False,False
-Sword,Dagger,I,S,I,False,False
-Sword,Dagger,H,S,H,False,False
-Sword,Dagger,S,S,S,False,False
-Sword,Dagger,D,S,D,False,False
-Great Sword,Dagger,B,S,B,False,False
-Great Sword,Dagger,I,S,I,False,False
-Great Sword,Dagger,H,S,H,False,False
-Great Sword,Dagger,S,S,S,False,False
-Great Sword,Dagger,D,S,D,False,False
-AxeMace,Dagger,B,S,B,False,False
-AxeMace,Dagger,I,S,I,False,False
-AxeMace,Dagger,H,S,H,False,False
-AxeMace,Dagger,S,S,S,False,False
-AxeMace,Dagger,D,S,D,False,False
-Great Axe,Dagger,B,S,B,False,False
-Great Axe,Dagger,I,S,I,False,False
-Great Axe,Dagger,H,S,H,False,False
-Great Axe,Dagger,S,S,S,False,False
-Great Axe,Dagger,D,S,D,False,False
-Staff,Dagger,B,S,B,False,False
-Staff,Dagger,I,S,I,False,False
-Staff,Dagger,H,S,H,False,False
-Staff,Dagger,S,S,S,False,False
-Staff,Dagger,D,S,D,False,False
-Heavy Mace,Dagger,B,S,B,False,False
-Heavy Mace,Dagger,I,S,I,False,False
-Heavy Mace,Dagger,H,S,H,False,False
-Heavy Mace,Dagger,S,S,S,False,False
-Heavy Mace,Dagger,D,S,D,False,False
-Polearm,Dagger,B,S,B,False,False
-Polearm,Dagger,I,S,I,False,False
-Polearm,Dagger,H,S,H,False,False
-Polearm,Dagger,S,S,S,False,False
-Polearm,Dagger,D,S,D,False,False
-Crossbow,Dagger,B,S,B,False,False
-Crossbow,Dagger,I,S,I,False,False
-Crossbow,Dagger,H,S,H,False,False
-Crossbow,Dagger,S,S,S,False,False
-Crossbow,Dagger,D,S,D,False,False
-Dagger,Dagger,B,D,H,False,False
-Dagger,Dagger,I,D,H,False,False
-Dagger,Dagger,H,D,H,False,False
-Dagger,Dagger,S,D,S,False,False
-Dagger,Dagger,D,D,D,False,False
-Sword,Dagger,B,D,B,False,False
-Sword,Dagger,I,D,I,False,False
-Sword,Dagger,H,D,H,False,False
-Sword,Dagger,S,D,S,False,False
-Sword,Dagger,D,D,D,False,False
-Great Sword,Dagger,B,D,B,False,False
-Great Sword,Dagger,I,D,I,False,False
-Great Sword,Dagger,H,D,H,False,False
-Great Sword,Dagger,S,D,S,False,False
-Great Sword,Dagger,D,D,D,False,False
-AxeMace,Dagger,B,D,B,False,False
-AxeMace,Dagger,I,D,I,False,False
-AxeMace,Dagger,H,D,H,False,False
-AxeMace,Dagger,S,D,S,False,False
-AxeMace,Dagger,D,D,D,False,False
-Great Axe,Dagger,B,D,B,False,False
-Great Axe,Dagger,I,D,I,False,False
-Great Axe,Dagger,H,D,H,False,False
-Great Axe,Dagger,S,D,S,False,False
-Great Axe,Dagger,D,D,D,False,False
-Staff,Dagger,B,D,B,False,False
-Staff,Dagger,I,D,I,False,False
-Staff,Dagger,H,D,H,False,False
-Staff,Dagger,S,D,S,False,False
-Staff,Dagger,D,D,D,False,False
-Heavy Mace,Dagger,B,D,B,False,False
-Heavy Mace,Dagger,I,D,I,False,False
-Heavy Mace,Dagger,H,D,H,False,False
-Heavy Mace,Dagger,S,D,S,False,False
-Heavy Mace,Dagger,D,D,D,False,False
-Polearm,Dagger,B,D,B,False,False
-Polearm,Dagger,I,D,I,False,False
-Polearm,Dagger,H,D,H,False,False
-Polearm,Dagger,S,D,S,False,False
-Polearm,Dagger,D,D,D,False,False
-Crossbow,Dagger,B,D,B,False,False
-Crossbow,Dagger,I,D,I,False,False
-Crossbow,Dagger,H,D,H,False,False
-Crossbow,Dagger,S,D,S,False,False
-Crossbow,Dagger,D,D,D,False,False
-Dagger,Sword,B,B,B,False,False
-Dagger,Sword,I,B,B,False,False
-Dagger,Sword,H,B,B,False,False
-Dagger,Sword,S,B,B,False,False
-Dagger,Sword,D,B,B,False,False
-Sword,Sword,B,B,B,False,False
-Sword,Sword,I,B,H,True,False
-Sword,Sword,H,B,H,False,False
-Sword,Sword,S,B,H,False,False
-Sword,Sword,D,B,H,False,False
-Great Sword,Sword,B,B,B,False,False
-Great Sword,Sword,I,B,I,False,False
-Great Sword,Sword,H,B,H,False,False
-Great Sword,Sword,S,B,S,False,False
-Great Sword,Sword,D,B,D,False,False
-AxeMace,Sword,B,B,B,False,False
-AxeMace,Sword,I,B,I,False,False
-AxeMace,Sword,H,B,H,False,False
-AxeMace,Sword,S,B,S,False,False
-AxeMace,Sword,D,B,D,False,False
-Great Axe,Sword,B,B,B,False,False
-Great Axe,Sword,I,B,I,False,False
-Great Axe,Sword,H,B,H,False,False
-Great Axe,Sword,S,B,S,False,False
-Great Axe,Sword,D,B,D,False,False
-Staff,Sword,B,B,B,False,False
-Staff,Sword,I,B,B,False,False
-Staff,Sword,H,B,B,False,False
-Staff,Sword,S,B,B,False,False
-Staff,Sword,D,B,B,False,False
-Heavy Mace,Sword,B,B,B,False,False
-Heavy Mace,Sword,I,B,I,False,False
-Heavy Mace,Sword,H,B,H,False,False
-Heavy Mace,Sword,S,B,S,False,False
-Heavy Mace,Sword,D,B,D,False,False
-Polearm,Sword,B,B,B,False,False
-Polearm,Sword,I,B,I,False,False
-Polearm,Sword,H,B,H,False,False
-Polearm,Sword,S,B,S,False,False
-Polearm,Sword,D,B,D,False,False
-Crossbow,Sword,B,B,B,False,False
-Crossbow,Sword,I,B,I,False,False
-Crossbow,Sword,H,B,H,False,False
-Crossbow,Sword,S,B,S,False,False
-Crossbow,Sword,D,B,D,False,False
-Dagger,Sword,B,I,I,False,False
-Dagger,Sword,I,I,I,False,False
-Dagger,Sword,H,I,I,False,False
-Dagger,Sword,S,I,I,False,False
-Dagger,Sword,D,I,I,False,False
-Sword,Sword,B,I,H,True,False
-Sword,Sword,I,I,I,False,False
-Sword,Sword,H,I,H,False,False
-Sword,Sword,S,I,H,False,False
-Sword,Sword,D,I,H,False,False
-Great Sword,Sword,B,I,B,False,False
-Great Sword,Sword,I,I,I,False,False
-Great Sword,Sword,H,I,H,False,False
-Great Sword,Sword,S,I,S,False,False
-Great Sword,Sword,D,I,D,False,False
-AxeMace,Sword,B,I,B,False,False
-AxeMace,Sword,I,I,I,False,False
-AxeMace,Sword,H,I,H,False,False
-AxeMace,Sword,S,I,S,False,False
-AxeMace,Sword,D,I,D,False,False
-Great Axe,Sword,B,I,B,False,False
-Great Axe,Sword,I,I,I,False,False
-Great Axe,Sword,H,I,H,False,False
-Great Axe,Sword,S,I,S,False,False
-Great Axe,Sword,D,I,D,False,False
-Staff,Sword,B,I,I,False,False
-Staff,Sword,I,I,I,False,False
-Staff,Sword,H,I,I,False,False
-Staff,Sword,S,I,I,False,False
-Staff,Sword,D,I,I,False,False
-Heavy Mace,Sword,B,I,B,False,False
-Heavy Mace,Sword,I,I,I,False,False
-Heavy Mace,Sword,H,I,H,False,False
-Heavy Mace,Sword,S,I,S,False,False
-Heavy Mace,Sword,D,I,D,False,False
-Polearm,Sword,B,I,B,False,False
-Polearm,Sword,I,I,I,False,False
-Polearm,Sword,H,I,H,False,False
-Polearm,Sword,S,I,S,False,False
-Polearm,Sword,D,I,D,False,False
-Crossbow,Sword,B,I,B,False,False
-Crossbow,Sword,I,I,I,False,False
-Crossbow,Sword,H,I,H,False,False
-Crossbow,Sword,S,I,S,False,False
-Crossbow,Sword,D,I,D,False,False
-Dagger,Sword,B,H,H,False,False
-Dagger,Sword,I,H,H,False,False
-Dagger,Sword,H,H,H,False,False
-Dagger,Sword,S,H,H,False,False
-Dagger,Sword,D,H,H,False,False
-Sword,Sword,B,H,H,False,False
-Sword,Sword,I,H,H,False,False
-Sword,Sword,H,H,H,False,False
-Sword,Sword,S,H,H,False,False
-Sword,Sword,D,H,H,False,False
-Great Sword,Sword,B,H,B,False,False
-Great Sword,Sword,I,H,I,False,False
-Great Sword,Sword,H,H,H,False,False
-Great Sword,Sword,S,H,S,False,False
-Great Sword,Sword,D,H,D,False,False
-AxeMace,Sword,B,H,B,False,False
-AxeMace,Sword,I,H,I,False,False
-AxeMace,Sword,H,H,H,False,False
-AxeMace,Sword,S,H,S,False,False
-AxeMace,Sword,D,H,D,False,False
-Great Axe,Sword,B,H,B,False,False
-Great Axe,Sword,I,H,I,False,False
-Great Axe,Sword,H,H,H,False,False
-Great Axe,Sword,S,H,S,False,False
-Great Axe,Sword,D,H,D,False,False
-Staff,Sword,B,H,H,False,False
-Staff,Sword,I,H,H,False,False
-Staff,Sword,H,H,H,False,False
-Staff,Sword,S,H,H,False,False
-Staff,Sword,D,H,H,False,False
-Heavy Mace,Sword,B,H,B,False,False
-Heavy Mace,Sword,I,H,I,False,False
-Heavy Mace,Sword,H,H,H,False,False
-Heavy Mace,Sword,S,H,S,False,False
-Heavy Mace,Sword,D,H,D,False,False
-Polearm,Sword,B,H,B,False,False
-Polearm,Sword,I,H,I,False,False
-Polearm,Sword,H,H,H,False,False
-Polearm,Sword,S,H,S,False,False
-Polearm,Sword,D,H,D,False,False
-Crossbow,Sword,B,H,B,False,False
-Crossbow,Sword,I,H,I,False,False
-Crossbow,Sword,H,H,H,False,False
-Crossbow,Sword,S,H,S,False,False
-Crossbow,Sword,D,H,D,False,False
-Dagger,Sword,B,S,S,False,False
-Dagger,Sword,I,S,S,False,False
-Dagger,Sword,H,S,S,False,False
-Dagger,Sword,S,S,S,False,False
-Dagger,Sword,D,S,S,False,False
-Sword,Sword,B,S,H,False,False
-Sword,Sword,I,S,H,False,False
-Sword,Sword,H,S,H,False,False
-Sword,Sword,S,S,S,False,False
-Sword,Sword,D,S,S,False,False
-Great Sword,Sword,B,S,B,False,False
-Great Sword,Sword,I,S,I,False,False
-Great Sword,Sword,H,S,H,False,False
-Great Sword,Sword,S,S,S,False,False
-Great Sword,Sword,D,S,D,False,False
-AxeMace,Sword,B,S,B,False,False
-AxeMace,Sword,I,S,I,False,False
-AxeMace,Sword,H,S,H,False,False
-AxeMace,Sword,S,S,S,False,False
-AxeMace,Sword,D,S,D,False,False
-Great Axe,Sword,B,S,B,False,False
-Great Axe,Sword,I,S,I,False,False
-Great Axe,Sword,H,S,H,False,False
-Great Axe,Sword,S,S,S,False,False
-Great Axe,Sword,D,S,D,False,False
-Staff,Sword,B,S,S,False,False
-Staff,Sword,I,S,S,False,False
-Staff,Sword,H,S,S,False,False
-Staff,Sword,S,S,S,False,False
-Staff,Sword,D,S,S,False,False
-Heavy Mace,Sword,B,S,B,False,False
-Heavy Mace,Sword,I,S,I,False,False
-Heavy Mace,Sword,H,S,H,False,False
-Heavy Mace,Sword,S,S,S,False,False
-Heavy Mace,Sword,D,S,D,False,False
-Polearm,Sword,B,S,B,False,False
-Polearm,Sword,I,S,I,False,False
-Polearm,Sword,H,S,H,False,False
-Polearm,Sword,S,S,S,False,False
-Polearm,Sword,D,S,D,False,False
-Crossbow,Sword,B,S,B,False,False
-Crossbow,Sword,I,S,I,False,False
-Crossbow,Sword,H,S,H,False,False
-Crossbow,Sword,S,S,S,False,False
-Crossbow,Sword,D,S,D,False,False
-Dagger,Sword,B,D,D,False,False
-Dagger,Sword,I,D,D,False,False
-Dagger,Sword,H,D,D,False,False
-Dagger,Sword,S,D,D,False,False
-Dagger,Sword,D,D,D,False,False
-Sword,Sword,B,D,H,False,False
-Sword,Sword,I,D,H,False,False
-Sword,Sword,H,D,H,False,False
-Sword,Sword,S,D,S,False,False
-Sword,Sword,D,D,D,False,False
-Great Sword,Sword,B,D,B,False,False
-Great Sword,Sword,I,D,I,False,False
-Great Sword,Sword,H,D,H,False,False
-Great Sword,Sword,S,D,S,False,False
-Great Sword,Sword,D,D,D,False,False
-AxeMace,Sword,B,D,B,False,False
-AxeMace,Sword,I,D,I,False,False
-AxeMace,Sword,H,D,H,False,False
-AxeMace,Sword,S,D,S,False,False
-AxeMace,Sword,D,D,D,False,False
-Great Axe,Sword,B,D,B,False,False
-Great Axe,Sword,I,D,I,False,False
-Great Axe,Sword,H,D,H,False,False
-Great Axe,Sword,S,D,S,False,False
-Great Axe,Sword,D,D,D,False,False
-Staff,Sword,B,D,D,False,False
-Staff,Sword,I,D,D,False,False
-Staff,Sword,H,D,D,False,False
-Staff,Sword,S,D,D,False,False
-Staff,Sword,D,D,D,False,False
-Heavy Mace,Sword,B,D,B,False,False
-Heavy Mace,Sword,I,D,I,False,False
-Heavy Mace,Sword,H,D,H,False,False
-Heavy Mace,Sword,S,D,S,False,False
-Heavy Mace,Sword,D,D,D,False,False
-Polearm,Sword,B,D,B,False,False
-Polearm,Sword,I,D,I,False,False
-Polearm,Sword,H,D,H,False,False
-Polearm,Sword,S,D,S,False,False
-Polearm,Sword,D,D,D,False,False
-Crossbow,Sword,B,D,B,False,False
-Crossbow,Sword,I,D,I,False,False
-Crossbow,Sword,H,D,H,False,False
-Crossbow,Sword,S,D,S,False,False
-Crossbow,Sword,D,D,D,False,False
-Dagger,Great Sword,B,B,B,False,False
-Dagger,Great Sword,I,B,B,False,False
-Dagger,Great Sword,H,B,B,False,False
-Dagger,Great Sword,S,B,B,False,False
-Dagger,Great Sword,D,B,B,False,False
-Sword,Great Sword,B,B,B,False,False
-Sword,Great Sword,I,B,B,False,False
-Sword,Great Sword,H,B,B,False,False
-Sword,Great Sword,S,B,B,False,False
-Sword,Great Sword,D,B,B,False,False
-Great Sword,Great Sword,B,B,B,False,False
-Great Sword,Great Sword,I,B,H,True,False
-Great Sword,Great Sword,H,B,H,False,False
-Great Sword,Great Sword,S,B,H,False,False
-Great Sword,Great Sword,D,B,H,False,False
-AxeMace,Great Sword,B,B,B,False,False
-AxeMace,Great Sword,I,B,B,False,False
-AxeMace,Great Sword,H,B,B,False,False
-AxeMace,Great Sword,S,B,B,False,False
-AxeMace,Great Sword,D,B,B,False,False
-Great Axe,Great Sword,B,B,B,False,False
-Great Axe,Great Sword,I,B,I,False,False
-Great Axe,Great Sword,H,B,H,False,False
-Great Axe,Great Sword,S,B,S,False,False
-Great Axe,Great Sword,D,B,D,False,False
-Staff,Great Sword,B,B,B,False,False
-Staff,Great Sword,I,B,B,False,False
-Staff,Great Sword,H,B,B,False,False
-Staff,Great Sword,S,B,B,False,False
-Staff,Great Sword,D,B,B,False,False
-Heavy Mace,Great Sword,B,B,B,False,False
-Heavy Mace,Great Sword,I,B,I,False,False
-Heavy Mace,Great Sword,H,B,H,False,False
-Heavy Mace,Great Sword,S,B,S,False,False
-Heavy Mace,Great Sword,D,B,D,False,False
-Polearm,Great Sword,B,B,B,False,False
-Polearm,Great Sword,I,B,I,False,False
-Polearm,Great Sword,H,B,H,False,False
-Polearm,Great Sword,S,B,S,False,False
-Polearm,Great Sword,D,B,D,False,False
-Crossbow,Great Sword,B,B,B,False,False
-Crossbow,Great Sword,I,B,B,False,False
-Crossbow,Great Sword,H,B,B,False,False
-Crossbow,Great Sword,S,B,B,False,False
-Crossbow,Great Sword,D,B,B,False,False
-Dagger,Great Sword,B,I,I,False,False
-Dagger,Great Sword,I,I,I,False,False
-Dagger,Great Sword,H,I,I,False,False
-Dagger,Great Sword,S,I,I,False,False
-Dagger,Great Sword,D,I,I,False,False
-Sword,Great Sword,B,I,I,False,False
-Sword,Great Sword,I,I,I,False,False
-Sword,Great Sword,H,I,I,False,False
-Sword,Great Sword,S,I,I,False,False
-Sword,Great Sword,D,I,I,False,False
-Great Sword,Great Sword,B,I,H,True,False
-Great Sword,Great Sword,I,I,I,False,False
-Great Sword,Great Sword,H,I,H,False,False
-Great Sword,Great Sword,S,I,H,False,False
-Great Sword,Great Sword,D,I,H,False,False
-AxeMace,Great Sword,B,I,I,False,False
-AxeMace,Great Sword,I,I,I,False,False
-AxeMace,Great Sword,H,I,I,False,False
-AxeMace,Great Sword,S,I,I,False,False
-AxeMace,Great Sword,D,I,I,False,False
-Great Axe,Great Sword,B,I,B,False,False
-Great Axe,Great Sword,I,I,I,False,False
-Great Axe,Great Sword,H,I,H,False,False
-Great Axe,Great Sword,S,I,S,False,False
-Great Axe,Great Sword,D,I,D,False,False
-Staff,Great Sword,B,I,I,False,False
-Staff,Great Sword,I,I,I,False,False
-Staff,Great Sword,H,I,I,False,False
-Staff,Great Sword,S,I,I,False,False
-Staff,Great Sword,D,I,I,False,False
-Heavy Mace,Great Sword,B,I,B,False,False
-Heavy Mace,Great Sword,I,I,I,False,False
-Heavy Mace,Great Sword,H,I,H,False,False
-Heavy Mace,Great Sword,S,I,S,False,False
-Heavy Mace,Great Sword,D,I,D,False,False
-Polearm,Great Sword,B,I,B,False,False
-Polearm,Great Sword,I,I,I,False,False
-Polearm,Great Sword,H,I,H,False,False
-Polearm,Great Sword,S,I,S,False,False
-Polearm,Great Sword,D,I,D,False,False
-Crossbow,Great Sword,B,I,I,False,False
-Crossbow,Great Sword,I,I,I,False,False
-Crossbow,Great Sword,H,I,I,False,False
-Crossbow,Great Sword,S,I,I,False,False
-Crossbow,Great Sword,D,I,I,False,False
-Dagger,Great Sword,B,H,H,False,False
-Dagger,Great Sword,I,H,H,False,False
-Dagger,Great Sword,H,H,H,False,False
-Dagger,Great Sword,S,H,H,False,False
-Dagger,Great Sword,D,H,H,False,False
-Sword,Great Sword,B,H,H,False,False
-Sword,Great Sword,I,H,H,False,False
-Sword,Great Sword,H,H,H,False,False
-Sword,Great Sword,S,H,H,False,False
-Sword,Great Sword,D,H,H,False,False
-Great Sword,Great Sword,B,H,H,False,False
-Great Sword,Great Sword,I,H,H,False,False
-Great Sword,Great Sword,H,H,H,False,False
-Great Sword,Great Sword,S,H,H,False,False
-Great Sword,Great Sword,D,H,H,False,False
-AxeMace,Great Sword,B,H,H,False,False
-AxeMace,Great Sword,I,H,H,False,False
-AxeMace,Great Sword,H,H,H,False,False
-AxeMace,Great Sword,S,H,H,False,False
-AxeMace,Great Sword,D,H,H,False,False
-Great Axe,Great Sword,B,H,B,False,False
-Great Axe,Great Sword,I,H,I,False,False
-Great Axe,Great Sword,H,H,H,False,False
-Great Axe,Great Sword,S,H,S,False,False
-Great Axe,Great Sword,D,H,D,False,False
-Staff,Great Sword,B,H,H,False,False
-Staff,Great Sword,I,H,H,False,False
-Staff,Great Sword,H,H,H,False,False
-Staff,Great Sword,S,H,H,False,False
-Staff,Great Sword,D,H,H,False,False
-Heavy Mace,Great Sword,B,H,B,False,False
-Heavy Mace,Great Sword,I,H,I,False,False
-Heavy Mace,Great Sword,H,H,H,False,False
-Heavy Mace,Great Sword,S,H,S,False,False
-Heavy Mace,Great Sword,D,H,D,False,False
-Polearm,Great Sword,B,H,B,False,False
-Polearm,Great Sword,I,H,I,False,False
-Polearm,Great Sword,H,H,H,False,False
-Polearm,Great Sword,S,H,S,False,False
-Polearm,Great Sword,D,H,D,False,False
-Crossbow,Great Sword,B,H,H,False,False
-Crossbow,Great Sword,I,H,H,False,False
-Crossbow,Great Sword,H,H,H,False,False
-Crossbow,Great Sword,S,H,H,False,False
-Crossbow,Great Sword,D,H,H,False,False
-Dagger,Great Sword,B,S,S,False,False
-Dagger,Great Sword,I,S,S,False,False
-Dagger,Great Sword,H,S,S,False,False
-Dagger,Great Sword,S,S,S,False,False
-Dagger,Great Sword,D,S,S,False,False
-Sword,Great Sword,B,S,S,False,False
-Sword,Great Sword,I,S,S,False,False
-Sword,Great Sword,H,S,S,False,False
-Sword,Great Sword,S,S,S,False,False
-Sword,Great Sword,D,S,S,False,False
-Great Sword,Great Sword,B,S,H,False,False
-Great Sword,Great Sword,I,S,H,False,False
-Great Sword,Great Sword,H,S,H,False,False
-Great Sword,Great Sword,S,S,S,False,False
-Great Sword,Great Sword,D,S,S,False,False
-AxeMace,Great Sword,B,S,S,False,False
-AxeMace,Great Sword,I,S,S,False,False
-AxeMace,Great Sword,H,S,S,False,False
-AxeMace,Great Sword,S,S,S,False,False
-AxeMace,Great Sword,D,S,S,False,False
-Great Axe,Great Sword,B,S,B,False,False
-Great Axe,Great Sword,I,S,I,False,False
-Great Axe,Great Sword,H,S,H,False,False
-Great Axe,Great Sword,S,S,S,False,False
-Great Axe,Great Sword,D,S,D,False,False
-Staff,Great Sword,B,S,S,False,False
-Staff,Great Sword,I,S,S,False,False
-Staff,Great Sword,H,S,S,False,False
-Staff,Great Sword,S,S,S,False,False
-Staff,Great Sword,D,S,S,False,False
-Heavy Mace,Great Sword,B,S,B,False,False
-Heavy Mace,Great Sword,I,S,I,False,False
-Heavy Mace,Great Sword,H,S,H,False,False
-Heavy Mace,Great Sword,S,S,S,False,False
-Heavy Mace,Great Sword,D,S,D,False,False
-Polearm,Great Sword,B,S,B,False,False
-Polearm,Great Sword,I,S,S,False,False
-Polearm,Great Sword,H,S,H,False,False
-Polearm,Great Sword,S,S,S,False,False
-Polearm,Great Sword,D,S,D,False,False
-Crossbow,Great Sword,B,S,S,False,False
-Crossbow,Great Sword,I,S,S,False,False
-Crossbow,Great Sword,H,S,D,True,False
-Crossbow,Great Sword,S,S,S,False,False
-Crossbow,Great Sword,D,S,S,False,False
-Dagger,Great Sword,B,D,D,False,False
-Dagger,Great Sword,I,D,D,False,False
-Dagger,Great Sword,H,D,D,False,False
-Dagger,Great Sword,S,D,D,False,False
-Dagger,Great Sword,D,D,D,False,False
-Sword,Great Sword,B,D,D,False,False
-Sword,Great Sword,I,D,D,False,False
-Sword,Great Sword,H,D,D,False,False
-Sword,Great Sword,S,D,D,False,False
-Sword,Great Sword,D,D,D,False,False
-Great Sword,Great Sword,B,D,H,False,False
-Great Sword,Great Sword,I,D,H,False,False
-Great Sword,Great Sword,H,D,H,False,False
-Great Sword,Great Sword,S,D,S,False,False
-Great Sword,Great Sword,D,D,D,False,False
-AxeMace,Great Sword,B,D,D,False,False
-AxeMace,Great Sword,I,D,D,False,False
-AxeMace,Great Sword,H,D,D,False,False
-AxeMace,Great Sword,S,D,D,False,False
-AxeMace,Great Sword,D,D,D,False,False
-Great Axe,Great Sword,B,D,B,False,False
-Great Axe,Great Sword,I,D,I,False,False
-Great Axe,Great Sword,H,D,H,False,False
-Great Axe,Great Sword,S,D,S,False,False
-Great Axe,Great Sword,D,D,D,False,False
-Staff,Great Sword,B,D,D,False,False
-Staff,Great Sword,I,D,D,False,False
-Staff,Great Sword,H,D,D,False,False
-Staff,Great Sword,S,D,D,False,False
-Staff,Great Sword,D,D,D,False,False
-Heavy Mace,Great Sword,B,D,B,False,False
-Heavy Mace,Great Sword,I,D,I,False,False
-Heavy Mace,Great Sword,H,D,H,False,False
-Heavy Mace,Great Sword,S,D,S,False,False
-Heavy Mace,Great Sword,D,D,D,False,False
-Polearm,Great Sword,B,D,B,False,False
-Polearm,Great Sword,I,D,I,False,False
-Polearm,Great Sword,H,D,H,False,False
-Polearm,Great Sword,S,D,S,False,False
-Polearm,Great Sword,D,D,D,False,False
-Crossbow,Great Sword,B,D,D,False,False
-Crossbow,Great Sword,I,D,D,False,False
-Crossbow,Great Sword,H,D,D,False,False
-Crossbow,Great Sword,S,D,D,False,False
-Crossbow,Great Sword,D,D,D,False,False
-Dagger,AxeMace,B,B,B,False,False
-Dagger,AxeMace,I,B,B,False,False
-Dagger,AxeMace,H,B,B,False,False
-Dagger,AxeMace,S,B,B,False,False
-Dagger,AxeMace,D,B,B,False,False
-Sword,AxeMace,B,B,B,False,False
-Sword,AxeMace,I,B,B,False,False
-Sword,AxeMace,H,B,B,False,False
-Sword,AxeMace,S,B,B,False,False
-Sword,AxeMace,D,B,B,False,False
-Great Sword,AxeMace,B,B,B,False,False
-Great Sword,AxeMace,I,B,I,False,False
-Great Sword,AxeMace,H,B,H,False,False
-Great Sword,AxeMace,S,B,S,False,False
-Great Sword,AxeMace,D,B,D,False,False
-AxeMace,AxeMace,B,B,B,False,False
-AxeMace,AxeMace,I,B,H,True,False
-AxeMace,AxeMace,H,B,H,False,False
-AxeMace,AxeMace,S,B,H,False,False
-AxeMace,AxeMace,D,B,H,False,False
-Great Axe,AxeMace,B,B,B,False,False
-Great Axe,AxeMace,I,B,I,False,False
-Great Axe,AxeMace,H,B,H,False,False
-Great Axe,AxeMace,S,B,S,False,False
-Great Axe,AxeMace,D,B,D,False,False
-Staff,AxeMace,B,B,B,False,False
-Staff,AxeMace,I,B,B,False,False
-Staff,AxeMace,H,B,B,False,False
-Staff,AxeMace,S,B,B,False,False
-Staff,AxeMace,D,B,B,False,False
-Heavy Mace,AxeMace,B,B,B,False,False
-Heavy Mace,AxeMace,I,B,I,False,False
-Heavy Mace,AxeMace,H,B,H,False,False
-Heavy Mace,AxeMace,S,B,S,False,False
-Heavy Mace,AxeMace,D,B,D,False,False
-Polearm,AxeMace,B,B,B,False,False
-Polearm,AxeMace,I,B,I,False,False
-Polearm,AxeMace,H,B,H,False,False
-Polearm,AxeMace,S,B,S,False,False
-Polearm,AxeMace,D,B,D,False,False
-Crossbow,AxeMace,B,B,B,False,False
-Crossbow,AxeMace,I,B,I,False,False
-Crossbow,AxeMace,H,B,H,False,False
-Crossbow,AxeMace,S,B,S,False,False
-Crossbow,AxeMace,D,B,D,False,False
-Dagger,AxeMace,B,I,I,False,False
-Dagger,AxeMace,I,I,I,False,False
-Dagger,AxeMace,H,I,I,False,False
-Dagger,AxeMace,S,I,I,False,False
-Dagger,AxeMace,D,I,I,False,False
-Sword,AxeMace,B,I,I,False,False
-Sword,AxeMace,I,I,I,False,False
-Sword,AxeMace,H,I,I,False,False
-Sword,AxeMace,S,I,I,False,False
-Sword,AxeMace,D,I,I,False,False
-Great Sword,AxeMace,B,I,B,False,False
-Great Sword,AxeMace,I,I,I,False,False
-Great Sword,AxeMace,H,I,H,False,False
-Great Sword,AxeMace,S,I,S,False,False
-Great Sword,AxeMace,D,I,D,False,False
-AxeMace,AxeMace,B,I,H,True,False
-AxeMace,AxeMace,I,I,I,False,False
-AxeMace,AxeMace,H,I,H,False,False
-AxeMace,AxeMace,S,I,H,False,False
-AxeMace,AxeMace,D,I,H,False,False
-Great Axe,AxeMace,B,I,B,False,False
-Great Axe,AxeMace,I,I,I,False,False
-Great Axe,AxeMace,H,I,H,False,False
-Great Axe,AxeMace,S,I,S,False,False
-Great Axe,AxeMace,D,I,D,False,False
-Staff,AxeMace,B,I,I,False,False
-Staff,AxeMace,I,I,I,False,False
-Staff,AxeMace,H,I,I,False,False
-Staff,AxeMace,S,I,I,False,False
-Staff,AxeMace,D,I,I,False,False
-Heavy Mace,AxeMace,B,I,B,False,False
-Heavy Mace,AxeMace,I,I,I,False,False
-Heavy Mace,AxeMace,H,I,H,False,False
-Heavy Mace,AxeMace,S,I,S,False,False
-Heavy Mace,AxeMace,D,I,D,False,False
-Polearm,AxeMace,B,I,B,False,False
-Polearm,AxeMace,I,I,I,False,False
-Polearm,AxeMace,H,I,H,False,False
-Polearm,AxeMace,S,I,S,False,False
-Polearm,AxeMace,D,I,D,False,False
-Crossbow,AxeMace,B,I,B,False,False
-Crossbow,AxeMace,I,I,I,False,False
-Crossbow,AxeMace,H,I,H,False,False
-Crossbow,AxeMace,S,I,S,False,False
-Crossbow,AxeMace,D,I,D,False,False
-Dagger,AxeMace,B,H,H,False,False
-Dagger,AxeMace,I,H,H,False,False
-Dagger,AxeMace,H,H,H,False,False
-Dagger,AxeMace,S,H,H,False,False
-Dagger,AxeMace,D,H,H,False,False
-Sword,AxeMace,B,H,H,False,False
-Sword,AxeMace,I,H,H,False,False
-Sword,AxeMace,H,H,H,False,False
-Sword,AxeMace,S,H,H,False,False
-Sword,AxeMace,D,H,H,False,False
-Great Sword,AxeMace,B,H,B,False,False
-Great Sword,AxeMace,I,H,I,False,False
-Great Sword,AxeMace,H,H,H,False,False
-Great Sword,AxeMace,S,H,S,False,False
-Great Sword,AxeMace,D,H,D,False,False
-AxeMace,AxeMace,B,H,H,False,False
-AxeMace,AxeMace,I,H,H,False,False
-AxeMace,AxeMace,H,H,H,False,False
-AxeMace,AxeMace,S,H,H,False,False
-AxeMace,AxeMace,D,H,H,False,False
-Great Axe,AxeMace,B,H,B,False,False
-Great Axe,AxeMace,I,H,I,False,False
-Great Axe,AxeMace,H,H,H,False,False
-Great Axe,AxeMace,S,H,S,False,False
-Great Axe,AxeMace,D,H,D,False,False
-Staff,AxeMace,B,H,H,False,False
-Staff,AxeMace,I,H,H,False,False
-Staff,AxeMace,H,H,H,False,False
-Staff,AxeMace,S,H,H,False,False
-Staff,AxeMace,D,H,H,False,False
-Heavy Mace,AxeMace,B,H,B,False,False
-Heavy Mace,AxeMace,I,H,I,False,False
-Heavy Mace,AxeMace,H,H,H,False,False
-Heavy Mace,AxeMace,S,H,S,False,False
-Heavy Mace,AxeMace,D,H,D,False,False
-Polearm,AxeMace,B,H,B,False,False
-Polearm,AxeMace,I,H,I,False,False
-Polearm,AxeMace,H,H,H,False,False
-Polearm,AxeMace,S,H,S,False,False
-Polearm,AxeMace,D,H,D,False,False
-Crossbow,AxeMace,B,H,B,False,False
-Crossbow,AxeMace,I,H,I,False,False
-Crossbow,AxeMace,H,H,H,False,False
-Crossbow,AxeMace,S,H,S,False,False
-Crossbow,AxeMace,D,H,D,False,False
-Dagger,AxeMace,B,S,S,False,False
-Dagger,AxeMace,I,S,S,False,False
-Dagger,AxeMace,H,S,S,False,False
-Dagger,AxeMace,S,S,S,False,False
-Dagger,AxeMace,D,S,S,False,False
-Sword,AxeMace,B,S,S,False,False
-Sword,AxeMace,I,S,S,False,False
-Sword,AxeMace,H,S,S,False,False
-Sword,AxeMace,S,S,S,False,False
-Sword,AxeMace,D,S,S,False,False
-Great Sword,AxeMace,B,S,B,False,False
-Great Sword,AxeMace,I,S,I,False,False
-Great Sword,AxeMace,H,S,H,False,False
-Great Sword,AxeMace,S,S,S,False,False
-Great Sword,AxeMace,D,S,D,False,False
-AxeMace,AxeMace,B,S,H,False,False
-AxeMace,AxeMace,I,S,H,False,False
-AxeMace,AxeMace,H,S,H,False,False
-AxeMace,AxeMace,S,S,S,False,False
-AxeMace,AxeMace,D,S,S,False,False
-Great Axe,AxeMace,B,S,B,False,False
-Great Axe,AxeMace,I,S,I,False,False
-Great Axe,AxeMace,H,S,H,False,False
-Great Axe,AxeMace,S,S,S,False,False
-Great Axe,AxeMace,D,S,D,False,False
-Staff,AxeMace,B,S,S,False,False
-Staff,AxeMace,I,S,S,False,False
-Staff,AxeMace,H,S,S,False,False
-Staff,AxeMace,S,S,S,False,False
-Staff,AxeMace,D,S,S,False,False
-Heavy Mace,AxeMace,B,S,B,False,False
-Heavy Mace,AxeMace,I,S,I,False,False
-Heavy Mace,AxeMace,H,S,H,False,False
-Heavy Mace,AxeMace,S,S,S,False,False
-Heavy Mace,AxeMace,D,S,D,False,False
-Polearm,AxeMace,B,S,B,False,False
-Polearm,AxeMace,I,S,I,False,False
-Polearm,AxeMace,H,S,H,False,False
-Polearm,AxeMace,S,S,S,False,False
-Polearm,AxeMace,D,S,D,False,False
-Crossbow,AxeMace,B,S,B,False,False
-Crossbow,AxeMace,I,S,I,False,False
-Crossbow,AxeMace,H,S,H,False,False
-Crossbow,AxeMace,S,S,S,False,False
-Crossbow,AxeMace,D,S,D,False,False
-Dagger,AxeMace,B,D,D,False,False
-Dagger,AxeMace,I,D,D,False,False
-Dagger,AxeMace,H,D,D,False,False
-Dagger,AxeMace,S,D,D,False,False
-Dagger,AxeMace,D,D,D,False,False
-Sword,AxeMace,B,D,D,False,False
-Sword,AxeMace,I,D,D,False,False
-Sword,AxeMace,H,D,D,False,False
-Sword,AxeMace,S,D,D,False,False
-Sword,AxeMace,D,D,D,False,False
-Great Sword,AxeMace,B,D,B,False,False
-Great Sword,AxeMace,I,D,I,False,False
-Great Sword,AxeMace,H,D,H,False,False
-Great Sword,AxeMace,S,D,S,False,False
-Great Sword,AxeMace,D,D,D,False,False
-AxeMace,AxeMace,B,D,H,False,False
-AxeMace,AxeMace,I,D,H,False,False
-AxeMace,AxeMace,H,D,H,False,False
-AxeMace,AxeMace,S,D,S,False,False
-AxeMace,AxeMace,D,D,D,False,False
-Great Axe,AxeMace,B,D,B,False,False
-Great Axe,AxeMace,I,D,I,False,False
-Great Axe,AxeMace,H,D,H,False,False
-Great Axe,AxeMace,S,D,S,False,False
-Great Axe,AxeMace,D,D,D,False,False
-Staff,AxeMace,B,D,D,False,False
-Staff,AxeMace,I,D,D,False,False
-Staff,AxeMace,H,D,D,False,False
-Staff,AxeMace,S,D,D,False,False
-Staff,AxeMace,D,D,D,False,False
-Heavy Mace,AxeMace,B,D,B,False,False
-Heavy Mace,AxeMace,I,D,I,False,False
-Heavy Mace,AxeMace,H,D,H,False,False
-Heavy Mace,AxeMace,S,D,S,False,False
-Heavy Mace,AxeMace,D,D,D,False,False
-Polearm,AxeMace,B,D,B,False,False
-Polearm,AxeMace,I,D,I,False,False
-Polearm,AxeMace,H,D,H,False,False
-Polearm,AxeMace,S,D,S,False,False
-Polearm,AxeMace,D,D,D,False,False
-Crossbow,AxeMace,B,D,B,False,False
-Crossbow,AxeMace,I,D,I,False,False
-Crossbow,AxeMace,H,D,H,False,False
-Crossbow,AxeMace,S,D,S,False,False
-Crossbow,AxeMace,D,D,D,False,False
-Dagger,Great Axe,B,B,B,False,False
-Dagger,Great Axe,I,B,B,False,False
-Dagger,Great Axe,H,B,B,False,False
-Dagger,Great Axe,S,B,B,False,False
-Dagger,Great Axe,D,B,B,False,False
-Sword,Great Axe,B,B,B,False,False
-Sword,Great Axe,I,B,B,False,False
-Sword,Great Axe,H,B,B,False,False
-Sword,Great Axe,S,B,B,False,False
-Sword,Great Axe,D,B,B,False,False
-Great Sword,Great Axe,B,B,B,False,False
-Great Sword,Great Axe,I,B,B,False,False
-Great Sword,Great Axe,H,B,B,False,False
-Great Sword,Great Axe,S,B,B,False,False
-Great Sword,Great Axe,D,B,B,False,False
-AxeMace,Great Axe,B,B,B,False,False
-AxeMace,Great Axe,I,B,B,False,False
-AxeMace,Great Axe,H,B,B,False,False
-AxeMace,Great Axe,S,B,B,False,False
-AxeMace,Great Axe,D,B,B,False,False
-Great Axe,Great Axe,B,B,B,False,False
-Great Axe,Great Axe,I,B,H,True,False
-Great Axe,Great Axe,H,B,H,False,False
-Great Axe,Great Axe,S,B,H,False,False
-Great Axe,Great Axe,D,B,H,False,False
-Staff,Great Axe,B,B,B,False,False
-Staff,Great Axe,I,B,B,False,False
-Staff,Great Axe,H,B,B,False,False
-Staff,Great Axe,S,B,B,False,False
-Staff,Great Axe,D,B,B,False,False
-Heavy Mace,Great Axe,B,B,B,False,False
-Heavy Mace,Great Axe,I,B,I,False,False
-Heavy Mace,Great Axe,H,B,H,False,False
-Heavy Mace,Great Axe,S,B,S,False,False
-Heavy Mace,Great Axe,D,B,D,False,False
-Polearm,Great Axe,B,B,B,False,False
-Polearm,Great Axe,I,B,I,False,False
-Polearm,Great Axe,H,B,H,False,False
-Polearm,Great Axe,S,B,S,False,False
-Polearm,Great Axe,D,B,D,False,False
-Crossbow,Great Axe,B,B,B,False,False
-Crossbow,Great Axe,I,B,B,False,False
-Crossbow,Great Axe,H,B,B,False,False
-Crossbow,Great Axe,S,B,B,False,False
-Crossbow,Great Axe,D,B,B,False,False
-Dagger,Great Axe,B,I,I,False,False
-Dagger,Great Axe,I,I,I,False,False
-Dagger,Great Axe,H,I,I,False,False
-Dagger,Great Axe,S,I,I,False,False
-Dagger,Great Axe,D,I,I,False,False
-Sword,Great Axe,B,I,I,False,False
-Sword,Great Axe,I,I,I,False,False
-Sword,Great Axe,H,I,I,False,False
-Sword,Great Axe,S,I,I,False,False
-Sword,Great Axe,D,I,I,False,False
-Great Sword,Great Axe,B,I,I,False,False
-Great Sword,Great Axe,I,I,I,False,False
-Great Sword,Great Axe,H,I,I,False,False
-Great Sword,Great Axe,S,I,I,False,False
-Great Sword,Great Axe,D,I,I,False,False
-AxeMace,Great Axe,B,I,I,False,False
-AxeMace,Great Axe,I,I,I,False,False
-AxeMace,Great Axe,H,I,I,False,False
-AxeMace,Great Axe,S,I,I,False,False
-AxeMace,Great Axe,D,I,I,False,False
-Great Axe,Great Axe,B,I,H,True,False
-Great Axe,Great Axe,I,I,I,False,False
-Great Axe,Great Axe,H,I,H,False,False
-Great Axe,Great Axe,S,I,H,False,False
-Great Axe,Great Axe,D,I,H,False,False
-Staff,Great Axe,B,I,I,False,False
-Staff,Great Axe,I,I,I,False,False
-Staff,Great Axe,H,I,I,False,False
-Staff,Great Axe,S,I,I,False,False
-Staff,Great Axe,D,I,I,False,False
-Heavy Mace,Great Axe,B,I,B,False,False
-Heavy Mace,Great Axe,I,I,I,False,False
-Heavy Mace,Great Axe,H,I,H,False,False
-Heavy Mace,Great Axe,S,I,S,False,False
-Heavy Mace,Great Axe,D,I,D,False,False
-Polearm,Great Axe,B,I,B,False,False
-Polearm,Great Axe,I,I,I,False,False
-Polearm,Great Axe,H,I,H,False,False
-Polearm,Great Axe,S,I,S,False,False
-Polearm,Great Axe,D,I,D,False,False
-Crossbow,Great Axe,B,I,I,False,False
-Crossbow,Great Axe,I,I,I,False,False
-Crossbow,Great Axe,H,I,I,False,False
-Crossbow,Great Axe,S,I,I,False,False
-Crossbow,Great Axe,D,I,I,False,False
-Dagger,Great Axe,B,H,H,False,False
-Dagger,Great Axe,I,H,H,False,False
-Dagger,Great Axe,H,H,H,False,False
-Dagger,Great Axe,S,H,H,False,False
-Dagger,Great Axe,D,H,H,False,False
-Sword,Great Axe,B,H,H,False,False
-Sword,Great Axe,I,H,H,False,False
-Sword,Great Axe,H,H,H,False,False
-Sword,Great Axe,S,H,H,False,False
-Sword,Great Axe,D,H,H,False,False
-Great Sword,Great Axe,B,H,H,False,False
-Great Sword,Great Axe,I,H,H,False,False
-Great Sword,Great Axe,H,H,H,False,False
-Great Sword,Great Axe,S,H,H,False,False
-Great Sword,Great Axe,D,H,H,False,False
-AxeMace,Great Axe,B,H,H,False,False
-AxeMace,Great Axe,I,H,H,False,False
-AxeMace,Great Axe,H,H,H,False,False
-AxeMace,Great Axe,S,H,H,False,False
-AxeMace,Great Axe,D,H,H,False,False
-Great Axe,Great Axe,B,H,H,False,False
-Great Axe,Great Axe,I,H,H,False,False
-Great Axe,Great Axe,H,H,H,False,False
-Great Axe,Great Axe,S,H,H,False,False
-Great Axe,Great Axe,D,H,H,False,False
-Staff,Great Axe,B,H,H,False,False
-Staff,Great Axe,I,H,H,False,False
-Staff,Great Axe,H,H,H,False,False
-Staff,Great Axe,S,H,H,False,False
-Staff,Great Axe,D,H,H,False,False
-Heavy Mace,Great Axe,B,H,B,False,False
-Heavy Mace,Great Axe,I,H,I,False,False
-Heavy Mace,Great Axe,H,H,H,False,False
-Heavy Mace,Great Axe,S,H,S,False,False
-Heavy Mace,Great Axe,D,H,D,False,False
-Polearm,Great Axe,B,H,B,False,False
-Polearm,Great Axe,I,H,I,False,False
-Polearm,Great Axe,H,H,H,False,False
-Polearm,Great Axe,S,H,S,False,False
-Polearm,Great Axe,D,H,D,False,False
-Crossbow,Great Axe,B,H,H,False,False
-Crossbow,Great Axe,I,H,H,False,False
-Crossbow,Great Axe,H,H,H,False,False
-Crossbow,Great Axe,S,H,H,False,False
-Crossbow,Great Axe,D,H,H,False,False
-Dagger,Great Axe,B,S,S,False,False
-Dagger,Great Axe,I,S,S,False,False
-Dagger,Great Axe,H,S,S,False,False
-Dagger,Great Axe,S,S,S,False,False
-Dagger,Great Axe,D,S,S,False,False
-Sword,Great Axe,B,S,S,False,False
-Sword,Great Axe,I,S,S,False,False
-Sword,Great Axe,H,S,S,False,False
-Sword,Great Axe,S,S,S,False,False
-Sword,Great Axe,D,S,S,False,False
-Great Sword,Great Axe,B,S,S,False,False
-Great Sword,Great Axe,I,S,S,False,False
-Great Sword,Great Axe,H,S,S,False,False
-Great Sword,Great Axe,S,S,S,False,False
-Great Sword,Great Axe,D,S,S,False,False
-AxeMace,Great Axe,B,S,S,False,False
-AxeMace,Great Axe,I,S,S,False,False
-AxeMace,Great Axe,H,S,S,False,False
-AxeMace,Great Axe,S,S,S,False,False
-AxeMace,Great Axe,D,S,S,False,False
-Great Axe,Great Axe,B,S,H,False,False
-Great Axe,Great Axe,I,S,H,False,False
-Great Axe,Great Axe,H,S,H,False,False
-Great Axe,Great Axe,S,S,S,False,False
-Great Axe,Great Axe,D,S,S,False,False
-Staff,Great Axe,B,S,S,False,False
-Staff,Great Axe,I,S,D,True,False
-Staff,Great Axe,H,S,S,False,False
-Staff,Great Axe,S,S,S,False,False
-Staff,Great Axe,D,S,S,False,False
-Heavy Mace,Great Axe,B,S,B,False,False
-Heavy Mace,Great Axe,I,S,I,False,False
-Heavy Mace,Great Axe,H,S,H,False,False
-Heavy Mace,Great Axe,S,S,S,False,False
-Heavy Mace,Great Axe,D,S,D,False,False
-Polearm,Great Axe,B,S,B,False,False
-Polearm,Great Axe,I,S,I,False,False
-Polearm,Great Axe,H,S,H,False,False
-Polearm,Great Axe,S,S,S,False,False
-Polearm,Great Axe,D,S,D,False,False
-Crossbow,Great Axe,B,S,S,False,False
-Crossbow,Great Axe,I,S,S,False,False
-Crossbow,Great Axe,H,S,S,False,False
-Crossbow,Great Axe,S,S,S,False,False
-Crossbow,Great Axe,D,S,S,False,False
-Dagger,Great Axe,B,D,D,False,False
-Dagger,Great Axe,I,D,D,False,False
-Dagger,Great Axe,H,D,D,False,False
-Dagger,Great Axe,S,D,D,False,False
-Dagger,Great Axe,D,D,D,False,False
-Sword,Great Axe,B,D,D,False,False
-Sword,Great Axe,I,D,D,False,False
-Sword,Great Axe,H,D,D,False,False
-Sword,Great Axe,S,D,D,False,False
-Sword,Great Axe,D,D,D,False,False
-Great Sword,Great Axe,B,D,D,False,False
-Great Sword,Great Axe,I,D,D,False,False
-Great Sword,Great Axe,H,D,D,False,False
-Great Sword,Great Axe,S,D,D,False,False
-Great Sword,Great Axe,D,D,D,False,False
-AxeMace,Great Axe,B,D,D,False,False
-AxeMace,Great Axe,I,D,D,False,False
-AxeMace,Great Axe,H,D,D,False,False
-AxeMace,Great Axe,S,D,D,False,False
-AxeMace,Great Axe,D,D,D,False,False
-Great Axe,Great Axe,B,D,H,False,False
-Great Axe,Great Axe,I,D,H,False,False
-Great Axe,Great Axe,H,D,H,False,False
-Great Axe,Great Axe,S,D,S,False,False
-Great Axe,Great Axe,D,D,D,False,False
-Staff,Great Axe,B,D,D,False,False
-Staff,Great Axe,I,D,D,False,False
-Staff,Great Axe,H,D,D,False,False
-Staff,Great Axe,S,D,D,False,False
-Staff,Great Axe,D,D,D,False,False
-Heavy Mace,Great Axe,B,D,B,False,False
-Heavy Mace,Great Axe,I,D,I,False,False
-Heavy Mace,Great Axe,H,D,H,False,False
-Heavy Mace,Great Axe,S,D,S,False,False
-Heavy Mace,Great Axe,D,D,D,False,False
-Polearm,Great Axe,B,D,B,False,False
-Polearm,Great Axe,I,D,I,False,False
-Polearm,Great Axe,H,D,H,False,False
-Polearm,Great Axe,S,D,S,False,False
-Polearm,Great Axe,D,D,D,False,False
-Crossbow,Great Axe,B,D,D,False,False
-Crossbow,Great Axe,I,D,D,False,False
-Crossbow,Great Axe,H,D,D,False,False
-Crossbow,Great Axe,S,D,D,False,False
-Crossbow,Great Axe,D,D,D,False,False
-Dagger,Staff,B,B,B,False,False
-Dagger,Staff,I,B,B,False,False
-Dagger,Staff,H,B,B,False,False
-Dagger,Staff,S,B,B,False,False
-Dagger,Staff,D,B,B,False,False
-Sword,Staff,B,B,B,False,False
-Sword,Staff,I,B,I,False,False
-Sword,Staff,H,B,H,False,False
-Sword,Staff,S,B,S,False,False
-Sword,Staff,D,B,D,False,False
-Great Sword,Staff,B,B,B,False,False
-Great Sword,Staff,I,B,I,False,False
-Great Sword,Staff,H,B,H,False,False
-Great Sword,Staff,S,B,S,False,False
-Great Sword,Staff,D,B,D,False,False
-AxeMace,Staff,B,B,B,False,False
-AxeMace,Staff,I,B,I,False,False
-AxeMace,Staff,H,B,H,False,False
-AxeMace,Staff,S,B,S,False,False
-AxeMace,Staff,D,B,D,False,False
-Great Axe,Staff,B,B,B,False,False
-Great Axe,Staff,I,B,I,False,False
-Great Axe,Staff,H,B,H,False,False
-Great Axe,Staff,S,B,S,False,False
-Great Axe,Staff,D,B,D,False,False
-Staff,Staff,B,B,B,False,False
-Staff,Staff,I,B,H,True,False
-Staff,Staff,H,B,H,False,False
-Staff,Staff,S,B,H,False,False
-Staff,Staff,D,B,H,False,False
-Heavy Mace,Staff,B,B,B,False,False
-Heavy Mace,Staff,I,B,I,False,False
-Heavy Mace,Staff,H,B,H,False,False
-Heavy Mace,Staff,S,B,S,False,False
-Heavy Mace,Staff,D,B,D,False,False
-Polearm,Staff,B,B,B,False,False
-Polearm,Staff,I,B,I,False,False
-Polearm,Staff,H,B,H,False,False
-Polearm,Staff,S,B,S,False,False
-Polearm,Staff,D,B,D,False,False
-Crossbow,Staff,B,B,B,False,False
-Crossbow,Staff,I,B,I,False,False
-Crossbow,Staff,H,B,H,False,False
-Crossbow,Staff,S,B,S,False,False
-Crossbow,Staff,D,B,D,False,False
-Dagger,Staff,B,I,I,False,False
-Dagger,Staff,I,I,I,False,False
-Dagger,Staff,H,I,I,False,False
-Dagger,Staff,S,I,I,False,False
-Dagger,Staff,D,I,I,False,False
-Sword,Staff,B,I,B,False,False
-Sword,Staff,I,I,I,False,False
-Sword,Staff,H,I,H,False,False
-Sword,Staff,S,I,S,False,False
-Sword,Staff,D,I,D,False,False
-Great Sword,Staff,B,I,B,False,False
-Great Sword,Staff,I,I,I,False,False
-Great Sword,Staff,H,I,H,False,False
-Great Sword,Staff,S,I,S,False,False
-Great Sword,Staff,D,I,D,False,False
-AxeMace,Staff,B,I,B,False,False
-AxeMace,Staff,I,I,I,False,False
-AxeMace,Staff,H,I,H,False,False
-AxeMace,Staff,S,I,S,False,False
-AxeMace,Staff,D,I,D,False,False
-Great Axe,Staff,B,I,B,False,False
-Great Axe,Staff,I,I,I,False,False
-Great Axe,Staff,H,I,H,False,False
-Great Axe,Staff,S,I,S,False,False
-Great Axe,Staff,D,I,D,False,False
-Staff,Staff,B,I,H,True,False
-Staff,Staff,I,I,I,False,False
-Staff,Staff,H,I,H,False,False
-Staff,Staff,S,I,H,False,False
-Staff,Staff,D,I,H,False,False
-Heavy Mace,Staff,B,I,B,False,False
-Heavy Mace,Staff,I,I,I,False,False
-Heavy Mace,Staff,H,I,H,False,False
-Heavy Mace,Staff,S,I,S,False,False
-Heavy Mace,Staff,D,I,D,False,False
-Polearm,Staff,B,I,B,False,False
-Polearm,Staff,I,I,I,False,False
-Polearm,Staff,H,I,H,False,False
-Polearm,Staff,S,I,S,False,False
-Polearm,Staff,D,I,D,False,False
-Crossbow,Staff,B,I,B,False,False
-Crossbow,Staff,I,I,I,False,False
-Crossbow,Staff,H,I,H,False,False
-Crossbow,Staff,S,I,S,False,False
-Crossbow,Staff,D,I,D,False,False
-Dagger,Staff,B,H,H,False,False
-Dagger,Staff,I,H,H,False,False
-Dagger,Staff,H,H,H,False,False
-Dagger,Staff,S,H,H,False,False
-Dagger,Staff,D,H,H,False,False
-Sword,Staff,B,H,B,False,False
-Sword,Staff,I,H,I,False,False
-Sword,Staff,H,H,H,False,False
-Sword,Staff,S,H,S,False,False
-Sword,Staff,D,H,D,False,False
-Great Sword,Staff,B,H,B,False,False
-Great Sword,Staff,I,H,I,False,False
-Great Sword,Staff,H,H,H,False,False
-Great Sword,Staff,S,H,S,False,False
-Great Sword,Staff,D,H,D,False,False
-AxeMace,Staff,B,H,B,False,False
-AxeMace,Staff,I,H,I,False,False
-AxeMace,Staff,H,H,H,False,False
-AxeMace,Staff,S,H,D,True,False
-AxeMace,Staff,D,H,D,False,False
-Great Axe,Staff,B,H,B,False,False
-Great Axe,Staff,I,H,I,False,False
-Great Axe,Staff,H,H,H,False,False
-Great Axe,Staff,S,H,S,False,False
-Great Axe,Staff,D,H,D,False,False
-Staff,Staff,B,H,H,False,False
-Staff,Staff,I,H,H,False,False
-Staff,Staff,H,H,H,False,False
-Staff,Staff,S,H,H,False,False
-Staff,Staff,D,H,H,False,False
-Heavy Mace,Staff,B,H,B,False,False
-Heavy Mace,Staff,I,H,I,False,False
-Heavy Mace,Staff,H,H,H,False,False
-Heavy Mace,Staff,S,H,S,False,False
-Heavy Mace,Staff,D,H,D,False,False
-Polearm,Staff,B,H,B,False,False
-Polearm,Staff,I,H,I,False,False
-Polearm,Staff,H,H,H,False,False
-Polearm,Staff,S,H,S,False,False
-Polearm,Staff,D,H,D,False,False
-Crossbow,Staff,B,H,B,False,False
-Crossbow,Staff,I,H,I,False,False
-Crossbow,Staff,H,H,H,False,False
-Crossbow,Staff,S,H,S,False,False
-Crossbow,Staff,D,H,D,False,False
-Dagger,Staff,B,S,S,False,False
-Dagger,Staff,I,S,S,False,False
-Dagger,Staff,H,S,D,True,False
-Dagger,Staff,S,S,S,False,False
-Dagger,Staff,D,S,S,False,False
-Sword,Staff,B,S,B,False,False
-Sword,Staff,I,S,I,False,False
-Sword,Staff,H,S,H,False,False
-Sword,Staff,S,S,S,False,False
-Sword,Staff,D,S,D,False,False
-Great Sword,Staff,B,S,B,False,False
-Great Sword,Staff,I,S,I,False,False
-Great Sword,Staff,H,S,H,False,False
-Great Sword,Staff,S,S,S,False,False
-Great Sword,Staff,D,S,D,False,False
-AxeMace,Staff,B,S,B,False,False
-AxeMace,Staff,I,S,I,False,False
-AxeMace,Staff,H,S,H,False,False
-AxeMace,Staff,S,S,S,False,False
-AxeMace,Staff,D,S,D,False,False
-Great Axe,Staff,B,S,B,False,False
-Great Axe,Staff,I,S,I,False,False
-Great Axe,Staff,H,S,H,False,False
-Great Axe,Staff,S,S,S,False,False
-Great Axe,Staff,D,S,D,False,False
-Staff,Staff,B,S,H,False,False
-Staff,Staff,I,S,H,False,False
-Staff,Staff,H,S,H,False,False
-Staff,Staff,S,S,S,False,False
-Staff,Staff,D,S,S,False,False
-Heavy Mace,Staff,B,S,B,False,False
-Heavy Mace,Staff,I,S,I,False,False
-Heavy Mace,Staff,H,S,H,False,False
-Heavy Mace,Staff,S,S,S,False,False
-Heavy Mace,Staff,D,S,D,False,False
-Polearm,Staff,B,S,B,False,False
-Polearm,Staff,I,S,I,False,False
-Polearm,Staff,H,S,H,False,False
-Polearm,Staff,S,S,S,False,False
-Polearm,Staff,D,S,D,False,False
-Crossbow,Staff,B,S,B,False,False
-Crossbow,Staff,I,S,I,False,False
-Crossbow,Staff,H,S,H,False,False
-Crossbow,Staff,S,S,S,False,False
-Crossbow,Staff,D,S,D,False,False
-Dagger,Staff,B,D,D,False,False
-Dagger,Staff,I,D,D,False,False
-Dagger,Staff,H,D,D,False,False
-Dagger,Staff,S,D,D,False,False
-Dagger,Staff,D,D,D,False,False
-Sword,Staff,B,D,B,False,False
-Sword,Staff,I,D,I,False,False
-Sword,Staff,H,D,H,False,False
-Sword,Staff,S,D,S,False,False
-Sword,Staff,D,D,D,False,False
-Great Sword,Staff,B,D,B,False,False
-Great Sword,Staff,I,D,I,False,False
-Great Sword,Staff,H,D,H,False,False
-Great Sword,Staff,S,D,S,False,False
-Great Sword,Staff,D,D,D,False,False
-AxeMace,Staff,B,D,B,False,False
-AxeMace,Staff,I,D,I,False,False
-AxeMace,Staff,H,D,H,False,False
-AxeMace,Staff,S,D,S,False,False
-AxeMace,Staff,D,D,D,False,False
-Great Axe,Staff,B,D,B,False,False
-Great Axe,Staff,I,D,I,False,False
-Great Axe,Staff,H,D,H,False,False
-Great Axe,Staff,S,D,S,False,False
-Great Axe,Staff,D,D,D,False,False
-Staff,Staff,B,D,H,False,False
-Staff,Staff,I,D,H,False,False
-Staff,Staff,H,D,H,False,False
-Staff,Staff,S,D,S,False,False
-Staff,Staff,D,D,D,False,False
-Heavy Mace,Staff,B,D,B,False,False
-Heavy Mace,Staff,I,D,I,False,False
-Heavy Mace,Staff,H,D,H,False,False
-Heavy Mace,Staff,S,D,S,False,False
-Heavy Mace,Staff,D,D,D,False,False
-Polearm,Staff,B,D,B,False,False
-Polearm,Staff,I,D,I,False,False
-Polearm,Staff,H,D,H,False,False
-Polearm,Staff,S,D,S,False,False
-Polearm,Staff,D,D,D,False,False
-Crossbow,Staff,B,D,B,False,False
-Crossbow,Staff,I,D,I,False,False
-Crossbow,Staff,H,D,H,False,False
-Crossbow,Staff,S,D,S,False,False
-Crossbow,Staff,D,D,D,False,False
-Dagger,Heavy Mace,B,B,B,False,False
-Dagger,Heavy Mace,I,B,B,False,False
-Dagger,Heavy Mace,H,B,B,False,False
-Dagger,Heavy Mace,S,B,B,False,False
-Dagger,Heavy Mace,D,B,B,False,False
-Sword,Heavy Mace,B,B,B,False,False
-Sword,Heavy Mace,I,B,B,False,False
-Sword,Heavy Mace,H,B,B,False,False
-Sword,Heavy Mace,S,B,B,False,False
-Sword,Heavy Mace,D,B,B,False,False
-Great Sword,Heavy Mace,B,B,B,False,False
-Great Sword,Heavy Mace,I,B,B,False,False
-Great Sword,Heavy Mace,H,B,B,False,False
-Great Sword,Heavy Mace,S,B,B,False,False
-Great Sword,Heavy Mace,D,B,B,False,False
-AxeMace,Heavy Mace,B,B,B,False,False
-AxeMace,Heavy Mace,I,B,B,False,False
-AxeMace,Heavy Mace,H,B,B,False,False
-AxeMace,Heavy Mace,S,B,B,False,False
-AxeMace,Heavy Mace,D,B,B,False,False
-Great Axe,Heavy Mace,B,B,B,False,False
-Great Axe,Heavy Mace,I,B,B,False,False
-Great Axe,Heavy Mace,H,B,B,False,False
-Great Axe,Heavy Mace,S,B,B,False,False
-Great Axe,Heavy Mace,D,B,B,False,False
-Staff,Heavy Mace,B,B,B,False,False
-Staff,Heavy Mace,I,B,B,False,False
-Staff,Heavy Mace,H,B,B,False,False
-Staff,Heavy Mace,S,B,B,False,False
-Staff,Heavy Mace,D,B,B,False,False
-Heavy Mace,Heavy Mace,B,B,B,False,False
-Heavy Mace,Heavy Mace,I,B,H,True,False
-Heavy Mace,Heavy Mace,H,B,H,False,False
-Heavy Mace,Heavy Mace,S,B,H,False,False
-Heavy Mace,Heavy Mace,D,B,H,False,False
-Polearm,Heavy Mace,B,B,B,False,False
-Polearm,Heavy Mace,I,B,B,False,False
-Polearm,Heavy Mace,H,B,B,False,False
-Polearm,Heavy Mace,S,B,B,False,False
-Polearm,Heavy Mace,D,B,B,False,False
-Crossbow,Heavy Mace,B,B,B,False,False
-Crossbow,Heavy Mace,I,B,B,False,False
-Crossbow,Heavy Mace,H,B,B,False,False
-Crossbow,Heavy Mace,S,B,B,False,False
-Crossbow,Heavy Mace,D,B,B,False,False
-Dagger,Heavy Mace,B,I,I,False,False
-Dagger,Heavy Mace,I,I,I,False,False
-Dagger,Heavy Mace,H,I,I,False,False
-Dagger,Heavy Mace,S,I,I,False,False
-Dagger,Heavy Mace,D,I,I,False,False
-Sword,Heavy Mace,B,I,I,False,False
-Sword,Heavy Mace,I,I,I,False,False
-Sword,Heavy Mace,H,I,I,False,False
-Sword,Heavy Mace,S,I,I,False,False
-Sword,Heavy Mace,D,I,I,False,False
-Great Sword,Heavy Mace,B,I,I,False,False
-Great Sword,Heavy Mace,I,I,I,False,False
-Great Sword,Heavy Mace,H,I,I,False,False
-Great Sword,Heavy Mace,S,I,I,False,False
-Great Sword,Heavy Mace,D,I,I,False,False
-AxeMace,Heavy Mace,B,I,I,False,False
-AxeMace,Heavy Mace,I,I,I,False,False
-AxeMace,Heavy Mace,H,I,I,False,False
-AxeMace,Heavy Mace,S,I,I,False,False
-AxeMace,Heavy Mace,D,I,I,False,False
-Great Axe,Heavy Mace,B,I,I,False,False
-Great Axe,Heavy Mace,I,I,I,False,False
-Great Axe,Heavy Mace,H,I,I,False,False
-Great Axe,Heavy Mace,S,I,I,False,False
-Great Axe,Heavy Mace,D,I,I,False,False
-Staff,Heavy Mace,B,I,I,False,False
-Staff,Heavy Mace,I,I,I,False,False
-Staff,Heavy Mace,H,I,I,False,False
-Staff,Heavy Mace,S,I,I,False,False
-Staff,Heavy Mace,D,I,I,False,False
-Heavy Mace,Heavy Mace,B,I,H,True,False
-Heavy Mace,Heavy Mace,I,I,I,False,False
-Heavy Mace,Heavy Mace,H,I,H,False,False
-Heavy Mace,Heavy Mace,S,I,H,False,False
-Heavy Mace,Heavy Mace,D,I,H,False,False
-Polearm,Heavy Mace,B,I,I,False,False
-Polearm,Heavy Mace,I,I,I,False,False
-Polearm,Heavy Mace,H,I,I,False,False
-Polearm,Heavy Mace,S,I,I,False,False
-Polearm,Heavy Mace,D,I,I,False,False
-Crossbow,Heavy Mace,B,I,I,False,False
-Crossbow,Heavy Mace,I,I,I,False,False
-Crossbow,Heavy Mace,H,I,I,False,False
-Crossbow,Heavy Mace,S,I,I,False,False
-Crossbow,Heavy Mace,D,I,I,False,False
-Dagger,Heavy Mace,B,H,H,False,False
-Dagger,Heavy Mace,I,H,H,False,False
-Dagger,Heavy Mace,H,H,H,False,False
-Dagger,Heavy Mace,S,H,H,False,False
-Dagger,Heavy Mace,D,H,H,False,False
-Sword,Heavy Mace,B,H,H,False,False
-Sword,Heavy Mace,I,H,H,False,False
-Sword,Heavy Mace,H,H,H,False,False
-Sword,Heavy Mace,S,H,H,False,False
-Sword,Heavy Mace,D,H,H,False,False
-Great Sword,Heavy Mace,B,H,H,False,False
-Great Sword,Heavy Mace,I,H,H,False,False
-Great Sword,Heavy Mace,H,H,H,False,False
-Great Sword,Heavy Mace,S,H,H,False,False
-Great Sword,Heavy Mace,D,H,H,False,False
-AxeMace,Heavy Mace,B,H,H,False,False
-AxeMace,Heavy Mace,I,H,H,False,False
-AxeMace,Heavy Mace,H,H,H,False,False
-AxeMace,Heavy Mace,S,H,H,False,False
-AxeMace,Heavy Mace,D,H,H,False,False
-Great Axe,Heavy Mace,B,H,H,False,False
-Great Axe,Heavy Mace,I,H,H,False,False
-Great Axe,Heavy Mace,H,H,H,False,False
-Great Axe,Heavy Mace,S,H,H,False,False
-Great Axe,Heavy Mace,D,H,H,False,False
-Staff,Heavy Mace,B,H,H,False,False
-Staff,Heavy Mace,I,H,H,False,False
-Staff,Heavy Mace,H,H,H,False,False
-Staff,Heavy Mace,S,H,H,False,False
-Staff,Heavy Mace,D,H,H,False,False
-Heavy Mace,Heavy Mace,B,H,H,False,False
-Heavy Mace,Heavy Mace,I,H,H,False,False
-Heavy Mace,Heavy Mace,H,H,H,False,False
-Heavy Mace,Heavy Mace,S,H,H,False,False
-Heavy Mace,Heavy Mace,D,H,H,False,False
-Polearm,Heavy Mace,B,H,H,False,False
-Polearm,Heavy Mace,I,H,H,False,False
-Polearm,Heavy Mace,H,H,H,False,False
-Polearm,Heavy Mace,S,H,H,False,False
-Polearm,Heavy Mace,D,H,H,False,False
-Crossbow,Heavy Mace,B,H,H,False,False
-Crossbow,Heavy Mace,I,H,H,False,False
-Crossbow,Heavy Mace,H,H,H,False,False
-Crossbow,Heavy Mace,S,H,H,False,False
-Crossbow,Heavy Mace,D,H,H,False,False
-Dagger,Heavy Mace,B,S,S,False,False
-Dagger,Heavy Mace,I,S,S,False,False
-Dagger,Heavy Mace,H,S,S,False,False
-Dagger,Heavy Mace,S,S,S,False,False
-Dagger,Heavy Mace,D,S,S,False,False
-Sword,Heavy Mace,B,S,S,False,False
-Sword,Heavy Mace,I,S,S,False,False
-Sword,Heavy Mace,H,S,S,False,False
-Sword,Heavy Mace,S,S,S,False,False
-Sword,Heavy Mace,D,S,S,False,False
-Great Sword,Heavy Mace,B,S,S,False,False
-Great Sword,Heavy Mace,I,S,S,False,False
-Great Sword,Heavy Mace,H,S,S,False,False
-Great Sword,Heavy Mace,S,S,S,False,False
-Great Sword,Heavy Mace,D,S,S,False,False
-AxeMace,Heavy Mace,B,S,S,False,False
-AxeMace,Heavy Mace,I,S,S,False,False
-AxeMace,Heavy Mace,H,S,S,False,False
-AxeMace,Heavy Mace,S,S,S,False,False
-AxeMace,Heavy Mace,D,S,S,False,False
-Great Axe,Heavy Mace,B,S,S,False,False
-Great Axe,Heavy Mace,I,S,S,False,False
-Great Axe,Heavy Mace,H,S,S,False,False
-Great Axe,Heavy Mace,S,S,S,False,False
-Great Axe,Heavy Mace,D,S,S,False,False
-Staff,Heavy Mace,B,S,S,False,False
-Staff,Heavy Mace,I,S,S,False,False
-Staff,Heavy Mace,H,S,S,False,False
-Staff,Heavy Mace,S,S,S,False,False
-Staff,Heavy Mace,D,S,S,False,False
-Heavy Mace,Heavy Mace,B,S,H,False,False
-Heavy Mace,Heavy Mace,I,S,H,False,False
-Heavy Mace,Heavy Mace,H,S,H,False,False
-Heavy Mace,Heavy Mace,S,S,S,False,False
-Heavy Mace,Heavy Mace,D,S,S,False,False
-Polearm,Heavy Mace,B,S,S,False,False
-Polearm,Heavy Mace,I,S,S,False,False
-Polearm,Heavy Mace,H,S,S,False,False
-Polearm,Heavy Mace,S,S,S,False,False
-Polearm,Heavy Mace,D,S,S,False,False
-Crossbow,Heavy Mace,B,S,S,False,False
-Crossbow,Heavy Mace,I,S,S,False,False
-Crossbow,Heavy Mace,H,S,S,False,False
-Crossbow,Heavy Mace,S,S,S,False,False
-Crossbow,Heavy Mace,D,S,S,False,False
-Dagger,Heavy Mace,B,D,D,False,False
-Dagger,Heavy Mace,I,D,D,False,False
-Dagger,Heavy Mace,H,D,D,False,False
-Dagger,Heavy Mace,S,D,D,False,False
-Dagger,Heavy Mace,D,D,D,False,False
-Sword,Heavy Mace,B,D,D,False,False
-Sword,Heavy Mace,I,D,D,False,False
-Sword,Heavy Mace,H,D,D,False,False
-Sword,Heavy Mace,S,D,D,False,False
-Sword,Heavy Mace,D,D,D,False,False
-Great Sword,Heavy Mace,B,D,D,False,False
-Great Sword,Heavy Mace,I,D,D,False,False
-Great Sword,Heavy Mace,H,D,D,False,False
-Great Sword,Heavy Mace,S,D,D,False,False
-Great Sword,Heavy Mace,D,D,D,False,False
-AxeMace,Heavy Mace,B,D,D,False,False
-AxeMace,Heavy Mace,I,D,D,False,False
-AxeMace,Heavy Mace,H,D,D,False,False
-AxeMace,Heavy Mace,S,D,D,False,False
-AxeMace,Heavy Mace,D,D,D,False,False
-Great Axe,Heavy Mace,B,D,D,False,False
-Great Axe,Heavy Mace,I,D,D,False,False
-Great Axe,Heavy Mace,H,D,D,False,False
-Great Axe,Heavy Mace,S,D,D,False,False
-Great Axe,Heavy Mace,D,D,D,False,False
-Staff,Heavy Mace,B,D,D,False,False
-Staff,Heavy Mace,I,D,D,False,False
-Staff,Heavy Mace,H,D,D,False,False
-Staff,Heavy Mace,S,D,D,False,False
-Staff,Heavy Mace,D,D,D,False,False
-Heavy Mace,Heavy Mace,B,D,H,False,False
-Heavy Mace,Heavy Mace,I,D,H,False,False
-Heavy Mace,Heavy Mace,H,D,H,False,False
-Heavy Mace,Heavy Mace,S,D,S,False,False
-Heavy Mace,Heavy Mace,D,D,D,False,False
-Polearm,Heavy Mace,B,D,D,False,False
-Polearm,Heavy Mace,I,D,D,False,False
-Polearm,Heavy Mace,H,D,D,False,False
-Polearm,Heavy Mace,S,D,D,False,False
-Polearm,Heavy Mace,D,D,D,False,False
-Crossbow,Heavy Mace,B,D,D,False,False
-Crossbow,Heavy Mace,I,D,D,False,False
-Crossbow,Heavy Mace,H,D,D,False,False
-Crossbow,Heavy Mace,S,D,D,False,False
-Crossbow,Heavy Mace,D,D,D,False,False
-Dagger,Polearm,B,B,B,False,False
-Dagger,Polearm,I,B,B,False,False
-Dagger,Polearm,H,B,B,False,False
-Dagger,Polearm,S,B,B,False,False
-Dagger,Polearm,D,B,B,False,False
-Sword,Polearm,B,B,B,False,False
-Sword,Polearm,I,B,B,False,False
-Sword,Polearm,H,B,B,False,False
-Sword,Polearm,S,B,B,False,False
-Sword,Polearm,D,B,B,False,False
-Great Sword,Polearm,B,B,B,False,False
-Great Sword,Polearm,I,B,B,False,False
-Great Sword,Polearm,H,B,B,False,False
-Great Sword,Polearm,S,B,B,False,False
-Great Sword,Polearm,D,B,B,False,False
-AxeMace,Polearm,B,B,B,False,False
-AxeMace,Polearm,I,B,B,False,False
-AxeMace,Polearm,H,B,B,False,False
-AxeMace,Polearm,S,B,B,False,False
-AxeMace,Polearm,D,B,B,False,False
-Great Axe,Polearm,B,B,B,False,False
-Great Axe,Polearm,I,B,B,False,False
-Great Axe,Polearm,H,B,B,False,False
-Great Axe,Polearm,S,B,B,False,False
-Great Axe,Polearm,D,B,B,False,False
-Staff,Polearm,B,B,B,False,False
-Staff,Polearm,I,B,B,False,False
-Staff,Polearm,H,B,B,False,False
-Staff,Polearm,S,B,B,False,False
-Staff,Polearm,D,B,B,False,False
-Heavy Mace,Polearm,B,B,B,False,False
-Heavy Mace,Polearm,I,B,I,False,False
-Heavy Mace,Polearm,H,B,H,False,False
-Heavy Mace,Polearm,S,B,S,False,False
-Heavy Mace,Polearm,D,B,D,False,False
-Polearm,Polearm,B,B,B,False,False
-Polearm,Polearm,I,B,H,True,False
-Polearm,Polearm,H,B,H,False,False
-Polearm,Polearm,S,B,H,False,False
-Polearm,Polearm,D,B,H,False,False
-Crossbow,Polearm,B,B,B,False,False
-Crossbow,Polearm,I,B,B,False,False
-Crossbow,Polearm,H,B,B,False,False
-Crossbow,Polearm,S,B,B,False,False
-Crossbow,Polearm,D,B,B,False,False
-Dagger,Polearm,B,I,I,False,False
-Dagger,Polearm,I,I,I,False,False
-Dagger,Polearm,H,I,I,False,False
-Dagger,Polearm,S,I,I,False,False
-Dagger,Polearm,D,I,I,False,False
-Sword,Polearm,B,I,I,False,False
-Sword,Polearm,I,I,I,False,False
-Sword,Polearm,H,I,I,False,False
-Sword,Polearm,S,I,I,False,False
-Sword,Polearm,D,I,I,False,False
-Great Sword,Polearm,B,I,I,False,False
-Great Sword,Polearm,I,I,I,False,False
-Great Sword,Polearm,H,I,I,False,False
-Great Sword,Polearm,S,I,D,True,False
-Great Sword,Polearm,D,I,I,False,False
-AxeMace,Polearm,B,I,I,False,False
-AxeMace,Polearm,I,I,I,False,False
-AxeMace,Polearm,H,I,I,False,False
-AxeMace,Polearm,S,I,I,False,False
-AxeMace,Polearm,D,I,I,False,False
-Great Axe,Polearm,B,I,I,False,False
-Great Axe,Polearm,I,I,I,False,False
-Great Axe,Polearm,H,I,I,False,False
-Great Axe,Polearm,S,I,I,False,False
-Great Axe,Polearm,D,I,I,False,False
-Staff,Polearm,B,I,I,False,False
-Staff,Polearm,I,I,I,False,False
-Staff,Polearm,H,I,I,False,False
-Staff,Polearm,S,I,I,False,False
-Staff,Polearm,D,I,I,False,False
-Heavy Mace,Polearm,B,I,B,False,False
-Heavy Mace,Polearm,I,I,I,False,False
-Heavy Mace,Polearm,H,I,H,False,False
-Heavy Mace,Polearm,S,I,S,False,False
-Heavy Mace,Polearm,D,I,D,False,False
-Polearm,Polearm,B,I,H,True,False
-Polearm,Polearm,I,I,I,False,False
-Polearm,Polearm,H,I,H,False,False
-Polearm,Polearm,S,I,H,False,False
-Polearm,Polearm,D,I,H,False,False
-Crossbow,Polearm,B,I,I,False,False
-Crossbow,Polearm,I,I,I,False,False
-Crossbow,Polearm,H,I,I,False,False
-Crossbow,Polearm,S,I,I,False,False
-Crossbow,Polearm,D,I,I,False,False
-Dagger,Polearm,B,H,H,False,False
-Dagger,Polearm,I,H,H,False,False
-Dagger,Polearm,H,H,H,False,False
-Dagger,Polearm,S,H,H,False,False
-Dagger,Polearm,D,H,H,False,False
-Sword,Polearm,B,H,H,False,False
-Sword,Polearm,I,H,H,False,False
-Sword,Polearm,H,H,H,False,False
-Sword,Polearm,S,H,H,False,False
-Sword,Polearm,D,H,H,False,False
-Great Sword,Polearm,B,H,H,False,False
-Great Sword,Polearm,I,H,H,False,False
-Great Sword,Polearm,H,H,H,False,False
-Great Sword,Polearm,S,H,H,False,False
-Great Sword,Polearm,D,H,H,False,False
-AxeMace,Polearm,B,H,H,False,False
-AxeMace,Polearm,I,H,H,False,False
-AxeMace,Polearm,H,H,H,False,False
-AxeMace,Polearm,S,H,H,False,False
-AxeMace,Polearm,D,H,H,False,False
-Great Axe,Polearm,B,H,H,False,False
-Great Axe,Polearm,I,H,H,False,False
-Great Axe,Polearm,H,H,H,False,False
-Great Axe,Polearm,S,H,H,False,False
-Great Axe,Polearm,D,H,H,False,False
-Staff,Polearm,B,H,H,False,False
-Staff,Polearm,I,H,H,False,False
-Staff,Polearm,H,H,H,False,False
-Staff,Polearm,S,H,H,False,False
-Staff,Polearm,D,H,H,False,False
-Heavy Mace,Polearm,B,H,B,False,False
-Heavy Mace,Polearm,I,H,I,False,False
-Heavy Mace,Polearm,H,H,H,False,False
-Heavy Mace,Polearm,S,H,S,False,False
-Heavy Mace,Polearm,D,H,D,False,False
-Polearm,Polearm,B,H,H,False,False
-Polearm,Polearm,I,H,H,False,False
-Polearm,Polearm,H,H,H,False,False
-Polearm,Polearm,S,H,H,False,False
-Polearm,Polearm,D,H,H,False,False
-Crossbow,Polearm,B,H,H,False,False
-Crossbow,Polearm,I,H,H,False,False
-Crossbow,Polearm,H,H,H,False,False
-Crossbow,Polearm,S,H,H,False,False
-Crossbow,Polearm,D,H,H,False,False
-Dagger,Polearm,B,S,S,False,False
-Dagger,Polearm,I,S,S,False,False
-Dagger,Polearm,H,S,S,False,False
-Dagger,Polearm,S,S,S,False,False
-Dagger,Polearm,D,S,S,False,False
-Sword,Polearm,B,S,S,False,False
-Sword,Polearm,I,S,S,False,False
-Sword,Polearm,H,S,S,False,False
-Sword,Polearm,S,S,S,False,False
-Sword,Polearm,D,S,S,False,False
-Great Sword,Polearm,B,S,S,False,False
-Great Sword,Polearm,I,S,S,False,False
-Great Sword,Polearm,H,S,S,False,False
-Great Sword,Polearm,S,S,S,False,False
-Great Sword,Polearm,D,S,S,False,False
-AxeMace,Polearm,B,S,S,False,False
-AxeMace,Polearm,I,S,S,False,False
-AxeMace,Polearm,H,S,D,True,False
-AxeMace,Polearm,S,S,S,False,False
-AxeMace,Polearm,D,S,S,False,False
-Great Axe,Polearm,B,S,S,False,False
-Great Axe,Polearm,I,S,S,False,False
-Great Axe,Polearm,H,S,S,False,False
-Great Axe,Polearm,S,S,S,False,False
-Great Axe,Polearm,D,S,S,False,False
-Staff,Polearm,B,S,S,False,False
-Staff,Polearm,I,S,S,False,False
-Staff,Polearm,H,S,S,False,False
-Staff,Polearm,S,S,S,False,False
-Staff,Polearm,D,S,S,False,False
-Heavy Mace,Polearm,B,S,B,False,False
-Heavy Mace,Polearm,I,S,I,False,False
-Heavy Mace,Polearm,H,S,H,False,False
-Heavy Mace,Polearm,S,S,S,False,False
-Heavy Mace,Polearm,D,S,D,False,False
-Polearm,Polearm,B,S,H,False,False
-Polearm,Polearm,I,S,H,False,False
-Polearm,Polearm,H,S,H,False,False
-Polearm,Polearm,S,S,S,False,False
-Polearm,Polearm,D,S,S,False,False
-Crossbow,Polearm,B,S,S,False,False
-Crossbow,Polearm,I,S,S,False,False
-Crossbow,Polearm,H,S,S,False,False
-Crossbow,Polearm,S,S,S,False,False
-Crossbow,Polearm,D,S,S,False,False
-Dagger,Polearm,B,D,D,False,False
-Dagger,Polearm,I,D,D,False,False
-Dagger,Polearm,H,D,D,False,False
-Dagger,Polearm,S,D,D,False,False
-Dagger,Polearm,D,D,D,False,False
-Sword,Polearm,B,D,D,False,False
-Sword,Polearm,I,D,D,False,False
-Sword,Polearm,H,D,D,False,False
-Sword,Polearm,S,D,D,False,False
-Sword,Polearm,D,D,D,False,False
-Great Sword,Polearm,B,D,D,False,False
-Great Sword,Polearm,I,D,D,False,False
-Great Sword,Polearm,H,D,D,False,False
-Great Sword,Polearm,S,D,D,False,False
-Great Sword,Polearm,D,D,D,False,False
-AxeMace,Polearm,B,D,D,False,False
-AxeMace,Polearm,I,D,D,False,False
-AxeMace,Polearm,H,D,D,False,False
-AxeMace,Polearm,S,D,D,False,False
-AxeMace,Polearm,D,D,D,False,False
-Great Axe,Polearm,B,D,D,False,False
-Great Axe,Polearm,I,D,D,False,False
-Great Axe,Polearm,H,D,D,False,False
-Great Axe,Polearm,S,D,D,False,False
-Great Axe,Polearm,D,D,D,False,False
-Staff,Polearm,B,D,D,False,False
-Staff,Polearm,I,D,D,False,False
-Staff,Polearm,H,D,D,False,False
-Staff,Polearm,S,D,D,False,False
-Staff,Polearm,D,D,D,False,False
-Heavy Mace,Polearm,B,D,B,False,False
-Heavy Mace,Polearm,I,D,I,False,False
-Heavy Mace,Polearm,H,D,H,False,False
-Heavy Mace,Polearm,S,D,S,False,False
-Heavy Mace,Polearm,D,D,D,False,False
-Polearm,Polearm,B,D,H,False,False
-Polearm,Polearm,I,D,H,False,False
-Polearm,Polearm,H,D,H,False,False
-Polearm,Polearm,S,D,S,False,False
-Polearm,Polearm,D,D,D,False,False
-Crossbow,Polearm,B,D,D,False,False
-Crossbow,Polearm,I,D,D,False,False
-Crossbow,Polearm,H,D,D,False,False
-Crossbow,Polearm,S,D,D,False,False
-Crossbow,Polearm,D,D,D,False,False
-Dagger,Crossbow,B,B,B,False,False
-Dagger,Crossbow,I,B,B,False,False
-Dagger,Crossbow,H,B,B,False,False
-Dagger,Crossbow,S,B,B,False,False
-Dagger,Crossbow,D,B,B,False,False
-Sword,Crossbow,B,B,B,False,False
-Sword,Crossbow,I,B,B,False,False
-Sword,Crossbow,H,B,B,False,False
-Sword,Crossbow,S,B,B,False,False
-Sword,Crossbow,D,B,B,False,False
-Great Sword,Crossbow,B,B,B,False,False
-Great Sword,Crossbow,I,B,I,False,False
-Great Sword,Crossbow,H,B,H,False,False
-Great Sword,Crossbow,S,B,S,False,False
-Great Sword,Crossbow,D,B,D,False,False
-AxeMace,Crossbow,B,B,B,False,False
-AxeMace,Crossbow,I,B,B,False,False
-AxeMace,Crossbow,H,B,B,False,False
-AxeMace,Crossbow,S,B,B,False,False
-AxeMace,Crossbow,D,B,B,False,False
-Great Axe,Crossbow,B,B,B,False,False
-Great Axe,Crossbow,I,B,I,False,False
-Great Axe,Crossbow,H,B,H,False,False
-Great Axe,Crossbow,S,B,S,False,False
-Great Axe,Crossbow,D,B,D,False,False
-Staff,Crossbow,B,B,B,False,False
-Staff,Crossbow,I,B,B,False,False
-Staff,Crossbow,H,B,B,False,False
-Staff,Crossbow,S,B,B,False,False
-Staff,Crossbow,D,B,B,False,False
-Heavy Mace,Crossbow,B,B,B,False,False
-Heavy Mace,Crossbow,I,B,I,False,False
-Heavy Mace,Crossbow,H,B,H,False,False
-Heavy Mace,Crossbow,S,B,S,False,False
-Heavy Mace,Crossbow,D,B,D,False,False
-Polearm,Crossbow,B,B,B,False,False
-Polearm,Crossbow,I,B,I,False,False
-Polearm,Crossbow,H,B,H,False,False
-Polearm,Crossbow,S,B,S,False,False
-Polearm,Crossbow,D,B,D,False,False
-Crossbow,Crossbow,B,B,B,False,False
-Crossbow,Crossbow,I,B,H,True,False
-Crossbow,Crossbow,H,B,H,False,False
-Crossbow,Crossbow,S,B,H,False,False
-Crossbow,Crossbow,D,B,H,False,False
-Dagger,Crossbow,B,I,I,False,False
-Dagger,Crossbow,I,I,I,False,False
-Dagger,Crossbow,H,I,I,False,False
-Dagger,Crossbow,S,I,I,False,False
-Dagger,Crossbow,D,I,I,False,False
-Sword,Crossbow,B,I,I,False,False
-Sword,Crossbow,I,I,I,False,False
-Sword,Crossbow,H,I,I,False,False
-Sword,Crossbow,S,I,I,False,False
-Sword,Crossbow,D,I,I,False,False
-Great Sword,Crossbow,B,I,B,False,False
-Great Sword,Crossbow,I,I,I,False,False
-Great Sword,Crossbow,H,I,H,False,False
-Great Sword,Crossbow,S,I,S,False,False
-Great Sword,Crossbow,D,I,D,False,False
-AxeMace,Crossbow,B,I,I,False,False
-AxeMace,Crossbow,I,I,I,False,False
-AxeMace,Crossbow,H,I,I,False,False
-AxeMace,Crossbow,S,I,I,False,False
-AxeMace,Crossbow,D,I,I,False,False
-Great Axe,Crossbow,B,I,B,False,False
-Great Axe,Crossbow,I,I,I,False,False
-Great Axe,Crossbow,H,I,H,False,False
-Great Axe,Crossbow,S,I,S,False,False
-Great Axe,Crossbow,D,I,D,False,False
-Staff,Crossbow,B,I,I,False,False
-Staff,Crossbow,I,I,I,False,False
-Staff,Crossbow,H,I,I,False,False
-Staff,Crossbow,S,I,I,False,False
-Staff,Crossbow,D,I,I,False,False
-Heavy Mace,Crossbow,B,I,B,False,False
-Heavy Mace,Crossbow,I,I,I,False,False
-Heavy Mace,Crossbow,H,I,H,False,False
-Heavy Mace,Crossbow,S,I,S,False,False
-Heavy Mace,Crossbow,D,I,D,False,False
-Polearm,Crossbow,B,I,B,False,False
-Polearm,Crossbow,I,I,I,False,False
-Polearm,Crossbow,H,I,H,False,False
-Polearm,Crossbow,S,I,S,False,False
-Polearm,Crossbow,D,I,D,False,False
-Crossbow,Crossbow,B,I,H,True,False
-Crossbow,Crossbow,I,I,I,False,False
-Crossbow,Crossbow,H,I,H,False,False
-Crossbow,Crossbow,S,I,H,False,False
-Crossbow,Crossbow,D,I,H,False,False
-Dagger,Crossbow,B,H,H,False,False
-Dagger,Crossbow,I,H,H,False,False
-Dagger,Crossbow,H,H,H,False,False
-Dagger,Crossbow,S,H,H,False,False
-Dagger,Crossbow,D,H,H,False,False
-Sword,Crossbow,B,H,H,False,False
-Sword,Crossbow,I,H,H,False,False
-Sword,Crossbow,H,H,H,False,False
-Sword,Crossbow,S,H,H,False,False
-Sword,Crossbow,D,H,H,False,False
-Great Sword,Crossbow,B,H,B,False,False
-Great Sword,Crossbow,I,H,I,False,False
-Great Sword,Crossbow,H,H,H,False,False
-Great Sword,Crossbow,S,H,S,False,False
-Great Sword,Crossbow,D,H,D,False,False
-AxeMace,Crossbow,B,H,H,False,False
-AxeMace,Crossbow,I,H,H,False,False
-AxeMace,Crossbow,H,H,H,False,False
-AxeMace,Crossbow,S,H,H,False,False
-AxeMace,Crossbow,D,H,H,False,False
-Great Axe,Crossbow,B,H,B,False,False
-Great Axe,Crossbow,I,H,I,False,False
-Great Axe,Crossbow,H,H,H,False,False
-Great Axe,Crossbow,S,H,D,True,False
-Great Axe,Crossbow,D,H,D,False,False
-Staff,Crossbow,B,H,H,False,False
-Staff,Crossbow,I,H,H,False,False
-Staff,Crossbow,H,H,H,False,False
-Staff,Crossbow,S,H,H,False,False
-Staff,Crossbow,D,H,H,False,False
-Heavy Mace,Crossbow,B,H,B,False,False
-Heavy Mace,Crossbow,I,H,I,False,False
-Heavy Mace,Crossbow,H,H,H,False,False
-Heavy Mace,Crossbow,S,H,S,False,False
-Heavy Mace,Crossbow,D,H,D,False,False
-Polearm,Crossbow,B,H,B,False,False
-Polearm,Crossbow,I,H,I,False,False
-Polearm,Crossbow,H,H,H,False,False
-Polearm,Crossbow,S,H,S,False,False
-Polearm,Crossbow,D,H,D,False,False
-Crossbow,Crossbow,B,H,H,False,False
-Crossbow,Crossbow,I,H,H,False,False
-Crossbow,Crossbow,H,H,H,False,False
-Crossbow,Crossbow,S,H,H,False,False
-Crossbow,Crossbow,D,H,H,False,False
-Dagger,Crossbow,B,S,S,False,False
-Dagger,Crossbow,I,S,S,False,False
-Dagger,Crossbow,H,S,S,False,False
-Dagger,Crossbow,S,S,S,False,False
-Dagger,Crossbow,D,S,S,False,False
-Sword,Crossbow,B,S,S,False,False
-Sword,Crossbow,I,S,S,False,False
-Sword,Crossbow,H,S,S,False,False
-Sword,Crossbow,S,S,S,False,False
-Sword,Crossbow,D,S,S,False,False
-Great Sword,Crossbow,B,S,B,False,False
-Great Sword,Crossbow,I,S,I,False,False
-Great Sword,Crossbow,H,S,H,False,False
-Great Sword,Crossbow,S,S,S,False,False
-Great Sword,Crossbow,D,S,D,False,False
-AxeMace,Crossbow,B,S,S,False,False
-AxeMace,Crossbow,I,S,S,False,False
-AxeMace,Crossbow,H,S,S,False,False
-AxeMace,Crossbow,S,S,S,False,False
-AxeMace,Crossbow,D,S,S,False,False
-Great Axe,Crossbow,B,S,B,False,False
-Great Axe,Crossbow,I,S,I,False,False
-Great Axe,Crossbow,H,S,H,False,False
-Great Axe,Crossbow,S,S,S,False,False
-Great Axe,Crossbow,D,S,D,False,False
-Staff,Crossbow,B,S,S,False,False
-Staff,Crossbow,I,S,S,False,False
-Staff,Crossbow,H,S,S,False,False
-Staff,Crossbow,S,S,S,False,False
-Staff,Crossbow,D,S,S,False,False
-Heavy Mace,Crossbow,B,S,B,False,False
-Heavy Mace,Crossbow,I,S,I,False,False
-Heavy Mace,Crossbow,H,S,H,False,False
-Heavy Mace,Crossbow,S,S,S,False,False
-Heavy Mace,Crossbow,D,S,D,False,False
-Polearm,Crossbow,B,S,B,False,False
-Polearm,Crossbow,I,S,I,False,False
-Polearm,Crossbow,H,S,H,False,False
-Polearm,Crossbow,S,S,S,False,False
-Polearm,Crossbow,D,S,D,False,False
-Crossbow,Crossbow,B,S,H,False,False
-Crossbow,Crossbow,I,S,H,False,False
-Crossbow,Crossbow,H,S,H,False,False
-Crossbow,Crossbow,S,S,S,False,False
-Crossbow,Crossbow,D,S,S,False,False
-Dagger,Crossbow,B,D,D,False,False
-Dagger,Crossbow,I,D,D,False,False
-Dagger,Crossbow,H,D,D,False,False
-Dagger,Crossbow,S,D,D,False,False
-Dagger,Crossbow,D,D,D,False,False
-Sword,Crossbow,B,D,D,False,False
-Sword,Crossbow,I,D,D,False,False
-Sword,Crossbow,H,D,D,False,False
-Sword,Crossbow,S,D,D,False,False
-Sword,Crossbow,D,D,D,False,False
-Great Sword,Crossbow,B,D,B,False,False
-Great Sword,Crossbow,I,D,I,False,False
-Great Sword,Crossbow,H,D,H,False,False
-Great Sword,Crossbow,S,D,S,False,False
-Great Sword,Crossbow,D,D,D,False,False
-AxeMace,Crossbow,B,D,D,False,False
-AxeMace,Crossbow,I,D,D,False,False
-AxeMace,Crossbow,H,D,D,False,False
-AxeMace,Crossbow,S,D,D,False,False
-AxeMace,Crossbow,D,D,D,False,False
-Great Axe,Crossbow,B,D,B,False,False
-Great Axe,Crossbow,I,D,I,False,False
-Great Axe,Crossbow,H,D,H,False,False
-Great Axe,Crossbow,S,D,S,False,False
-Great Axe,Crossbow,D,D,D,False,False
-Staff,Crossbow,B,D,D,False,False
-Staff,Crossbow,I,D,D,False,False
-Staff,Crossbow,H,D,D,False,False
-Staff,Crossbow,S,D,D,False,False
-Staff,Crossbow,D,D,D,False,False
-Heavy Mace,Crossbow,B,D,B,False,False
-Heavy Mace,Crossbow,I,D,I,False,False
-Heavy Mace,Crossbow,H,D,H,False,False
-Heavy Mace,Crossbow,S,D,S,False,False
-Heavy Mace,Crossbow,D,D,D,False,False
-Polearm,Crossbow,B,D,B,False,False
-Polearm,Crossbow,I,D,I,False,False
-Polearm,Crossbow,H,D,H,False,False
-Polearm,Crossbow,S,D,S,False,False
-Polearm,Crossbow,D,D,D,False,False
-Crossbow,Crossbow,B,D,H,False,False
-Crossbow,Crossbow,I,D,H,False,False
-Crossbow,Crossbow,H,D,H,False,False
-Crossbow,Crossbow,S,D,S,False,False
-Crossbow,Crossbow,D,D,D,False,False
+slot1,slot2,material1,material2,result_material,tier_change
+Dagger,Dagger,B,B,B,0
+Dagger,Dagger,I,B,H,1
+Dagger,Dagger,H,B,H,0
+Dagger,Dagger,S,B,H,0
+Dagger,Dagger,D,B,H,0
+Sword,Dagger,B,B,B,0
+Sword,Dagger,I,B,I,0
+Sword,Dagger,H,B,H,0
+Sword,Dagger,S,B,S,0
+Sword,Dagger,D,B,D,0
+Great Sword,Dagger,B,B,B,0
+Great Sword,Dagger,I,B,I,0
+Great Sword,Dagger,H,B,H,0
+Great Sword,Dagger,S,B,S,0
+Great Sword,Dagger,D,B,D,0
+AxeMace,Dagger,B,B,B,0
+AxeMace,Dagger,I,B,I,0
+AxeMace,Dagger,H,B,H,0
+AxeMace,Dagger,S,B,S,0
+AxeMace,Dagger,D,B,D,0
+Great Axe,Dagger,B,B,B,0
+Great Axe,Dagger,I,B,I,0
+Great Axe,Dagger,H,B,H,0
+Great Axe,Dagger,S,B,S,0
+Great Axe,Dagger,D,B,D,0
+Staff,Dagger,B,B,B,0
+Staff,Dagger,I,B,I,0
+Staff,Dagger,H,B,H,0
+Staff,Dagger,S,B,S,0
+Staff,Dagger,D,B,D,0
+Heavy Mace,Dagger,B,B,B,0
+Heavy Mace,Dagger,I,B,I,0
+Heavy Mace,Dagger,H,B,H,0
+Heavy Mace,Dagger,S,B,S,0
+Heavy Mace,Dagger,D,B,D,0
+Polearm,Dagger,B,B,B,0
+Polearm,Dagger,I,B,I,0
+Polearm,Dagger,H,B,H,0
+Polearm,Dagger,S,B,S,0
+Polearm,Dagger,D,B,D,0
+Crossbow,Dagger,B,B,B,0
+Crossbow,Dagger,I,B,I,0
+Crossbow,Dagger,H,B,H,0
+Crossbow,Dagger,S,B,S,0
+Crossbow,Dagger,D,B,D,0
+Dagger,Dagger,B,I,H,1
+Dagger,Dagger,I,I,I,0
+Dagger,Dagger,H,I,H,0
+Dagger,Dagger,S,I,H,0
+Dagger,Dagger,D,I,H,0
+Sword,Dagger,B,I,B,0
+Sword,Dagger,I,I,I,0
+Sword,Dagger,H,I,H,0
+Sword,Dagger,S,I,S,0
+Sword,Dagger,D,I,D,0
+Great Sword,Dagger,B,I,B,0
+Great Sword,Dagger,I,I,I,0
+Great Sword,Dagger,H,I,H,0
+Great Sword,Dagger,S,I,S,0
+Great Sword,Dagger,D,I,D,0
+AxeMace,Dagger,B,I,B,0
+AxeMace,Dagger,I,I,I,0
+AxeMace,Dagger,H,I,H,0
+AxeMace,Dagger,S,I,S,0
+AxeMace,Dagger,D,I,D,0
+Great Axe,Dagger,B,I,B,0
+Great Axe,Dagger,I,I,I,0
+Great Axe,Dagger,H,I,H,0
+Great Axe,Dagger,S,I,S,0
+Great Axe,Dagger,D,I,D,0
+Staff,Dagger,B,I,B,0
+Staff,Dagger,I,I,I,0
+Staff,Dagger,H,I,H,0
+Staff,Dagger,S,I,S,0
+Staff,Dagger,D,I,D,0
+Heavy Mace,Dagger,B,I,B,0
+Heavy Mace,Dagger,I,I,I,0
+Heavy Mace,Dagger,H,I,H,0
+Heavy Mace,Dagger,S,I,S,0
+Heavy Mace,Dagger,D,I,D,0
+Polearm,Dagger,B,I,B,0
+Polearm,Dagger,I,I,I,0
+Polearm,Dagger,H,I,H,0
+Polearm,Dagger,S,I,S,0
+Polearm,Dagger,D,I,D,0
+Crossbow,Dagger,B,I,B,0
+Crossbow,Dagger,I,I,I,0
+Crossbow,Dagger,H,I,H,0
+Crossbow,Dagger,S,I,S,0
+Crossbow,Dagger,D,I,D,0
+Dagger,Dagger,B,H,H,0
+Dagger,Dagger,I,H,H,0
+Dagger,Dagger,H,H,H,0
+Dagger,Dagger,S,H,H,0
+Dagger,Dagger,D,H,H,0
+Sword,Dagger,B,H,B,0
+Sword,Dagger,I,H,I,0
+Sword,Dagger,H,H,H,0
+Sword,Dagger,S,H,S,0
+Sword,Dagger,D,H,D,0
+Great Sword,Dagger,B,H,B,0
+Great Sword,Dagger,I,H,I,0
+Great Sword,Dagger,H,H,H,0
+Great Sword,Dagger,S,H,S,0
+Great Sword,Dagger,D,H,D,0
+AxeMace,Dagger,B,H,B,0
+AxeMace,Dagger,I,H,I,0
+AxeMace,Dagger,H,H,H,0
+AxeMace,Dagger,S,H,S,0
+AxeMace,Dagger,D,H,D,0
+Great Axe,Dagger,B,H,B,0
+Great Axe,Dagger,I,H,I,0
+Great Axe,Dagger,H,H,H,0
+Great Axe,Dagger,S,H,S,0
+Great Axe,Dagger,D,H,D,0
+Staff,Dagger,B,H,B,0
+Staff,Dagger,I,H,I,0
+Staff,Dagger,H,H,H,0
+Staff,Dagger,S,H,S,0
+Staff,Dagger,D,H,D,0
+Heavy Mace,Dagger,B,H,B,0
+Heavy Mace,Dagger,I,H,I,0
+Heavy Mace,Dagger,H,H,H,0
+Heavy Mace,Dagger,S,H,S,0
+Heavy Mace,Dagger,D,H,D,0
+Polearm,Dagger,B,H,B,0
+Polearm,Dagger,I,H,I,0
+Polearm,Dagger,H,H,H,0
+Polearm,Dagger,S,H,D,1
+Polearm,Dagger,D,H,D,0
+Crossbow,Dagger,B,H,B,0
+Crossbow,Dagger,I,H,I,0
+Crossbow,Dagger,H,H,H,0
+Crossbow,Dagger,S,H,S,0
+Crossbow,Dagger,D,H,D,0
+Dagger,Dagger,B,S,H,0
+Dagger,Dagger,I,S,H,0
+Dagger,Dagger,H,S,H,0
+Dagger,Dagger,S,S,S,0
+Dagger,Dagger,D,S,S,0
+Sword,Dagger,B,S,B,0
+Sword,Dagger,I,S,I,0
+Sword,Dagger,H,S,H,0
+Sword,Dagger,S,S,S,0
+Sword,Dagger,D,S,D,0
+Great Sword,Dagger,B,S,B,0
+Great Sword,Dagger,I,S,I,0
+Great Sword,Dagger,H,S,H,0
+Great Sword,Dagger,S,S,S,0
+Great Sword,Dagger,D,S,D,0
+AxeMace,Dagger,B,S,B,0
+AxeMace,Dagger,I,S,I,0
+AxeMace,Dagger,H,S,H,0
+AxeMace,Dagger,S,S,S,0
+AxeMace,Dagger,D,S,D,0
+Great Axe,Dagger,B,S,B,0
+Great Axe,Dagger,I,S,I,0
+Great Axe,Dagger,H,S,H,0
+Great Axe,Dagger,S,S,S,0
+Great Axe,Dagger,D,S,D,0
+Staff,Dagger,B,S,B,0
+Staff,Dagger,I,S,I,0
+Staff,Dagger,H,S,H,0
+Staff,Dagger,S,S,S,0
+Staff,Dagger,D,S,D,0
+Heavy Mace,Dagger,B,S,B,0
+Heavy Mace,Dagger,I,S,I,0
+Heavy Mace,Dagger,H,S,H,0
+Heavy Mace,Dagger,S,S,S,0
+Heavy Mace,Dagger,D,S,D,0
+Polearm,Dagger,B,S,B,0
+Polearm,Dagger,I,S,I,0
+Polearm,Dagger,H,S,H,0
+Polearm,Dagger,S,S,S,0
+Polearm,Dagger,D,S,D,0
+Crossbow,Dagger,B,S,B,0
+Crossbow,Dagger,I,S,I,0
+Crossbow,Dagger,H,S,H,0
+Crossbow,Dagger,S,S,S,0
+Crossbow,Dagger,D,S,D,0
+Dagger,Dagger,B,D,H,0
+Dagger,Dagger,I,D,H,0
+Dagger,Dagger,H,D,H,0
+Dagger,Dagger,S,D,S,0
+Dagger,Dagger,D,D,D,0
+Sword,Dagger,B,D,B,0
+Sword,Dagger,I,D,I,0
+Sword,Dagger,H,D,H,0
+Sword,Dagger,S,D,S,0
+Sword,Dagger,D,D,D,0
+Great Sword,Dagger,B,D,B,0
+Great Sword,Dagger,I,D,I,0
+Great Sword,Dagger,H,D,H,0
+Great Sword,Dagger,S,D,S,0
+Great Sword,Dagger,D,D,D,0
+AxeMace,Dagger,B,D,B,0
+AxeMace,Dagger,I,D,I,0
+AxeMace,Dagger,H,D,H,0
+AxeMace,Dagger,S,D,S,0
+AxeMace,Dagger,D,D,D,0
+Great Axe,Dagger,B,D,B,0
+Great Axe,Dagger,I,D,I,0
+Great Axe,Dagger,H,D,H,0
+Great Axe,Dagger,S,D,S,0
+Great Axe,Dagger,D,D,D,0
+Staff,Dagger,B,D,B,0
+Staff,Dagger,I,D,I,0
+Staff,Dagger,H,D,H,0
+Staff,Dagger,S,D,S,0
+Staff,Dagger,D,D,D,0
+Heavy Mace,Dagger,B,D,B,0
+Heavy Mace,Dagger,I,D,I,0
+Heavy Mace,Dagger,H,D,H,0
+Heavy Mace,Dagger,S,D,S,0
+Heavy Mace,Dagger,D,D,D,0
+Polearm,Dagger,B,D,B,0
+Polearm,Dagger,I,D,I,0
+Polearm,Dagger,H,D,H,0
+Polearm,Dagger,S,D,S,0
+Polearm,Dagger,D,D,D,0
+Crossbow,Dagger,B,D,B,0
+Crossbow,Dagger,I,D,I,0
+Crossbow,Dagger,H,D,H,0
+Crossbow,Dagger,S,D,S,0
+Crossbow,Dagger,D,D,D,0
+Dagger,Sword,B,B,B,0
+Dagger,Sword,I,B,B,0
+Dagger,Sword,H,B,B,0
+Dagger,Sword,S,B,B,0
+Dagger,Sword,D,B,B,0
+Sword,Sword,B,B,B,0
+Sword,Sword,I,B,H,1
+Sword,Sword,H,B,H,0
+Sword,Sword,S,B,H,0
+Sword,Sword,D,B,H,0
+Great Sword,Sword,B,B,B,0
+Great Sword,Sword,I,B,I,0
+Great Sword,Sword,H,B,H,0
+Great Sword,Sword,S,B,S,0
+Great Sword,Sword,D,B,D,0
+AxeMace,Sword,B,B,B,0
+AxeMace,Sword,I,B,I,0
+AxeMace,Sword,H,B,H,0
+AxeMace,Sword,S,B,S,0
+AxeMace,Sword,D,B,D,0
+Great Axe,Sword,B,B,B,0
+Great Axe,Sword,I,B,I,0
+Great Axe,Sword,H,B,H,0
+Great Axe,Sword,S,B,S,0
+Great Axe,Sword,D,B,D,0
+Staff,Sword,B,B,B,0
+Staff,Sword,I,B,B,0
+Staff,Sword,H,B,B,0
+Staff,Sword,S,B,B,0
+Staff,Sword,D,B,B,0
+Heavy Mace,Sword,B,B,B,0
+Heavy Mace,Sword,I,B,I,0
+Heavy Mace,Sword,H,B,H,0
+Heavy Mace,Sword,S,B,S,0
+Heavy Mace,Sword,D,B,D,0
+Polearm,Sword,B,B,B,0
+Polearm,Sword,I,B,I,0
+Polearm,Sword,H,B,H,0
+Polearm,Sword,S,B,S,0
+Polearm,Sword,D,B,D,0
+Crossbow,Sword,B,B,B,0
+Crossbow,Sword,I,B,I,0
+Crossbow,Sword,H,B,H,0
+Crossbow,Sword,S,B,S,0
+Crossbow,Sword,D,B,D,0
+Dagger,Sword,B,I,I,0
+Dagger,Sword,I,I,I,0
+Dagger,Sword,H,I,I,0
+Dagger,Sword,S,I,I,0
+Dagger,Sword,D,I,I,0
+Sword,Sword,B,I,H,1
+Sword,Sword,I,I,I,0
+Sword,Sword,H,I,H,0
+Sword,Sword,S,I,H,0
+Sword,Sword,D,I,H,0
+Great Sword,Sword,B,I,B,0
+Great Sword,Sword,I,I,I,0
+Great Sword,Sword,H,I,H,0
+Great Sword,Sword,S,I,S,0
+Great Sword,Sword,D,I,D,0
+AxeMace,Sword,B,I,B,0
+AxeMace,Sword,I,I,I,0
+AxeMace,Sword,H,I,H,0
+AxeMace,Sword,S,I,S,0
+AxeMace,Sword,D,I,D,0
+Great Axe,Sword,B,I,B,0
+Great Axe,Sword,I,I,I,0
+Great Axe,Sword,H,I,H,0
+Great Axe,Sword,S,I,S,0
+Great Axe,Sword,D,I,D,0
+Staff,Sword,B,I,I,0
+Staff,Sword,I,I,I,0
+Staff,Sword,H,I,I,0
+Staff,Sword,S,I,I,0
+Staff,Sword,D,I,I,0
+Heavy Mace,Sword,B,I,B,0
+Heavy Mace,Sword,I,I,I,0
+Heavy Mace,Sword,H,I,H,0
+Heavy Mace,Sword,S,I,S,0
+Heavy Mace,Sword,D,I,D,0
+Polearm,Sword,B,I,B,0
+Polearm,Sword,I,I,I,0
+Polearm,Sword,H,I,H,0
+Polearm,Sword,S,I,S,0
+Polearm,Sword,D,I,D,0
+Crossbow,Sword,B,I,B,0
+Crossbow,Sword,I,I,I,0
+Crossbow,Sword,H,I,H,0
+Crossbow,Sword,S,I,S,0
+Crossbow,Sword,D,I,D,0
+Dagger,Sword,B,H,H,0
+Dagger,Sword,I,H,H,0
+Dagger,Sword,H,H,H,0
+Dagger,Sword,S,H,H,0
+Dagger,Sword,D,H,H,0
+Sword,Sword,B,H,H,0
+Sword,Sword,I,H,H,0
+Sword,Sword,H,H,H,0
+Sword,Sword,S,H,H,0
+Sword,Sword,D,H,H,0
+Great Sword,Sword,B,H,B,0
+Great Sword,Sword,I,H,I,0
+Great Sword,Sword,H,H,H,0
+Great Sword,Sword,S,H,S,0
+Great Sword,Sword,D,H,D,0
+AxeMace,Sword,B,H,B,0
+AxeMace,Sword,I,H,I,0
+AxeMace,Sword,H,H,H,0
+AxeMace,Sword,S,H,S,0
+AxeMace,Sword,D,H,D,0
+Great Axe,Sword,B,H,B,0
+Great Axe,Sword,I,H,I,0
+Great Axe,Sword,H,H,H,0
+Great Axe,Sword,S,H,S,0
+Great Axe,Sword,D,H,D,0
+Staff,Sword,B,H,H,0
+Staff,Sword,I,H,H,0
+Staff,Sword,H,H,H,0
+Staff,Sword,S,H,H,0
+Staff,Sword,D,H,H,0
+Heavy Mace,Sword,B,H,B,0
+Heavy Mace,Sword,I,H,I,0
+Heavy Mace,Sword,H,H,H,0
+Heavy Mace,Sword,S,H,S,0
+Heavy Mace,Sword,D,H,D,0
+Polearm,Sword,B,H,B,0
+Polearm,Sword,I,H,I,0
+Polearm,Sword,H,H,H,0
+Polearm,Sword,S,H,S,0
+Polearm,Sword,D,H,D,0
+Crossbow,Sword,B,H,B,0
+Crossbow,Sword,I,H,I,0
+Crossbow,Sword,H,H,H,0
+Crossbow,Sword,S,H,S,0
+Crossbow,Sword,D,H,D,0
+Dagger,Sword,B,S,S,0
+Dagger,Sword,I,S,S,0
+Dagger,Sword,H,S,S,0
+Dagger,Sword,S,S,S,0
+Dagger,Sword,D,S,S,0
+Sword,Sword,B,S,H,0
+Sword,Sword,I,S,H,0
+Sword,Sword,H,S,H,0
+Sword,Sword,S,S,S,0
+Sword,Sword,D,S,S,0
+Great Sword,Sword,B,S,B,0
+Great Sword,Sword,I,S,I,0
+Great Sword,Sword,H,S,H,0
+Great Sword,Sword,S,S,S,0
+Great Sword,Sword,D,S,D,0
+AxeMace,Sword,B,S,B,0
+AxeMace,Sword,I,S,I,0
+AxeMace,Sword,H,S,H,0
+AxeMace,Sword,S,S,S,0
+AxeMace,Sword,D,S,D,0
+Great Axe,Sword,B,S,B,0
+Great Axe,Sword,I,S,I,0
+Great Axe,Sword,H,S,H,0
+Great Axe,Sword,S,S,S,0
+Great Axe,Sword,D,S,D,0
+Staff,Sword,B,S,S,0
+Staff,Sword,I,S,S,0
+Staff,Sword,H,S,S,0
+Staff,Sword,S,S,S,0
+Staff,Sword,D,S,S,0
+Heavy Mace,Sword,B,S,B,0
+Heavy Mace,Sword,I,S,I,0
+Heavy Mace,Sword,H,S,H,0
+Heavy Mace,Sword,S,S,S,0
+Heavy Mace,Sword,D,S,D,0
+Polearm,Sword,B,S,B,0
+Polearm,Sword,I,S,I,0
+Polearm,Sword,H,S,H,0
+Polearm,Sword,S,S,S,0
+Polearm,Sword,D,S,D,0
+Crossbow,Sword,B,S,B,0
+Crossbow,Sword,I,S,I,0
+Crossbow,Sword,H,S,H,0
+Crossbow,Sword,S,S,S,0
+Crossbow,Sword,D,S,D,0
+Dagger,Sword,B,D,D,0
+Dagger,Sword,I,D,D,0
+Dagger,Sword,H,D,D,0
+Dagger,Sword,S,D,D,0
+Dagger,Sword,D,D,D,0
+Sword,Sword,B,D,H,0
+Sword,Sword,I,D,H,0
+Sword,Sword,H,D,H,0
+Sword,Sword,S,D,S,0
+Sword,Sword,D,D,D,0
+Great Sword,Sword,B,D,B,0
+Great Sword,Sword,I,D,I,0
+Great Sword,Sword,H,D,H,0
+Great Sword,Sword,S,D,S,0
+Great Sword,Sword,D,D,D,0
+AxeMace,Sword,B,D,B,0
+AxeMace,Sword,I,D,I,0
+AxeMace,Sword,H,D,H,0
+AxeMace,Sword,S,D,S,0
+AxeMace,Sword,D,D,D,0
+Great Axe,Sword,B,D,B,0
+Great Axe,Sword,I,D,I,0
+Great Axe,Sword,H,D,H,0
+Great Axe,Sword,S,D,S,0
+Great Axe,Sword,D,D,D,0
+Staff,Sword,B,D,D,0
+Staff,Sword,I,D,D,0
+Staff,Sword,H,D,D,0
+Staff,Sword,S,D,D,0
+Staff,Sword,D,D,D,0
+Heavy Mace,Sword,B,D,B,0
+Heavy Mace,Sword,I,D,I,0
+Heavy Mace,Sword,H,D,H,0
+Heavy Mace,Sword,S,D,S,0
+Heavy Mace,Sword,D,D,D,0
+Polearm,Sword,B,D,B,0
+Polearm,Sword,I,D,I,0
+Polearm,Sword,H,D,H,0
+Polearm,Sword,S,D,S,0
+Polearm,Sword,D,D,D,0
+Crossbow,Sword,B,D,B,0
+Crossbow,Sword,I,D,I,0
+Crossbow,Sword,H,D,H,0
+Crossbow,Sword,S,D,S,0
+Crossbow,Sword,D,D,D,0
+Dagger,Great Sword,B,B,B,0
+Dagger,Great Sword,I,B,B,0
+Dagger,Great Sword,H,B,B,0
+Dagger,Great Sword,S,B,B,0
+Dagger,Great Sword,D,B,B,0
+Sword,Great Sword,B,B,B,0
+Sword,Great Sword,I,B,B,0
+Sword,Great Sword,H,B,B,0
+Sword,Great Sword,S,B,B,0
+Sword,Great Sword,D,B,B,0
+Great Sword,Great Sword,B,B,B,0
+Great Sword,Great Sword,I,B,H,1
+Great Sword,Great Sword,H,B,H,0
+Great Sword,Great Sword,S,B,H,0
+Great Sword,Great Sword,D,B,H,0
+AxeMace,Great Sword,B,B,B,0
+AxeMace,Great Sword,I,B,B,0
+AxeMace,Great Sword,H,B,B,0
+AxeMace,Great Sword,S,B,B,0
+AxeMace,Great Sword,D,B,B,0
+Great Axe,Great Sword,B,B,B,0
+Great Axe,Great Sword,I,B,I,0
+Great Axe,Great Sword,H,B,H,0
+Great Axe,Great Sword,S,B,S,0
+Great Axe,Great Sword,D,B,D,0
+Staff,Great Sword,B,B,B,0
+Staff,Great Sword,I,B,B,0
+Staff,Great Sword,H,B,B,0
+Staff,Great Sword,S,B,B,0
+Staff,Great Sword,D,B,B,0
+Heavy Mace,Great Sword,B,B,B,0
+Heavy Mace,Great Sword,I,B,I,0
+Heavy Mace,Great Sword,H,B,H,0
+Heavy Mace,Great Sword,S,B,S,0
+Heavy Mace,Great Sword,D,B,D,0
+Polearm,Great Sword,B,B,B,0
+Polearm,Great Sword,I,B,I,0
+Polearm,Great Sword,H,B,H,0
+Polearm,Great Sword,S,B,S,0
+Polearm,Great Sword,D,B,D,0
+Crossbow,Great Sword,B,B,B,0
+Crossbow,Great Sword,I,B,B,0
+Crossbow,Great Sword,H,B,B,0
+Crossbow,Great Sword,S,B,B,0
+Crossbow,Great Sword,D,B,B,0
+Dagger,Great Sword,B,I,I,0
+Dagger,Great Sword,I,I,I,0
+Dagger,Great Sword,H,I,I,0
+Dagger,Great Sword,S,I,I,0
+Dagger,Great Sword,D,I,I,0
+Sword,Great Sword,B,I,I,0
+Sword,Great Sword,I,I,I,0
+Sword,Great Sword,H,I,I,0
+Sword,Great Sword,S,I,I,0
+Sword,Great Sword,D,I,I,0
+Great Sword,Great Sword,B,I,H,1
+Great Sword,Great Sword,I,I,I,0
+Great Sword,Great Sword,H,I,H,0
+Great Sword,Great Sword,S,I,H,0
+Great Sword,Great Sword,D,I,H,0
+AxeMace,Great Sword,B,I,I,0
+AxeMace,Great Sword,I,I,I,0
+AxeMace,Great Sword,H,I,I,0
+AxeMace,Great Sword,S,I,I,0
+AxeMace,Great Sword,D,I,I,0
+Great Axe,Great Sword,B,I,B,0
+Great Axe,Great Sword,I,I,I,0
+Great Axe,Great Sword,H,I,H,0
+Great Axe,Great Sword,S,I,S,0
+Great Axe,Great Sword,D,I,D,0
+Staff,Great Sword,B,I,I,0
+Staff,Great Sword,I,I,I,0
+Staff,Great Sword,H,I,I,0
+Staff,Great Sword,S,I,I,0
+Staff,Great Sword,D,I,I,0
+Heavy Mace,Great Sword,B,I,B,0
+Heavy Mace,Great Sword,I,I,I,0
+Heavy Mace,Great Sword,H,I,H,0
+Heavy Mace,Great Sword,S,I,S,0
+Heavy Mace,Great Sword,D,I,D,0
+Polearm,Great Sword,B,I,B,0
+Polearm,Great Sword,I,I,I,0
+Polearm,Great Sword,H,I,H,0
+Polearm,Great Sword,S,I,S,0
+Polearm,Great Sword,D,I,D,0
+Crossbow,Great Sword,B,I,I,0
+Crossbow,Great Sword,I,I,I,0
+Crossbow,Great Sword,H,I,I,0
+Crossbow,Great Sword,S,I,I,0
+Crossbow,Great Sword,D,I,I,0
+Dagger,Great Sword,B,H,H,0
+Dagger,Great Sword,I,H,H,0
+Dagger,Great Sword,H,H,H,0
+Dagger,Great Sword,S,H,H,0
+Dagger,Great Sword,D,H,H,0
+Sword,Great Sword,B,H,H,0
+Sword,Great Sword,I,H,H,0
+Sword,Great Sword,H,H,H,0
+Sword,Great Sword,S,H,H,0
+Sword,Great Sword,D,H,H,0
+Great Sword,Great Sword,B,H,H,0
+Great Sword,Great Sword,I,H,H,0
+Great Sword,Great Sword,H,H,H,0
+Great Sword,Great Sword,S,H,H,0
+Great Sword,Great Sword,D,H,H,0
+AxeMace,Great Sword,B,H,H,0
+AxeMace,Great Sword,I,H,H,0
+AxeMace,Great Sword,H,H,H,0
+AxeMace,Great Sword,S,H,H,0
+AxeMace,Great Sword,D,H,H,0
+Great Axe,Great Sword,B,H,B,0
+Great Axe,Great Sword,I,H,I,0
+Great Axe,Great Sword,H,H,H,0
+Great Axe,Great Sword,S,H,S,0
+Great Axe,Great Sword,D,H,D,0
+Staff,Great Sword,B,H,H,0
+Staff,Great Sword,I,H,H,0
+Staff,Great Sword,H,H,H,0
+Staff,Great Sword,S,H,H,0
+Staff,Great Sword,D,H,H,0
+Heavy Mace,Great Sword,B,H,B,0
+Heavy Mace,Great Sword,I,H,I,0
+Heavy Mace,Great Sword,H,H,H,0
+Heavy Mace,Great Sword,S,H,S,0
+Heavy Mace,Great Sword,D,H,D,0
+Polearm,Great Sword,B,H,B,0
+Polearm,Great Sword,I,H,I,0
+Polearm,Great Sword,H,H,H,0
+Polearm,Great Sword,S,H,S,0
+Polearm,Great Sword,D,H,D,0
+Crossbow,Great Sword,B,H,H,0
+Crossbow,Great Sword,I,H,H,0
+Crossbow,Great Sword,H,H,H,0
+Crossbow,Great Sword,S,H,H,0
+Crossbow,Great Sword,D,H,H,0
+Dagger,Great Sword,B,S,S,0
+Dagger,Great Sword,I,S,S,0
+Dagger,Great Sword,H,S,S,0
+Dagger,Great Sword,S,S,S,0
+Dagger,Great Sword,D,S,S,0
+Sword,Great Sword,B,S,S,0
+Sword,Great Sword,I,S,S,0
+Sword,Great Sword,H,S,S,0
+Sword,Great Sword,S,S,S,0
+Sword,Great Sword,D,S,S,0
+Great Sword,Great Sword,B,S,H,0
+Great Sword,Great Sword,I,S,H,0
+Great Sword,Great Sword,H,S,H,0
+Great Sword,Great Sword,S,S,S,0
+Great Sword,Great Sword,D,S,S,0
+AxeMace,Great Sword,B,S,S,0
+AxeMace,Great Sword,I,S,S,0
+AxeMace,Great Sword,H,S,S,0
+AxeMace,Great Sword,S,S,S,0
+AxeMace,Great Sword,D,S,S,0
+Great Axe,Great Sword,B,S,B,0
+Great Axe,Great Sword,I,S,I,0
+Great Axe,Great Sword,H,S,H,0
+Great Axe,Great Sword,S,S,S,0
+Great Axe,Great Sword,D,S,D,0
+Staff,Great Sword,B,S,S,0
+Staff,Great Sword,I,S,S,0
+Staff,Great Sword,H,S,S,0
+Staff,Great Sword,S,S,S,0
+Staff,Great Sword,D,S,S,0
+Heavy Mace,Great Sword,B,S,B,0
+Heavy Mace,Great Sword,I,S,I,0
+Heavy Mace,Great Sword,H,S,H,0
+Heavy Mace,Great Sword,S,S,S,0
+Heavy Mace,Great Sword,D,S,D,0
+Polearm,Great Sword,B,S,B,0
+Polearm,Great Sword,I,S,S,0
+Polearm,Great Sword,H,S,H,0
+Polearm,Great Sword,S,S,S,0
+Polearm,Great Sword,D,S,D,0
+Crossbow,Great Sword,B,S,S,0
+Crossbow,Great Sword,I,S,S,0
+Crossbow,Great Sword,H,S,D,1
+Crossbow,Great Sword,S,S,S,0
+Crossbow,Great Sword,D,S,S,0
+Dagger,Great Sword,B,D,D,0
+Dagger,Great Sword,I,D,D,0
+Dagger,Great Sword,H,D,D,0
+Dagger,Great Sword,S,D,D,0
+Dagger,Great Sword,D,D,D,0
+Sword,Great Sword,B,D,D,0
+Sword,Great Sword,I,D,D,0
+Sword,Great Sword,H,D,D,0
+Sword,Great Sword,S,D,D,0
+Sword,Great Sword,D,D,D,0
+Great Sword,Great Sword,B,D,H,0
+Great Sword,Great Sword,I,D,H,0
+Great Sword,Great Sword,H,D,H,0
+Great Sword,Great Sword,S,D,S,0
+Great Sword,Great Sword,D,D,D,0
+AxeMace,Great Sword,B,D,D,0
+AxeMace,Great Sword,I,D,D,0
+AxeMace,Great Sword,H,D,D,0
+AxeMace,Great Sword,S,D,D,0
+AxeMace,Great Sword,D,D,D,0
+Great Axe,Great Sword,B,D,B,0
+Great Axe,Great Sword,I,D,I,0
+Great Axe,Great Sword,H,D,H,0
+Great Axe,Great Sword,S,D,S,0
+Great Axe,Great Sword,D,D,D,0
+Staff,Great Sword,B,D,D,0
+Staff,Great Sword,I,D,D,0
+Staff,Great Sword,H,D,D,0
+Staff,Great Sword,S,D,D,0
+Staff,Great Sword,D,D,D,0
+Heavy Mace,Great Sword,B,D,B,0
+Heavy Mace,Great Sword,I,D,I,0
+Heavy Mace,Great Sword,H,D,H,0
+Heavy Mace,Great Sword,S,D,S,0
+Heavy Mace,Great Sword,D,D,D,0
+Polearm,Great Sword,B,D,B,0
+Polearm,Great Sword,I,D,I,0
+Polearm,Great Sword,H,D,H,0
+Polearm,Great Sword,S,D,S,0
+Polearm,Great Sword,D,D,D,0
+Crossbow,Great Sword,B,D,D,0
+Crossbow,Great Sword,I,D,D,0
+Crossbow,Great Sword,H,D,D,0
+Crossbow,Great Sword,S,D,D,0
+Crossbow,Great Sword,D,D,D,0
+Dagger,AxeMace,B,B,B,0
+Dagger,AxeMace,I,B,B,0
+Dagger,AxeMace,H,B,B,0
+Dagger,AxeMace,S,B,B,0
+Dagger,AxeMace,D,B,B,0
+Sword,AxeMace,B,B,B,0
+Sword,AxeMace,I,B,B,0
+Sword,AxeMace,H,B,B,0
+Sword,AxeMace,S,B,B,0
+Sword,AxeMace,D,B,B,0
+Great Sword,AxeMace,B,B,B,0
+Great Sword,AxeMace,I,B,I,0
+Great Sword,AxeMace,H,B,H,0
+Great Sword,AxeMace,S,B,S,0
+Great Sword,AxeMace,D,B,D,0
+AxeMace,AxeMace,B,B,B,0
+AxeMace,AxeMace,I,B,H,1
+AxeMace,AxeMace,H,B,H,0
+AxeMace,AxeMace,S,B,H,0
+AxeMace,AxeMace,D,B,H,0
+Great Axe,AxeMace,B,B,B,0
+Great Axe,AxeMace,I,B,I,0
+Great Axe,AxeMace,H,B,H,0
+Great Axe,AxeMace,S,B,S,0
+Great Axe,AxeMace,D,B,D,0
+Staff,AxeMace,B,B,B,0
+Staff,AxeMace,I,B,B,0
+Staff,AxeMace,H,B,B,0
+Staff,AxeMace,S,B,B,0
+Staff,AxeMace,D,B,B,0
+Heavy Mace,AxeMace,B,B,B,0
+Heavy Mace,AxeMace,I,B,I,0
+Heavy Mace,AxeMace,H,B,H,0
+Heavy Mace,AxeMace,S,B,S,0
+Heavy Mace,AxeMace,D,B,D,0
+Polearm,AxeMace,B,B,B,0
+Polearm,AxeMace,I,B,I,0
+Polearm,AxeMace,H,B,H,0
+Polearm,AxeMace,S,B,S,0
+Polearm,AxeMace,D,B,D,0
+Crossbow,AxeMace,B,B,B,0
+Crossbow,AxeMace,I,B,I,0
+Crossbow,AxeMace,H,B,H,0
+Crossbow,AxeMace,S,B,S,0
+Crossbow,AxeMace,D,B,D,0
+Dagger,AxeMace,B,I,I,0
+Dagger,AxeMace,I,I,I,0
+Dagger,AxeMace,H,I,I,0
+Dagger,AxeMace,S,I,I,0
+Dagger,AxeMace,D,I,I,0
+Sword,AxeMace,B,I,I,0
+Sword,AxeMace,I,I,I,0
+Sword,AxeMace,H,I,I,0
+Sword,AxeMace,S,I,I,0
+Sword,AxeMace,D,I,I,0
+Great Sword,AxeMace,B,I,B,0
+Great Sword,AxeMace,I,I,I,0
+Great Sword,AxeMace,H,I,H,0
+Great Sword,AxeMace,S,I,S,0
+Great Sword,AxeMace,D,I,D,0
+AxeMace,AxeMace,B,I,H,1
+AxeMace,AxeMace,I,I,I,0
+AxeMace,AxeMace,H,I,H,0
+AxeMace,AxeMace,S,I,H,0
+AxeMace,AxeMace,D,I,H,0
+Great Axe,AxeMace,B,I,B,0
+Great Axe,AxeMace,I,I,I,0
+Great Axe,AxeMace,H,I,H,0
+Great Axe,AxeMace,S,I,S,0
+Great Axe,AxeMace,D,I,D,0
+Staff,AxeMace,B,I,I,0
+Staff,AxeMace,I,I,I,0
+Staff,AxeMace,H,I,I,0
+Staff,AxeMace,S,I,I,0
+Staff,AxeMace,D,I,I,0
+Heavy Mace,AxeMace,B,I,B,0
+Heavy Mace,AxeMace,I,I,I,0
+Heavy Mace,AxeMace,H,I,H,0
+Heavy Mace,AxeMace,S,I,S,0
+Heavy Mace,AxeMace,D,I,D,0
+Polearm,AxeMace,B,I,B,0
+Polearm,AxeMace,I,I,I,0
+Polearm,AxeMace,H,I,H,0
+Polearm,AxeMace,S,I,S,0
+Polearm,AxeMace,D,I,D,0
+Crossbow,AxeMace,B,I,B,0
+Crossbow,AxeMace,I,I,I,0
+Crossbow,AxeMace,H,I,H,0
+Crossbow,AxeMace,S,I,S,0
+Crossbow,AxeMace,D,I,D,0
+Dagger,AxeMace,B,H,H,0
+Dagger,AxeMace,I,H,H,0
+Dagger,AxeMace,H,H,H,0
+Dagger,AxeMace,S,H,H,0
+Dagger,AxeMace,D,H,H,0
+Sword,AxeMace,B,H,H,0
+Sword,AxeMace,I,H,H,0
+Sword,AxeMace,H,H,H,0
+Sword,AxeMace,S,H,H,0
+Sword,AxeMace,D,H,H,0
+Great Sword,AxeMace,B,H,B,0
+Great Sword,AxeMace,I,H,I,0
+Great Sword,AxeMace,H,H,H,0
+Great Sword,AxeMace,S,H,S,0
+Great Sword,AxeMace,D,H,D,0
+AxeMace,AxeMace,B,H,H,0
+AxeMace,AxeMace,I,H,H,0
+AxeMace,AxeMace,H,H,H,0
+AxeMace,AxeMace,S,H,H,0
+AxeMace,AxeMace,D,H,H,0
+Great Axe,AxeMace,B,H,B,0
+Great Axe,AxeMace,I,H,I,0
+Great Axe,AxeMace,H,H,H,0
+Great Axe,AxeMace,S,H,S,0
+Great Axe,AxeMace,D,H,D,0
+Staff,AxeMace,B,H,H,0
+Staff,AxeMace,I,H,H,0
+Staff,AxeMace,H,H,H,0
+Staff,AxeMace,S,H,H,0
+Staff,AxeMace,D,H,H,0
+Heavy Mace,AxeMace,B,H,B,0
+Heavy Mace,AxeMace,I,H,I,0
+Heavy Mace,AxeMace,H,H,H,0
+Heavy Mace,AxeMace,S,H,S,0
+Heavy Mace,AxeMace,D,H,D,0
+Polearm,AxeMace,B,H,B,0
+Polearm,AxeMace,I,H,I,0
+Polearm,AxeMace,H,H,H,0
+Polearm,AxeMace,S,H,S,0
+Polearm,AxeMace,D,H,D,0
+Crossbow,AxeMace,B,H,B,0
+Crossbow,AxeMace,I,H,I,0
+Crossbow,AxeMace,H,H,H,0
+Crossbow,AxeMace,S,H,S,0
+Crossbow,AxeMace,D,H,D,0
+Dagger,AxeMace,B,S,S,0
+Dagger,AxeMace,I,S,S,0
+Dagger,AxeMace,H,S,S,0
+Dagger,AxeMace,S,S,S,0
+Dagger,AxeMace,D,S,S,0
+Sword,AxeMace,B,S,S,0
+Sword,AxeMace,I,S,S,0
+Sword,AxeMace,H,S,S,0
+Sword,AxeMace,S,S,S,0
+Sword,AxeMace,D,S,S,0
+Great Sword,AxeMace,B,S,B,0
+Great Sword,AxeMace,I,S,I,0
+Great Sword,AxeMace,H,S,H,0
+Great Sword,AxeMace,S,S,S,0
+Great Sword,AxeMace,D,S,D,0
+AxeMace,AxeMace,B,S,H,0
+AxeMace,AxeMace,I,S,H,0
+AxeMace,AxeMace,H,S,H,0
+AxeMace,AxeMace,S,S,S,0
+AxeMace,AxeMace,D,S,S,0
+Great Axe,AxeMace,B,S,B,0
+Great Axe,AxeMace,I,S,I,0
+Great Axe,AxeMace,H,S,H,0
+Great Axe,AxeMace,S,S,S,0
+Great Axe,AxeMace,D,S,D,0
+Staff,AxeMace,B,S,S,0
+Staff,AxeMace,I,S,S,0
+Staff,AxeMace,H,S,S,0
+Staff,AxeMace,S,S,S,0
+Staff,AxeMace,D,S,S,0
+Heavy Mace,AxeMace,B,S,B,0
+Heavy Mace,AxeMace,I,S,I,0
+Heavy Mace,AxeMace,H,S,H,0
+Heavy Mace,AxeMace,S,S,S,0
+Heavy Mace,AxeMace,D,S,D,0
+Polearm,AxeMace,B,S,B,0
+Polearm,AxeMace,I,S,I,0
+Polearm,AxeMace,H,S,H,0
+Polearm,AxeMace,S,S,S,0
+Polearm,AxeMace,D,S,D,0
+Crossbow,AxeMace,B,S,B,0
+Crossbow,AxeMace,I,S,I,0
+Crossbow,AxeMace,H,S,H,0
+Crossbow,AxeMace,S,S,S,0
+Crossbow,AxeMace,D,S,D,0
+Dagger,AxeMace,B,D,D,0
+Dagger,AxeMace,I,D,D,0
+Dagger,AxeMace,H,D,D,0
+Dagger,AxeMace,S,D,D,0
+Dagger,AxeMace,D,D,D,0
+Sword,AxeMace,B,D,D,0
+Sword,AxeMace,I,D,D,0
+Sword,AxeMace,H,D,D,0
+Sword,AxeMace,S,D,D,0
+Sword,AxeMace,D,D,D,0
+Great Sword,AxeMace,B,D,B,0
+Great Sword,AxeMace,I,D,I,0
+Great Sword,AxeMace,H,D,H,0
+Great Sword,AxeMace,S,D,S,0
+Great Sword,AxeMace,D,D,D,0
+AxeMace,AxeMace,B,D,H,0
+AxeMace,AxeMace,I,D,H,0
+AxeMace,AxeMace,H,D,H,0
+AxeMace,AxeMace,S,D,S,0
+AxeMace,AxeMace,D,D,D,0
+Great Axe,AxeMace,B,D,B,0
+Great Axe,AxeMace,I,D,I,0
+Great Axe,AxeMace,H,D,H,0
+Great Axe,AxeMace,S,D,S,0
+Great Axe,AxeMace,D,D,D,0
+Staff,AxeMace,B,D,D,0
+Staff,AxeMace,I,D,D,0
+Staff,AxeMace,H,D,D,0
+Staff,AxeMace,S,D,D,0
+Staff,AxeMace,D,D,D,0
+Heavy Mace,AxeMace,B,D,B,0
+Heavy Mace,AxeMace,I,D,I,0
+Heavy Mace,AxeMace,H,D,H,0
+Heavy Mace,AxeMace,S,D,S,0
+Heavy Mace,AxeMace,D,D,D,0
+Polearm,AxeMace,B,D,B,0
+Polearm,AxeMace,I,D,I,0
+Polearm,AxeMace,H,D,H,0
+Polearm,AxeMace,S,D,S,0
+Polearm,AxeMace,D,D,D,0
+Crossbow,AxeMace,B,D,B,0
+Crossbow,AxeMace,I,D,I,0
+Crossbow,AxeMace,H,D,H,0
+Crossbow,AxeMace,S,D,S,0
+Crossbow,AxeMace,D,D,D,0
+Dagger,Great Axe,B,B,B,0
+Dagger,Great Axe,I,B,B,0
+Dagger,Great Axe,H,B,B,0
+Dagger,Great Axe,S,B,B,0
+Dagger,Great Axe,D,B,B,0
+Sword,Great Axe,B,B,B,0
+Sword,Great Axe,I,B,B,0
+Sword,Great Axe,H,B,B,0
+Sword,Great Axe,S,B,B,0
+Sword,Great Axe,D,B,B,0
+Great Sword,Great Axe,B,B,B,0
+Great Sword,Great Axe,I,B,B,0
+Great Sword,Great Axe,H,B,B,0
+Great Sword,Great Axe,S,B,B,0
+Great Sword,Great Axe,D,B,B,0
+AxeMace,Great Axe,B,B,B,0
+AxeMace,Great Axe,I,B,B,0
+AxeMace,Great Axe,H,B,B,0
+AxeMace,Great Axe,S,B,B,0
+AxeMace,Great Axe,D,B,B,0
+Great Axe,Great Axe,B,B,B,0
+Great Axe,Great Axe,I,B,H,1
+Great Axe,Great Axe,H,B,H,0
+Great Axe,Great Axe,S,B,H,0
+Great Axe,Great Axe,D,B,H,0
+Staff,Great Axe,B,B,B,0
+Staff,Great Axe,I,B,B,0
+Staff,Great Axe,H,B,B,0
+Staff,Great Axe,S,B,B,0
+Staff,Great Axe,D,B,B,0
+Heavy Mace,Great Axe,B,B,B,0
+Heavy Mace,Great Axe,I,B,I,0
+Heavy Mace,Great Axe,H,B,H,0
+Heavy Mace,Great Axe,S,B,S,0
+Heavy Mace,Great Axe,D,B,D,0
+Polearm,Great Axe,B,B,B,0
+Polearm,Great Axe,I,B,I,0
+Polearm,Great Axe,H,B,H,0
+Polearm,Great Axe,S,B,S,0
+Polearm,Great Axe,D,B,D,0
+Crossbow,Great Axe,B,B,B,0
+Crossbow,Great Axe,I,B,B,0
+Crossbow,Great Axe,H,B,B,0
+Crossbow,Great Axe,S,B,B,0
+Crossbow,Great Axe,D,B,B,0
+Dagger,Great Axe,B,I,I,0
+Dagger,Great Axe,I,I,I,0
+Dagger,Great Axe,H,I,I,0
+Dagger,Great Axe,S,I,I,0
+Dagger,Great Axe,D,I,I,0
+Sword,Great Axe,B,I,I,0
+Sword,Great Axe,I,I,I,0
+Sword,Great Axe,H,I,I,0
+Sword,Great Axe,S,I,I,0
+Sword,Great Axe,D,I,I,0
+Great Sword,Great Axe,B,I,I,0
+Great Sword,Great Axe,I,I,I,0
+Great Sword,Great Axe,H,I,I,0
+Great Sword,Great Axe,S,I,I,0
+Great Sword,Great Axe,D,I,I,0
+AxeMace,Great Axe,B,I,I,0
+AxeMace,Great Axe,I,I,I,0
+AxeMace,Great Axe,H,I,I,0
+AxeMace,Great Axe,S,I,I,0
+AxeMace,Great Axe,D,I,I,0
+Great Axe,Great Axe,B,I,H,1
+Great Axe,Great Axe,I,I,I,0
+Great Axe,Great Axe,H,I,H,0
+Great Axe,Great Axe,S,I,H,0
+Great Axe,Great Axe,D,I,H,0
+Staff,Great Axe,B,I,I,0
+Staff,Great Axe,I,I,I,0
+Staff,Great Axe,H,I,I,0
+Staff,Great Axe,S,I,I,0
+Staff,Great Axe,D,I,I,0
+Heavy Mace,Great Axe,B,I,B,0
+Heavy Mace,Great Axe,I,I,I,0
+Heavy Mace,Great Axe,H,I,H,0
+Heavy Mace,Great Axe,S,I,S,0
+Heavy Mace,Great Axe,D,I,D,0
+Polearm,Great Axe,B,I,B,0
+Polearm,Great Axe,I,I,I,0
+Polearm,Great Axe,H,I,H,0
+Polearm,Great Axe,S,I,S,0
+Polearm,Great Axe,D,I,D,0
+Crossbow,Great Axe,B,I,I,0
+Crossbow,Great Axe,I,I,I,0
+Crossbow,Great Axe,H,I,I,0
+Crossbow,Great Axe,S,I,I,0
+Crossbow,Great Axe,D,I,I,0
+Dagger,Great Axe,B,H,H,0
+Dagger,Great Axe,I,H,H,0
+Dagger,Great Axe,H,H,H,0
+Dagger,Great Axe,S,H,H,0
+Dagger,Great Axe,D,H,H,0
+Sword,Great Axe,B,H,H,0
+Sword,Great Axe,I,H,H,0
+Sword,Great Axe,H,H,H,0
+Sword,Great Axe,S,H,H,0
+Sword,Great Axe,D,H,H,0
+Great Sword,Great Axe,B,H,H,0
+Great Sword,Great Axe,I,H,H,0
+Great Sword,Great Axe,H,H,H,0
+Great Sword,Great Axe,S,H,H,0
+Great Sword,Great Axe,D,H,H,0
+AxeMace,Great Axe,B,H,H,0
+AxeMace,Great Axe,I,H,H,0
+AxeMace,Great Axe,H,H,H,0
+AxeMace,Great Axe,S,H,H,0
+AxeMace,Great Axe,D,H,H,0
+Great Axe,Great Axe,B,H,H,0
+Great Axe,Great Axe,I,H,H,0
+Great Axe,Great Axe,H,H,H,0
+Great Axe,Great Axe,S,H,H,0
+Great Axe,Great Axe,D,H,H,0
+Staff,Great Axe,B,H,H,0
+Staff,Great Axe,I,H,H,0
+Staff,Great Axe,H,H,H,0
+Staff,Great Axe,S,H,H,0
+Staff,Great Axe,D,H,H,0
+Heavy Mace,Great Axe,B,H,B,0
+Heavy Mace,Great Axe,I,H,I,0
+Heavy Mace,Great Axe,H,H,H,0
+Heavy Mace,Great Axe,S,H,S,0
+Heavy Mace,Great Axe,D,H,D,0
+Polearm,Great Axe,B,H,B,0
+Polearm,Great Axe,I,H,I,0
+Polearm,Great Axe,H,H,H,0
+Polearm,Great Axe,S,H,S,0
+Polearm,Great Axe,D,H,D,0
+Crossbow,Great Axe,B,H,H,0
+Crossbow,Great Axe,I,H,H,0
+Crossbow,Great Axe,H,H,H,0
+Crossbow,Great Axe,S,H,H,0
+Crossbow,Great Axe,D,H,H,0
+Dagger,Great Axe,B,S,S,0
+Dagger,Great Axe,I,S,S,0
+Dagger,Great Axe,H,S,S,0
+Dagger,Great Axe,S,S,S,0
+Dagger,Great Axe,D,S,S,0
+Sword,Great Axe,B,S,S,0
+Sword,Great Axe,I,S,S,0
+Sword,Great Axe,H,S,S,0
+Sword,Great Axe,S,S,S,0
+Sword,Great Axe,D,S,S,0
+Great Sword,Great Axe,B,S,S,0
+Great Sword,Great Axe,I,S,S,0
+Great Sword,Great Axe,H,S,S,0
+Great Sword,Great Axe,S,S,S,0
+Great Sword,Great Axe,D,S,S,0
+AxeMace,Great Axe,B,S,S,0
+AxeMace,Great Axe,I,S,S,0
+AxeMace,Great Axe,H,S,S,0
+AxeMace,Great Axe,S,S,S,0
+AxeMace,Great Axe,D,S,S,0
+Great Axe,Great Axe,B,S,H,0
+Great Axe,Great Axe,I,S,H,0
+Great Axe,Great Axe,H,S,H,0
+Great Axe,Great Axe,S,S,S,0
+Great Axe,Great Axe,D,S,S,0
+Staff,Great Axe,B,S,S,0
+Staff,Great Axe,I,S,D,1
+Staff,Great Axe,H,S,S,0
+Staff,Great Axe,S,S,S,0
+Staff,Great Axe,D,S,S,0
+Heavy Mace,Great Axe,B,S,B,0
+Heavy Mace,Great Axe,I,S,I,0
+Heavy Mace,Great Axe,H,S,H,0
+Heavy Mace,Great Axe,S,S,S,0
+Heavy Mace,Great Axe,D,S,D,0
+Polearm,Great Axe,B,S,B,0
+Polearm,Great Axe,I,S,I,0
+Polearm,Great Axe,H,S,H,0
+Polearm,Great Axe,S,S,S,0
+Polearm,Great Axe,D,S,D,0
+Crossbow,Great Axe,B,S,S,0
+Crossbow,Great Axe,I,S,S,0
+Crossbow,Great Axe,H,S,S,0
+Crossbow,Great Axe,S,S,S,0
+Crossbow,Great Axe,D,S,S,0
+Dagger,Great Axe,B,D,D,0
+Dagger,Great Axe,I,D,D,0
+Dagger,Great Axe,H,D,D,0
+Dagger,Great Axe,S,D,D,0
+Dagger,Great Axe,D,D,D,0
+Sword,Great Axe,B,D,D,0
+Sword,Great Axe,I,D,D,0
+Sword,Great Axe,H,D,D,0
+Sword,Great Axe,S,D,D,0
+Sword,Great Axe,D,D,D,0
+Great Sword,Great Axe,B,D,D,0
+Great Sword,Great Axe,I,D,D,0
+Great Sword,Great Axe,H,D,D,0
+Great Sword,Great Axe,S,D,D,0
+Great Sword,Great Axe,D,D,D,0
+AxeMace,Great Axe,B,D,D,0
+AxeMace,Great Axe,I,D,D,0
+AxeMace,Great Axe,H,D,D,0
+AxeMace,Great Axe,S,D,D,0
+AxeMace,Great Axe,D,D,D,0
+Great Axe,Great Axe,B,D,H,0
+Great Axe,Great Axe,I,D,H,0
+Great Axe,Great Axe,H,D,H,0
+Great Axe,Great Axe,S,D,S,0
+Great Axe,Great Axe,D,D,D,0
+Staff,Great Axe,B,D,D,0
+Staff,Great Axe,I,D,D,0
+Staff,Great Axe,H,D,D,0
+Staff,Great Axe,S,D,D,0
+Staff,Great Axe,D,D,D,0
+Heavy Mace,Great Axe,B,D,B,0
+Heavy Mace,Great Axe,I,D,I,0
+Heavy Mace,Great Axe,H,D,H,0
+Heavy Mace,Great Axe,S,D,S,0
+Heavy Mace,Great Axe,D,D,D,0
+Polearm,Great Axe,B,D,B,0
+Polearm,Great Axe,I,D,I,0
+Polearm,Great Axe,H,D,H,0
+Polearm,Great Axe,S,D,S,0
+Polearm,Great Axe,D,D,D,0
+Crossbow,Great Axe,B,D,D,0
+Crossbow,Great Axe,I,D,D,0
+Crossbow,Great Axe,H,D,D,0
+Crossbow,Great Axe,S,D,D,0
+Crossbow,Great Axe,D,D,D,0
+Dagger,Staff,B,B,B,0
+Dagger,Staff,I,B,B,0
+Dagger,Staff,H,B,B,0
+Dagger,Staff,S,B,B,0
+Dagger,Staff,D,B,B,0
+Sword,Staff,B,B,B,0
+Sword,Staff,I,B,I,0
+Sword,Staff,H,B,H,0
+Sword,Staff,S,B,S,0
+Sword,Staff,D,B,D,0
+Great Sword,Staff,B,B,B,0
+Great Sword,Staff,I,B,I,0
+Great Sword,Staff,H,B,H,0
+Great Sword,Staff,S,B,S,0
+Great Sword,Staff,D,B,D,0
+AxeMace,Staff,B,B,B,0
+AxeMace,Staff,I,B,I,0
+AxeMace,Staff,H,B,H,0
+AxeMace,Staff,S,B,S,0
+AxeMace,Staff,D,B,D,0
+Great Axe,Staff,B,B,B,0
+Great Axe,Staff,I,B,I,0
+Great Axe,Staff,H,B,H,0
+Great Axe,Staff,S,B,S,0
+Great Axe,Staff,D,B,D,0
+Staff,Staff,B,B,B,0
+Staff,Staff,I,B,H,1
+Staff,Staff,H,B,H,0
+Staff,Staff,S,B,H,0
+Staff,Staff,D,B,H,0
+Heavy Mace,Staff,B,B,B,0
+Heavy Mace,Staff,I,B,I,0
+Heavy Mace,Staff,H,B,H,0
+Heavy Mace,Staff,S,B,S,0
+Heavy Mace,Staff,D,B,D,0
+Polearm,Staff,B,B,B,0
+Polearm,Staff,I,B,I,0
+Polearm,Staff,H,B,H,0
+Polearm,Staff,S,B,S,0
+Polearm,Staff,D,B,D,0
+Crossbow,Staff,B,B,B,0
+Crossbow,Staff,I,B,I,0
+Crossbow,Staff,H,B,H,0
+Crossbow,Staff,S,B,S,0
+Crossbow,Staff,D,B,D,0
+Dagger,Staff,B,I,I,0
+Dagger,Staff,I,I,I,0
+Dagger,Staff,H,I,I,0
+Dagger,Staff,S,I,I,0
+Dagger,Staff,D,I,I,0
+Sword,Staff,B,I,B,0
+Sword,Staff,I,I,I,0
+Sword,Staff,H,I,H,0
+Sword,Staff,S,I,S,0
+Sword,Staff,D,I,D,0
+Great Sword,Staff,B,I,B,0
+Great Sword,Staff,I,I,I,0
+Great Sword,Staff,H,I,H,0
+Great Sword,Staff,S,I,S,0
+Great Sword,Staff,D,I,D,0
+AxeMace,Staff,B,I,B,0
+AxeMace,Staff,I,I,I,0
+AxeMace,Staff,H,I,H,0
+AxeMace,Staff,S,I,S,0
+AxeMace,Staff,D,I,D,0
+Great Axe,Staff,B,I,B,0
+Great Axe,Staff,I,I,I,0
+Great Axe,Staff,H,I,H,0
+Great Axe,Staff,S,I,S,0
+Great Axe,Staff,D,I,D,0
+Staff,Staff,B,I,H,1
+Staff,Staff,I,I,I,0
+Staff,Staff,H,I,H,0
+Staff,Staff,S,I,H,0
+Staff,Staff,D,I,H,0
+Heavy Mace,Staff,B,I,B,0
+Heavy Mace,Staff,I,I,I,0
+Heavy Mace,Staff,H,I,H,0
+Heavy Mace,Staff,S,I,S,0
+Heavy Mace,Staff,D,I,D,0
+Polearm,Staff,B,I,B,0
+Polearm,Staff,I,I,I,0
+Polearm,Staff,H,I,H,0
+Polearm,Staff,S,I,S,0
+Polearm,Staff,D,I,D,0
+Crossbow,Staff,B,I,B,0
+Crossbow,Staff,I,I,I,0
+Crossbow,Staff,H,I,H,0
+Crossbow,Staff,S,I,S,0
+Crossbow,Staff,D,I,D,0
+Dagger,Staff,B,H,H,0
+Dagger,Staff,I,H,H,0
+Dagger,Staff,H,H,H,0
+Dagger,Staff,S,H,H,0
+Dagger,Staff,D,H,H,0
+Sword,Staff,B,H,B,0
+Sword,Staff,I,H,I,0
+Sword,Staff,H,H,H,0
+Sword,Staff,S,H,S,0
+Sword,Staff,D,H,D,0
+Great Sword,Staff,B,H,B,0
+Great Sword,Staff,I,H,I,0
+Great Sword,Staff,H,H,H,0
+Great Sword,Staff,S,H,S,0
+Great Sword,Staff,D,H,D,0
+AxeMace,Staff,B,H,B,0
+AxeMace,Staff,I,H,I,0
+AxeMace,Staff,H,H,H,0
+AxeMace,Staff,S,H,D,1
+AxeMace,Staff,D,H,D,0
+Great Axe,Staff,B,H,B,0
+Great Axe,Staff,I,H,I,0
+Great Axe,Staff,H,H,H,0
+Great Axe,Staff,S,H,S,0
+Great Axe,Staff,D,H,D,0
+Staff,Staff,B,H,H,0
+Staff,Staff,I,H,H,0
+Staff,Staff,H,H,H,0
+Staff,Staff,S,H,H,0
+Staff,Staff,D,H,H,0
+Heavy Mace,Staff,B,H,B,0
+Heavy Mace,Staff,I,H,I,0
+Heavy Mace,Staff,H,H,H,0
+Heavy Mace,Staff,S,H,S,0
+Heavy Mace,Staff,D,H,D,0
+Polearm,Staff,B,H,B,0
+Polearm,Staff,I,H,I,0
+Polearm,Staff,H,H,H,0
+Polearm,Staff,S,H,S,0
+Polearm,Staff,D,H,D,0
+Crossbow,Staff,B,H,B,0
+Crossbow,Staff,I,H,I,0
+Crossbow,Staff,H,H,H,0
+Crossbow,Staff,S,H,S,0
+Crossbow,Staff,D,H,D,0
+Dagger,Staff,B,S,S,0
+Dagger,Staff,I,S,S,0
+Dagger,Staff,H,S,D,1
+Dagger,Staff,S,S,S,0
+Dagger,Staff,D,S,S,0
+Sword,Staff,B,S,B,0
+Sword,Staff,I,S,I,0
+Sword,Staff,H,S,H,0
+Sword,Staff,S,S,S,0
+Sword,Staff,D,S,D,0
+Great Sword,Staff,B,S,B,0
+Great Sword,Staff,I,S,I,0
+Great Sword,Staff,H,S,H,0
+Great Sword,Staff,S,S,S,0
+Great Sword,Staff,D,S,D,0
+AxeMace,Staff,B,S,B,0
+AxeMace,Staff,I,S,I,0
+AxeMace,Staff,H,S,H,0
+AxeMace,Staff,S,S,S,0
+AxeMace,Staff,D,S,D,0
+Great Axe,Staff,B,S,B,0
+Great Axe,Staff,I,S,I,0
+Great Axe,Staff,H,S,H,0
+Great Axe,Staff,S,S,S,0
+Great Axe,Staff,D,S,D,0
+Staff,Staff,B,S,H,0
+Staff,Staff,I,S,H,0
+Staff,Staff,H,S,H,0
+Staff,Staff,S,S,S,0
+Staff,Staff,D,S,S,0
+Heavy Mace,Staff,B,S,B,0
+Heavy Mace,Staff,I,S,I,0
+Heavy Mace,Staff,H,S,H,0
+Heavy Mace,Staff,S,S,S,0
+Heavy Mace,Staff,D,S,D,0
+Polearm,Staff,B,S,B,0
+Polearm,Staff,I,S,I,0
+Polearm,Staff,H,S,H,0
+Polearm,Staff,S,S,S,0
+Polearm,Staff,D,S,D,0
+Crossbow,Staff,B,S,B,0
+Crossbow,Staff,I,S,I,0
+Crossbow,Staff,H,S,H,0
+Crossbow,Staff,S,S,S,0
+Crossbow,Staff,D,S,D,0
+Dagger,Staff,B,D,D,0
+Dagger,Staff,I,D,D,0
+Dagger,Staff,H,D,D,0
+Dagger,Staff,S,D,D,0
+Dagger,Staff,D,D,D,0
+Sword,Staff,B,D,B,0
+Sword,Staff,I,D,I,0
+Sword,Staff,H,D,H,0
+Sword,Staff,S,D,S,0
+Sword,Staff,D,D,D,0
+Great Sword,Staff,B,D,B,0
+Great Sword,Staff,I,D,I,0
+Great Sword,Staff,H,D,H,0
+Great Sword,Staff,S,D,S,0
+Great Sword,Staff,D,D,D,0
+AxeMace,Staff,B,D,B,0
+AxeMace,Staff,I,D,I,0
+AxeMace,Staff,H,D,H,0
+AxeMace,Staff,S,D,S,0
+AxeMace,Staff,D,D,D,0
+Great Axe,Staff,B,D,B,0
+Great Axe,Staff,I,D,I,0
+Great Axe,Staff,H,D,H,0
+Great Axe,Staff,S,D,S,0
+Great Axe,Staff,D,D,D,0
+Staff,Staff,B,D,H,0
+Staff,Staff,I,D,H,0
+Staff,Staff,H,D,H,0
+Staff,Staff,S,D,S,0
+Staff,Staff,D,D,D,0
+Heavy Mace,Staff,B,D,B,0
+Heavy Mace,Staff,I,D,I,0
+Heavy Mace,Staff,H,D,H,0
+Heavy Mace,Staff,S,D,S,0
+Heavy Mace,Staff,D,D,D,0
+Polearm,Staff,B,D,B,0
+Polearm,Staff,I,D,I,0
+Polearm,Staff,H,D,H,0
+Polearm,Staff,S,D,S,0
+Polearm,Staff,D,D,D,0
+Crossbow,Staff,B,D,B,0
+Crossbow,Staff,I,D,I,0
+Crossbow,Staff,H,D,H,0
+Crossbow,Staff,S,D,S,0
+Crossbow,Staff,D,D,D,0
+Dagger,Heavy Mace,B,B,B,0
+Dagger,Heavy Mace,I,B,B,0
+Dagger,Heavy Mace,H,B,B,0
+Dagger,Heavy Mace,S,B,B,0
+Dagger,Heavy Mace,D,B,B,0
+Sword,Heavy Mace,B,B,B,0
+Sword,Heavy Mace,I,B,B,0
+Sword,Heavy Mace,H,B,B,0
+Sword,Heavy Mace,S,B,B,0
+Sword,Heavy Mace,D,B,B,0
+Great Sword,Heavy Mace,B,B,B,0
+Great Sword,Heavy Mace,I,B,B,0
+Great Sword,Heavy Mace,H,B,B,0
+Great Sword,Heavy Mace,S,B,B,0
+Great Sword,Heavy Mace,D,B,B,0
+AxeMace,Heavy Mace,B,B,B,0
+AxeMace,Heavy Mace,I,B,B,0
+AxeMace,Heavy Mace,H,B,B,0
+AxeMace,Heavy Mace,S,B,B,0
+AxeMace,Heavy Mace,D,B,B,0
+Great Axe,Heavy Mace,B,B,B,0
+Great Axe,Heavy Mace,I,B,B,0
+Great Axe,Heavy Mace,H,B,B,0
+Great Axe,Heavy Mace,S,B,B,0
+Great Axe,Heavy Mace,D,B,B,0
+Staff,Heavy Mace,B,B,B,0
+Staff,Heavy Mace,I,B,B,0
+Staff,Heavy Mace,H,B,B,0
+Staff,Heavy Mace,S,B,B,0
+Staff,Heavy Mace,D,B,B,0
+Heavy Mace,Heavy Mace,B,B,B,0
+Heavy Mace,Heavy Mace,I,B,H,1
+Heavy Mace,Heavy Mace,H,B,H,0
+Heavy Mace,Heavy Mace,S,B,H,0
+Heavy Mace,Heavy Mace,D,B,H,0
+Polearm,Heavy Mace,B,B,B,0
+Polearm,Heavy Mace,I,B,B,0
+Polearm,Heavy Mace,H,B,B,0
+Polearm,Heavy Mace,S,B,B,0
+Polearm,Heavy Mace,D,B,B,0
+Crossbow,Heavy Mace,B,B,B,0
+Crossbow,Heavy Mace,I,B,B,0
+Crossbow,Heavy Mace,H,B,B,0
+Crossbow,Heavy Mace,S,B,B,0
+Crossbow,Heavy Mace,D,B,B,0
+Dagger,Heavy Mace,B,I,I,0
+Dagger,Heavy Mace,I,I,I,0
+Dagger,Heavy Mace,H,I,I,0
+Dagger,Heavy Mace,S,I,I,0
+Dagger,Heavy Mace,D,I,I,0
+Sword,Heavy Mace,B,I,I,0
+Sword,Heavy Mace,I,I,I,0
+Sword,Heavy Mace,H,I,I,0
+Sword,Heavy Mace,S,I,I,0
+Sword,Heavy Mace,D,I,I,0
+Great Sword,Heavy Mace,B,I,I,0
+Great Sword,Heavy Mace,I,I,I,0
+Great Sword,Heavy Mace,H,I,I,0
+Great Sword,Heavy Mace,S,I,I,0
+Great Sword,Heavy Mace,D,I,I,0
+AxeMace,Heavy Mace,B,I,I,0
+AxeMace,Heavy Mace,I,I,I,0
+AxeMace,Heavy Mace,H,I,I,0
+AxeMace,Heavy Mace,S,I,I,0
+AxeMace,Heavy Mace,D,I,I,0
+Great Axe,Heavy Mace,B,I,I,0
+Great Axe,Heavy Mace,I,I,I,0
+Great Axe,Heavy Mace,H,I,I,0
+Great Axe,Heavy Mace,S,I,I,0
+Great Axe,Heavy Mace,D,I,I,0
+Staff,Heavy Mace,B,I,I,0
+Staff,Heavy Mace,I,I,I,0
+Staff,Heavy Mace,H,I,I,0
+Staff,Heavy Mace,S,I,I,0
+Staff,Heavy Mace,D,I,I,0
+Heavy Mace,Heavy Mace,B,I,H,1
+Heavy Mace,Heavy Mace,I,I,I,0
+Heavy Mace,Heavy Mace,H,I,H,0
+Heavy Mace,Heavy Mace,S,I,H,0
+Heavy Mace,Heavy Mace,D,I,H,0
+Polearm,Heavy Mace,B,I,I,0
+Polearm,Heavy Mace,I,I,I,0
+Polearm,Heavy Mace,H,I,I,0
+Polearm,Heavy Mace,S,I,I,0
+Polearm,Heavy Mace,D,I,I,0
+Crossbow,Heavy Mace,B,I,I,0
+Crossbow,Heavy Mace,I,I,I,0
+Crossbow,Heavy Mace,H,I,I,0
+Crossbow,Heavy Mace,S,I,I,0
+Crossbow,Heavy Mace,D,I,I,0
+Dagger,Heavy Mace,B,H,H,0
+Dagger,Heavy Mace,I,H,H,0
+Dagger,Heavy Mace,H,H,H,0
+Dagger,Heavy Mace,S,H,H,0
+Dagger,Heavy Mace,D,H,H,0
+Sword,Heavy Mace,B,H,H,0
+Sword,Heavy Mace,I,H,H,0
+Sword,Heavy Mace,H,H,H,0
+Sword,Heavy Mace,S,H,H,0
+Sword,Heavy Mace,D,H,H,0
+Great Sword,Heavy Mace,B,H,H,0
+Great Sword,Heavy Mace,I,H,H,0
+Great Sword,Heavy Mace,H,H,H,0
+Great Sword,Heavy Mace,S,H,H,0
+Great Sword,Heavy Mace,D,H,H,0
+AxeMace,Heavy Mace,B,H,H,0
+AxeMace,Heavy Mace,I,H,H,0
+AxeMace,Heavy Mace,H,H,H,0
+AxeMace,Heavy Mace,S,H,H,0
+AxeMace,Heavy Mace,D,H,H,0
+Great Axe,Heavy Mace,B,H,H,0
+Great Axe,Heavy Mace,I,H,H,0
+Great Axe,Heavy Mace,H,H,H,0
+Great Axe,Heavy Mace,S,H,H,0
+Great Axe,Heavy Mace,D,H,H,0
+Staff,Heavy Mace,B,H,H,0
+Staff,Heavy Mace,I,H,H,0
+Staff,Heavy Mace,H,H,H,0
+Staff,Heavy Mace,S,H,H,0
+Staff,Heavy Mace,D,H,H,0
+Heavy Mace,Heavy Mace,B,H,H,0
+Heavy Mace,Heavy Mace,I,H,H,0
+Heavy Mace,Heavy Mace,H,H,H,0
+Heavy Mace,Heavy Mace,S,H,H,0
+Heavy Mace,Heavy Mace,D,H,H,0
+Polearm,Heavy Mace,B,H,H,0
+Polearm,Heavy Mace,I,H,H,0
+Polearm,Heavy Mace,H,H,H,0
+Polearm,Heavy Mace,S,H,H,0
+Polearm,Heavy Mace,D,H,H,0
+Crossbow,Heavy Mace,B,H,H,0
+Crossbow,Heavy Mace,I,H,H,0
+Crossbow,Heavy Mace,H,H,H,0
+Crossbow,Heavy Mace,S,H,H,0
+Crossbow,Heavy Mace,D,H,H,0
+Dagger,Heavy Mace,B,S,S,0
+Dagger,Heavy Mace,I,S,S,0
+Dagger,Heavy Mace,H,S,S,0
+Dagger,Heavy Mace,S,S,S,0
+Dagger,Heavy Mace,D,S,S,0
+Sword,Heavy Mace,B,S,S,0
+Sword,Heavy Mace,I,S,S,0
+Sword,Heavy Mace,H,S,S,0
+Sword,Heavy Mace,S,S,S,0
+Sword,Heavy Mace,D,S,S,0
+Great Sword,Heavy Mace,B,S,S,0
+Great Sword,Heavy Mace,I,S,S,0
+Great Sword,Heavy Mace,H,S,S,0
+Great Sword,Heavy Mace,S,S,S,0
+Great Sword,Heavy Mace,D,S,S,0
+AxeMace,Heavy Mace,B,S,S,0
+AxeMace,Heavy Mace,I,S,S,0
+AxeMace,Heavy Mace,H,S,S,0
+AxeMace,Heavy Mace,S,S,S,0
+AxeMace,Heavy Mace,D,S,S,0
+Great Axe,Heavy Mace,B,S,S,0
+Great Axe,Heavy Mace,I,S,S,0
+Great Axe,Heavy Mace,H,S,S,0
+Great Axe,Heavy Mace,S,S,S,0
+Great Axe,Heavy Mace,D,S,S,0
+Staff,Heavy Mace,B,S,S,0
+Staff,Heavy Mace,I,S,S,0
+Staff,Heavy Mace,H,S,S,0
+Staff,Heavy Mace,S,S,S,0
+Staff,Heavy Mace,D,S,S,0
+Heavy Mace,Heavy Mace,B,S,H,0
+Heavy Mace,Heavy Mace,I,S,H,0
+Heavy Mace,Heavy Mace,H,S,H,0
+Heavy Mace,Heavy Mace,S,S,S,0
+Heavy Mace,Heavy Mace,D,S,S,0
+Polearm,Heavy Mace,B,S,S,0
+Polearm,Heavy Mace,I,S,S,0
+Polearm,Heavy Mace,H,S,S,0
+Polearm,Heavy Mace,S,S,S,0
+Polearm,Heavy Mace,D,S,S,0
+Crossbow,Heavy Mace,B,S,S,0
+Crossbow,Heavy Mace,I,S,S,0
+Crossbow,Heavy Mace,H,S,S,0
+Crossbow,Heavy Mace,S,S,S,0
+Crossbow,Heavy Mace,D,S,S,0
+Dagger,Heavy Mace,B,D,D,0
+Dagger,Heavy Mace,I,D,D,0
+Dagger,Heavy Mace,H,D,D,0
+Dagger,Heavy Mace,S,D,D,0
+Dagger,Heavy Mace,D,D,D,0
+Sword,Heavy Mace,B,D,D,0
+Sword,Heavy Mace,I,D,D,0
+Sword,Heavy Mace,H,D,D,0
+Sword,Heavy Mace,S,D,D,0
+Sword,Heavy Mace,D,D,D,0
+Great Sword,Heavy Mace,B,D,D,0
+Great Sword,Heavy Mace,I,D,D,0
+Great Sword,Heavy Mace,H,D,D,0
+Great Sword,Heavy Mace,S,D,D,0
+Great Sword,Heavy Mace,D,D,D,0
+AxeMace,Heavy Mace,B,D,D,0
+AxeMace,Heavy Mace,I,D,D,0
+AxeMace,Heavy Mace,H,D,D,0
+AxeMace,Heavy Mace,S,D,D,0
+AxeMace,Heavy Mace,D,D,D,0
+Great Axe,Heavy Mace,B,D,D,0
+Great Axe,Heavy Mace,I,D,D,0
+Great Axe,Heavy Mace,H,D,D,0
+Great Axe,Heavy Mace,S,D,D,0
+Great Axe,Heavy Mace,D,D,D,0
+Staff,Heavy Mace,B,D,D,0
+Staff,Heavy Mace,I,D,D,0
+Staff,Heavy Mace,H,D,D,0
+Staff,Heavy Mace,S,D,D,0
+Staff,Heavy Mace,D,D,D,0
+Heavy Mace,Heavy Mace,B,D,H,0
+Heavy Mace,Heavy Mace,I,D,H,0
+Heavy Mace,Heavy Mace,H,D,H,0
+Heavy Mace,Heavy Mace,S,D,S,0
+Heavy Mace,Heavy Mace,D,D,D,0
+Polearm,Heavy Mace,B,D,D,0
+Polearm,Heavy Mace,I,D,D,0
+Polearm,Heavy Mace,H,D,D,0
+Polearm,Heavy Mace,S,D,D,0
+Polearm,Heavy Mace,D,D,D,0
+Crossbow,Heavy Mace,B,D,D,0
+Crossbow,Heavy Mace,I,D,D,0
+Crossbow,Heavy Mace,H,D,D,0
+Crossbow,Heavy Mace,S,D,D,0
+Crossbow,Heavy Mace,D,D,D,0
+Dagger,Polearm,B,B,B,0
+Dagger,Polearm,I,B,B,0
+Dagger,Polearm,H,B,B,0
+Dagger,Polearm,S,B,B,0
+Dagger,Polearm,D,B,B,0
+Sword,Polearm,B,B,B,0
+Sword,Polearm,I,B,B,0
+Sword,Polearm,H,B,B,0
+Sword,Polearm,S,B,B,0
+Sword,Polearm,D,B,B,0
+Great Sword,Polearm,B,B,B,0
+Great Sword,Polearm,I,B,B,0
+Great Sword,Polearm,H,B,B,0
+Great Sword,Polearm,S,B,B,0
+Great Sword,Polearm,D,B,B,0
+AxeMace,Polearm,B,B,B,0
+AxeMace,Polearm,I,B,B,0
+AxeMace,Polearm,H,B,B,0
+AxeMace,Polearm,S,B,B,0
+AxeMace,Polearm,D,B,B,0
+Great Axe,Polearm,B,B,B,0
+Great Axe,Polearm,I,B,B,0
+Great Axe,Polearm,H,B,B,0
+Great Axe,Polearm,S,B,B,0
+Great Axe,Polearm,D,B,B,0
+Staff,Polearm,B,B,B,0
+Staff,Polearm,I,B,B,0
+Staff,Polearm,H,B,B,0
+Staff,Polearm,S,B,B,0
+Staff,Polearm,D,B,B,0
+Heavy Mace,Polearm,B,B,B,0
+Heavy Mace,Polearm,I,B,I,0
+Heavy Mace,Polearm,H,B,H,0
+Heavy Mace,Polearm,S,B,S,0
+Heavy Mace,Polearm,D,B,D,0
+Polearm,Polearm,B,B,B,0
+Polearm,Polearm,I,B,H,1
+Polearm,Polearm,H,B,H,0
+Polearm,Polearm,S,B,H,0
+Polearm,Polearm,D,B,H,0
+Crossbow,Polearm,B,B,B,0
+Crossbow,Polearm,I,B,B,0
+Crossbow,Polearm,H,B,B,0
+Crossbow,Polearm,S,B,B,0
+Crossbow,Polearm,D,B,B,0
+Dagger,Polearm,B,I,I,0
+Dagger,Polearm,I,I,I,0
+Dagger,Polearm,H,I,I,0
+Dagger,Polearm,S,I,I,0
+Dagger,Polearm,D,I,I,0
+Sword,Polearm,B,I,I,0
+Sword,Polearm,I,I,I,0
+Sword,Polearm,H,I,I,0
+Sword,Polearm,S,I,I,0
+Sword,Polearm,D,I,I,0
+Great Sword,Polearm,B,I,I,0
+Great Sword,Polearm,I,I,I,0
+Great Sword,Polearm,H,I,I,0
+Great Sword,Polearm,S,I,D,1
+Great Sword,Polearm,D,I,I,0
+AxeMace,Polearm,B,I,I,0
+AxeMace,Polearm,I,I,I,0
+AxeMace,Polearm,H,I,I,0
+AxeMace,Polearm,S,I,I,0
+AxeMace,Polearm,D,I,I,0
+Great Axe,Polearm,B,I,I,0
+Great Axe,Polearm,I,I,I,0
+Great Axe,Polearm,H,I,I,0
+Great Axe,Polearm,S,I,I,0
+Great Axe,Polearm,D,I,I,0
+Staff,Polearm,B,I,I,0
+Staff,Polearm,I,I,I,0
+Staff,Polearm,H,I,I,0
+Staff,Polearm,S,I,I,0
+Staff,Polearm,D,I,I,0
+Heavy Mace,Polearm,B,I,B,0
+Heavy Mace,Polearm,I,I,I,0
+Heavy Mace,Polearm,H,I,H,0
+Heavy Mace,Polearm,S,I,S,0
+Heavy Mace,Polearm,D,I,D,0
+Polearm,Polearm,B,I,H,1
+Polearm,Polearm,I,I,I,0
+Polearm,Polearm,H,I,H,0
+Polearm,Polearm,S,I,H,0
+Polearm,Polearm,D,I,H,0
+Crossbow,Polearm,B,I,I,0
+Crossbow,Polearm,I,I,I,0
+Crossbow,Polearm,H,I,I,0
+Crossbow,Polearm,S,I,I,0
+Crossbow,Polearm,D,I,I,0
+Dagger,Polearm,B,H,H,0
+Dagger,Polearm,I,H,H,0
+Dagger,Polearm,H,H,H,0
+Dagger,Polearm,S,H,H,0
+Dagger,Polearm,D,H,H,0
+Sword,Polearm,B,H,H,0
+Sword,Polearm,I,H,H,0
+Sword,Polearm,H,H,H,0
+Sword,Polearm,S,H,H,0
+Sword,Polearm,D,H,H,0
+Great Sword,Polearm,B,H,H,0
+Great Sword,Polearm,I,H,H,0
+Great Sword,Polearm,H,H,H,0
+Great Sword,Polearm,S,H,H,0
+Great Sword,Polearm,D,H,H,0
+AxeMace,Polearm,B,H,H,0
+AxeMace,Polearm,I,H,H,0
+AxeMace,Polearm,H,H,H,0
+AxeMace,Polearm,S,H,H,0
+AxeMace,Polearm,D,H,H,0
+Great Axe,Polearm,B,H,H,0
+Great Axe,Polearm,I,H,H,0
+Great Axe,Polearm,H,H,H,0
+Great Axe,Polearm,S,H,H,0
+Great Axe,Polearm,D,H,H,0
+Staff,Polearm,B,H,H,0
+Staff,Polearm,I,H,H,0
+Staff,Polearm,H,H,H,0
+Staff,Polearm,S,H,H,0
+Staff,Polearm,D,H,H,0
+Heavy Mace,Polearm,B,H,B,0
+Heavy Mace,Polearm,I,H,I,0
+Heavy Mace,Polearm,H,H,H,0
+Heavy Mace,Polearm,S,H,S,0
+Heavy Mace,Polearm,D,H,D,0
+Polearm,Polearm,B,H,H,0
+Polearm,Polearm,I,H,H,0
+Polearm,Polearm,H,H,H,0
+Polearm,Polearm,S,H,H,0
+Polearm,Polearm,D,H,H,0
+Crossbow,Polearm,B,H,H,0
+Crossbow,Polearm,I,H,H,0
+Crossbow,Polearm,H,H,H,0
+Crossbow,Polearm,S,H,H,0
+Crossbow,Polearm,D,H,H,0
+Dagger,Polearm,B,S,S,0
+Dagger,Polearm,I,S,S,0
+Dagger,Polearm,H,S,S,0
+Dagger,Polearm,S,S,S,0
+Dagger,Polearm,D,S,S,0
+Sword,Polearm,B,S,S,0
+Sword,Polearm,I,S,S,0
+Sword,Polearm,H,S,S,0
+Sword,Polearm,S,S,S,0
+Sword,Polearm,D,S,S,0
+Great Sword,Polearm,B,S,S,0
+Great Sword,Polearm,I,S,S,0
+Great Sword,Polearm,H,S,S,0
+Great Sword,Polearm,S,S,S,0
+Great Sword,Polearm,D,S,S,0
+AxeMace,Polearm,B,S,S,0
+AxeMace,Polearm,I,S,S,0
+AxeMace,Polearm,H,S,D,1
+AxeMace,Polearm,S,S,S,0
+AxeMace,Polearm,D,S,S,0
+Great Axe,Polearm,B,S,S,0
+Great Axe,Polearm,I,S,S,0
+Great Axe,Polearm,H,S,S,0
+Great Axe,Polearm,S,S,S,0
+Great Axe,Polearm,D,S,S,0
+Staff,Polearm,B,S,S,0
+Staff,Polearm,I,S,S,0
+Staff,Polearm,H,S,S,0
+Staff,Polearm,S,S,S,0
+Staff,Polearm,D,S,S,0
+Heavy Mace,Polearm,B,S,B,0
+Heavy Mace,Polearm,I,S,I,0
+Heavy Mace,Polearm,H,S,H,0
+Heavy Mace,Polearm,S,S,S,0
+Heavy Mace,Polearm,D,S,D,0
+Polearm,Polearm,B,S,H,0
+Polearm,Polearm,I,S,H,0
+Polearm,Polearm,H,S,H,0
+Polearm,Polearm,S,S,S,0
+Polearm,Polearm,D,S,S,0
+Crossbow,Polearm,B,S,S,0
+Crossbow,Polearm,I,S,S,0
+Crossbow,Polearm,H,S,S,0
+Crossbow,Polearm,S,S,S,0
+Crossbow,Polearm,D,S,S,0
+Dagger,Polearm,B,D,D,0
+Dagger,Polearm,I,D,D,0
+Dagger,Polearm,H,D,D,0
+Dagger,Polearm,S,D,D,0
+Dagger,Polearm,D,D,D,0
+Sword,Polearm,B,D,D,0
+Sword,Polearm,I,D,D,0
+Sword,Polearm,H,D,D,0
+Sword,Polearm,S,D,D,0
+Sword,Polearm,D,D,D,0
+Great Sword,Polearm,B,D,D,0
+Great Sword,Polearm,I,D,D,0
+Great Sword,Polearm,H,D,D,0
+Great Sword,Polearm,S,D,D,0
+Great Sword,Polearm,D,D,D,0
+AxeMace,Polearm,B,D,D,0
+AxeMace,Polearm,I,D,D,0
+AxeMace,Polearm,H,D,D,0
+AxeMace,Polearm,S,D,D,0
+AxeMace,Polearm,D,D,D,0
+Great Axe,Polearm,B,D,D,0
+Great Axe,Polearm,I,D,D,0
+Great Axe,Polearm,H,D,D,0
+Great Axe,Polearm,S,D,D,0
+Great Axe,Polearm,D,D,D,0
+Staff,Polearm,B,D,D,0
+Staff,Polearm,I,D,D,0
+Staff,Polearm,H,D,D,0
+Staff,Polearm,S,D,D,0
+Staff,Polearm,D,D,D,0
+Heavy Mace,Polearm,B,D,B,0
+Heavy Mace,Polearm,I,D,I,0
+Heavy Mace,Polearm,H,D,H,0
+Heavy Mace,Polearm,S,D,S,0
+Heavy Mace,Polearm,D,D,D,0
+Polearm,Polearm,B,D,H,0
+Polearm,Polearm,I,D,H,0
+Polearm,Polearm,H,D,H,0
+Polearm,Polearm,S,D,S,0
+Polearm,Polearm,D,D,D,0
+Crossbow,Polearm,B,D,D,0
+Crossbow,Polearm,I,D,D,0
+Crossbow,Polearm,H,D,D,0
+Crossbow,Polearm,S,D,D,0
+Crossbow,Polearm,D,D,D,0
+Dagger,Crossbow,B,B,B,0
+Dagger,Crossbow,I,B,B,0
+Dagger,Crossbow,H,B,B,0
+Dagger,Crossbow,S,B,B,0
+Dagger,Crossbow,D,B,B,0
+Sword,Crossbow,B,B,B,0
+Sword,Crossbow,I,B,B,0
+Sword,Crossbow,H,B,B,0
+Sword,Crossbow,S,B,B,0
+Sword,Crossbow,D,B,B,0
+Great Sword,Crossbow,B,B,B,0
+Great Sword,Crossbow,I,B,I,0
+Great Sword,Crossbow,H,B,H,0
+Great Sword,Crossbow,S,B,S,0
+Great Sword,Crossbow,D,B,D,0
+AxeMace,Crossbow,B,B,B,0
+AxeMace,Crossbow,I,B,B,0
+AxeMace,Crossbow,H,B,B,0
+AxeMace,Crossbow,S,B,B,0
+AxeMace,Crossbow,D,B,B,0
+Great Axe,Crossbow,B,B,B,0
+Great Axe,Crossbow,I,B,I,0
+Great Axe,Crossbow,H,B,H,0
+Great Axe,Crossbow,S,B,S,0
+Great Axe,Crossbow,D,B,D,0
+Staff,Crossbow,B,B,B,0
+Staff,Crossbow,I,B,B,0
+Staff,Crossbow,H,B,B,0
+Staff,Crossbow,S,B,B,0
+Staff,Crossbow,D,B,B,0
+Heavy Mace,Crossbow,B,B,B,0
+Heavy Mace,Crossbow,I,B,I,0
+Heavy Mace,Crossbow,H,B,H,0
+Heavy Mace,Crossbow,S,B,S,0
+Heavy Mace,Crossbow,D,B,D,0
+Polearm,Crossbow,B,B,B,0
+Polearm,Crossbow,I,B,I,0
+Polearm,Crossbow,H,B,H,0
+Polearm,Crossbow,S,B,S,0
+Polearm,Crossbow,D,B,D,0
+Crossbow,Crossbow,B,B,B,0
+Crossbow,Crossbow,I,B,H,1
+Crossbow,Crossbow,H,B,H,0
+Crossbow,Crossbow,S,B,H,0
+Crossbow,Crossbow,D,B,H,0
+Dagger,Crossbow,B,I,I,0
+Dagger,Crossbow,I,I,I,0
+Dagger,Crossbow,H,I,I,0
+Dagger,Crossbow,S,I,I,0
+Dagger,Crossbow,D,I,I,0
+Sword,Crossbow,B,I,I,0
+Sword,Crossbow,I,I,I,0
+Sword,Crossbow,H,I,I,0
+Sword,Crossbow,S,I,I,0
+Sword,Crossbow,D,I,I,0
+Great Sword,Crossbow,B,I,B,0
+Great Sword,Crossbow,I,I,I,0
+Great Sword,Crossbow,H,I,H,0
+Great Sword,Crossbow,S,I,S,0
+Great Sword,Crossbow,D,I,D,0
+AxeMace,Crossbow,B,I,I,0
+AxeMace,Crossbow,I,I,I,0
+AxeMace,Crossbow,H,I,I,0
+AxeMace,Crossbow,S,I,I,0
+AxeMace,Crossbow,D,I,I,0
+Great Axe,Crossbow,B,I,B,0
+Great Axe,Crossbow,I,I,I,0
+Great Axe,Crossbow,H,I,H,0
+Great Axe,Crossbow,S,I,S,0
+Great Axe,Crossbow,D,I,D,0
+Staff,Crossbow,B,I,I,0
+Staff,Crossbow,I,I,I,0
+Staff,Crossbow,H,I,I,0
+Staff,Crossbow,S,I,I,0
+Staff,Crossbow,D,I,I,0
+Heavy Mace,Crossbow,B,I,B,0
+Heavy Mace,Crossbow,I,I,I,0
+Heavy Mace,Crossbow,H,I,H,0
+Heavy Mace,Crossbow,S,I,S,0
+Heavy Mace,Crossbow,D,I,D,0
+Polearm,Crossbow,B,I,B,0
+Polearm,Crossbow,I,I,I,0
+Polearm,Crossbow,H,I,H,0
+Polearm,Crossbow,S,I,S,0
+Polearm,Crossbow,D,I,D,0
+Crossbow,Crossbow,B,I,H,1
+Crossbow,Crossbow,I,I,I,0
+Crossbow,Crossbow,H,I,H,0
+Crossbow,Crossbow,S,I,H,0
+Crossbow,Crossbow,D,I,H,0
+Dagger,Crossbow,B,H,H,0
+Dagger,Crossbow,I,H,H,0
+Dagger,Crossbow,H,H,H,0
+Dagger,Crossbow,S,H,H,0
+Dagger,Crossbow,D,H,H,0
+Sword,Crossbow,B,H,H,0
+Sword,Crossbow,I,H,H,0
+Sword,Crossbow,H,H,H,0
+Sword,Crossbow,S,H,H,0
+Sword,Crossbow,D,H,H,0
+Great Sword,Crossbow,B,H,B,0
+Great Sword,Crossbow,I,H,I,0
+Great Sword,Crossbow,H,H,H,0
+Great Sword,Crossbow,S,H,S,0
+Great Sword,Crossbow,D,H,D,0
+AxeMace,Crossbow,B,H,H,0
+AxeMace,Crossbow,I,H,H,0
+AxeMace,Crossbow,H,H,H,0
+AxeMace,Crossbow,S,H,H,0
+AxeMace,Crossbow,D,H,H,0
+Great Axe,Crossbow,B,H,B,0
+Great Axe,Crossbow,I,H,I,0
+Great Axe,Crossbow,H,H,H,0
+Great Axe,Crossbow,S,H,D,1
+Great Axe,Crossbow,D,H,D,0
+Staff,Crossbow,B,H,H,0
+Staff,Crossbow,I,H,H,0
+Staff,Crossbow,H,H,H,0
+Staff,Crossbow,S,H,H,0
+Staff,Crossbow,D,H,H,0
+Heavy Mace,Crossbow,B,H,B,0
+Heavy Mace,Crossbow,I,H,I,0
+Heavy Mace,Crossbow,H,H,H,0
+Heavy Mace,Crossbow,S,H,S,0
+Heavy Mace,Crossbow,D,H,D,0
+Polearm,Crossbow,B,H,B,0
+Polearm,Crossbow,I,H,I,0
+Polearm,Crossbow,H,H,H,0
+Polearm,Crossbow,S,H,S,0
+Polearm,Crossbow,D,H,D,0
+Crossbow,Crossbow,B,H,H,0
+Crossbow,Crossbow,I,H,H,0
+Crossbow,Crossbow,H,H,H,0
+Crossbow,Crossbow,S,H,H,0
+Crossbow,Crossbow,D,H,H,0
+Dagger,Crossbow,B,S,S,0
+Dagger,Crossbow,I,S,S,0
+Dagger,Crossbow,H,S,S,0
+Dagger,Crossbow,S,S,S,0
+Dagger,Crossbow,D,S,S,0
+Sword,Crossbow,B,S,S,0
+Sword,Crossbow,I,S,S,0
+Sword,Crossbow,H,S,S,0
+Sword,Crossbow,S,S,S,0
+Sword,Crossbow,D,S,S,0
+Great Sword,Crossbow,B,S,B,0
+Great Sword,Crossbow,I,S,I,0
+Great Sword,Crossbow,H,S,H,0
+Great Sword,Crossbow,S,S,S,0
+Great Sword,Crossbow,D,S,D,0
+AxeMace,Crossbow,B,S,S,0
+AxeMace,Crossbow,I,S,S,0
+AxeMace,Crossbow,H,S,S,0
+AxeMace,Crossbow,S,S,S,0
+AxeMace,Crossbow,D,S,S,0
+Great Axe,Crossbow,B,S,B,0
+Great Axe,Crossbow,I,S,I,0
+Great Axe,Crossbow,H,S,H,0
+Great Axe,Crossbow,S,S,S,0
+Great Axe,Crossbow,D,S,D,0
+Staff,Crossbow,B,S,S,0
+Staff,Crossbow,I,S,S,0
+Staff,Crossbow,H,S,S,0
+Staff,Crossbow,S,S,S,0
+Staff,Crossbow,D,S,S,0
+Heavy Mace,Crossbow,B,S,B,0
+Heavy Mace,Crossbow,I,S,I,0
+Heavy Mace,Crossbow,H,S,H,0
+Heavy Mace,Crossbow,S,S,S,0
+Heavy Mace,Crossbow,D,S,D,0
+Polearm,Crossbow,B,S,B,0
+Polearm,Crossbow,I,S,I,0
+Polearm,Crossbow,H,S,H,0
+Polearm,Crossbow,S,S,S,0
+Polearm,Crossbow,D,S,D,0
+Crossbow,Crossbow,B,S,H,0
+Crossbow,Crossbow,I,S,H,0
+Crossbow,Crossbow,H,S,H,0
+Crossbow,Crossbow,S,S,S,0
+Crossbow,Crossbow,D,S,S,0
+Dagger,Crossbow,B,D,D,0
+Dagger,Crossbow,I,D,D,0
+Dagger,Crossbow,H,D,D,0
+Dagger,Crossbow,S,D,D,0
+Dagger,Crossbow,D,D,D,0
+Sword,Crossbow,B,D,D,0
+Sword,Crossbow,I,D,D,0
+Sword,Crossbow,H,D,D,0
+Sword,Crossbow,S,D,D,0
+Sword,Crossbow,D,D,D,0
+Great Sword,Crossbow,B,D,B,0
+Great Sword,Crossbow,I,D,I,0
+Great Sword,Crossbow,H,D,H,0
+Great Sword,Crossbow,S,D,S,0
+Great Sword,Crossbow,D,D,D,0
+AxeMace,Crossbow,B,D,D,0
+AxeMace,Crossbow,I,D,D,0
+AxeMace,Crossbow,H,D,D,0
+AxeMace,Crossbow,S,D,D,0
+AxeMace,Crossbow,D,D,D,0
+Great Axe,Crossbow,B,D,B,0
+Great Axe,Crossbow,I,D,I,0
+Great Axe,Crossbow,H,D,H,0
+Great Axe,Crossbow,S,D,S,0
+Great Axe,Crossbow,D,D,D,0
+Staff,Crossbow,B,D,D,0
+Staff,Crossbow,I,D,D,0
+Staff,Crossbow,H,D,D,0
+Staff,Crossbow,S,D,D,0
+Staff,Crossbow,D,D,D,0
+Heavy Mace,Crossbow,B,D,B,0
+Heavy Mace,Crossbow,I,D,I,0
+Heavy Mace,Crossbow,H,D,H,0
+Heavy Mace,Crossbow,S,D,S,0
+Heavy Mace,Crossbow,D,D,D,0
+Polearm,Crossbow,B,D,B,0
+Polearm,Crossbow,I,D,I,0
+Polearm,Crossbow,H,D,H,0
+Polearm,Crossbow,S,D,S,0
+Polearm,Crossbow,D,D,D,0
+Crossbow,Crossbow,B,D,H,0
+Crossbow,Crossbow,I,D,H,0
+Crossbow,Crossbow,H,D,H,0
+Crossbow,Crossbow,S,D,S,0
+Crossbow,Crossbow,D,D,D,0

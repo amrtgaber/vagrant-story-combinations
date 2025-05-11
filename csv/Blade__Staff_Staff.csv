@@ -1,10 +1,10 @@
-slot1,slot2,result,tier_change
-Wizard Staff,Wizard Staff,Wizard Staff,0
-Wizard Staff,Clergy Rod,Wizard Staff,0
-Wizard Staff,Summoner Baton,Wizard Staff,0
-Wizard Staff,Shamanic Staff,Clergy Rod,0
-Clergy Rod,Clergy Rod,Clergy Rod,0
-Clergy Rod,Summoner Baton,Shamanic Staff,1
-Clergy Rod,Shamanic Staff,Clergy Rod,0
-Summoner Baton,Summoner Baton,Summoner Baton,0
-Shamanic Staff,Shamanic Staff,Shamanic Staff,0
+slot1,slot2,result,tier_change,has_swap
+Wizard Staff,Wizard Staff,Wizard Staff,0,False
+Wizard Staff,Clergy Rod,Wizard Staff,0,False
+Wizard Staff,Summoner Baton,Wizard Staff,0,False
+Wizard Staff,Shamanic Staff,Clergy Rod,0,False
+Clergy Rod,Clergy Rod,Clergy Rod,0,False
+Clergy Rod,Summoner Baton,Shamanic Staff,1,False
+Clergy Rod,Shamanic Staff,Clergy Rod,0,False
+Summoner Baton,Summoner Baton,Summoner Baton,0,False
+Shamanic Staff,Shamanic Staff,Shamanic Staff,0,False

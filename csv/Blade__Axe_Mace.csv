@@ -1,49 +1,49 @@
-slot1,slot2,result,tier_change
-Hand Axe,Goblin Club,Goblin Club,0
-Hand Axe,Spiked Club,Goblin Club,0
-Hand Axe,Ball Mace,Spiked Club,0
-Hand Axe,War Hammer,Morning Star,0
-Hand Axe,Bec de Corbin,War Hammer,0
-Hand Axe,War Maul,Bec de Corbin,0
-Battle Axe,Goblin Club,Hand Axe,0
-Battle Axe,Spiked Club,Spiked Club,0
-Battle Axe,Ball Mace,Langdebeve,0
-Battle Axe,Morning Star,Ball Mace,0
-Battle Axe,Bec de Corbin,Morning Star,0
-Battle Axe,War Maul,War Hammer,0
-Francisca,Goblin Club,Hand Axe,0
-Francisca,Spiked Club,Battle Axe,0
-Francisca,Ball Mace,Guisarme,0
-Francisca,Morning Star,Ball Mace,0
-Francisca,War Hammer,Ball Mace,0
-Francisca,War Maul,Morning Star,0
-Tabarzin,Goblin Club,Battle Axe,0
-Tabarzin,Spiked Club,Battle Axe,0
-Tabarzin,Ball Mace,Wizard Staff,0
-Chamkaq,Goblin Club,Francisca,0
-Chamkaq,Spiked Club,Battle Axe,0
-Chamkaq,Ball Mace,Francisca,0
-Chamkaq,Morning Star,Sabre Halberd,0
-Chamkaq,War Hammer,Gloomwing,0
-Chamkaq,Bec de Corbin,Morning Star,0
-Chamkaq,War Maul,Morning Star,0
-Tabar,Goblin Club,Tabarzin,0
-Tabar,Spiked Club,Francisca,0
-Tabar,Ball Mace,Francisca,0
-Tabar,Morning Star,Summoner Baton,0
-Tabar,War Hammer,Balbriggan,0
-Tabar,Bec de Corbin,Mjolnir,0
-Tabar,War Maul,War Hammer,0
-Bullova,Goblin Club,Chamkaq,0
-Bullova,Spiked Club,Tabarzin,0
-Bullova,Ball Mace,Francisca,0
-Bullova,Morning Star,Chamkaq,0
-Bullova,War Hammer,Shamanic Staff,0
-Bullova,Bec de Corbin,Double Blade,0
-Bullova,War Maul,Griever,0
-Crescent,Goblin Club,Tabar,0
-Crescent,Spiked Club,Chamkaq,0
-Crescent,Ball Mace,Tabarzin,0
-Crescent,Morning Star,Chamkaq,0
-Crescent,War Hammer,Tabar,0
-Crescent,War Maul,Halberd,0
+slot1,slot2,result,tier_change,has_swap
+Hand Axe,Goblin Club,Goblin Club,0,False
+Hand Axe,Spiked Club,Goblin Club,0,False
+Hand Axe,Ball Mace,Spiked Club,0,False
+Hand Axe,War Hammer,Morning Star,0,False
+Hand Axe,Bec de Corbin,War Hammer,0,False
+Hand Axe,War Maul,Bec de Corbin,0,False
+Battle Axe,Goblin Club,Hand Axe,0,False
+Battle Axe,Spiked Club,Spiked Club,0,False
+Battle Axe,Ball Mace,Langdebeve,0,False
+Battle Axe,Morning Star,Ball Mace,0,False
+Battle Axe,Bec de Corbin,Morning Star,0,False
+Battle Axe,War Maul,War Hammer,0,False
+Francisca,Goblin Club,Hand Axe,0,False
+Francisca,Spiked Club,Battle Axe,0,False
+Francisca,Ball Mace,Guisarme,0,False
+Francisca,Morning Star,Ball Mace,0,False
+Francisca,War Hammer,Ball Mace,0,False
+Francisca,War Maul,Morning Star,0,False
+Tabarzin,Goblin Club,Battle Axe,0,False
+Tabarzin,Spiked Club,Battle Axe,0,False
+Tabarzin,Ball Mace,Wizard Staff,0,False
+Chamkaq,Goblin Club,Francisca,0,False
+Chamkaq,Spiked Club,Battle Axe,0,False
+Chamkaq,Ball Mace,Francisca,0,False
+Chamkaq,Morning Star,Sabre Halberd,0,False
+Chamkaq,War Hammer,Gloomwing,0,False
+Chamkaq,Bec de Corbin,Morning Star,0,False
+Chamkaq,War Maul,Morning Star,0,False
+Tabar,Goblin Club,Tabarzin,0,False
+Tabar,Spiked Club,Francisca,0,False
+Tabar,Ball Mace,Francisca,0,False
+Tabar,Morning Star,Summoner Baton,0,False
+Tabar,War Hammer,Balbriggan,0,False
+Tabar,Bec de Corbin,Mjolnir,0,False
+Tabar,War Maul,War Hammer,0,False
+Bullova,Goblin Club,Chamkaq,0,False
+Bullova,Spiked Club,Tabarzin,0,False
+Bullova,Ball Mace,Francisca,0,False
+Bullova,Morning Star,Chamkaq,0,False
+Bullova,War Hammer,Shamanic Staff,0,False
+Bullova,Bec de Corbin,Double Blade,0,False
+Bullova,War Maul,Griever,0,False
+Crescent,Goblin Club,Tabar,0,False
+Crescent,Spiked Club,Chamkaq,0,False
+Crescent,Ball Mace,Tabarzin,0,False
+Crescent,Morning Star,Chamkaq,0,False
+Crescent,War Hammer,Tabar,0,False
+Crescent,War Maul,Halberd,0,False

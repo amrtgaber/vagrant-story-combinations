@@ -1,145 +1,145 @@
-slot1,slot2,result,tier_change
-Battle Knife,Spear,Spear,0
-Battle Knife,Glaive,Spear,0
-Battle Knife,Scorpion,Spear,0
-Battle Knife,Corcesca,Spear,0
-Battle Knife,Trident,Glaive,0
-Battle Knife,Awl Pike,Scorpion,0
-Battle Knife,Boar Spear,Corcesca,0
-Battle Knife,Fauchard,Trident,0
-Battle Knife,Voulge,Awl Pike,0
-Battle Knife,Pole Axe,Boar Spear,0
-Battle Knife,Bardysh,Fauchard,0
-Battle Knife,Brandestoc,Voulge,0
-Scramasax,Spear,Battle Knife,0
-Scramasax,Glaive,Glaive,0
-Scramasax,Scorpion,Glaive,0
-Scramasax,Corcesca,Glaive,0
-Scramasax,Trident,Glaive,0
-Scramasax,Awl Pike,Glaive,0
-Scramasax,Boar Spear,Scorpion,0
-Scramasax,Fauchard,Corcesca,0
-Scramasax,Voulge,Trident,0
-Scramasax,Pole Axe,Awl Pike,0
-Scramasax,Bardysh,Boar Spear,0
-Scramasax,Brandestoc,Fauchard,0
-Dirk,Spear,Battle Knife,0
-Dirk,Glaive,Scorpion,0
-Dirk,Scorpion,Scorpion,0
-Dirk,Corcesca,Scorpion,0
-Dirk,Trident,Scorpion,0
-Dirk,Awl Pike,Scorpion,0
-Dirk,Boar Spear,Scorpion,0
-Dirk,Fauchard,Scorpion,0
-Dirk,Voulge,Corcesca,0
-Dirk,Pole Axe,Trident,0
-Dirk,Bardysh,Awl Pike,0
-Dirk,Brandestoc,Boar Spear,0
-Throwing Knife,Spear,Battle Knife,0
-Throwing Knife,Glaive,Scramasax,0
-Throwing Knife,Scorpion,Scimitar,0
-Throwing Knife,Corcesca,Corcesca,0
-Throwing Knife,Trident,Broad Sword,0
-Throwing Knife,Awl Pike,Corcesca,0
-Throwing Knife,Boar Spear,Corcesca,0
-Throwing Knife,Fauchard,Corcesca,0
-Throwing Knife,Voulge,Corcesca,0
-Throwing Knife,Pole Axe,Corcesca,0
-Throwing Knife,Bardysh,Trident,0
-Throwing Knife,Brandestoc,Awl Pike,0
-Kudi,Spear,Scramasax,0
-Kudi,Glaive,Scramasax,0
-Kudi,Scorpion,Dirk,0
-Kudi,Corcesca,Rapier,0
-Kudi,Trident,Trident,0
-Kudi,Awl Pike,Norse Sword,0
-Kudi,Boar Spear,Trident,0
-Kudi,Fauchard,Trident,0
-Kudi,Voulge,Trident,0
-Kudi,Pole Axe,Trident,0
-Kudi,Bardysh,Trident,0
-Kudi,Brandestoc,Trident,0
-Cinquedea,Spear,Dirk,0
-Cinquedea,Glaive,Scramasax,0
-Cinquedea,Scorpion,Dirk,0
-Cinquedea,Corcesca,Throwing Knife,0
-Cinquedea,Trident,Short Sword,0
-Cinquedea,Awl Pike,Gastraph Bow,0
-Cinquedea,Boar Spear,Katana,0
-Cinquedea,Fauchard,Awl Pike,0
-Cinquedea,Voulge,Awl Pike,0
-Cinquedea,Pole Axe,Awl Pike,0
-Cinquedea,Bardysh,Awl Pike,0
-Cinquedea,Brandestoc,Awl Pike,0
-Kris,Spear,Throwing Knife,0
-Kris,Glaive,Dirk,0
-Kris,Scorpion,Dirk,0
-Kris,Corcesca,Throwing Knife,0
-Kris,Trident,Kudi,0
-Kris,Awl Pike,Firangi,0
-Kris,Boar Spear,Light Crossbow,0
-Kris,Fauchard,Executioner,0
-Kris,Voulge,Boar Spear,0
-Kris,Pole Axe,Boar Spear,0
-Kris,Bardysh,Boar Spear,0
-Kris,Brandestoc,Boar Spear,0
-Hatchet,Spear,Kudi,0
-Hatchet,Glaive,Throwing Knife,0
-Hatchet,Scorpion,Dirk,0
-Hatchet,Corcesca,Throwing Knife,0
-Hatchet,Trident,Kudi,0
-Hatchet,Awl Pike,Cinquedea,0
-Hatchet,Boar Spear,Shamshir,0
-Hatchet,Fauchard,Target Bow,0
-Hatchet,Voulge,Claymore,0
-Hatchet,Pole Axe,Fauchard,0
-Hatchet,Bardysh,Fauchard,0
-Hatchet,Brandestoc,Fauchard,0
-Khukuri,Spear,Cinquedea,0
-Khukuri,Glaive,Kudi,0
-Khukuri,Scorpion,Throwing Knife,0
-Khukuri,Corcesca,Throwing Knife,0
-Khukuri,Trident,Kudi,0
-Khukuri,Awl Pike,Cinquedea,0
-Khukuri,Boar Spear,Kris,0
-Khukuri,Fauchard,Falchion,0
-Khukuri,Voulge,Windlass,0
-Khukuri,Pole Axe,Schiavona,0
-Khukuri,Bardysh,Voulge,0
-Khukuri,Brandestoc,Voulge,0
-Baselard,Spear,Kris,0
-Baselard,Glaive,Cinquedea,0
-Baselard,Scorpion,Kudi,0
-Baselard,Corcesca,Throwing Knife,0
-Baselard,Trident,Kudi,0
-Baselard,Awl Pike,Cinquedea,0
-Baselard,Boar Spear,Kris,0
-Baselard,Fauchard,Hatchet,0
-Baselard,Voulge,Shotel,0
-Baselard,Pole Axe,Cranequin,0
-Baselard,Bardysh,Bastard Sword,0
-Baselard,Brandestoc,Pole Axe,0
-Stiletto,Spear,Hatchet,0
-Stiletto,Glaive,Kris,0
-Stiletto,Scorpion,Cinquedea,0
-Stiletto,Corcesca,Kudi,0
-Stiletto,Trident,Kudi,0
-Stiletto,Awl Pike,Cinquedea,0
-Stiletto,Boar Spear,Kris,0
-Stiletto,Fauchard,Hatchet,0
-Stiletto,Voulge,Khukuri,0
-Stiletto,Pole Axe,Khora,0
-Stiletto,Bardysh,Lug Crossbow,0
-Stiletto,Brandestoc,Nodachi,0
-Jamadhar,Spear,Khukuri,0
-Jamadhar,Glaive,Hatchet,0
-Jamadhar,Scorpion,Kris,0
-Jamadhar,Corcesca,Cinquedea,0
-Jamadhar,Trident,Kudi,0
-Jamadhar,Awl Pike,Cinquedea,0
-Jamadhar,Boar Spear,Kris,0
-Jamadhar,Fauchard,Hatchet,0
-Jamadhar,Voulge,Khukuri,0
-Jamadhar,Pole Axe,Baselard,0
-Jamadhar,Bardysh,Khopesh,0
-Jamadhar,Brandestoc,Siege Bow,0
+slot1,slot2,result,tier_change,has_swap
+Battle Knife,Spear,Spear,0,False
+Battle Knife,Glaive,Spear,0,False
+Battle Knife,Scorpion,Spear,0,False
+Battle Knife,Corcesca,Spear,0,False
+Battle Knife,Trident,Glaive,0,False
+Battle Knife,Awl Pike,Scorpion,0,False
+Battle Knife,Boar Spear,Corcesca,0,False
+Battle Knife,Fauchard,Trident,0,False
+Battle Knife,Voulge,Awl Pike,0,False
+Battle Knife,Pole Axe,Boar Spear,0,False
+Battle Knife,Bardysh,Fauchard,0,False
+Battle Knife,Brandestoc,Voulge,0,False
+Scramasax,Spear,Battle Knife,0,False
+Scramasax,Glaive,Glaive,0,False
+Scramasax,Scorpion,Glaive,0,False
+Scramasax,Corcesca,Glaive,0,False
+Scramasax,Trident,Glaive,0,False
+Scramasax,Awl Pike,Glaive,0,False
+Scramasax,Boar Spear,Scorpion,0,False
+Scramasax,Fauchard,Corcesca,0,False
+Scramasax,Voulge,Trident,0,False
+Scramasax,Pole Axe,Awl Pike,0,False
+Scramasax,Bardysh,Boar Spear,0,False
+Scramasax,Brandestoc,Fauchard,0,False
+Dirk,Spear,Battle Knife,0,False
+Dirk,Glaive,Scorpion,0,False
+Dirk,Scorpion,Scorpion,0,False
+Dirk,Corcesca,Scorpion,0,False
+Dirk,Trident,Scorpion,0,False
+Dirk,Awl Pike,Scorpion,0,False
+Dirk,Boar Spear,Scorpion,0,False
+Dirk,Fauchard,Scorpion,0,False
+Dirk,Voulge,Corcesca,0,False
+Dirk,Pole Axe,Trident,0,False
+Dirk,Bardysh,Awl Pike,0,False
+Dirk,Brandestoc,Boar Spear,0,False
+Throwing Knife,Spear,Battle Knife,0,False
+Throwing Knife,Glaive,Scramasax,0,False
+Throwing Knife,Scorpion,Scimitar,0,False
+Throwing Knife,Corcesca,Corcesca,0,False
+Throwing Knife,Trident,Broad Sword,0,False
+Throwing Knife,Awl Pike,Corcesca,0,False
+Throwing Knife,Boar Spear,Corcesca,0,False
+Throwing Knife,Fauchard,Corcesca,0,False
+Throwing Knife,Voulge,Corcesca,0,False
+Throwing Knife,Pole Axe,Corcesca,0,False
+Throwing Knife,Bardysh,Trident,0,False
+Throwing Knife,Brandestoc,Awl Pike,0,False
+Kudi,Spear,Scramasax,0,False
+Kudi,Glaive,Scramasax,0,False
+Kudi,Scorpion,Dirk,0,False
+Kudi,Corcesca,Rapier,0,False
+Kudi,Trident,Trident,0,False
+Kudi,Awl Pike,Norse Sword,0,False
+Kudi,Boar Spear,Trident,0,False
+Kudi,Fauchard,Trident,0,False
+Kudi,Voulge,Trident,0,False
+Kudi,Pole Axe,Trident,0,False
+Kudi,Bardysh,Trident,0,False
+Kudi,Brandestoc,Trident,0,False
+Cinquedea,Spear,Dirk,0,False
+Cinquedea,Glaive,Scramasax,0,False
+Cinquedea,Scorpion,Dirk,0,False
+Cinquedea,Corcesca,Throwing Knife,0,False
+Cinquedea,Trident,Short Sword,0,False
+Cinquedea,Awl Pike,Gastraph Bow,0,False
+Cinquedea,Boar Spear,Katana,0,False
+Cinquedea,Fauchard,Awl Pike,0,False
+Cinquedea,Voulge,Awl Pike,0,False
+Cinquedea,Pole Axe,Awl Pike,0,False
+Cinquedea,Bardysh,Awl Pike,0,False
+Cinquedea,Brandestoc,Awl Pike,0,False
+Kris,Spear,Throwing Knife,0,False
+Kris,Glaive,Dirk,0,False
+Kris,Scorpion,Dirk,0,False
+Kris,Corcesca,Throwing Knife,0,False
+Kris,Trident,Kudi,0,False
+Kris,Awl Pike,Firangi,0,False
+Kris,Boar Spear,Light Crossbow,0,False
+Kris,Fauchard,Executioner,0,False
+Kris,Voulge,Boar Spear,0,False
+Kris,Pole Axe,Boar Spear,0,False
+Kris,Bardysh,Boar Spear,0,False
+Kris,Brandestoc,Boar Spear,0,False
+Hatchet,Spear,Kudi,0,False
+Hatchet,Glaive,Throwing Knife,0,False
+Hatchet,Scorpion,Dirk,0,False
+Hatchet,Corcesca,Throwing Knife,0,False
+Hatchet,Trident,Kudi,0,False
+Hatchet,Awl Pike,Cinquedea,0,False
+Hatchet,Boar Spear,Shamshir,0,False
+Hatchet,Fauchard,Target Bow,0,False
+Hatchet,Voulge,Claymore,0,False
+Hatchet,Pole Axe,Fauchard,0,False
+Hatchet,Bardysh,Fauchard,0,False
+Hatchet,Brandestoc,Fauchard,0,False
+Khukuri,Spear,Cinquedea,0,False
+Khukuri,Glaive,Kudi,0,False
+Khukuri,Scorpion,Throwing Knife,0,False
+Khukuri,Corcesca,Throwing Knife,0,False
+Khukuri,Trident,Kudi,0,False
+Khukuri,Awl Pike,Cinquedea,0,False
+Khukuri,Boar Spear,Kris,0,False
+Khukuri,Fauchard,Falchion,0,False
+Khukuri,Voulge,Windlass,0,False
+Khukuri,Pole Axe,Schiavona,0,False
+Khukuri,Bardysh,Voulge,0,False
+Khukuri,Brandestoc,Voulge,0,False
+Baselard,Spear,Kris,0,False
+Baselard,Glaive,Cinquedea,0,False
+Baselard,Scorpion,Kudi,0,False
+Baselard,Corcesca,Throwing Knife,0,False
+Baselard,Trident,Kudi,0,False
+Baselard,Awl Pike,Cinquedea,0,False
+Baselard,Boar Spear,Kris,0,False
+Baselard,Fauchard,Hatchet,0,False
+Baselard,Voulge,Shotel,0,False
+Baselard,Pole Axe,Cranequin,0,False
+Baselard,Bardysh,Bastard Sword,0,False
+Baselard,Brandestoc,Pole Axe,0,False
+Stiletto,Spear,Hatchet,0,False
+Stiletto,Glaive,Kris,0,False
+Stiletto,Scorpion,Cinquedea,0,False
+Stiletto,Corcesca,Kudi,0,False
+Stiletto,Trident,Kudi,0,False
+Stiletto,Awl Pike,Cinquedea,0,False
+Stiletto,Boar Spear,Kris,0,False
+Stiletto,Fauchard,Hatchet,0,False
+Stiletto,Voulge,Khukuri,0,False
+Stiletto,Pole Axe,Khora,0,False
+Stiletto,Bardysh,Lug Crossbow,0,False
+Stiletto,Brandestoc,Nodachi,0,False
+Jamadhar,Spear,Khukuri,0,False
+Jamadhar,Glaive,Hatchet,0,False
+Jamadhar,Scorpion,Kris,0,False
+Jamadhar,Corcesca,Cinquedea,0,False
+Jamadhar,Trident,Kudi,0,False
+Jamadhar,Awl Pike,Cinquedea,0,False
+Jamadhar,Boar Spear,Kris,0,False
+Jamadhar,Fauchard,Hatchet,0,False
+Jamadhar,Voulge,Khukuri,0,False
+Jamadhar,Pole Axe,Baselard,0,False
+Jamadhar,Bardysh,Khopesh,0,False
+Jamadhar,Brandestoc,Siege Bow,0,False

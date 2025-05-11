@@ -1,120 +1,120 @@
-slot1,slot2,result,tier_change
-Spatha,Broad Sword,Broad Sword,0
-Spatha,Norse Sword,Broad Sword,0
-Spatha,Katana,Broad Sword,0
-Spatha,Executioner,Norse Sword,0
-Spatha,Claymore,Katana,0
-Spatha,Schiavona,Executioner,0
-Spatha,Bastard Sword,Claymore,0
-Spatha,Nodachi,Schiavona,0
-Spatha,Rune Blade,Bastard Sword,0
-Spatha,Holy Win,Spatha,0
-Scimitar,Broad Sword,Spatha,0
-Scimitar,Norse Sword,Norse Sword,0
-Scimitar,Katana,Norse Sword,0
-Scimitar,Executioner,Norse Sword,0
-Scimitar,Claymore,Norse Sword,0
-Scimitar,Schiavona,Katana,0
-Scimitar,Bastard Sword,Executioner,0
-Scimitar,Nodachi,Claymore,0
-Scimitar,Rune Blade,Schiavona,0
-Scimitar,Holy Win,Scimitar,0
-Rapier,Broad Sword,Spatha,0
-Rapier,Norse Sword,Hand Axe,0
-Rapier,Katana,Katana,0
-Rapier,Executioner,Katana,0
-Rapier,Claymore,Katana,0
-Rapier,Schiavona,Katana,0
-Rapier,Bastard Sword,Katana,0
-Rapier,Nodachi,Executioner,0
-Rapier,Rune Blade,Claymore,0
-Rapier,Holy Win,Rapier,0
-Short Sword,Broad Sword,Spatha,0
-Short Sword,Norse Sword,Scimitar,0
-Short Sword,Katana,Battle Axe,0
-Short Sword,Executioner,Executioner,0
-Short Sword,Claymore,Executioner,0
-Short Sword,Schiavona,Executioner,0
-Short Sword,Bastard Sword,Executioner,0
-Short Sword,Nodachi,Executioner,0
-Short Sword,Rune Blade,Executioner,0
-Short Sword,Holy Win,Short Sword,0
-Firangi,Broad Sword,Scimitar,0
-Firangi,Norse Sword,Scimitar,0
-Firangi,Katana,Goblin Club,0
-Firangi,Executioner,Francisca,0
-Firangi,Claymore,Guisarme,0
-Firangi,Schiavona,Claymore,0
-Firangi,Bastard Sword,Claymore,0
-Firangi,Nodachi,Claymore,0
-Firangi,Rune Blade,Claymore,0
-Firangi,Holy Win,Firangi,0
-Shamshir,Broad Sword,Rapier,0
-Shamshir,Norse Sword,Scimitar,0
-Shamshir,Katana,Rapier,0
-Shamshir,Executioner,Spiked Club,0
-Shamshir,Claymore,Tabarzin,0
-Shamshir,Schiavona,Large Crescent,0
-Shamshir,Bastard Sword,Schiavona,0
-Shamshir,Nodachi,Schiavona,0
-Shamshir,Rune Blade,Schiavona,0
-Shamshir,Holy Win,Shamshir,0
-Falchion,Broad Sword,Short Sword,0
-Falchion,Norse Sword,Rapier,0
-Falchion,Katana,Rapier,0
-Falchion,Executioner,Short Sword,0
-Falchion,Claymore,Ball Mace,0
-Falchion,Schiavona,Chamkaq,0
-Falchion,Bastard Sword,Sabre Halberd,0
-Falchion,Nodachi,Bastard Sword,0
-Falchion,Rune Blade,Bastard Sword,0
-Falchion,Holy Win,Falchion,0
-Shotel,Broad Sword,Firangi,0
-Shotel,Norse Sword,Short Sword,0
-Shotel,Katana,Rapier,0
-Shotel,Executioner,Short Sword,0
-Shotel,Claymore,Firangi,0
-Shotel,Bastard Sword,Tabar,0
-Shotel,Nodachi,Balbriggan,0
-Shotel,Rune Blade,Nodachi,0
-Shotel,Holy Win,Shotel,0
-Khora,Broad Sword,Shamshir,0
-Khora,Norse Sword,Firangi,0
-Khora,Katana,Short Sword,0
-Khora,Executioner,Short Sword,0
-Khora,Claymore,Firangi,0
-Khora,Schiavona,Shamshir,0
-Khora,Bastard Sword,Morning Star,0
-Khora,Nodachi,Bullova,0
-Khora,Rune Blade,Double Blade,0
-Khora,Holy Win,Khora,0
-Khopesh,Broad Sword,Falchion,0
-Khopesh,Norse Sword,Shamshir,0
-Khopesh,Katana,Firangi,0
-Khopesh,Executioner,Short Sword,0
-Khopesh,Claymore,Firangi,0
-Khopesh,Schiavona,Shamshir,0
-Khopesh,Bastard Sword,Falchion,0
-Khopesh,Nodachi,War Hammer,0
-Khopesh,Rune Blade,Crescent,0
-Khopesh,Holy Win,Khopesh,0
-Wakizashi,Broad Sword,Shotel,0
-Wakizashi,Norse Sword,Falchion,0
-Wakizashi,Katana,Shamshir,0
-Wakizashi,Executioner,Firangi,0
-Wakizashi,Claymore,Firangi,0
-Wakizashi,Schiavona,Shamshir,0
-Wakizashi,Bastard Sword,Falchion,0
-Wakizashi,Nodachi,Shotel,0
-Wakizashi,Rune Blade,Bec de Corbin,0
-Wakizashi,Holy Win,Wakizashi,0
-Rhomphaia,Broad Sword,Broad Sword,0
-Rhomphaia,Norse Sword,Norse Sword,0
-Rhomphaia,Katana,Katana,0
-Rhomphaia,Executioner,Executioner,0
-Rhomphaia,Claymore,Claymore,0
-Rhomphaia,Schiavona,Schiavona,0
-Rhomphaia,Bastard Sword,Bastard Sword,0
-Rhomphaia,Nodachi,Nodachi,0
-Rhomphaia,Rune Blade,Rune Blade,0
-Rhomphaia,Holy Win,Rhomphaia,0
+slot1,slot2,result,tier_change,has_swap
+Spatha,Broad Sword,Broad Sword,0,False
+Spatha,Norse Sword,Broad Sword,0,False
+Spatha,Katana,Broad Sword,0,False
+Spatha,Executioner,Norse Sword,0,False
+Spatha,Claymore,Katana,0,False
+Spatha,Schiavona,Executioner,0,False
+Spatha,Bastard Sword,Claymore,0,False
+Spatha,Nodachi,Schiavona,0,False
+Spatha,Rune Blade,Bastard Sword,0,False
+Spatha,Holy Win,Spatha,0,False
+Scimitar,Broad Sword,Spatha,0,False
+Scimitar,Norse Sword,Norse Sword,0,False
+Scimitar,Katana,Norse Sword,0,False
+Scimitar,Executioner,Norse Sword,0,False
+Scimitar,Claymore,Norse Sword,0,False
+Scimitar,Schiavona,Katana,0,False
+Scimitar,Bastard Sword,Executioner,0,False
+Scimitar,Nodachi,Claymore,0,False
+Scimitar,Rune Blade,Schiavona,0,False
+Scimitar,Holy Win,Scimitar,0,False
+Rapier,Broad Sword,Spatha,0,False
+Rapier,Norse Sword,Hand Axe,0,False
+Rapier,Katana,Katana,0,False
+Rapier,Executioner,Katana,0,False
+Rapier,Claymore,Katana,0,False
+Rapier,Schiavona,Katana,0,False
+Rapier,Bastard Sword,Katana,0,False
+Rapier,Nodachi,Executioner,0,False
+Rapier,Rune Blade,Claymore,0,False
+Rapier,Holy Win,Rapier,0,False
+Short Sword,Broad Sword,Spatha,0,False
+Short Sword,Norse Sword,Scimitar,0,False
+Short Sword,Katana,Battle Axe,0,False
+Short Sword,Executioner,Executioner,0,False
+Short Sword,Claymore,Executioner,0,False
+Short Sword,Schiavona,Executioner,0,False
+Short Sword,Bastard Sword,Executioner,0,False
+Short Sword,Nodachi,Executioner,0,False
+Short Sword,Rune Blade,Executioner,0,False
+Short Sword,Holy Win,Short Sword,0,False
+Firangi,Broad Sword,Scimitar,0,False
+Firangi,Norse Sword,Scimitar,0,False
+Firangi,Katana,Goblin Club,0,False
+Firangi,Executioner,Francisca,0,False
+Firangi,Claymore,Guisarme,0,False
+Firangi,Schiavona,Claymore,0,False
+Firangi,Bastard Sword,Claymore,0,False
+Firangi,Nodachi,Claymore,0,False
+Firangi,Rune Blade,Claymore,0,False
+Firangi,Holy Win,Firangi,0,False
+Shamshir,Broad Sword,Rapier,0,False
+Shamshir,Norse Sword,Scimitar,0,False
+Shamshir,Katana,Rapier,0,False
+Shamshir,Executioner,Spiked Club,0,False
+Shamshir,Claymore,Tabarzin,0,False
+Shamshir,Schiavona,Large Crescent,0,False
+Shamshir,Bastard Sword,Schiavona,0,False
+Shamshir,Nodachi,Schiavona,0,False
+Shamshir,Rune Blade,Schiavona,0,False
+Shamshir,Holy Win,Shamshir,0,False
+Falchion,Broad Sword,Short Sword,0,False
+Falchion,Norse Sword,Rapier,0,False
+Falchion,Katana,Rapier,0,False
+Falchion,Executioner,Short Sword,0,False
+Falchion,Claymore,Ball Mace,0,False
+Falchion,Schiavona,Chamkaq,0,False
+Falchion,Bastard Sword,Sabre Halberd,0,False
+Falchion,Nodachi,Bastard Sword,0,False
+Falchion,Rune Blade,Bastard Sword,0,False
+Falchion,Holy Win,Falchion,0,False
+Shotel,Broad Sword,Firangi,0,False
+Shotel,Norse Sword,Short Sword,0,False
+Shotel,Katana,Rapier,0,False
+Shotel,Executioner,Short Sword,0,False
+Shotel,Claymore,Firangi,0,False
+Shotel,Bastard Sword,Tabar,0,False
+Shotel,Nodachi,Balbriggan,0,False
+Shotel,Rune Blade,Nodachi,0,False
+Shotel,Holy Win,Shotel,0,False
+Khora,Broad Sword,Shamshir,0,False
+Khora,Norse Sword,Firangi,0,False
+Khora,Katana,Short Sword,0,False
+Khora,Executioner,Short Sword,0,False
+Khora,Claymore,Firangi,0,False
+Khora,Schiavona,Shamshir,0,False
+Khora,Bastard Sword,Morning Star,0,False
+Khora,Nodachi,Bullova,0,False
+Khora,Rune Blade,Double Blade,0,False
+Khora,Holy Win,Khora,0,False
+Khopesh,Broad Sword,Falchion,0,False
+Khopesh,Norse Sword,Shamshir,0,False
+Khopesh,Katana,Firangi,0,False
+Khopesh,Executioner,Short Sword,0,False
+Khopesh,Claymore,Firangi,0,False
+Khopesh,Schiavona,Shamshir,0,False
+Khopesh,Bastard Sword,Falchion,0,False
+Khopesh,Nodachi,War Hammer,0,False
+Khopesh,Rune Blade,Crescent,0,False
+Khopesh,Holy Win,Khopesh,0,False
+Wakizashi,Broad Sword,Shotel,0,False
+Wakizashi,Norse Sword,Falchion,0,False
+Wakizashi,Katana,Shamshir,0,False
+Wakizashi,Executioner,Firangi,0,False
+Wakizashi,Claymore,Firangi,0,False
+Wakizashi,Schiavona,Shamshir,0,False
+Wakizashi,Bastard Sword,Falchion,0,False
+Wakizashi,Nodachi,Shotel,0,False
+Wakizashi,Rune Blade,Bec de Corbin,0,False
+Wakizashi,Holy Win,Wakizashi,0,False
+Rhomphaia,Broad Sword,Broad Sword,0,False
+Rhomphaia,Norse Sword,Norse Sword,0,False
+Rhomphaia,Katana,Katana,0,False
+Rhomphaia,Executioner,Executioner,0,False
+Rhomphaia,Claymore,Claymore,0,False
+Rhomphaia,Schiavona,Schiavona,0,False
+Rhomphaia,Bastard Sword,Bastard Sword,0,False
+Rhomphaia,Nodachi,Nodachi,0,False
+Rhomphaia,Rune Blade,Rune Blade,0,False
+Rhomphaia,Holy Win,Rhomphaia,0,False

@@ -1,134 +1,134 @@
-slot1,slot2,result,tier_change
-Sandals,Sandals,Sandals,0
-Sandals,Boots,Boots,0
-Sandals,Long Boots,Long Boots,0
-Sandals,Cuisse,Cuisse,0
-Sandals,Light Greave,Ring Leggings,1
-Sandals,Ring Leggings,Cuisse,0
-Sandals,Chain Leggings,Light Greave,0
-Sandals,Fusskampf,Light Greave,0
-Sandals,Poleyn,Ring Leggings,0
-Sandals,Jambeau,Chain Leggings,0
-Sandals,Missaglia,Fusskampf,0
-Sandals,Plate Leggings,Poleyn,0
-Sandals,Fluted Leggings,Jambeau,0
-Sandals,Hoplite Leggings,Missaglia,0
-Sandals,Jazeraint Leggings,Plate Leggings,0
-Sandals,Dread Leggings,Fluted Leggings,0
-Boots,Boots,Boots,0
-Boots,Long Boots,Long Boots,0
-Boots,Cuisse,Cuisse,0
-Boots,Light Greave,Cuisse,0
-Boots,Ring Leggings,Chain Leggings,1
-Boots,Chain Leggings,Cuisse,0
-Boots,Fusskampf,Ring Leggings,0
-Boots,Poleyn,Light Greave,0
-Boots,Jambeau,Ring Leggings,0
-Boots,Missaglia,Chain Leggings,0
-Boots,Plate Leggings,Fusskampf,0
-Boots,Fluted Leggings,Poleyn,0
-Boots,Hoplite Leggings,Jambeau,0
-Boots,Jazeraint Leggings,Missaglia,0
-Boots,Dread Leggings,Plate Leggings,0
-Long Boots,Long Boots,Long Boots,0
-Long Boots,Cuisse,Light Greave,1
-Long Boots,Light Greave,Light Greave,0
-Long Boots,Ring Leggings,Cuisse,0
-Long Boots,Chain Leggings,Ring Leggings,0
-Long Boots,Fusskampf,Light Greave,0
-Long Boots,Poleyn,Fusskampf,0
-Long Boots,Jambeau,Light Greave,0
-Long Boots,Missaglia,Ring Leggings,0
-Long Boots,Plate Leggings,Chain Leggings,0
-Long Boots,Fluted Leggings,Fusskampf,0
-Long Boots,Hoplite Leggings,Poleyn,0
-Long Boots,Jazeraint Leggings,Jambeau,0
-Long Boots,Dread Leggings,Missaglia,0
-Cuisse,Cuisse,Cuisse,0
-Cuisse,Light Greave,Ring Leggings,1
-Cuisse,Ring Leggings,Ring Leggings,0
-Cuisse,Chain Leggings,Cuisse,0
-Cuisse,Fusskampf,Chain Leggings,0
-Cuisse,Poleyn,Cuisse,0
-Cuisse,Jambeau,Poleyn,0
-Cuisse,Missaglia,Light Greave,0
-Cuisse,Plate Leggings,Ring Leggings,0
-Cuisse,Fluted Leggings,Chain Leggings,0
-Cuisse,Hoplite Leggings,Fusskampf,0
-Cuisse,Jazeraint Leggings,Poleyn,0
-Cuisse,Dread Leggings,Jambeau,0
-Light Greave,Light Greave,Light Greave,0
-Light Greave,Ring Leggings,Chain Leggings,1
-Light Greave,Chain Leggings,Fusskampf,1
-Light Greave,Fusskampf,Poleyn,1
-Light Greave,Poleyn,Fusskampf,0
-Light Greave,Jambeau,Chain Leggings,0
-Light Greave,Missaglia,Poleyn,0
-Light Greave,Plate Leggings,Light Greave,0
-Light Greave,Fluted Leggings,Ring Leggings,0
-Light Greave,Hoplite Leggings,Chain Leggings,0
-Light Greave,Jazeraint Leggings,Fusskampf,0
-Light Greave,Dread Leggings,Poleyn,0
-Ring Leggings,Ring Leggings,Ring Leggings,0
-Ring Leggings,Chain Leggings,Fusskampf,1
-Ring Leggings,Fusskampf,Chain Leggings,0
-Ring Leggings,Poleyn,Poleyn,0
-Ring Leggings,Jambeau,Poleyn,0
-Ring Leggings,Missaglia,Fusskampf,0
-Ring Leggings,Plate Leggings,Cuisse,-1
-Ring Leggings,Fluted Leggings,Light Greave,-1
-Ring Leggings,Hoplite Leggings,Ring Leggings,0
-Ring Leggings,Jazeraint Leggings,Chain Leggings,0
-Ring Leggings,Dread Leggings,Fusskampf,0
-Chain Leggings,Chain Leggings,Poleyn,1
-Chain Leggings,Fusskampf,Poleyn,1
-Chain Leggings,Poleyn,Jambeau,1
-Chain Leggings,Jambeau,Missaglia,1
-Chain Leggings,Missaglia,Poleyn,0
-Chain Leggings,Plate Leggings,Missaglia,0
-Chain Leggings,Fluted Leggings,Missaglia,0
-Chain Leggings,Hoplite Leggings,Light Greave,-1
-Chain Leggings,,Jazeraint Leggings -Ring Leggings,0
-Chain Leggings,Dread Leggings,Chain Leggings,0
-Fusskampf,Fusskampf,Fusskampf,0
-Fusskampf,Poleyn,Jambeau,1
-Fusskampf,Jambeau,Cuisse,-1
-Fusskampf,Missaglia,Jambeau,0
-Fusskampf,Plate Leggings,Jambeau,0
-Fusskampf,Fluted Leggings,Light Greave,-1
-Fusskampf,Hoplite Leggings,Plate Leggings,0
-Fusskampf,,Jazeraint Leggings -Light Greave,0
-Fusskampf,Dread Leggings,Ring Leggings,-1
-Poleyn,Poleyn,Poleyn,0
-Poleyn,Jambeau,Missaglia,1
-Poleyn,Missaglia,Plate Leggings,1
-Poleyn,Plate Leggings,Poleyn,0
-Poleyn,Fluted Leggings,Plate Leggings,0
-Poleyn,Hoplite Leggings,Jambeau,0
-Poleyn,Jazeraint Leggings,Plate Leggings,0
-Poleyn,Dread Leggings,Light Greave,-1
-Jambeau,Jambeau,Jambeau,0
-Jambeau,Missaglia,Fusskampf,-1
-Jambeau,Plate Leggings,Missaglia,0
-Jambeau,Fluted Leggings,Missaglia,0
-Jambeau,Hoplite Leggings,Fusskampf,-1
-Jambeau,Jazeraint Leggings,Fluted Leggings,0
-Jambeau,Dread Leggings,Cuisse,-1
-Missaglia,Missaglia,Plate Leggings,1
-Missaglia,Plate Leggings,Fluted Leggings,1
-Missaglia,Fluted Leggings,Jambeau,-1
-Missaglia,Hoplite Leggings,Fluted Leggings,0
-Missaglia,,Jazeraint Leggings -Ring Leggings,0
-Missaglia,Dread Leggings,Plate Leggings,0
-Plate Leggings,Plate Leggings,Plate Leggings,0
-Plate Leggings,Fluted Leggings,Hoplite Leggings,1
-Plate Leggings,Hoplite Leggings,Poleyn,-1
-Plate Leggings,Jazeraint Leggings,Fluted Leggings,0
-Plate Leggings,Dread Leggings,Poleyn,-1
-Fluted Leggings,Fluted Leggings,Fluted Leggings,0
-Fluted Leggings,Hoplite Leggings,Missaglia,-1
-Fluted Leggings,Dread Leggings,Plate Leggings,-1
-Hoplite Leggings,Hoplite Leggings,Jazeraint Leggings,1
-Hoplite Leggings,Dread Leggings,Fluted Leggings,-1
-Jazeraint Leggings Dread Leggings,,Jambeau,-1
-Dread Leggings,Dread Leggings,Dread Leggings,0
+slot1,slot2,result,tier_change,has_swap
+Sandals,Sandals,Sandals,0,False
+Sandals,Boots,Boots,0,False
+Sandals,Long Boots,Long Boots,0,False
+Sandals,Cuisse,Cuisse,0,False
+Sandals,Light Greave,Ring Leggings,1,False
+Sandals,Ring Leggings,Cuisse,0,False
+Sandals,Chain Leggings,Light Greave,0,False
+Sandals,Fusskampf,Light Greave,0,False
+Sandals,Poleyn,Ring Leggings,0,False
+Sandals,Jambeau,Chain Leggings,0,False
+Sandals,Missaglia,Fusskampf,0,False
+Sandals,Plate Leggings,Poleyn,0,False
+Sandals,Fluted Leggings,Jambeau,0,False
+Sandals,Hoplite Leggings,Missaglia,0,False
+Sandals,Jazeraint Leggings,Plate Leggings,0,False
+Sandals,Dread Leggings,Fluted Leggings,0,False
+Boots,Boots,Boots,0,False
+Boots,Long Boots,Long Boots,0,False
+Boots,Cuisse,Cuisse,0,False
+Boots,Light Greave,Cuisse,0,False
+Boots,Ring Leggings,Chain Leggings,1,False
+Boots,Chain Leggings,Cuisse,0,False
+Boots,Fusskampf,Ring Leggings,0,False
+Boots,Poleyn,Light Greave,0,False
+Boots,Jambeau,Ring Leggings,0,False
+Boots,Missaglia,Chain Leggings,0,False
+Boots,Plate Leggings,Fusskampf,0,False
+Boots,Fluted Leggings,Poleyn,0,False
+Boots,Hoplite Leggings,Jambeau,0,False
+Boots,Jazeraint Leggings,Missaglia,0,False
+Boots,Dread Leggings,Plate Leggings,0,False
+Long Boots,Long Boots,Long Boots,0,False
+Long Boots,Cuisse,Light Greave,1,False
+Long Boots,Light Greave,Light Greave,0,False
+Long Boots,Ring Leggings,Cuisse,0,False
+Long Boots,Chain Leggings,Ring Leggings,0,False
+Long Boots,Fusskampf,Light Greave,0,False
+Long Boots,Poleyn,Fusskampf,0,False
+Long Boots,Jambeau,Light Greave,0,False
+Long Boots,Missaglia,Ring Leggings,0,False
+Long Boots,Plate Leggings,Chain Leggings,0,False
+Long Boots,Fluted Leggings,Fusskampf,0,False
+Long Boots,Hoplite Leggings,Poleyn,0,False
+Long Boots,Jazeraint Leggings,Jambeau,0,False
+Long Boots,Dread Leggings,Missaglia,0,False
+Cuisse,Cuisse,Cuisse,0,False
+Cuisse,Light Greave,Ring Leggings,1,False
+Cuisse,Ring Leggings,Ring Leggings,0,False
+Cuisse,Chain Leggings,Cuisse,0,False
+Cuisse,Fusskampf,Chain Leggings,0,False
+Cuisse,Poleyn,Cuisse,0,False
+Cuisse,Jambeau,Poleyn,0,False
+Cuisse,Missaglia,Light Greave,0,False
+Cuisse,Plate Leggings,Ring Leggings,0,False
+Cuisse,Fluted Leggings,Chain Leggings,0,False
+Cuisse,Hoplite Leggings,Fusskampf,0,False
+Cuisse,Jazeraint Leggings,Poleyn,0,False
+Cuisse,Dread Leggings,Jambeau,0,False
+Light Greave,Light Greave,Light Greave,0,False
+Light Greave,Ring Leggings,Chain Leggings,1,False
+Light Greave,Chain Leggings,Fusskampf,1,False
+Light Greave,Fusskampf,Poleyn,1,False
+Light Greave,Poleyn,Fusskampf,0,False
+Light Greave,Jambeau,Chain Leggings,0,False
+Light Greave,Missaglia,Poleyn,0,False
+Light Greave,Plate Leggings,Light Greave,0,False
+Light Greave,Fluted Leggings,Ring Leggings,0,False
+Light Greave,Hoplite Leggings,Chain Leggings,0,False
+Light Greave,Jazeraint Leggings,Fusskampf,0,False
+Light Greave,Dread Leggings,Poleyn,0,False
+Ring Leggings,Ring Leggings,Ring Leggings,0,False
+Ring Leggings,Chain Leggings,Fusskampf,1,False
+Ring Leggings,Fusskampf,Chain Leggings,0,False
+Ring Leggings,Poleyn,Poleyn,0,False
+Ring Leggings,Jambeau,Poleyn,0,False
+Ring Leggings,Missaglia,Fusskampf,0,False
+Ring Leggings,Plate Leggings,Cuisse,-1,False
+Ring Leggings,Fluted Leggings,Light Greave,-1,False
+Ring Leggings,Hoplite Leggings,Ring Leggings,0,False
+Ring Leggings,Jazeraint Leggings,Chain Leggings,0,False
+Ring Leggings,Dread Leggings,Fusskampf,0,False
+Chain Leggings,Chain Leggings,Poleyn,1,False
+Chain Leggings,Fusskampf,Poleyn,1,False
+Chain Leggings,Poleyn,Jambeau,1,False
+Chain Leggings,Jambeau,Missaglia,1,False
+Chain Leggings,Missaglia,Poleyn,0,False
+Chain Leggings,Plate Leggings,Missaglia,0,False
+Chain Leggings,Fluted Leggings,Missaglia,0,False
+Chain Leggings,Hoplite Leggings,Light Greave,-1,False
+Chain Leggings,,Jazeraint Leggings -Ring Leggings,0,False
+Chain Leggings,Dread Leggings,Chain Leggings,0,False
+Fusskampf,Fusskampf,Fusskampf,0,False
+Fusskampf,Poleyn,Jambeau,1,False
+Fusskampf,Jambeau,Cuisse,-1,False
+Fusskampf,Missaglia,Jambeau,0,False
+Fusskampf,Plate Leggings,Jambeau,0,False
+Fusskampf,Fluted Leggings,Light Greave,-1,False
+Fusskampf,Hoplite Leggings,Plate Leggings,0,False
+Fusskampf,,Jazeraint Leggings -Light Greave,0,False
+Fusskampf,Dread Leggings,Ring Leggings,-1,False
+Poleyn,Poleyn,Poleyn,0,False
+Poleyn,Jambeau,Missaglia,1,False
+Poleyn,Missaglia,Plate Leggings,1,False
+Poleyn,Plate Leggings,Poleyn,0,False
+Poleyn,Fluted Leggings,Plate Leggings,0,False
+Poleyn,Hoplite Leggings,Jambeau,0,False
+Poleyn,Jazeraint Leggings,Plate Leggings,0,False
+Poleyn,Dread Leggings,Light Greave,-1,False
+Jambeau,Jambeau,Jambeau,0,False
+Jambeau,Missaglia,Fusskampf,-1,False
+Jambeau,Plate Leggings,Missaglia,0,False
+Jambeau,Fluted Leggings,Missaglia,0,False
+Jambeau,Hoplite Leggings,Fusskampf,-1,False
+Jambeau,Jazeraint Leggings,Fluted Leggings,0,False
+Jambeau,Dread Leggings,Cuisse,-1,False
+Missaglia,Missaglia,Plate Leggings,1,False
+Missaglia,Plate Leggings,Fluted Leggings,1,False
+Missaglia,Fluted Leggings,Jambeau,-1,False
+Missaglia,Hoplite Leggings,Fluted Leggings,0,False
+Missaglia,,Jazeraint Leggings -Ring Leggings,0,False
+Missaglia,Dread Leggings,Plate Leggings,0,False
+Plate Leggings,Plate Leggings,Plate Leggings,0,False
+Plate Leggings,Fluted Leggings,Hoplite Leggings,1,False
+Plate Leggings,Hoplite Leggings,Poleyn,-1,False
+Plate Leggings,Jazeraint Leggings,Fluted Leggings,0,False
+Plate Leggings,Dread Leggings,Poleyn,-1,False
+Fluted Leggings,Fluted Leggings,Fluted Leggings,0,False
+Fluted Leggings,Hoplite Leggings,Missaglia,-1,False
+Fluted Leggings,Dread Leggings,Plate Leggings,-1,False
+Hoplite Leggings,Hoplite Leggings,Jazeraint Leggings,1,False
+Hoplite Leggings,Dread Leggings,Fluted Leggings,-1,False
+Jazeraint Leggings Dread Leggings,,Jambeau,-1,False
+Dread Leggings,Dread Leggings,Dread Leggings,0,False

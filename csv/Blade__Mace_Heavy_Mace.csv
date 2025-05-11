@@ -1,41 +1,41 @@
-slot1,slot2,result,tier_change
-Goblin Club,Langdebeve,Battle Knife,0
-Goblin Club,Sabre Mace,Langdebeve,0
-Goblin Club,Gloomwing,Sabre Mace,0
-Goblin Club,Griever,Gloomwing,0
-Goblin Club,Destroyer,Mjolnir,0
-Goblin Club,Hand of Light,Goblin Club,0
-Spiked Club,Langdebeve,Spear,0
-Spiked Club,Sabre Mace,Scramasax,0
-Spiked Club,Gloomwing,Sabre Mace,0
-Spiked Club,Mjolnir,Sabre Mace,0
-Spiked Club,Destroyer,Gloomwing,0
-Spiked Club,Hand of Light,Spiked Club,0
-Ball Mace,Langdebeve,Gastraph Bow,0
-Ball Mace,Sabre Mace,Glaive,0
-Ball Mace,Destroyer,Gloomwing,0
-Ball Mace,Hand of Light,Ball Mace,0
-Morning Star,Langdebeve,Ball Mace,0
-Morning Star,Sabre Mace,Spiked Club,0
-Morning Star,Gloomwing,Corcesca,0
-Morning Star,Mjolnir,Kudi,0
-Morning Star,Griever,Mjolnir,0
-Morning Star,Destroyer,Mjolnir,0
-Morning Star,Hand of Light,Morning Star,0
-War Hammer,Sabre Mace,Ball Mace,0
-War Hammer,Gloomwing,Windlass,0
-War Hammer,Mjolnir,Trident,0
-War Hammer,Griever,Cinquedea,0
-War Hammer,Destroyer,Griever,0
-War Hammer,Hand of Light,War Hammer,0
-Bec de Corbin,Langdebeve,Morning Star,0
-Bec de Corbin,Mjolnir,Cranequin,0
-Bec de Corbin,Griever,Awl Pike,0
-Bec de Corbin,Destroyer,Kris,0
-Bec de Corbin,Hand of Light,Bec de Corbin,0
-War Maul,Langdebeve,War Hammer,0
-War Maul,Sabre Mace,Morning Star,0
-War Maul,Mjolnir,Morning Star,0
-War Maul,Griever,Lug Crossbow,0
-War Maul,Destroyer,Boar Spear,0
-War Maul,Hand of Light,War Maul,0
+slot1,slot2,result,tier_change,has_swap
+Goblin Club,Langdebeve,Battle Knife,0,False
+Goblin Club,Sabre Mace,Langdebeve,0,False
+Goblin Club,Gloomwing,Sabre Mace,0,False
+Goblin Club,Griever,Gloomwing,0,False
+Goblin Club,Destroyer,Mjolnir,0,False
+Goblin Club,Hand of Light,Goblin Club,0,False
+Spiked Club,Langdebeve,Spear,0,False
+Spiked Club,Sabre Mace,Scramasax,0,False
+Spiked Club,Gloomwing,Sabre Mace,0,False
+Spiked Club,Mjolnir,Sabre Mace,0,False
+Spiked Club,Destroyer,Gloomwing,0,False
+Spiked Club,Hand of Light,Spiked Club,0,False
+Ball Mace,Langdebeve,Gastraph Bow,0,False
+Ball Mace,Sabre Mace,Glaive,0,False
+Ball Mace,Destroyer,Gloomwing,0,False
+Ball Mace,Hand of Light,Ball Mace,0,False
+Morning Star,Langdebeve,Ball Mace,0,False
+Morning Star,Sabre Mace,Spiked Club,0,False
+Morning Star,Gloomwing,Corcesca,0,False
+Morning Star,Mjolnir,Kudi,0,False
+Morning Star,Griever,Mjolnir,0,False
+Morning Star,Destroyer,Mjolnir,0,False
+Morning Star,Hand of Light,Morning Star,0,False
+War Hammer,Sabre Mace,Ball Mace,0,False
+War Hammer,Gloomwing,Windlass,0,False
+War Hammer,Mjolnir,Trident,0,False
+War Hammer,Griever,Cinquedea,0,False
+War Hammer,Destroyer,Griever,0,False
+War Hammer,Hand of Light,War Hammer,0,False
+Bec de Corbin,Langdebeve,Morning Star,0,False
+Bec de Corbin,Mjolnir,Cranequin,0,False
+Bec de Corbin,Griever,Awl Pike,0,False
+Bec de Corbin,Destroyer,Kris,0,False
+Bec de Corbin,Hand of Light,Bec de Corbin,0,False
+War Maul,Langdebeve,War Hammer,0,False
+War Maul,Sabre Mace,Morning Star,0,False
+War Maul,Mjolnir,Morning Star,0,False
+War Maul,Griever,Lug Crossbow,0,False
+War Maul,Destroyer,Boar Spear,0,False
+War Maul,Hand of Light,War Maul,0,False

@@ -1,80 +1,80 @@
-slot1,slot2,result,tier_change
-Broad Sword,Gastraph Bow,Battle Knife,0
-Broad Sword,Light Crossbow,Goblin Club,0
-Broad Sword,Target Bow,Gastraph Bow,0
-Broad Sword,Windlass,Gastraph Bow,0
-Broad Sword,Cranequin,Light Crossbow,0
-Broad Sword,Lug Crossbow,Target Bow,0
-Broad Sword,Siege Bow,Windlass,0
-Broad Sword,Arbalest,Cranequin,0
-Norse Sword,Gastraph Bow,Broad Sword,0
-Norse Sword,Light Crossbow,Scramasax,0
-Norse Sword,Target Bow,Spiked Club,0
-Norse Sword,Windlass,Light Crossbow,0
-Norse Sword,Cranequin,Light Crossbow,0
-Norse Sword,Lug Crossbow,Light Crossbow,0
-Norse Sword,Siege Bow,Target Bow,0
-Norse Sword,Arbalest,Windlass,0
-Katana,Gastraph Bow,Broad Sword,0
-Katana,Light Crossbow,Hand Axe,0
-Katana,Target Bow,Dirk,0
-Katana,Windlass,Ball Mace,0
-Katana,Cranequin,Target Bow,0
-Katana,Lug Crossbow,Target Bow,0
-Katana,Siege Bow,Target Bow,0
-Katana,Arbalest,Target Bow,0
-Executioner,Gastraph Bow,Broad Sword,0
-Executioner,Light Crossbow,Norse Sword,0
-Executioner,Target Bow,Battle Axe,0
-Executioner,Windlass,Throwing Knife,0
-Executioner,Lug Crossbow,Windlass,0
-Executioner,Siege Bow,Windlass,0
-Executioner,Arbalest,Windlass,0
-Claymore,Gastraph Bow,Norse Sword,0
-Claymore,Light Crossbow,Norse Sword,0
-Claymore,Target Bow,Katana,0
-Claymore,Windlass,Francisca,0
-Claymore,Cranequin,Kudi,0
-Claymore,Lug Crossbow,Morning Star,0
-Claymore,Siege Bow,Cranequin,0
-Claymore,Arbalest,Cranequin,0
-Schiavona,Gastraph Bow,Katana,0
-Schiavona,Light Crossbow,Norse Sword,0
-Schiavona,Target Bow,Katana,0
-Schiavona,Windlass,Executioner,0
-Schiavona,Cranequin,Tabarzin,0
-Schiavona,Lug Crossbow,Cinquedea,0
-Schiavona,Siege Bow,War Hammer,0
-Schiavona,Arbalest,Lug Crossbow,0
-Bastard Sword,Gastraph Bow,Executioner,0
-Bastard Sword,Light Crossbow,Katana,0
-Bastard Sword,Target Bow,Katana,0
-Bastard Sword,Windlass,Executioner,0
-Bastard Sword,Cranequin,Chamkaq,0
-Bastard Sword,Lug Crossbow,Chamkaq,0
-Bastard Sword,Siege Bow,Kris,0
-Bastard Sword,Arbalest,Bec de Corbin,0
-Nodachi,Gastraph Bow,Claymore,0
-Nodachi,Light Crossbow,Executioner,0
-Nodachi,Target Bow,Katana,0
-Nodachi,Windlass,Executioner,0
-Nodachi,Cranequin,Claymore,0
-Nodachi,Lug Crossbow,Schiavona,0
-Nodachi,Siege Bow,Tabar,0
-Nodachi,Arbalest,Hatchet,0
-Rune Blade,Gastraph Bow,Schiavona,0
-Rune Blade,Light Crossbow,Claymore,0
-Rune Blade,Target Bow,Executioner,0
-Rune Blade,Windlass,Executioner,0
-Rune Blade,Cranequin,Claymore,0
-Rune Blade,Lug Crossbow,Schiavona,0
-Rune Blade,Siege Bow,Bastard Sword,0
-Rune Blade,Arbalest,Bullova,0
-Holy Win,Gastraph Bow,Gastraph Bow,0
-Holy Win,Light Crossbow,Light Crossbow,0
-Holy Win,Target Bow,Target Bow,0
-Holy Win,Windlass,Windlass,0
-Holy Win,Cranequin,Cranequin,0
-Holy Win,Lug Crossbow,Lug Crossbow,0
-Holy Win,Siege Bow,Siege Bow,0
-Holy Win,Arbalest,Arbalest,0
+slot1,slot2,result,tier_change,has_swap
+Broad Sword,Gastraph Bow,Battle Knife,0,False
+Broad Sword,Light Crossbow,Goblin Club,0,False
+Broad Sword,Target Bow,Gastraph Bow,0,False
+Broad Sword,Windlass,Gastraph Bow,0,False
+Broad Sword,Cranequin,Light Crossbow,0,False
+Broad Sword,Lug Crossbow,Target Bow,0,False
+Broad Sword,Siege Bow,Windlass,0,False
+Broad Sword,Arbalest,Cranequin,0,False
+Norse Sword,Gastraph Bow,Broad Sword,0,False
+Norse Sword,Light Crossbow,Scramasax,0,False
+Norse Sword,Target Bow,Spiked Club,0,False
+Norse Sword,Windlass,Light Crossbow,0,False
+Norse Sword,Cranequin,Light Crossbow,0,False
+Norse Sword,Lug Crossbow,Light Crossbow,0,False
+Norse Sword,Siege Bow,Target Bow,0,False
+Norse Sword,Arbalest,Windlass,0,False
+Katana,Gastraph Bow,Broad Sword,0,False
+Katana,Light Crossbow,Hand Axe,0,False
+Katana,Target Bow,Dirk,0,False
+Katana,Windlass,Ball Mace,0,False
+Katana,Cranequin,Target Bow,0,False
+Katana,Lug Crossbow,Target Bow,0,False
+Katana,Siege Bow,Target Bow,0,False
+Katana,Arbalest,Target Bow,0,False
+Executioner,Gastraph Bow,Broad Sword,0,False
+Executioner,Light Crossbow,Norse Sword,0,False
+Executioner,Target Bow,Battle Axe,0,False
+Executioner,Windlass,Throwing Knife,0,False
+Executioner,Lug Crossbow,Windlass,0,False
+Executioner,Siege Bow,Windlass,0,False
+Executioner,Arbalest,Windlass,0,False
+Claymore,Gastraph Bow,Norse Sword,0,False
+Claymore,Light Crossbow,Norse Sword,0,False
+Claymore,Target Bow,Katana,0,False
+Claymore,Windlass,Francisca,0,False
+Claymore,Cranequin,Kudi,0,False
+Claymore,Lug Crossbow,Morning Star,0,False
+Claymore,Siege Bow,Cranequin,0,False
+Claymore,Arbalest,Cranequin,0,False
+Schiavona,Gastraph Bow,Katana,0,False
+Schiavona,Light Crossbow,Norse Sword,0,False
+Schiavona,Target Bow,Katana,0,False
+Schiavona,Windlass,Executioner,0,False
+Schiavona,Cranequin,Tabarzin,0,False
+Schiavona,Lug Crossbow,Cinquedea,0,False
+Schiavona,Siege Bow,War Hammer,0,False
+Schiavona,Arbalest,Lug Crossbow,0,False
+Bastard Sword,Gastraph Bow,Executioner,0,False
+Bastard Sword,Light Crossbow,Katana,0,False
+Bastard Sword,Target Bow,Katana,0,False
+Bastard Sword,Windlass,Executioner,0,False
+Bastard Sword,Cranequin,Chamkaq,0,False
+Bastard Sword,Lug Crossbow,Chamkaq,0,False
+Bastard Sword,Siege Bow,Kris,0,False
+Bastard Sword,Arbalest,Bec de Corbin,0,False
+Nodachi,Gastraph Bow,Claymore,0,False
+Nodachi,Light Crossbow,Executioner,0,False
+Nodachi,Target Bow,Katana,0,False
+Nodachi,Windlass,Executioner,0,False
+Nodachi,Cranequin,Claymore,0,False
+Nodachi,Lug Crossbow,Schiavona,0,False
+Nodachi,Siege Bow,Tabar,0,False
+Nodachi,Arbalest,Hatchet,0,False
+Rune Blade,Gastraph Bow,Schiavona,0,False
+Rune Blade,Light Crossbow,Claymore,0,False
+Rune Blade,Target Bow,Executioner,0,False
+Rune Blade,Windlass,Executioner,0,False
+Rune Blade,Cranequin,Claymore,0,False
+Rune Blade,Lug Crossbow,Schiavona,0,False
+Rune Blade,Siege Bow,Bastard Sword,0,False
+Rune Blade,Arbalest,Bullova,0,False
+Holy Win,Gastraph Bow,Gastraph Bow,0,False
+Holy Win,Light Crossbow,Light Crossbow,0,False
+Holy Win,Target Bow,Target Bow,0,False
+Holy Win,Windlass,Windlass,0,False
+Holy Win,Cranequin,Cranequin,0,False
+Holy Win,Lug Crossbow,Lug Crossbow,0,False
+Holy Win,Siege Bow,Siege Bow,0,False
+Holy Win,Arbalest,Arbalest,0,False

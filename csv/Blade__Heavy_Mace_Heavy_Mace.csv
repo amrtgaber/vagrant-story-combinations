@@ -1,25 +1,25 @@
-slot1,slot2,result,tier_change
-Langdebeve,Langdebeve,Langdebeve,0
-Langdebeve,Sabre Mace,Langdebeve,0
-Langdebeve,Gloomwing,Sabre Mace,0
-Langdebeve,Mjolnir,Sabre Mace,0
-Langdebeve,Destroyer,Gloomwing,0
-Langdebeve,Hand of Light,Langdebeve,0
-Sabre Mace,Sabre Mace,Sabre Mace,0
-Sabre Mace,Gloomwing,Langdebeve,-1
-Sabre Mace,Griever,Sabre Mace,0
-Sabre Mace,Hand of Light,Sabre Mace,0
-Gloomwing,Gloomwing,Gloomwing,0
-Gloomwing,Mjolnir,Langdebeve,-1
-Gloomwing,Griever,Gloomwing,0
-Gloomwing,Destroyer,Gloomwing,0
-Gloomwing,Hand of Light,Gloomwing,0
-Mjolnir,Mjolnir,Griever,1
-Mjolnir,Griever,Langdebeve,-1
-Mjolnir,Destroyer,Mjolnir,0
-Mjolnir,Hand of Light,Mjolnir,0
-Griever,Griever,Destroyer,1
-Griever,Hand of Light,Griever,0
-Destroyer,Destroyer,Destroyer,0
-Destroyer,Hand of Light,Destroyer,0
-Hand of Light,Hand of Light,Hand of Light,0
+slot1,slot2,result,tier_change,has_swap
+Langdebeve,Langdebeve,Langdebeve,0,False
+Langdebeve,Sabre Mace,Langdebeve,0,False
+Langdebeve,Gloomwing,Sabre Mace,0,False
+Langdebeve,Mjolnir,Sabre Mace,0,False
+Langdebeve,Destroyer,Gloomwing,0,False
+Langdebeve,Hand of Light,Langdebeve,0,False
+Sabre Mace,Sabre Mace,Sabre Mace,0,False
+Sabre Mace,Gloomwing,Langdebeve,-1,False
+Sabre Mace,Griever,Sabre Mace,0,False
+Sabre Mace,Hand of Light,Sabre Mace,0,False
+Gloomwing,Gloomwing,Gloomwing,0,False
+Gloomwing,Mjolnir,Langdebeve,-1,False
+Gloomwing,Griever,Gloomwing,0,False
+Gloomwing,Destroyer,Gloomwing,0,False
+Gloomwing,Hand of Light,Gloomwing,0,False
+Mjolnir,Mjolnir,Griever,1,False
+Mjolnir,Griever,Langdebeve,-1,False
+Mjolnir,Destroyer,Mjolnir,0,False
+Mjolnir,Hand of Light,Mjolnir,0,False
+Griever,Griever,Destroyer,1,False
+Griever,Hand of Light,Griever,0,False
+Destroyer,Destroyer,Destroyer,0,False
+Destroyer,Hand of Light,Destroyer,0,False
+Hand of Light,Hand of Light,Hand of Light,0,False

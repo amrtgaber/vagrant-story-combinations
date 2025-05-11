@@ -1,33 +1,33 @@
-slot1,slot2,result,tier_change
-Wizard Staff,Gastraph Bow,Spatha,0
-Wizard Staff,Light Crossbow,Battle Knife,0
-Wizard Staff,Target Bow,Broad Sword,0
-Wizard Staff,Windlass,Light Crossbow,0
-Wizard Staff,Cranequin,Light Crossbow,0
-Wizard Staff,Lug Crossbow,Target Bow,0
-Wizard Staff,Siege Bow,Windlass,0
-Wizard Staff,Arbalest,Cranequin,0
-Clergy Rod,Gastraph Bow,Wizard Staff,0
-Clergy Rod,Light Crossbow,Scimitar,0
-Clergy Rod,Target Bow,Scramasax,0
-Clergy Rod,Windlass,Norse Sword,0
-Clergy Rod,Cranequin,Target Bow,0
-Clergy Rod,Lug Crossbow,Target Bow,0
-Clergy Rod,Siege Bow,Target Bow,0
-Clergy Rod,Arbalest,Windlass,0
-Summoner Baton,Gastraph Bow,Wizard Staff,0
-Summoner Baton,Light Crossbow,Clergy Rod,0
-Summoner Baton,Target Bow,Rapier,0
-Summoner Baton,Windlass,Dirk,0
-Summoner Baton,Cranequin,Katana,0
-Summoner Baton,Lug Crossbow,Windlass,0
-Summoner Baton,Siege Bow,Windlass,0
-Summoner Baton,Arbalest,Windlass,0
-Shamanic Staff,Gastraph Bow,Clergy Rod,0
-Shamanic Staff,Light Crossbow,Clergy Rod,0
-Shamanic Staff,Target Bow,Summoner Baton,0
-Shamanic Staff,Windlass,Short Sword,0
-Shamanic Staff,Cranequin,Throwing Knife,0
-Shamanic Staff,Lug Crossbow,Executioner,0
-Shamanic Staff,Siege Bow,Cranequin,0
-Shamanic Staff,Arbalest,Cranequin,0
+slot1,slot2,result,tier_change,has_swap
+Wizard Staff,Gastraph Bow,Spatha,0,False
+Wizard Staff,Light Crossbow,Battle Knife,0,False
+Wizard Staff,Target Bow,Broad Sword,0,False
+Wizard Staff,Windlass,Light Crossbow,0,False
+Wizard Staff,Cranequin,Light Crossbow,0,False
+Wizard Staff,Lug Crossbow,Target Bow,0,False
+Wizard Staff,Siege Bow,Windlass,0,False
+Wizard Staff,Arbalest,Cranequin,0,False
+Clergy Rod,Gastraph Bow,Wizard Staff,0,False
+Clergy Rod,Light Crossbow,Scimitar,0,False
+Clergy Rod,Target Bow,Scramasax,0,False
+Clergy Rod,Windlass,Norse Sword,0,False
+Clergy Rod,Cranequin,Target Bow,0,False
+Clergy Rod,Lug Crossbow,Target Bow,0,False
+Clergy Rod,Siege Bow,Target Bow,0,False
+Clergy Rod,Arbalest,Windlass,0,False
+Summoner Baton,Gastraph Bow,Wizard Staff,0,False
+Summoner Baton,Light Crossbow,Clergy Rod,0,False
+Summoner Baton,Target Bow,Rapier,0,False
+Summoner Baton,Windlass,Dirk,0,False
+Summoner Baton,Cranequin,Katana,0,False
+Summoner Baton,Lug Crossbow,Windlass,0,False
+Summoner Baton,Siege Bow,Windlass,0,False
+Summoner Baton,Arbalest,Windlass,0,False
+Shamanic Staff,Gastraph Bow,Clergy Rod,0,False
+Shamanic Staff,Light Crossbow,Clergy Rod,0,False
+Shamanic Staff,Target Bow,Summoner Baton,0,False
+Shamanic Staff,Windlass,Short Sword,0,False
+Shamanic Staff,Cranequin,Throwing Knife,0,False
+Shamanic Staff,Lug Crossbow,Executioner,0,False
+Shamanic Staff,Siege Bow,Cranequin,0,False
+Shamanic Staff,Arbalest,Cranequin,0,False

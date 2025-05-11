@@ -1,257 +1,257 @@
-slot1,slot2,result,tier_change
-Sandals,Bandage,Sandals,0
-Sandals,Leather Glove,Leather Glove,0
-Sandals,Reinforced Glove,Reinforced Glove,0
-Sandals,Knuckles,Knuckles,0
-Sandals,Ring Sleeve,Knuckles,0
-Sandals,Chain Sleeve,Knuckles,0
-Sandals,Gauntlet,Knuckles,0
-Sandals,Vambrace,Ring Sleeve,0
-Sandals,Plate Glove,Chain Sleeve,0
-Sandals,Rondanche,Gauntlet,0
-Sandals,Tilt Glove,Vambrace,0
-Sandals,Freiturnier,Plate Glove,0
-Sandals,Fluted Glove,Rondanche,0
-Sandals,Hoplite Glove,Tilt Glove,0
-Sandals,Jazeraint Glove,Freiturnier,0
-Sandals,Dread Glove,Fluted Glove,0
-Boots,Bandage,Boots,0
-Boots,Leather Glove,Boots,0
-Boots,Reinforced Glove,Reinforced Glove,0
-Boots,Knuckles,Knuckles,0
-Boots,Ring Sleeve,Knuckles,0
-Boots,Chain Sleeve,Knuckles,0
-Boots,Gauntlet,Knuckles,0
-Boots,Vambrace,Ring Sleeve,0
-Boots,Plate Glove,Chain Sleeve,0
-Boots,Rondanche,Gauntlet,0
-Boots,Tilt Glove,Vambrace,0
-Boots,Freiturnier,Plate Glove,0
-Boots,Fluted Glove,Rondanche,0
-Boots,Hoplite Glove,Tilt Glove,0
-Boots,Jazeraint Glove,Freiturnier,0
-Boots,Dread Glove,Fluted Glove,0
-Long Boots,Bandage,Long Boots,0
-Long Boots,Leather Glove,Long Boots,0
-Long Boots,Reinforced Glove,Long Boots,0
-Long Boots,Knuckles,Knuckles,0
-Long Boots,Ring Sleeve,Knuckles,0
-Long Boots,Chain Sleeve,Knuckles,0
-Long Boots,Gauntlet,Knuckles,0
-Long Boots,Vambrace,Ring Sleeve,0
-Long Boots,Plate Glove,Chain Sleeve,0
-Long Boots,Rondanche,Gauntlet,0
-Long Boots,Tilt Glove,Vambrace,0
-Long Boots,Freiturnier,Plate Glove,0
-Long Boots,Fluted Glove,Rondanche,0
-Long Boots,Hoplite Glove,Tilt Glove,0
-Long Boots,Jazeraint Glove,Freiturnier,0
-Long Boots,Dread Glove,Fluted Glove,0
-Cuisse,Bandage,Cuisse,0
-Cuisse,Leather Glove,Cuisse,0
-Cuisse,Reinforced Glove,Cuisse,0
-Cuisse,Knuckles,Bone Helm,0
-Cuisse,Ring Sleeve,Knuckles,0
-Cuisse,Chain Sleeve,Knuckles,0
-Cuisse,Gauntlet,Knuckles,0
-Cuisse,Vambrace,Ring Sleeve,0
-Cuisse,Plate Glove,Chain Sleeve,0
-Cuisse,Rondanche,Gauntlet,0
-Cuisse,Tilt Glove,Vambrace,0
-Cuisse,Freiturnier,Plate Glove,0
-Cuisse,Fluted Glove,Rondanche,0
-Cuisse,Hoplite Glove,Tilt Glove,0
-Cuisse,Jazeraint Glove,Freiturnier,0
-Cuisse,Dread Glove,Fluted Glove,0
-Light Greave,Bandage,Cuisse,0
-Light Greave,Leather Glove,Cuisse,0
-Light Greave,Reinforced Glove,Cuisse,0
-Light Greave,Knuckles,Cuisse,0
-Light Greave,Ring Sleeve,Chain Coif,0
-Light Greave,Chain Sleeve,Ring Sleeve,0
-Light Greave,Gauntlet,Ring Sleeve,0
-Light Greave,Vambrace,Ring Sleeve,0
-Light Greave,Plate Glove,Ring Sleeve,0
-Light Greave,Rondanche,Chain Sleeve,0
-Light Greave,Tilt Glove,Gauntlet,0
-Light Greave,Freiturnier,Vambrace,0
-Light Greave,Fluted Glove,Plate Glove,0
-Light Greave,Hoplite Glove,Rondanche,0
-Light Greave,Jazeraint Glove,Tilt Glove,0
-Light Greave,Dread Glove,Freiturnier,0
-Ring Leggings,Bandage,Cuisse,0
-Ring Leggings,Leather Glove,Cuisse,0
-Ring Leggings,Reinforced Glove,Cuisse,0
-Ring Leggings,Knuckles,Cuisse,0
-Ring Leggings,Ring Sleeve,Light Greave,0
-Ring Leggings,Chain Sleeve,Spangenhelm,0
-Ring Leggings,Gauntlet,Chain Sleeve,0
-Ring Leggings,Vambrace,Chain Sleeve,0
-Ring Leggings,Plate Glove,Chain Sleeve,0
-Ring Leggings,Rondanche,Chain Sleeve,0
-Ring Leggings,Tilt Glove,Chain Sleeve,0
-Ring Leggings,Freiturnier,Gauntlet,0
-Ring Leggings,Fluted Glove,Vambrace,0
-Ring Leggings,Hoplite Glove,Plate Glove,0
-Ring Leggings,Jazeraint Glove,Rondanche,0
-Ring Leggings,Dread Glove,Tilt Glove,0
-Chain Leggings,Bandage,Cuisse,0
-Chain Leggings,Leather Glove,Cuisse,0
-Chain Leggings,Reinforced Glove,Cuisse,0
-Chain Leggings,Knuckles,Cuisse,0
-Chain Leggings,Ring Sleeve,Light Greave,0
-Chain Leggings,Chain Sleeve,Ring Leggings,0
-Chain Leggings,Gauntlet,Cabasset,0
-Chain Leggings,Vambrace,Gauntlet,0
-Chain Leggings,Plate Glove,Gauntlet,0
-Chain Leggings,Rondanche,Gauntlet,0
-Chain Leggings,Tilt Glove,Gauntlet,0
-Chain Leggings,Freiturnier,Gauntlet,0
-Chain Leggings,Fluted Glove,Gauntlet,0
-Chain Leggings,Hoplite Glove,Vambrace,0
-Chain Leggings,Jazeraint Glove,Plate Glove,0
-Chain Leggings,Dread Glove,Rondanche,0
-Fusskampf,Bandage,Light Greave,0
-Fusskampf,Leather Glove,Light Greave,0
-Fusskampf,Reinforced Glove,Light Greave,0
-Fusskampf,Knuckles,Light Greave,0
-Fusskampf,Ring Sleeve,Light Greave,0
-Fusskampf,Chain Sleeve,Ring Leggings,0
-Fusskampf,Gauntlet,Chain Leggings,0
-Fusskampf,Vambrace,Sallet,0
-Fusskampf,Plate Glove,Vambrace,0
-Fusskampf,Rondanche,Vambrace,0
-Fusskampf,Tilt Glove,Vambrace,0
-Fusskampf,Freiturnier,Vambrace,0
-Fusskampf,Fluted Glove,Vambrace,0
-Fusskampf,Hoplite Glove,Vambrace,0
-Fusskampf,Jazeraint Glove,Vambrace,0
-Fusskampf,Dread Glove,Plate Glove,0
-Poleyn,Bandage,Ring Leggings,0
-Poleyn,Leather Glove,Ring Leggings,0
-Poleyn,Reinforced Glove,Ring Leggings,0
-Poleyn,Knuckles,Ring Leggings,0
-Poleyn,Ring Sleeve,Light Greave,0
-Poleyn,Chain Sleeve,Ring Leggings,0
-Poleyn,Gauntlet,Chain Leggings,0
-Poleyn,Vambrace,Fusskampf,0
-Poleyn,Plate Glove,Barbut,0
-Poleyn,Rondanche,Plate Glove,0
-Poleyn,Tilt Glove,Plate Glove,0
-Poleyn,Freiturnier,Plate Glove,0
-Poleyn,Fluted Glove,Plate Glove,0
-Poleyn,Hoplite Glove,Plate Glove,0
-Poleyn,Jazeraint Glove,Plate Glove,0
-Poleyn,Dread Glove,Plate Glove,0
-Jambeau,Bandage,Chain Leggings,0
-Jambeau,Leather Glove,Chain Leggings,0
-Jambeau,Reinforced Glove,Chain Leggings,0
-Jambeau,Knuckles,Chain Leggings,0
-Jambeau,Ring Sleeve,Ring Leggings,0
-Jambeau,Chain Sleeve,Ring Leggings,0
-Jambeau,Gauntlet,Chain Leggings,0
-Jambeau,Vambrace,Fusskampf,0
-Jambeau,Plate Glove,Poleyn,0
-Jambeau,Rondanche,Basinet,0
-Jambeau,Tilt Glove,Rondanche,0
-Jambeau,Freiturnier,Rondanche,0
-Jambeau,Fluted Glove,Rondanche,0
-Jambeau,Hoplite Glove,Rondanche,0
-Jambeau,Jazeraint Glove,Rondanche,0
-Jambeau,Dread Glove,Rondanche,0
-Missaglia,Bandage,Fusskampf,0
-Missaglia,Leather Glove,Fusskampf,0
-Missaglia,Reinforced Glove,Fusskampf,0
-Missaglia,Knuckles,Fusskampf,0
-Missaglia,Ring Sleeve,Chain Leggings,0
-Missaglia,Chain Sleeve,Ring Leggings,0
-Missaglia,Gauntlet,Chain Leggings,0
-Missaglia,Vambrace,Fusskampf,0
-Missaglia,Plate Glove,Poleyn,0
-Missaglia,Rondanche,Jambeau,0
-Missaglia,Tilt Glove,Armet,0
-Missaglia,Freiturnier,Tilt Glove,0
-Missaglia,Fluted Glove,Tilt Glove,0
-Missaglia,Hoplite Glove,Tilt Glove,0
-Missaglia,Jazeraint Glove,Tilt Glove,0
-Missaglia,Dread Glove,Tilt Glove,0
-Plate Leggings,Bandage,Poleyn,0
-Plate Leggings,Leather Glove,Poleyn,0
-Plate Leggings,Reinforced Glove,Poleyn,0
-Plate Leggings,Knuckles,Poleyn,0
-Plate Leggings,Ring Sleeve,Fusskampf,0
-Plate Leggings,Chain Sleeve,Ring Leggings,0
-Chain Sleeve,Plate Leggings,Chain Leggings,0
-Plate Leggings,Gauntlet,Chain Leggings,0
-Plate Leggings,Vambrace,Fusskampf,0
-Plate Leggings,Plate Glove,Poleyn,0
-Plate Leggings,Rondanche,Jambeau,0
-Plate Leggings,Tilt Glove,Missaglia,0
-Plate Leggings,Freiturnier,Close Helm,0
-Plate Leggings,Fluted Glove,Freiturnier,0
-Plate Leggings,Hoplite Glove,Freiturnier,0
-Plate Leggings,Jazeraint Glove,Freiturnier,0
-Plate Leggings,Dread Glove,Freiturnier,0
-Fluted Leggings,Bandage,Jambeau,0
-Fluted Leggings,Leather Glove,Jambeau,0
-Fluted Leggings,Reinforced Glove,Jambeau,0
-Fluted Leggings,Knuckles,Jambeau,0
-Fluted Leggings,Ring Sleeve,Poleyn,0
-Fluted Leggings,Chain Sleeve,Fusskampf,0
-Fluted Leggings,Gauntlet,Chain Leggings,0
-Fluted Leggings,Vambrace,Fusskampf,0
-Fluted Leggings,Plate Glove,Poleyn,0
-Fluted Leggings,Rondanche,Jambeau,0
-Fluted Leggings,Tilt Glove,Missaglia,0
-Fluted Leggings,Freiturnier,Plate Leggings,0
-Fluted Leggings,Fluted Glove,Burgonet,0
-Fluted Leggings,Hoplite Glove,Fluted Glove,0
-Fluted Leggings,Jazeraint Glove,Fluted Glove,0
-Fluted Leggings,Dread Glove,Fluted Glove,0
-Hoplite Leggings,Bandage,Missaglia,0
-Hoplite Leggings,Leather Glove,Missaglia,0
-Hoplite Leggings,Reinforced Glove,Missaglia,0
-Hoplite Leggings,Knuckles,Missaglia,0
-Hoplite Leggings,Ring Sleeve,Jambeau,0
-Hoplite Leggings,Chain Sleeve,Poleyn,0
-Hoplite Leggings,Gauntlet,Fusskampf,0
-Hoplite Leggings,Vambrace,Fusskampf,0
-Hoplite Leggings,Plate Glove,Poleyn,0
-Hoplite Leggings,Rondanche,Jambeau,0
-Hoplite Leggings,Tilt Glove,Missaglia,0
-Hoplite Leggings,Freiturnier,Plate Leggings,0
-Hoplite Leggings,Fluted Glove,Fluted Leggings,0
-Hoplite Leggings,Hoplite Glove,Hoplite Helm,0
-Hoplite Leggings,Jazeraint Glove,Hoplite Glove,0
-Hoplite Leggings,Dread Glove,Hoplite Glove,0
-Jazeraint Leggings Bandage,,Plate Leggings,0
-Jazeraint Leggings Leather Glove,,Plate Leggings,0
-Jazeraint Leggings Knuckles,,Plate Leggings,0
-Jazeraint Leggings Ring Sleeve,,Missaglia,0
-Jazeraint Leggings Chain Sleeve,,Jambeau,0
-Jazeraint Leggings Gauntlet,,Poleyn,0
-Jazeraint Leggings Vambrace,,Fusskampf,0
-Jazeraint Leggings Plate Glove,,Poleyn,0
-Jazeraint Leggings Rondanche,,Jambeau,0
-Jazeraint Leggings Tilt Glove,,Missaglia,0
-Jazeraint Leggings Freiturnier,,Plate Leggings,0
-Jazeraint Leggings Fluted Glove,,Fluted Leggings,0
-Jazeraint Leggings Hoplite Glove,,Hoplite Leggings,0
-Jazeraint Leggings Jazeraint Glove,,Jazeraint Helm,0
-Jazeraint Leggings Dread Glove,,Jazeraint Glove,0
-Dread Leggings,Bandage,Fluted Leggings,0
-Dread Leggings,Leather Glove,Fluted Leggings,0
-Dread Leggings,Reinforced Glove,Fluted Leggings,0
-Dread Leggings,Knuckles,Fluted Leggings,0
-Dread Leggings,Ring Sleeve,Plate Leggings,0
-Dread Leggings,Chain Sleeve,Missaglia,0
-Dread Leggings,Gauntlet,Jambeau,0
-Dread Leggings,Vambrace,Poleyn,0
-Dread Leggings,Plate Glove,Poleyn,0
-Dread Leggings,Rondanche,Jambeau,0
-Dread Leggings,Tilt Glove,Missaglia,0
-Dread Leggings,Freiturnier,Plate Leggings,0
-Dread Leggings,Fluted Glove,Fluted Leggings,0
-Dread Leggings,Hoplite Glove,Hoplite Leggings,0
-Dread Leggings,Jazeraint Glove,Jazeraint Leggings,0
-Dread Leggings,Dread Glove,Dread Helm,0
+slot1,slot2,result,tier_change,has_swap
+Sandals,Bandage,Sandals,0,False
+Sandals,Leather Glove,Leather Glove,0,False
+Sandals,Reinforced Glove,Reinforced Glove,0,False
+Sandals,Knuckles,Knuckles,0,False
+Sandals,Ring Sleeve,Knuckles,0,False
+Sandals,Chain Sleeve,Knuckles,0,False
+Sandals,Gauntlet,Knuckles,0,False
+Sandals,Vambrace,Ring Sleeve,0,False
+Sandals,Plate Glove,Chain Sleeve,0,False
+Sandals,Rondanche,Gauntlet,0,False
+Sandals,Tilt Glove,Vambrace,0,False
+Sandals,Freiturnier,Plate Glove,0,False
+Sandals,Fluted Glove,Rondanche,0,False
+Sandals,Hoplite Glove,Tilt Glove,0,False
+Sandals,Jazeraint Glove,Freiturnier,0,False
+Sandals,Dread Glove,Fluted Glove,0,False
+Boots,Bandage,Boots,0,False
+Boots,Leather Glove,Boots,0,False
+Boots,Reinforced Glove,Reinforced Glove,0,False
+Boots,Knuckles,Knuckles,0,False
+Boots,Ring Sleeve,Knuckles,0,False
+Boots,Chain Sleeve,Knuckles,0,False
+Boots,Gauntlet,Knuckles,0,False
+Boots,Vambrace,Ring Sleeve,0,False
+Boots,Plate Glove,Chain Sleeve,0,False
+Boots,Rondanche,Gauntlet,0,False
+Boots,Tilt Glove,Vambrace,0,False
+Boots,Freiturnier,Plate Glove,0,False
+Boots,Fluted Glove,Rondanche,0,False
+Boots,Hoplite Glove,Tilt Glove,0,False
+Boots,Jazeraint Glove,Freiturnier,0,False
+Boots,Dread Glove,Fluted Glove,0,False
+Long Boots,Bandage,Long Boots,0,False
+Long Boots,Leather Glove,Long Boots,0,False
+Long Boots,Reinforced Glove,Long Boots,0,False
+Long Boots,Knuckles,Knuckles,0,False
+Long Boots,Ring Sleeve,Knuckles,0,False
+Long Boots,Chain Sleeve,Knuckles,0,False
+Long Boots,Gauntlet,Knuckles,0,False
+Long Boots,Vambrace,Ring Sleeve,0,False
+Long Boots,Plate Glove,Chain Sleeve,0,False
+Long Boots,Rondanche,Gauntlet,0,False
+Long Boots,Tilt Glove,Vambrace,0,False
+Long Boots,Freiturnier,Plate Glove,0,False
+Long Boots,Fluted Glove,Rondanche,0,False
+Long Boots,Hoplite Glove,Tilt Glove,0,False
+Long Boots,Jazeraint Glove,Freiturnier,0,False
+Long Boots,Dread Glove,Fluted Glove,0,False
+Cuisse,Bandage,Cuisse,0,False
+Cuisse,Leather Glove,Cuisse,0,False
+Cuisse,Reinforced Glove,Cuisse,0,False
+Cuisse,Knuckles,Bone Helm,0,False
+Cuisse,Ring Sleeve,Knuckles,0,False
+Cuisse,Chain Sleeve,Knuckles,0,False
+Cuisse,Gauntlet,Knuckles,0,False
+Cuisse,Vambrace,Ring Sleeve,0,False
+Cuisse,Plate Glove,Chain Sleeve,0,False
+Cuisse,Rondanche,Gauntlet,0,False
+Cuisse,Tilt Glove,Vambrace,0,False
+Cuisse,Freiturnier,Plate Glove,0,False
+Cuisse,Fluted Glove,Rondanche,0,False
+Cuisse,Hoplite Glove,Tilt Glove,0,False
+Cuisse,Jazeraint Glove,Freiturnier,0,False
+Cuisse,Dread Glove,Fluted Glove,0,False
+Light Greave,Bandage,Cuisse,0,False
+Light Greave,Leather Glove,Cuisse,0,False
+Light Greave,Reinforced Glove,Cuisse,0,False
+Light Greave,Knuckles,Cuisse,0,False
+Light Greave,Ring Sleeve,Chain Coif,0,False
+Light Greave,Chain Sleeve,Ring Sleeve,0,False
+Light Greave,Gauntlet,Ring Sleeve,0,False
+Light Greave,Vambrace,Ring Sleeve,0,False
+Light Greave,Plate Glove,Ring Sleeve,0,False
+Light Greave,Rondanche,Chain Sleeve,0,False
+Light Greave,Tilt Glove,Gauntlet,0,False
+Light Greave,Freiturnier,Vambrace,0,False
+Light Greave,Fluted Glove,Plate Glove,0,False
+Light Greave,Hoplite Glove,Rondanche,0,False
+Light Greave,Jazeraint Glove,Tilt Glove,0,False
+Light Greave,Dread Glove,Freiturnier,0,False
+Ring Leggings,Bandage,Cuisse,0,False
+Ring Leggings,Leather Glove,Cuisse,0,False
+Ring Leggings,Reinforced Glove,Cuisse,0,False
+Ring Leggings,Knuckles,Cuisse,0,False
+Ring Leggings,Ring Sleeve,Light Greave,0,False
+Ring Leggings,Chain Sleeve,Spangenhelm,0,False
+Ring Leggings,Gauntlet,Chain Sleeve,0,False
+Ring Leggings,Vambrace,Chain Sleeve,0,False
+Ring Leggings,Plate Glove,Chain Sleeve,0,False
+Ring Leggings,Rondanche,Chain Sleeve,0,False
+Ring Leggings,Tilt Glove,Chain Sleeve,0,False
+Ring Leggings,Freiturnier,Gauntlet,0,False
+Ring Leggings,Fluted Glove,Vambrace,0,False
+Ring Leggings,Hoplite Glove,Plate Glove,0,False
+Ring Leggings,Jazeraint Glove,Rondanche,0,False
+Ring Leggings,Dread Glove,Tilt Glove,0,False
+Chain Leggings,Bandage,Cuisse,0,False
+Chain Leggings,Leather Glove,Cuisse,0,False
+Chain Leggings,Reinforced Glove,Cuisse,0,False
+Chain Leggings,Knuckles,Cuisse,0,False
+Chain Leggings,Ring Sleeve,Light Greave,0,False
+Chain Leggings,Chain Sleeve,Ring Leggings,0,False
+Chain Leggings,Gauntlet,Cabasset,0,False
+Chain Leggings,Vambrace,Gauntlet,0,False
+Chain Leggings,Plate Glove,Gauntlet,0,False
+Chain Leggings,Rondanche,Gauntlet,0,False
+Chain Leggings,Tilt Glove,Gauntlet,0,False
+Chain Leggings,Freiturnier,Gauntlet,0,False
+Chain Leggings,Fluted Glove,Gauntlet,0,False
+Chain Leggings,Hoplite Glove,Vambrace,0,False
+Chain Leggings,Jazeraint Glove,Plate Glove,0,False
+Chain Leggings,Dread Glove,Rondanche,0,False
+Fusskampf,Bandage,Light Greave,0,False
+Fusskampf,Leather Glove,Light Greave,0,False
+Fusskampf,Reinforced Glove,Light Greave,0,False
+Fusskampf,Knuckles,Light Greave,0,False
+Fusskampf,Ring Sleeve,Light Greave,0,False
+Fusskampf,Chain Sleeve,Ring Leggings,0,False
+Fusskampf,Gauntlet,Chain Leggings,0,False
+Fusskampf,Vambrace,Sallet,0,False
+Fusskampf,Plate Glove,Vambrace,0,False
+Fusskampf,Rondanche,Vambrace,0,False
+Fusskampf,Tilt Glove,Vambrace,0,False
+Fusskampf,Freiturnier,Vambrace,0,False
+Fusskampf,Fluted Glove,Vambrace,0,False
+Fusskampf,Hoplite Glove,Vambrace,0,False
+Fusskampf,Jazeraint Glove,Vambrace,0,False
+Fusskampf,Dread Glove,Plate Glove,0,False
+Poleyn,Bandage,Ring Leggings,0,False
+Poleyn,Leather Glove,Ring Leggings,0,False
+Poleyn,Reinforced Glove,Ring Leggings,0,False
+Poleyn,Knuckles,Ring Leggings,0,False
+Poleyn,Ring Sleeve,Light Greave,0,False
+Poleyn,Chain Sleeve,Ring Leggings,0,False
+Poleyn,Gauntlet,Chain Leggings,0,False
+Poleyn,Vambrace,Fusskampf,0,False
+Poleyn,Plate Glove,Barbut,0,False
+Poleyn,Rondanche,Plate Glove,0,False
+Poleyn,Tilt Glove,Plate Glove,0,False
+Poleyn,Freiturnier,Plate Glove,0,False
+Poleyn,Fluted Glove,Plate Glove,0,False
+Poleyn,Hoplite Glove,Plate Glove,0,False
+Poleyn,Jazeraint Glove,Plate Glove,0,False
+Poleyn,Dread Glove,Plate Glove,0,False
+Jambeau,Bandage,Chain Leggings,0,False
+Jambeau,Leather Glove,Chain Leggings,0,False
+Jambeau,Reinforced Glove,Chain Leggings,0,False
+Jambeau,Knuckles,Chain Leggings,0,False
+Jambeau,Ring Sleeve,Ring Leggings,0,False
+Jambeau,Chain Sleeve,Ring Leggings,0,False
+Jambeau,Gauntlet,Chain Leggings,0,False
+Jambeau,Vambrace,Fusskampf,0,False
+Jambeau,Plate Glove,Poleyn,0,False
+Jambeau,Rondanche,Basinet,0,False
+Jambeau,Tilt Glove,Rondanche,0,False
+Jambeau,Freiturnier,Rondanche,0,False
+Jambeau,Fluted Glove,Rondanche,0,False
+Jambeau,Hoplite Glove,Rondanche,0,False
+Jambeau,Jazeraint Glove,Rondanche,0,False
+Jambeau,Dread Glove,Rondanche,0,False
+Missaglia,Bandage,Fusskampf,0,False
+Missaglia,Leather Glove,Fusskampf,0,False
+Missaglia,Reinforced Glove,Fusskampf,0,False
+Missaglia,Knuckles,Fusskampf,0,False
+Missaglia,Ring Sleeve,Chain Leggings,0,False
+Missaglia,Chain Sleeve,Ring Leggings,0,False
+Missaglia,Gauntlet,Chain Leggings,0,False
+Missaglia,Vambrace,Fusskampf,0,False
+Missaglia,Plate Glove,Poleyn,0,False
+Missaglia,Rondanche,Jambeau,0,False
+Missaglia,Tilt Glove,Armet,0,False
+Missaglia,Freiturnier,Tilt Glove,0,False
+Missaglia,Fluted Glove,Tilt Glove,0,False
+Missaglia,Hoplite Glove,Tilt Glove,0,False
+Missaglia,Jazeraint Glove,Tilt Glove,0,False
+Missaglia,Dread Glove,Tilt Glove,0,False
+Plate Leggings,Bandage,Poleyn,0,False
+Plate Leggings,Leather Glove,Poleyn,0,False
+Plate Leggings,Reinforced Glove,Poleyn,0,False
+Plate Leggings,Knuckles,Poleyn,0,False
+Plate Leggings,Ring Sleeve,Fusskampf,0,False
+Plate Leggings,Chain Sleeve,Ring Leggings,0,True
+Chain Sleeve,Plate Leggings,Chain Leggings,0,True
+Plate Leggings,Gauntlet,Chain Leggings,0,False
+Plate Leggings,Vambrace,Fusskampf,0,False
+Plate Leggings,Plate Glove,Poleyn,0,False
+Plate Leggings,Rondanche,Jambeau,0,False
+Plate Leggings,Tilt Glove,Missaglia,0,False
+Plate Leggings,Freiturnier,Close Helm,0,False
+Plate Leggings,Fluted Glove,Freiturnier,0,False
+Plate Leggings,Hoplite Glove,Freiturnier,0,False
+Plate Leggings,Jazeraint Glove,Freiturnier,0,False
+Plate Leggings,Dread Glove,Freiturnier,0,False
+Fluted Leggings,Bandage,Jambeau,0,False
+Fluted Leggings,Leather Glove,Jambeau,0,False
+Fluted Leggings,Reinforced Glove,Jambeau,0,False
+Fluted Leggings,Knuckles,Jambeau,0,False
+Fluted Leggings,Ring Sleeve,Poleyn,0,False
+Fluted Leggings,Chain Sleeve,Fusskampf,0,False
+Fluted Leggings,Gauntlet,Chain Leggings,0,False
+Fluted Leggings,Vambrace,Fusskampf,0,False
+Fluted Leggings,Plate Glove,Poleyn,0,False
+Fluted Leggings,Rondanche,Jambeau,0,False
+Fluted Leggings,Tilt Glove,Missaglia,0,False
+Fluted Leggings,Freiturnier,Plate Leggings,0,False
+Fluted Leggings,Fluted Glove,Burgonet,0,False
+Fluted Leggings,Hoplite Glove,Fluted Glove,0,False
+Fluted Leggings,Jazeraint Glove,Fluted Glove,0,False
+Fluted Leggings,Dread Glove,Fluted Glove,0,False
+Hoplite Leggings,Bandage,Missaglia,0,False
+Hoplite Leggings,Leather Glove,Missaglia,0,False
+Hoplite Leggings,Reinforced Glove,Missaglia,0,False
+Hoplite Leggings,Knuckles,Missaglia,0,False
+Hoplite Leggings,Ring Sleeve,Jambeau,0,False
+Hoplite Leggings,Chain Sleeve,Poleyn,0,False
+Hoplite Leggings,Gauntlet,Fusskampf,0,False
+Hoplite Leggings,Vambrace,Fusskampf,0,False
+Hoplite Leggings,Plate Glove,Poleyn,0,False
+Hoplite Leggings,Rondanche,Jambeau,0,False
+Hoplite Leggings,Tilt Glove,Missaglia,0,False
+Hoplite Leggings,Freiturnier,Plate Leggings,0,False
+Hoplite Leggings,Fluted Glove,Fluted Leggings,0,False
+Hoplite Leggings,Hoplite Glove,Hoplite Helm,0,False
+Hoplite Leggings,Jazeraint Glove,Hoplite Glove,0,False
+Hoplite Leggings,Dread Glove,Hoplite Glove,0,False
+Jazeraint Leggings Bandage,,Plate Leggings,0,False
+Jazeraint Leggings Leather Glove,,Plate Leggings,0,False
+Jazeraint Leggings Knuckles,,Plate Leggings,0,False
+Jazeraint Leggings Ring Sleeve,,Missaglia,0,False
+Jazeraint Leggings Chain Sleeve,,Jambeau,0,False
+Jazeraint Leggings Gauntlet,,Poleyn,0,False
+Jazeraint Leggings Vambrace,,Fusskampf,0,False
+Jazeraint Leggings Plate Glove,,Poleyn,0,False
+Jazeraint Leggings Rondanche,,Jambeau,0,False
+Jazeraint Leggings Tilt Glove,,Missaglia,0,False
+Jazeraint Leggings Freiturnier,,Plate Leggings,0,False
+Jazeraint Leggings Fluted Glove,,Fluted Leggings,0,False
+Jazeraint Leggings Hoplite Glove,,Hoplite Leggings,0,False
+Jazeraint Leggings Jazeraint Glove,,Jazeraint Helm,0,False
+Jazeraint Leggings Dread Glove,,Jazeraint Glove,0,False
+Dread Leggings,Bandage,Fluted Leggings,0,False
+Dread Leggings,Leather Glove,Fluted Leggings,0,False
+Dread Leggings,Reinforced Glove,Fluted Leggings,0,False
+Dread Leggings,Knuckles,Fluted Leggings,0,False
+Dread Leggings,Ring Sleeve,Plate Leggings,0,False
+Dread Leggings,Chain Sleeve,Missaglia,0,False
+Dread Leggings,Gauntlet,Jambeau,0,False
+Dread Leggings,Vambrace,Poleyn,0,False
+Dread Leggings,Plate Glove,Poleyn,0,False
+Dread Leggings,Rondanche,Jambeau,0,False
+Dread Leggings,Tilt Glove,Missaglia,0,False
+Dread Leggings,Freiturnier,Plate Leggings,0,False
+Dread Leggings,Fluted Glove,Fluted Leggings,0,False
+Dread Leggings,Hoplite Glove,Hoplite Leggings,0,False
+Dread Leggings,Jazeraint Glove,Jazeraint Leggings,0,False
+Dread Leggings,Dread Glove,Dread Helm,0,False

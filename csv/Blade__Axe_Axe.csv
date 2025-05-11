@@ -1,37 +1,37 @@
-slot1,slot2,result,tier_change
-Hand Axe,Hand Axe,Hand Axe,0
-Hand Axe,Battle Axe,Hand Axe,0
-Hand Axe,Francisca,Francisca,0
-Hand Axe,Tabarzin,Hand Axe,0
-Hand Axe,Chamkaq,Battle Axe,0
-Hand Axe,Tabar,Francisca,0
-Hand Axe,Bullova,Tabarzin,0
-Hand Axe,Crescent,Chamkaq,0
-Battle Axe,Battle Axe,Battle Axe,0
-Battle Axe,Francisca,Tabarzin,1
-Battle Axe,Tabarzin,Francisca,0
-Battle Axe,Chamkaq,Tabarzin,0
-Battle Axe,Tabar,Battle Axe,0
-Battle Axe,Bullova,Francisca,0
-Battle Axe,Crescent,Tabarzin,0
-Francisca,Francisca,Francisca,0
-Francisca,Tabarzin,Chamkaq,1
-Francisca,Chamkaq,Hand Axe,-1
-Francisca,Tabar,Chamkaq,0
-Francisca,Bullova,Battle Axe,-1
-Francisca,Crescent,Francisca,0
-Tabarzin,Tabarzin,Tabarzin,0
-Tabarzin,Chamkaq,Tabar,1
-Tabarzin,Tabar,Tabarzin,0
-Tabarzin,Bullova,Tabar,0
-Tabarzin,Crescent,Battle Axe,-1
-Chamkaq,Chamkaq,Chamkaq,0
-Chamkaq,Tabar,Tabar,0
-Chamkaq,Bullova,Chamkaq,0
-Chamkaq,Crescent,Hand Axe,-1
-Tabar,Tabar,Bullova,1
-Tabar,Bullova,Hand Axe,-1
-Tabar,Crescent,Tabar,0
-Bullova,Bullova,Crescent,1
-Bullova,Crescent,Hand Axe,-1
-Crescent,Crescent,Crescent,0
+slot1,slot2,result,tier_change,has_swap
+Hand Axe,Hand Axe,Hand Axe,0,False
+Hand Axe,Battle Axe,Hand Axe,0,False
+Hand Axe,Francisca,Francisca,0,False
+Hand Axe,Tabarzin,Hand Axe,0,False
+Hand Axe,Chamkaq,Battle Axe,0,False
+Hand Axe,Tabar,Francisca,0,False
+Hand Axe,Bullova,Tabarzin,0,False
+Hand Axe,Crescent,Chamkaq,0,False
+Battle Axe,Battle Axe,Battle Axe,0,False
+Battle Axe,Francisca,Tabarzin,1,False
+Battle Axe,Tabarzin,Francisca,0,False
+Battle Axe,Chamkaq,Tabarzin,0,False
+Battle Axe,Tabar,Battle Axe,0,False
+Battle Axe,Bullova,Francisca,0,False
+Battle Axe,Crescent,Tabarzin,0,False
+Francisca,Francisca,Francisca,0,False
+Francisca,Tabarzin,Chamkaq,1,False
+Francisca,Chamkaq,Hand Axe,-1,False
+Francisca,Tabar,Chamkaq,0,False
+Francisca,Bullova,Battle Axe,-1,False
+Francisca,Crescent,Francisca,0,False
+Tabarzin,Tabarzin,Tabarzin,0,False
+Tabarzin,Chamkaq,Tabar,1,False
+Tabarzin,Tabar,Tabarzin,0,False
+Tabarzin,Bullova,Tabar,0,False
+Tabarzin,Crescent,Battle Axe,-1,False
+Chamkaq,Chamkaq,Chamkaq,0,False
+Chamkaq,Tabar,Tabar,0,False
+Chamkaq,Bullova,Chamkaq,0,False
+Chamkaq,Crescent,Hand Axe,-1,False
+Tabar,Tabar,Bullova,1,False
+Tabar,Bullova,Hand Axe,-1,False
+Tabar,Crescent,Tabar,0,False
+Bullova,Bullova,Crescent,1,False
+Bullova,Crescent,Hand Axe,-1,False
+Crescent,Crescent,Crescent,0,False

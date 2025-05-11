@@ -1,32 +1,32 @@
-slot1,slot2,result,tier_change
-Hand Axe,Wizard Staff,Gastraph Bow,0
-Hand Axe,Clergy Rod,Wizard Staff,0
-Hand Axe,Summoner Baton,Clergy Rod,0
-Hand Axe,Shamanic Staff,Summoner Baton,0
-Battle Axe,Wizard Staff,Langdebeve,0
-Battle Axe,Clergy Rod,Light Crossbow,0
-Battle Axe,Summoner Baton,Clergy Rod,0
-Battle Axe,Shamanic Staff,Summoner Baton,0
-Francisca,Wizard Staff,Spear,0
-Francisca,Clergy Rod,Sabre Mace,0
-Francisca,Summoner Baton,Target Bow,0
-Francisca,Shamanic Staff,Summoner Baton,0
-Tabarzin,Wizard Staff,Battle Axe,0
-Tabarzin,Clergy Rod,Glaive,0
-Tabarzin,Shamanic Staff,Windlass,0
-Chamkaq,Wizard Staff,Francisca,0
-Chamkaq,Clergy Rod,Battle Axe,0
-Chamkaq,Summoner Baton,Scorpion,0
-Chamkaq,Shamanic Staff,Gloomwing,0
-Tabar,Wizard Staff,Tabarzin,0
-Tabar,Clergy Rod,Francisca,0
-Tabar,Summoner Baton,Battle Axe,0
-Tabar,Shamanic Staff,Corcesca,0
-Bullova,Wizard Staff,Chamkaq,0
-Bullova,Clergy Rod,Tabarzin,0
-Bullova,Summoner Baton,Francisca,0
-Bullova,Shamanic Staff,Tabarzin,0
-Crescent,Wizard Staff,Tabar,0
-Crescent,Clergy Rod,Chamkaq,0
-Crescent,Summoner Baton,Tabarzin,0
-Crescent,Shamanic Staff,Tabarzin,0
+slot1,slot2,result,tier_change,has_swap
+Hand Axe,Wizard Staff,Gastraph Bow,0,False
+Hand Axe,Clergy Rod,Wizard Staff,0,False
+Hand Axe,Summoner Baton,Clergy Rod,0,False
+Hand Axe,Shamanic Staff,Summoner Baton,0,False
+Battle Axe,Wizard Staff,Langdebeve,0,False
+Battle Axe,Clergy Rod,Light Crossbow,0,False
+Battle Axe,Summoner Baton,Clergy Rod,0,False
+Battle Axe,Shamanic Staff,Summoner Baton,0,False
+Francisca,Wizard Staff,Spear,0,False
+Francisca,Clergy Rod,Sabre Mace,0,False
+Francisca,Summoner Baton,Target Bow,0,False
+Francisca,Shamanic Staff,Summoner Baton,0,False
+Tabarzin,Wizard Staff,Battle Axe,0,False
+Tabarzin,Clergy Rod,Glaive,0,False
+Tabarzin,Shamanic Staff,Windlass,0,False
+Chamkaq,Wizard Staff,Francisca,0,False
+Chamkaq,Clergy Rod,Battle Axe,0,False
+Chamkaq,Summoner Baton,Scorpion,0,False
+Chamkaq,Shamanic Staff,Gloomwing,0,False
+Tabar,Wizard Staff,Tabarzin,0,False
+Tabar,Clergy Rod,Francisca,0,False
+Tabar,Summoner Baton,Battle Axe,0,False
+Tabar,Shamanic Staff,Corcesca,0,False
+Bullova,Wizard Staff,Chamkaq,0,False
+Bullova,Clergy Rod,Tabarzin,0,False
+Bullova,Summoner Baton,Francisca,0,False
+Bullova,Shamanic Staff,Tabarzin,0,False
+Crescent,Wizard Staff,Tabar,0,False
+Crescent,Clergy Rod,Chamkaq,0,False
+Crescent,Summoner Baton,Tabarzin,0,False
+Crescent,Shamanic Staff,Tabarzin,0,False

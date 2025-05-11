@@ -1,79 +1,79 @@
-slot1,slot2,result,tier_change
-Spear,Spear,Spear,0
-Spear,Glaive,Spear,0
-Spear,Scorpion,Scorpion,0
-Spear,Corcesca,Spear,0
-Spear,Trident,Glaive,0
-Spear,Awl Pike,Scorpion,0
-Spear,Boar Spear,Corcesca,0
-Spear,Fauchard,Trident,0
-Spear,Voulge,Awl Pike,0
-Spear,Pole Axe,Boar Spear,0
-Spear,Bardysh,Fauchard,0
-Spear,Brandestoc,Voulge,0
-Glaive,Glaive,Glaive,0
-Glaive,Scorpion,Corcesca,1
-Glaive,Corcesca,Spear,-1
-Glaive,Trident,Scorpion,0
-Glaive,Awl Pike,Glaive,0
-Glaive,Boar Spear,Scorpion,0
-Glaive,Fauchard,Corcesca,0
-Glaive,Voulge,Trident,0
-Glaive,Pole Axe,Awl Pike,0
-Glaive,Bardysh,Boar Spear,0
-Glaive,Brandestoc,Fauchard,0
-Scorpion,Scorpion,Scorpion,0
-Scorpion,Corcesca,Trident,1
-Scorpion,Trident,Corcesca,0
-Scorpion,Awl Pike,Boar Spear,1
-Scorpion,Boar Spear,Glaive,-1
-Scorpion,Fauchard,Scorpion,0
-Scorpion,Voulge,Corcesca,0
-Scorpion,Pole Axe,Trident,0
-Scorpion,Bardysh,Awl Pike,0
-Scorpion,Brandestoc,Boar Spear,0
-Corcesca,Corcesca,Corcesca,0
-Corcesca,Trident,Awl Pike,1
-Corcesca,Awl Pike,Corcesca,0
-Corcesca,Boar Spear,Trident,0
-Corcesca,Fauchard,Glaive,-1
-Corcesca,Voulge,Scorpion,-1
-Corcesca,Pole Axe,Corcesca,0
-Corcesca,Bardysh,Trident,0
-Corcesca,Brandestoc,Awl Pike,0
-Trident,Trident,Trident,0
-Trident,Awl Pike,Boar Spear,1
-Trident,Boar Spear,Fauchard,1
-Trident,Fauchard,Awl Pike,0
-Trident,Voulge,Glaive,-1
-Trident,Pole Axe,Scorpion,-1
-Trident,Bardysh,Corcesca,-1
-Trident,Brandestoc,Trident,0
-Awl Pike,Awl Pike,Awl Pike,0
-Awl Pike,Boar Spear,Trident,-1
-Awl Pike,Fauchard,Fauchard,0
-Awl Pike,Voulge,Boar Spear,0
-Awl Pike,Pole Axe,Glaive,-1
-Awl Pike,Bardysh,Scorpion,-1
-Awl Pike,Brandestoc,Corcesca,-1
-Boar Spear,Boar Spear,Boar Spear,0
-Boar Spear,Fauchard,Voulge,1
-Boar Spear,Voulge,Awl Pike,-1
-Boar Spear,Pole Axe,Voulge,0
-Boar Spear,Bardysh,Glaive,-1
-Boar Spear,Brandestoc,Scorpion,-1
-Fauchard,Fauchard,Fauchard,0
-Fauchard,Voulge,Pole Axe,1
-Fauchard,Pole Axe,Spear,-1
-Fauchard,Bardysh,Voulge,0
-Fauchard,Brandestoc,Glaive,-1
-Voulge,Voulge,Voulge,0
-Voulge,Pole Axe,Voulge,0
-Voulge,Bardysh,Fauchard,-1
-Voulge,Brandestoc,Pole Axe,0
-Pole Axe,Pole Axe,Bardysh,1
-Pole Axe,Bardysh,Spear,-1
-Pole Axe,Brandestoc,Boar Spear,-1
-Bardysh,Bardysh,Brandestoc,1
-Bardysh,Brandestoc,Fauchard,-1
-Brandestoc,Brandestoc,Brandestoc,0
+slot1,slot2,result,tier_change,has_swap
+Spear,Spear,Spear,0,False
+Spear,Glaive,Spear,0,False
+Spear,Scorpion,Scorpion,0,False
+Spear,Corcesca,Spear,0,False
+Spear,Trident,Glaive,0,False
+Spear,Awl Pike,Scorpion,0,False
+Spear,Boar Spear,Corcesca,0,False
+Spear,Fauchard,Trident,0,False
+Spear,Voulge,Awl Pike,0,False
+Spear,Pole Axe,Boar Spear,0,False
+Spear,Bardysh,Fauchard,0,False
+Spear,Brandestoc,Voulge,0,False
+Glaive,Glaive,Glaive,0,False
+Glaive,Scorpion,Corcesca,1,False
+Glaive,Corcesca,Spear,-1,False
+Glaive,Trident,Scorpion,0,False
+Glaive,Awl Pike,Glaive,0,False
+Glaive,Boar Spear,Scorpion,0,False
+Glaive,Fauchard,Corcesca,0,False
+Glaive,Voulge,Trident,0,False
+Glaive,Pole Axe,Awl Pike,0,False
+Glaive,Bardysh,Boar Spear,0,False
+Glaive,Brandestoc,Fauchard,0,False
+Scorpion,Scorpion,Scorpion,0,False
+Scorpion,Corcesca,Trident,1,False
+Scorpion,Trident,Corcesca,0,False
+Scorpion,Awl Pike,Boar Spear,1,False
+Scorpion,Boar Spear,Glaive,-1,False
+Scorpion,Fauchard,Scorpion,0,False
+Scorpion,Voulge,Corcesca,0,False
+Scorpion,Pole Axe,Trident,0,False
+Scorpion,Bardysh,Awl Pike,0,False
+Scorpion,Brandestoc,Boar Spear,0,False
+Corcesca,Corcesca,Corcesca,0,False
+Corcesca,Trident,Awl Pike,1,False
+Corcesca,Awl Pike,Corcesca,0,False
+Corcesca,Boar Spear,Trident,0,False
+Corcesca,Fauchard,Glaive,-1,False
+Corcesca,Voulge,Scorpion,-1,False
+Corcesca,Pole Axe,Corcesca,0,False
+Corcesca,Bardysh,Trident,0,False
+Corcesca,Brandestoc,Awl Pike,0,False
+Trident,Trident,Trident,0,False
+Trident,Awl Pike,Boar Spear,1,False
+Trident,Boar Spear,Fauchard,1,False
+Trident,Fauchard,Awl Pike,0,False
+Trident,Voulge,Glaive,-1,False
+Trident,Pole Axe,Scorpion,-1,False
+Trident,Bardysh,Corcesca,-1,False
+Trident,Brandestoc,Trident,0,False
+Awl Pike,Awl Pike,Awl Pike,0,False
+Awl Pike,Boar Spear,Trident,-1,False
+Awl Pike,Fauchard,Fauchard,0,False
+Awl Pike,Voulge,Boar Spear,0,False
+Awl Pike,Pole Axe,Glaive,-1,False
+Awl Pike,Bardysh,Scorpion,-1,False
+Awl Pike,Brandestoc,Corcesca,-1,False
+Boar Spear,Boar Spear,Boar Spear,0,False
+Boar Spear,Fauchard,Voulge,1,False
+Boar Spear,Voulge,Awl Pike,-1,False
+Boar Spear,Pole Axe,Voulge,0,False
+Boar Spear,Bardysh,Glaive,-1,False
+Boar Spear,Brandestoc,Scorpion,-1,False
+Fauchard,Fauchard,Fauchard,0,False
+Fauchard,Voulge,Pole Axe,1,False
+Fauchard,Pole Axe,Spear,-1,False
+Fauchard,Bardysh,Voulge,0,False
+Fauchard,Brandestoc,Glaive,-1,False
+Voulge,Voulge,Voulge,0,False
+Voulge,Pole Axe,Voulge,0,False
+Voulge,Bardysh,Fauchard,-1,False
+Voulge,Brandestoc,Pole Axe,0,False
+Pole Axe,Pole Axe,Bardysh,1,False
+Pole Axe,Bardysh,Spear,-1,False
+Pole Axe,Brandestoc,Boar Spear,-1,False
+Bardysh,Bardysh,Brandestoc,1,False
+Bardysh,Brandestoc,Fauchard,-1,False
+Brandestoc,Brandestoc,Brandestoc,0,False

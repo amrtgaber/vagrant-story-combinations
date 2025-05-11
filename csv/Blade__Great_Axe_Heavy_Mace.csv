@@ -1,39 +1,39 @@
-slot1,slot2,result,tier_change
-Guisarme,Langdebeve,Battle Knife,0
-Guisarme,Sabre Mace,Sabre Mace,0
-Guisarme,Gloomwing,Sabre Mace,0
-Guisarme,Griever,Gloomwing,0
-Guisarme,Destroyer,Mjolnir,0
-Guisarme,Hand of Light,Guisarme,0
-Large Crescent,Langdebeve,Spear,0
-Large Crescent,Sabre Mace,Scramasax,0
-Large Crescent,Destroyer,Gloomwing,0
-Large Crescent,Hand of Light,Large Crescent,0
-Sabre Halberd,Langdebeve,Gastraph Bow,0
-Sabre Halberd,Sabre Mace,Glaive,0
-Sabre Halberd,Gloomwing,Gloomwing,0
-Sabre Halberd,Mjolnir,Gloomwing,0
-Sabre Halberd,Griever,Gloomwing,0
-Sabre Halberd,Destroyer,Gloomwing,0
-Sabre Halberd,Hand of Light,Sabre Halberd,0
-Balbriggan,Langdebeve,Large Crescent,0
-Balbriggan,Sabre Mace,Gastraph Bow,0
-Balbriggan,Gloomwing,Throwing Knife,0
-Balbriggan,Mjolnir,Mjolnir,0
-Balbriggan,Griever,Mjolnir,0
-Balbriggan,Destroyer,Mjolnir,0
-Balbriggan,Hand of Light,Balbriggan,0
-Double Blade,Langdebeve,Sabre Halberd,0
-Double Blade,Sabre Mace,Large Crescent,0
-Double Blade,Gloomwing,Corcesca,0
-Double Blade,Mjolnir,Kudi,0
-Double Blade,Griever,Griever,0
-Double Blade,Destroyer,Griever,0
-Double Blade,Hand of Light,Double Blade,0
-Halberd,Langdebeve,Balbriggan,0
-Halberd,Sabre Mace,Sabre Halberd,0
-Halberd,Gloomwing,Windlass,0
-Halberd,Mjolnir,Trident,0
-Halberd,Griever,Cinquedea,0
-Halberd,Destroyer,Destroyer,0
-Halberd,Hand of Light,Halberd,0
+slot1,slot2,result,tier_change,has_swap
+Guisarme,Langdebeve,Battle Knife,0,False
+Guisarme,Sabre Mace,Sabre Mace,0,False
+Guisarme,Gloomwing,Sabre Mace,0,False
+Guisarme,Griever,Gloomwing,0,False
+Guisarme,Destroyer,Mjolnir,0,False
+Guisarme,Hand of Light,Guisarme,0,False
+Large Crescent,Langdebeve,Spear,0,False
+Large Crescent,Sabre Mace,Scramasax,0,False
+Large Crescent,Destroyer,Gloomwing,0,False
+Large Crescent,Hand of Light,Large Crescent,0,False
+Sabre Halberd,Langdebeve,Gastraph Bow,0,False
+Sabre Halberd,Sabre Mace,Glaive,0,False
+Sabre Halberd,Gloomwing,Gloomwing,0,False
+Sabre Halberd,Mjolnir,Gloomwing,0,False
+Sabre Halberd,Griever,Gloomwing,0,False
+Sabre Halberd,Destroyer,Gloomwing,0,False
+Sabre Halberd,Hand of Light,Sabre Halberd,0,False
+Balbriggan,Langdebeve,Large Crescent,0,False
+Balbriggan,Sabre Mace,Gastraph Bow,0,False
+Balbriggan,Gloomwing,Throwing Knife,0,False
+Balbriggan,Mjolnir,Mjolnir,0,False
+Balbriggan,Griever,Mjolnir,0,False
+Balbriggan,Destroyer,Mjolnir,0,False
+Balbriggan,Hand of Light,Balbriggan,0,False
+Double Blade,Langdebeve,Sabre Halberd,0,False
+Double Blade,Sabre Mace,Large Crescent,0,False
+Double Blade,Gloomwing,Corcesca,0,False
+Double Blade,Mjolnir,Kudi,0,False
+Double Blade,Griever,Griever,0,False
+Double Blade,Destroyer,Griever,0,False
+Double Blade,Hand of Light,Double Blade,0,False
+Halberd,Langdebeve,Balbriggan,0,False
+Halberd,Sabre Mace,Sabre Halberd,0,False
+Halberd,Gloomwing,Windlass,0,False
+Halberd,Mjolnir,Trident,0,False
+Halberd,Griever,Cinquedea,0,False
+Halberd,Destroyer,Destroyer,0,False
+Halberd,Hand of Light,Halberd,0,False

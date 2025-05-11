@@ -1,46 +1,46 @@
-slot1,slot2,result,tier_change
-Hand Axe,Guisarme,Spear,0
-Hand Axe,Large Crescent,Guisarme,0
-Hand Axe,Sabre Halberd,Large Crescent,0
-Hand Axe,Balbriggan,Sabre Halberd,0
-Hand Axe,Double Blade,Balbriggan,0
-Hand Axe,Halberd,Double Blade,0
-Battle Axe,Guisarme,Wizard Staff,0
-Battle Axe,Large Crescent,Glaive,0
-Battle Axe,Sabre Halberd,Large Crescent,0
-Battle Axe,Balbriggan,Sabre Halberd,0
-Battle Axe,Double Blade,Balbriggan,0
-Battle Axe,Halberd,Double Blade,0
-Francisca,Guisarme,Langdebeve,0
-Francisca,Large Crescent,Clergy Rod,0
-Francisca,Sabre Halberd,Scorpion,0
-Francisca,Balbriggan,Sabre Halberd,0
-Francisca,Double Blade,Sabre Halberd,0
-Francisca,Halberd,Balbriggan,0
-Tabarzin,Guisarme,Battle Axe,0
-Tabarzin,Large Crescent,Sabre Mace,0
-Tabarzin,Sabre Halberd,Summoner Baton,0
-Tabarzin,Balbriggan,Corcesca,0
-Tabarzin,Double Blade,Balbriggan,0
-Tabarzin,Halberd,Balbriggan,0
-Chamkaq,Guisarme,Francisca,0
-Chamkaq,Large Crescent,Battle Axe,0
-Chamkaq,Balbriggan,Shamanic Staff,0
-Chamkaq,Double Blade,Trident,0
-Chamkaq,Halberd,Double Blade,0
-Tabar,Guisarme,Tabarzin,0
-Tabar,Large Crescent,Francisca,0
-Tabar,Sabre Halberd,Francisca,0
-Tabar,Balbriggan,Gloomwing,0
-Tabar,Halberd,Awl Pike,0
-Bullova,Guisarme,Chamkaq,0
-Bullova,Large Crescent,Tabarzin,0
-Bullova,Sabre Halberd,Francisca,0
-Bullova,Balbriggan,Tabarzin,0
-Bullova,Double Blade,Mjolnir,0
-Crescent,Guisarme,Tabar,0
-Crescent,Large Crescent,Chamkaq,0
-Crescent,Sabre Halberd,Tabarzin,0
-Crescent,Balbriggan,Tabarzin,0
-Crescent,Double Blade,Chamkaq,0
-Crescent,Halberd,Griever,0
+slot1,slot2,result,tier_change,has_swap
+Hand Axe,Guisarme,Spear,0,False
+Hand Axe,Large Crescent,Guisarme,0,False
+Hand Axe,Sabre Halberd,Large Crescent,0,False
+Hand Axe,Balbriggan,Sabre Halberd,0,False
+Hand Axe,Double Blade,Balbriggan,0,False
+Hand Axe,Halberd,Double Blade,0,False
+Battle Axe,Guisarme,Wizard Staff,0,False
+Battle Axe,Large Crescent,Glaive,0,False
+Battle Axe,Sabre Halberd,Large Crescent,0,False
+Battle Axe,Balbriggan,Sabre Halberd,0,False
+Battle Axe,Double Blade,Balbriggan,0,False
+Battle Axe,Halberd,Double Blade,0,False
+Francisca,Guisarme,Langdebeve,0,False
+Francisca,Large Crescent,Clergy Rod,0,False
+Francisca,Sabre Halberd,Scorpion,0,False
+Francisca,Balbriggan,Sabre Halberd,0,False
+Francisca,Double Blade,Sabre Halberd,0,False
+Francisca,Halberd,Balbriggan,0,False
+Tabarzin,Guisarme,Battle Axe,0,False
+Tabarzin,Large Crescent,Sabre Mace,0,False
+Tabarzin,Sabre Halberd,Summoner Baton,0,False
+Tabarzin,Balbriggan,Corcesca,0,False
+Tabarzin,Double Blade,Balbriggan,0,False
+Tabarzin,Halberd,Balbriggan,0,False
+Chamkaq,Guisarme,Francisca,0,False
+Chamkaq,Large Crescent,Battle Axe,0,False
+Chamkaq,Balbriggan,Shamanic Staff,0,False
+Chamkaq,Double Blade,Trident,0,False
+Chamkaq,Halberd,Double Blade,0,False
+Tabar,Guisarme,Tabarzin,0,False
+Tabar,Large Crescent,Francisca,0,False
+Tabar,Sabre Halberd,Francisca,0,False
+Tabar,Balbriggan,Gloomwing,0,False
+Tabar,Halberd,Awl Pike,0,False
+Bullova,Guisarme,Chamkaq,0,False
+Bullova,Large Crescent,Tabarzin,0,False
+Bullova,Sabre Halberd,Francisca,0,False
+Bullova,Balbriggan,Tabarzin,0,False
+Bullova,Double Blade,Mjolnir,0,False
+Crescent,Guisarme,Tabar,0,False
+Crescent,Large Crescent,Chamkaq,0,False
+Crescent,Sabre Halberd,Tabarzin,0,False
+Crescent,Balbriggan,Tabarzin,0,False
+Crescent,Double Blade,Chamkaq,0,False
+Crescent,Halberd,Griever,0,False

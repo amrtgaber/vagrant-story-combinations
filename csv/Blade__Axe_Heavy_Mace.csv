@@ -1,52 +1,52 @@
-slot1,slot2,result,tier_change
-Hand Axe,Langdebeve,Battle Knife,0
-Hand Axe,Sabre Mace,Langdebeve,0
-Hand Axe,Gloomwing,Sabre Mace,0
-Hand Axe,Griever,Gloomwing,0
-Hand Axe,Destroyer,Mjolnir,0
-Hand Axe,Hand of Light,Hand Axe,0
-Battle Axe,Langdebeve,Spear,0
-Battle Axe,Sabre Mace,Scramasax,0
-Battle Axe,Gloomwing,Sabre Mace,0
-Battle Axe,Mjolnir,Sabre Mace,0
-Battle Axe,Destroyer,Gloomwing,0
-Battle Axe,Hand of Light,Battle Axe,0
-Francisca,Langdebeve,Gastraph Bow,0
-Francisca,Sabre Mace,Glaive,0
-Francisca,Destroyer,Gloomwing,0
-Francisca,Hand of Light,Francisca,0
-Tabarzin,Langdebeve,Battle Axe,0
-Tabarzin,Sabre Mace,Gastraph Bow,0
-Tabarzin,Gloomwing,Throwing Knife,0
-Tabarzin,Mjolnir,Gloomwing,0
-Tabarzin,Griever,Gloomwing,0
-Tabarzin,Destroyer,Gloomwing,0
-Tabarzin,Hand of Light,Tabarzin,0
-Chamkaq,Langdebeve,Francisca,0
-Chamkaq,Sabre Mace,Battle Axe,0
-Chamkaq,Gloomwing,Corcesca,0
-Chamkaq,Mjolnir,Kudi,0
-Chamkaq,Griever,Mjolnir,0
-Chamkaq,Destroyer,Mjolnir,0
-Chamkaq,Hand of Light,Chamkaq,0
-Tabar,Langdebeve,Tabarzin,0
-Tabar,Sabre Mace,Francisca,0
-Tabar,Gloomwing,Windlass,0
-Tabar,Mjolnir,Trident,0
-Tabar,Griever,Cinquedea,0
-Tabar,Destroyer,Griever,0
-Tabar,Hand of Light,Tabar,0
-Bullova,Langdebeve,Chamkaq,0
-Bullova,Sabre Mace,Tabarzin,0
-Bullova,Gloomwing,Tabarzin,0
-Bullova,Mjolnir,Cranequin,0
-Bullova,Griever,Awl Pike,0
-Bullova,Destroyer,Kris,0
-Bullova,Hand of Light,Bullova,0
-Crescent,Langdebeve,Tabar,0
-Crescent,Sabre Mace,Chamkaq,0
-Crescent,Gloomwing,Tabarzin,0
-Crescent,Mjolnir,Chamkaq,0
-Crescent,Griever,Lug Crossbow,0
-Crescent,Destroyer,Boar Spear,0
-Crescent,Hand of Light,Crescent,0
+slot1,slot2,result,tier_change,has_swap
+Hand Axe,Langdebeve,Battle Knife,0,False
+Hand Axe,Sabre Mace,Langdebeve,0,False
+Hand Axe,Gloomwing,Sabre Mace,0,False
+Hand Axe,Griever,Gloomwing,0,False
+Hand Axe,Destroyer,Mjolnir,0,False
+Hand Axe,Hand of Light,Hand Axe,0,False
+Battle Axe,Langdebeve,Spear,0,False
+Battle Axe,Sabre Mace,Scramasax,0,False
+Battle Axe,Gloomwing,Sabre Mace,0,False
+Battle Axe,Mjolnir,Sabre Mace,0,False
+Battle Axe,Destroyer,Gloomwing,0,False
+Battle Axe,Hand of Light,Battle Axe,0,False
+Francisca,Langdebeve,Gastraph Bow,0,False
+Francisca,Sabre Mace,Glaive,0,False
+Francisca,Destroyer,Gloomwing,0,False
+Francisca,Hand of Light,Francisca,0,False
+Tabarzin,Langdebeve,Battle Axe,0,False
+Tabarzin,Sabre Mace,Gastraph Bow,0,False
+Tabarzin,Gloomwing,Throwing Knife,0,False
+Tabarzin,Mjolnir,Gloomwing,0,False
+Tabarzin,Griever,Gloomwing,0,False
+Tabarzin,Destroyer,Gloomwing,0,False
+Tabarzin,Hand of Light,Tabarzin,0,False
+Chamkaq,Langdebeve,Francisca,0,False
+Chamkaq,Sabre Mace,Battle Axe,0,False
+Chamkaq,Gloomwing,Corcesca,0,False
+Chamkaq,Mjolnir,Kudi,0,False
+Chamkaq,Griever,Mjolnir,0,False
+Chamkaq,Destroyer,Mjolnir,0,False
+Chamkaq,Hand of Light,Chamkaq,0,False
+Tabar,Langdebeve,Tabarzin,0,False
+Tabar,Sabre Mace,Francisca,0,False
+Tabar,Gloomwing,Windlass,0,False
+Tabar,Mjolnir,Trident,0,False
+Tabar,Griever,Cinquedea,0,False
+Tabar,Destroyer,Griever,0,False
+Tabar,Hand of Light,Tabar,0,False
+Bullova,Langdebeve,Chamkaq,0,False
+Bullova,Sabre Mace,Tabarzin,0,False
+Bullova,Gloomwing,Tabarzin,0,False
+Bullova,Mjolnir,Cranequin,0,False
+Bullova,Griever,Awl Pike,0,False
+Bullova,Destroyer,Kris,0,False
+Bullova,Hand of Light,Bullova,0,False
+Crescent,Langdebeve,Tabar,0,False
+Crescent,Sabre Mace,Chamkaq,0,False
+Crescent,Gloomwing,Tabarzin,0,False
+Crescent,Mjolnir,Chamkaq,0,False
+Crescent,Griever,Lug Crossbow,0,False
+Crescent,Destroyer,Boar Spear,0,False
+Crescent,Hand of Light,Crescent,0,False

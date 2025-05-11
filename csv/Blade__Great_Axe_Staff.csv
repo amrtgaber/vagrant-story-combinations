@@ -1,25 +1,25 @@
-slot1,slot2,result,tier_change
-Guisarme,Wizard Staff,Sabre Mace,0
-Guisarme,Clergy Rod,Gastraph Bow,0
-Guisarme,Summoner Baton,Clergy Rod,0
-Guisarme,Shamanic Staff,Summoner Baton,0
-Large Crescent,Wizard Staff,Gastraph Bow,0
-Wizard Staff,Large Crescent,Spear,0
-Large Crescent,Summoner Baton,Light Crossbow,0
-Large Crescent,Shamanic Staff,Clergy Rod,0
-Sabre Halberd,Wizard Staff,Guisarme,0
-Sabre Halberd,Clergy Rod,Glaive,0
-Sabre Halberd,Summoner Baton,Gloomwing,0
-Sabre Halberd,Shamanic Staff,Target Bow,0
-Balbriggan,Wizard Staff,Large Crescent,0
-Balbriggan,Clergy Rod,Large Crescent,0
-Balbriggan,Summoner Baton,Scorpion,0
-Balbriggan,Shamanic Staff,Mjolnir,0
-Double Blade,Wizard Staff,Sabre Halberd,0
-Double Blade,Clergy Rod,Large Crescent,0
-Double Blade,Summoner Baton,Sabre Halberd,0
-Double Blade,Shamanic Staff,Corcesca,0
-Halberd,Wizard Staff,Balbriggan,0
-Halberd,Clergy Rod,Sabre Halberd,0
-Halberd,Summoner Baton,Sabre Halberd,0
-Halberd,Shamanic Staff,Balbriggan,0
+slot1,slot2,result,tier_change,has_swap
+Guisarme,Wizard Staff,Sabre Mace,0,False
+Guisarme,Clergy Rod,Gastraph Bow,0,False
+Guisarme,Summoner Baton,Clergy Rod,0,False
+Guisarme,Shamanic Staff,Summoner Baton,0,False
+Large Crescent,Wizard Staff,Gastraph Bow,0,True
+Wizard Staff,Large Crescent,Spear,0,True
+Large Crescent,Summoner Baton,Light Crossbow,0,False
+Large Crescent,Shamanic Staff,Clergy Rod,0,False
+Sabre Halberd,Wizard Staff,Guisarme,0,False
+Sabre Halberd,Clergy Rod,Glaive,0,False
+Sabre Halberd,Summoner Baton,Gloomwing,0,False
+Sabre Halberd,Shamanic Staff,Target Bow,0,False
+Balbriggan,Wizard Staff,Large Crescent,0,False
+Balbriggan,Clergy Rod,Large Crescent,0,False
+Balbriggan,Summoner Baton,Scorpion,0,False
+Balbriggan,Shamanic Staff,Mjolnir,0,False
+Double Blade,Wizard Staff,Sabre Halberd,0,False
+Double Blade,Clergy Rod,Large Crescent,0,False
+Double Blade,Summoner Baton,Sabre Halberd,0,False
+Double Blade,Shamanic Staff,Corcesca,0,False
+Halberd,Wizard Staff,Balbriggan,0,False
+Halberd,Clergy Rod,Sabre Halberd,0,False
+Halberd,Summoner Baton,Sabre Halberd,0,False
+Halberd,Shamanic Staff,Balbriggan,0,False

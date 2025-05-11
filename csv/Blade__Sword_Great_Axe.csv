@@ -1,70 +1,70 @@
-slot1,slot2,result,tier_change
-Spatha,Guisarme,Guisarme,0
-Spatha,Large Crescent,Guisarme,0
-Spatha,Sabre Halberd,Large Crescent,0
-Spatha,Balbriggan,Sabre Halberd,0
-Spatha,Double Blade,Balbriggan,0
-Spatha,Halberd,Double Blade,0
-Scimitar,Guisarme,Wizard Staff,0
-Scimitar,Large Crescent,Large Crescent,0
-Scimitar,Sabre Halberd,Large Crescent,0
-Scimitar,Balbriggan,Sabre Halberd,0
-Scimitar,Double Blade,Balbriggan,0
-Scimitar,Halberd,Double Blade,0
-Rapier,Guisarme,Sabre Mace,0
-Rapier,Large Crescent,Spear,0
-Rapier,Sabre Halberd,Large Crescent,0
-Rapier,Balbriggan,Large Crescent,0
-Rapier,Double Blade,Sabre Halberd,0
-Rapier,Halberd,Balbriggan,0
-Short Sword,Guisarme,Spatha,0
-Short Sword,Large Crescent,Clergy Rod,0
-Short Sword,Sabre Halberd,Sabre Halberd,0
-Short Sword,Balbriggan,Sabre Halberd,0
-Short Sword,Double Blade,Sabre Halberd,0
-Short Sword,Halberd,Balbriggan,0
-Firangi,Guisarme,Scimitar,0
-Firangi,Sabre Halberd,Glaive,0
-Firangi,Balbriggan,Sabre Halberd,0
-Firangi,Double Blade,Sabre Halberd,0
-Firangi,Halberd,Sabre Halberd,0
-Shamshir,Guisarme,Rapier,0
-Shamshir,Large Crescent,Scimitar,0
-Shamshir,Sabre Halberd,Summoner Baton,0
-Shamshir,Balbriggan,Balbriggan,0
-Shamshir,Double Blade,Balbriggan,0
-Shamshir,Halberd,Balbriggan,0
-Falchion,Guisarme,Short Sword,0
-Falchion,Large Crescent,Rapier,0
-Falchion,Sabre Halberd,Gloomwing,0
-Falchion,Balbriggan,Scorpion,0
-Falchion,Double Blade,Balbriggan,0
-Falchion,Halberd,Balbriggan,0
-Shotel,Guisarme,Firangi,0
-Shotel,Large Crescent,Short Sword,0
-Shotel,Sabre Halberd,Rapier,0
-Shotel,Balbriggan,Shamanic Staff,0
-Shotel,Double Blade,Corcesca,0
-Shotel,Halberd,Double Blade,0
-Khora,Guisarme,Shamshir,0
-Khora,Large Crescent,Firangi,0
-Khora,Sabre Halberd,Short Sword,0
-Khora,Balbriggan,Mjolnir,0
-Khora,Halberd,Double Blade,0
-Khopesh,Guisarme,Falchion,0
-Khopesh,Large Crescent,Shamshir,0
-Khopesh,Sabre Halberd,Firangi,0
-Khopesh,Balbriggan,Short Sword,0
-Khopesh,Double Blade,Griever,0
-Khopesh,Halberd,Trident,0
-Wakizashi,Guisarme,Shotel,0
-Wakizashi,Large Crescent,Falchion,0
-Wakizashi,Sabre Halberd,Shamshir,0
-Wakizashi,Balbriggan,Firangi,0
-Wakizashi,Double Blade,Firangi,0
-Rhomphaia,Guisarme,Guisarme,0
-Rhomphaia,Large Crescent,Large Crescent,0
-Rhomphaia,Sabre Halberd,Sabre Halberd,0
-Rhomphaia,Balbriggan,Balbriggan,0
-Rhomphaia,Double Blade,Double Blade,0
-Rhomphaia,Halberd,Halberd,0
+slot1,slot2,result,tier_change,has_swap
+Spatha,Guisarme,Guisarme,0,False
+Spatha,Large Crescent,Guisarme,0,False
+Spatha,Sabre Halberd,Large Crescent,0,False
+Spatha,Balbriggan,Sabre Halberd,0,False
+Spatha,Double Blade,Balbriggan,0,False
+Spatha,Halberd,Double Blade,0,False
+Scimitar,Guisarme,Wizard Staff,0,False
+Scimitar,Large Crescent,Large Crescent,0,False
+Scimitar,Sabre Halberd,Large Crescent,0,False
+Scimitar,Balbriggan,Sabre Halberd,0,False
+Scimitar,Double Blade,Balbriggan,0,False
+Scimitar,Halberd,Double Blade,0,False
+Rapier,Guisarme,Sabre Mace,0,False
+Rapier,Large Crescent,Spear,0,False
+Rapier,Sabre Halberd,Large Crescent,0,False
+Rapier,Balbriggan,Large Crescent,0,False
+Rapier,Double Blade,Sabre Halberd,0,False
+Rapier,Halberd,Balbriggan,0,False
+Short Sword,Guisarme,Spatha,0,False
+Short Sword,Large Crescent,Clergy Rod,0,False
+Short Sword,Sabre Halberd,Sabre Halberd,0,False
+Short Sword,Balbriggan,Sabre Halberd,0,False
+Short Sword,Double Blade,Sabre Halberd,0,False
+Short Sword,Halberd,Balbriggan,0,False
+Firangi,Guisarme,Scimitar,0,False
+Firangi,Sabre Halberd,Glaive,0,False
+Firangi,Balbriggan,Sabre Halberd,0,False
+Firangi,Double Blade,Sabre Halberd,0,False
+Firangi,Halberd,Sabre Halberd,0,False
+Shamshir,Guisarme,Rapier,0,False
+Shamshir,Large Crescent,Scimitar,0,False
+Shamshir,Sabre Halberd,Summoner Baton,0,False
+Shamshir,Balbriggan,Balbriggan,0,False
+Shamshir,Double Blade,Balbriggan,0,False
+Shamshir,Halberd,Balbriggan,0,False
+Falchion,Guisarme,Short Sword,0,False
+Falchion,Large Crescent,Rapier,0,False
+Falchion,Sabre Halberd,Gloomwing,0,False
+Falchion,Balbriggan,Scorpion,0,False
+Falchion,Double Blade,Balbriggan,0,False
+Falchion,Halberd,Balbriggan,0,False
+Shotel,Guisarme,Firangi,0,False
+Shotel,Large Crescent,Short Sword,0,False
+Shotel,Sabre Halberd,Rapier,0,False
+Shotel,Balbriggan,Shamanic Staff,0,False
+Shotel,Double Blade,Corcesca,0,False
+Shotel,Halberd,Double Blade,0,False
+Khora,Guisarme,Shamshir,0,False
+Khora,Large Crescent,Firangi,0,False
+Khora,Sabre Halberd,Short Sword,0,False
+Khora,Balbriggan,Mjolnir,0,False
+Khora,Halberd,Double Blade,0,False
+Khopesh,Guisarme,Falchion,0,False
+Khopesh,Large Crescent,Shamshir,0,False
+Khopesh,Sabre Halberd,Firangi,0,False
+Khopesh,Balbriggan,Short Sword,0,False
+Khopesh,Double Blade,Griever,0,False
+Khopesh,Halberd,Trident,0,False
+Wakizashi,Guisarme,Shotel,0,False
+Wakizashi,Large Crescent,Falchion,0,False
+Wakizashi,Sabre Halberd,Shamshir,0,False
+Wakizashi,Balbriggan,Firangi,0,False
+Wakizashi,Double Blade,Firangi,0,False
+Rhomphaia,Guisarme,Guisarme,0,False
+Rhomphaia,Large Crescent,Large Crescent,0,False
+Rhomphaia,Sabre Halberd,Sabre Halberd,0,False
+Rhomphaia,Balbriggan,Balbriggan,0,False
+Rhomphaia,Double Blade,Double Blade,0,False
+Rhomphaia,Halberd,Halberd,0,False

@@ -2,30 +2,14 @@ import csv
 import os
 import re
 
+from utils import parse_cell
+
 current_dir = os.getcwd()
 if "scripts" not in current_dir:
     os.chdir(".\\scripts")
 
 INPUT_FILE = "../vagrant_story_combinations_guide.txt"  # Path to the input guide file
 OUTPUT_DIR = "../csv"  # Directory to save the output CSV files
-
-
-def parse_cell(value):
-    """Extract base material and upgrade/downgrade flags"""
-    if not value:
-        return "", 0
-
-    if value.startswith("+"):
-        tier_change = 1
-        base = value[1:]
-    elif value.startswith("-"):
-        tier_change = -1
-        base = value[1:]
-    else:
-        tier_change = 0
-        base = value
-
-    return base, tier_change
 
 
 def extract_tables_from_guide():
@@ -93,6 +77,7 @@ def extract_tables_from_guide():
                         "slot2": item2.strip(),
                         "result": result.strip(),
                         "tier_change": result_tier_change,
+                        "has_swap": True if swap else False,
                     }
                 )
 
@@ -103,6 +88,7 @@ def extract_tables_from_guide():
                             "slot2": item1.strip(),
                             "result": swap_result.strip(),
                             "tier_change": swap_tier_change,
+                            "has_swap": True,
                         }
                     )
 
@@ -114,6 +100,7 @@ def extract_tables_from_guide():
                     "slot2",
                     "result",
                     "tier_change",
+                    "has_swap",
                 ],
             )
             writer.writeheader()

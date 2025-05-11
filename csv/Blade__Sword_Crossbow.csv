@@ -1,97 +1,97 @@
-slot1,slot2,result,tier_change
-Spatha,Gastraph Bow,Gastraph Bow,0
-Spatha,Light Crossbow,Gastraph Bow,0
-Spatha,Target Bow,Gastraph Bow,0
-Spatha,Windlass,Gastraph Bow,0
-Spatha,Cranequin,Light Crossbow,0
-Spatha,Lug Crossbow,Target Bow,0
-Spatha,Siege Bow,Windlass,0
-Spatha,Arbalest,Cranequin,0
-Scimitar,Gastraph Bow,Battle Knife,0
-Scimitar,Light Crossbow,Hand Axe,0
-Scimitar,Target Bow,Light Crossbow,0
-Scimitar,Windlass,Light Crossbow,0
-Scimitar,Cranequin,Light Crossbow,0
-Scimitar,Lug Crossbow,Light Crossbow,0
-Scimitar,Siege Bow,Target Bow,0
-Scimitar,Arbalest,Windlass,0
-Rapier,Gastraph Bow,Broad Sword,0
-Rapier,Light Crossbow,Scramasax,0
-Rapier,Target Bow,Battle Axe,0
-Rapier,Windlass,Target Bow,0
-Rapier,Cranequin,Target Bow,0
-Rapier,Lug Crossbow,Target Bow,0
-Rapier,Siege Bow,Target Bow,0
-Rapier,Arbalest,Target Bow,0
-Short Sword,Gastraph Bow,Spatha,0
-Short Sword,Light Crossbow,Norse Sword,0
-Short Sword,Target Bow,Dirk,0
-Short Sword,Windlass,Francisca,0
-Short Sword,Cranequin,Windlass,0
-Short Sword,Lug Crossbow,Windlass,0
-Short Sword,Siege Bow,Windlass,0
-Short Sword,Arbalest,Windlass,0
-Firangi,Gastraph Bow,Scimitar,0
-Firangi,Light Crossbow,Scimitar,0
-Firangi,Target Bow,Katana,0
-Firangi,Windlass,Throwing Knife,0
-Firangi,Cranequin,Tabarzin,0
-Firangi,Lug Crossbow,Cranequin,0
-Firangi,Siege Bow,Cranequin,0
-Firangi,Arbalest,Cranequin,0
-Shamshir,Gastraph Bow,Rapier,0
-Shamshir,Light Crossbow,Scimitar,0
-Shamshir,Target Bow,Rapier,0
-Shamshir,Windlass,Executioner,0
-Shamshir,Cranequin,Kudi,0
-Shamshir,Lug Crossbow,Chamkaq,0
-Shamshir,Siege Bow,Lug Crossbow,0
-Shamshir,Arbalest,Lug Crossbow,0
-Falchion,Gastraph Bow,Short Sword,0
-Falchion,Light Crossbow,Rapier,0
-Falchion,Target Bow,Rapier,0
-Falchion,Windlass,Short Sword,0
-Falchion,Cranequin,Claymore,0
-Falchion,Lug Crossbow,Cinquedea,0
-Falchion,Siege Bow,Tabar,0
-Falchion,Arbalest,Siege Bow,0
-Shotel,Gastraph Bow,Firangi,0
-Shotel,Light Crossbow,Short Sword,0
-Shotel,Target Bow,Rapier,0
-Shotel,Windlass,Short Sword,0
-Shotel,Cranequin,Firangi,0
-Shotel,Lug Crossbow,Schiavona,0
-Shotel,Siege Bow,Kris,0
-Shotel,Arbalest,Bullova,0
-Khora,Gastraph Bow,Shamshir,0
-Khora,Light Crossbow,Firangi,0
-Khora,Target Bow,Short Sword,0
-Khora,Windlass,Short Sword,0
-Khora,Cranequin,Firangi,0
-Khora,Lug Crossbow,Shamshir,0
-Khora,Siege Bow,Bastard Sword,0
-Khora,Arbalest,Hatchet,0
-Khopesh,Gastraph Bow,Falchion,0
-Khopesh,Light Crossbow,Shamshir,0
-Khopesh,Target Bow,Firangi,0
-Khopesh,Windlass,Short Sword,0
-Khopesh,Cranequin,Firangi,0
-Khopesh,Lug Crossbow,Shamshir,0
-Khopesh,Siege Bow,Falchion,0
-Khopesh,Arbalest,Nodachi,0
-Wakizashi,Gastraph Bow,Shotel,0
-Wakizashi,Light Crossbow,Falchion,0
-Wakizashi,Target Bow,Shamshir,0
-Wakizashi,Windlass,Firangi,0
-Wakizashi,Cranequin,Firangi,0
-Wakizashi,Lug Crossbow,Shamshir,0
-Wakizashi,Siege Bow,Falchion,0
-Wakizashi,Arbalest,Shotel,0
-Rhomphaia,Gastraph Bow,Gastraph Bow,0
-Rhomphaia,Light Crossbow,Light Crossbow,0
-Rhomphaia,Target Bow,Target Bow,0
-Rhomphaia,Windlass,Windlass,0
-Rhomphaia,Cranequin,Cranequin,0
-Rhomphaia,Lug Crossbow,Lug Crossbow,0
-Rhomphaia,Siege Bow,Siege Bow,0
-Rhomphaia,Arbalest,Arbalest,0
+slot1,slot2,result,tier_change,has_swap
+Spatha,Gastraph Bow,Gastraph Bow,0,False
+Spatha,Light Crossbow,Gastraph Bow,0,False
+Spatha,Target Bow,Gastraph Bow,0,False
+Spatha,Windlass,Gastraph Bow,0,False
+Spatha,Cranequin,Light Crossbow,0,False
+Spatha,Lug Crossbow,Target Bow,0,False
+Spatha,Siege Bow,Windlass,0,False
+Spatha,Arbalest,Cranequin,0,False
+Scimitar,Gastraph Bow,Battle Knife,0,False
+Scimitar,Light Crossbow,Hand Axe,0,False
+Scimitar,Target Bow,Light Crossbow,0,False
+Scimitar,Windlass,Light Crossbow,0,False
+Scimitar,Cranequin,Light Crossbow,0,False
+Scimitar,Lug Crossbow,Light Crossbow,0,False
+Scimitar,Siege Bow,Target Bow,0,False
+Scimitar,Arbalest,Windlass,0,False
+Rapier,Gastraph Bow,Broad Sword,0,False
+Rapier,Light Crossbow,Scramasax,0,False
+Rapier,Target Bow,Battle Axe,0,False
+Rapier,Windlass,Target Bow,0,False
+Rapier,Cranequin,Target Bow,0,False
+Rapier,Lug Crossbow,Target Bow,0,False
+Rapier,Siege Bow,Target Bow,0,False
+Rapier,Arbalest,Target Bow,0,False
+Short Sword,Gastraph Bow,Spatha,0,False
+Short Sword,Light Crossbow,Norse Sword,0,False
+Short Sword,Target Bow,Dirk,0,False
+Short Sword,Windlass,Francisca,0,False
+Short Sword,Cranequin,Windlass,0,False
+Short Sword,Lug Crossbow,Windlass,0,False
+Short Sword,Siege Bow,Windlass,0,False
+Short Sword,Arbalest,Windlass,0,False
+Firangi,Gastraph Bow,Scimitar,0,False
+Firangi,Light Crossbow,Scimitar,0,False
+Firangi,Target Bow,Katana,0,False
+Firangi,Windlass,Throwing Knife,0,False
+Firangi,Cranequin,Tabarzin,0,False
+Firangi,Lug Crossbow,Cranequin,0,False
+Firangi,Siege Bow,Cranequin,0,False
+Firangi,Arbalest,Cranequin,0,False
+Shamshir,Gastraph Bow,Rapier,0,False
+Shamshir,Light Crossbow,Scimitar,0,False
+Shamshir,Target Bow,Rapier,0,False
+Shamshir,Windlass,Executioner,0,False
+Shamshir,Cranequin,Kudi,0,False
+Shamshir,Lug Crossbow,Chamkaq,0,False
+Shamshir,Siege Bow,Lug Crossbow,0,False
+Shamshir,Arbalest,Lug Crossbow,0,False
+Falchion,Gastraph Bow,Short Sword,0,False
+Falchion,Light Crossbow,Rapier,0,False
+Falchion,Target Bow,Rapier,0,False
+Falchion,Windlass,Short Sword,0,False
+Falchion,Cranequin,Claymore,0,False
+Falchion,Lug Crossbow,Cinquedea,0,False
+Falchion,Siege Bow,Tabar,0,False
+Falchion,Arbalest,Siege Bow,0,False
+Shotel,Gastraph Bow,Firangi,0,False
+Shotel,Light Crossbow,Short Sword,0,False
+Shotel,Target Bow,Rapier,0,False
+Shotel,Windlass,Short Sword,0,False
+Shotel,Cranequin,Firangi,0,False
+Shotel,Lug Crossbow,Schiavona,0,False
+Shotel,Siege Bow,Kris,0,False
+Shotel,Arbalest,Bullova,0,False
+Khora,Gastraph Bow,Shamshir,0,False
+Khora,Light Crossbow,Firangi,0,False
+Khora,Target Bow,Short Sword,0,False
+Khora,Windlass,Short Sword,0,False
+Khora,Cranequin,Firangi,0,False
+Khora,Lug Crossbow,Shamshir,0,False
+Khora,Siege Bow,Bastard Sword,0,False
+Khora,Arbalest,Hatchet,0,False
+Khopesh,Gastraph Bow,Falchion,0,False
+Khopesh,Light Crossbow,Shamshir,0,False
+Khopesh,Target Bow,Firangi,0,False
+Khopesh,Windlass,Short Sword,0,False
+Khopesh,Cranequin,Firangi,0,False
+Khopesh,Lug Crossbow,Shamshir,0,False
+Khopesh,Siege Bow,Falchion,0,False
+Khopesh,Arbalest,Nodachi,0,False
+Wakizashi,Gastraph Bow,Shotel,0,False
+Wakizashi,Light Crossbow,Falchion,0,False
+Wakizashi,Target Bow,Shamshir,0,False
+Wakizashi,Windlass,Firangi,0,False
+Wakizashi,Cranequin,Firangi,0,False
+Wakizashi,Lug Crossbow,Shamshir,0,False
+Wakizashi,Siege Bow,Falchion,0,False
+Wakizashi,Arbalest,Shotel,0,False
+Rhomphaia,Gastraph Bow,Gastraph Bow,0,False
+Rhomphaia,Light Crossbow,Light Crossbow,0,False
+Rhomphaia,Target Bow,Target Bow,0,False
+Rhomphaia,Windlass,Windlass,0,False
+Rhomphaia,Cranequin,Cranequin,0,False
+Rhomphaia,Lug Crossbow,Lug Crossbow,0,False
+Rhomphaia,Siege Bow,Siege Bow,0,False
+Rhomphaia,Arbalest,Arbalest,0,False

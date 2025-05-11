@@ -1,121 +1,121 @@
-slot1,slot2,result,tier_change
-Broad Sword,Spear,Broad Sword,0
-Broad Sword,Glaive,Battle Knife,0
-Broad Sword,Scorpion,Spear,0
-Broad Sword,Corcesca,Spear,0
-Broad Sword,Trident,Glaive,0
-Broad Sword,Awl Pike,Scorpion,0
-Broad Sword,Boar Spear,Corcesca,0
-Broad Sword,Fauchard,Trident,0
-Broad Sword,Voulge,Awl Pike,0
-Broad Sword,Pole Axe,Boar Spear,0
-Broad Sword,Bardysh,Fauchard,0
-Broad Sword,Brandestoc,Voulge,0
-Norse Sword,Spear,Broad Sword,0
-Norse Sword,Glaive,Spatha,0
-Norse Sword,Scorpion,Scramasax,0
-Norse Sword,Corcesca,Glaive,0
-Norse Sword,Trident,Glaive,0
-Norse Sword,Awl Pike,Glaive,0
-Norse Sword,Boar Spear,Scorpion,0
-Norse Sword,Fauchard,Corcesca,0
-Norse Sword,Voulge,Trident,0
-Norse Sword,Pole Axe,Awl Pike,0
-Norse Sword,Bardysh,Boar Spear,0
-Norse Sword,Brandestoc,Fauchard,0
-Katana,Spear,Broad Sword,0
-Katana,Glaive,Norse Sword,0
-Katana,Scorpion,Scimitar,0
-Katana,Corcesca,Dirk,0
-Katana,Trident,Hand Axe,0
-Katana,Awl Pike,Scorpion,0
-Katana,Boar Spear,Scorpion,0
-Katana,Fauchard,Scorpion,0
-Katana,Voulge,Corcesca,0
-Katana,Pole Axe,Trident,0
-Katana,Bardysh,Awl Pike,0
-Katana,Brandestoc,Boar Spear,0
-Executioner,Spear,Broad Sword,0
-Executioner,Glaive,Norse Sword,0
-Executioner,Scorpion,Katana,0
-Executioner,Corcesca,Rapier,0
-Executioner,Trident,Throwing Knife,0
-Executioner,Awl Pike,Battle Axe,0
-Executioner,Boar Spear,Corcesca,0
-Executioner,Fauchard,Corcesca,0
-Executioner,Voulge,Corcesca,0
-Executioner,Pole Axe,Corcesca,0
-Executioner,Bardysh,Trident,0
-Executioner,Brandestoc,Awl Pike,0
-Claymore,Spear,Norse Sword,0
-Claymore,Glaive,Norse Sword,0
-Claymore,Scorpion,Katana,0
-Claymore,Corcesca,Executioner,0
-Claymore,Trident,Short Sword,0
-Claymore,Awl Pike,Kudi,0
-Claymore,Boar Spear,Francisca,0
-Claymore,Fauchard,Trident,0
-Claymore,Voulge,Trident,0
-Claymore,Pole Axe,Trident,0
-Claymore,Bardysh,Trident,0
-Claymore,Brandestoc,Trident,0
-Schiavona,Spear,Katana,0
-Schiavona,Glaive,Norse Sword,0
-Schiavona,Scorpion,Katana,0
-Schiavona,Corcesca,Executioner,0
-Schiavona,Trident,Claymore,0
-Schiavona,Awl Pike,Firangi,0
-Schiavona,Boar Spear,Cinquedea,0
-Schiavona,Fauchard,Tabarzin,0
-Schiavona,Voulge,Awl Pike,0
-Schiavona,Pole Axe,Awl Pike,0
-Schiavona,Bardysh,Awl Pike,0
-Schiavona,Brandestoc,Awl Pike,0
-Bastard Sword,Spear,Executioner,0
-Bastard Sword,Glaive,Katana,0
-Bastard Sword,Scorpion,Katana,0
-Bastard Sword,Corcesca,Executioner,0
-Bastard Sword,Trident,Claymore,0
-Bastard Sword,Awl Pike,Schiavona,0
-Bastard Sword,Boar Spear,Shamshir,0
-Bastard Sword,Fauchard,Kris,0
-Bastard Sword,Voulge,Chamkaq,0
-Bastard Sword,Pole Axe,Boar Spear,0
-Bastard Sword,Bardysh,Boar Spear,0
-Bastard Sword,Brandestoc,Boar Spear,0
-Nodachi,Spear,Claymore,0
-Nodachi,Glaive,Executioner,0
-Nodachi,Scorpion,Katana,0
-Nodachi,Corcesca,Executioner,0
-Nodachi,Trident,Claymore,0
-Nodachi,Awl Pike,Schiavona,0
-Nodachi,Boar Spear,Bastard Sword,0
-Nodachi,Fauchard,Falchion,0
-Nodachi,Voulge,Hatchet,0
-Nodachi,Pole Axe,Tabar,0
-Nodachi,Bardysh,Fauchard,0
-Nodachi,Brandestoc,Fauchard,0
-Rune Blade,Spear,Schiavona,0
-Rune Blade,Glaive,Claymore,0
-Rune Blade,Scorpion,Executioner,0
-Rune Blade,Corcesca,Executioner,0
-Rune Blade,Trident,Claymore,0
-Rune Blade,Awl Pike,Schiavona,0
-Rune Blade,Boar Spear,Bastard Sword,0
-Rune Blade,Fauchard,Nodachi,0
-Rune Blade,Voulge,Shotel,0
-Rune Blade,Pole Axe,Khukuri,0
-Rune Blade,Bardysh,Bullova,0
-Rune Blade,Brandestoc,Voulge,0
-Holy Win,Spear,Spear,0
-Holy Win,Glaive,Glaive,0
-Holy Win,Scorpion,Scorpion,0
-Holy Win,Corcesca,Corcesca,0
-Holy Win,Trident,Trident,0
-Holy Win,Awl Pike,Awl Pike,0
-Holy Win,Boar Spear,Boar Spear,0
-Holy Win,Fauchard,Fauchard,0
-Holy Win,Voulge,Voulge,0
-Holy Win,Pole Axe,Pole Axe,0
-Holy Win,Bardysh,Bardysh,0
-Holy Win,Brandestoc,Brandestoc,0
+slot1,slot2,result,tier_change,has_swap
+Broad Sword,Spear,Broad Sword,0,False
+Broad Sword,Glaive,Battle Knife,0,False
+Broad Sword,Scorpion,Spear,0,False
+Broad Sword,Corcesca,Spear,0,False
+Broad Sword,Trident,Glaive,0,False
+Broad Sword,Awl Pike,Scorpion,0,False
+Broad Sword,Boar Spear,Corcesca,0,False
+Broad Sword,Fauchard,Trident,0,False
+Broad Sword,Voulge,Awl Pike,0,False
+Broad Sword,Pole Axe,Boar Spear,0,False
+Broad Sword,Bardysh,Fauchard,0,False
+Broad Sword,Brandestoc,Voulge,0,False
+Norse Sword,Spear,Broad Sword,0,False
+Norse Sword,Glaive,Spatha,0,False
+Norse Sword,Scorpion,Scramasax,0,False
+Norse Sword,Corcesca,Glaive,0,False
+Norse Sword,Trident,Glaive,0,False
+Norse Sword,Awl Pike,Glaive,0,False
+Norse Sword,Boar Spear,Scorpion,0,False
+Norse Sword,Fauchard,Corcesca,0,False
+Norse Sword,Voulge,Trident,0,False
+Norse Sword,Pole Axe,Awl Pike,0,False
+Norse Sword,Bardysh,Boar Spear,0,False
+Norse Sword,Brandestoc,Fauchard,0,False
+Katana,Spear,Broad Sword,0,False
+Katana,Glaive,Norse Sword,0,False
+Katana,Scorpion,Scimitar,0,False
+Katana,Corcesca,Dirk,0,False
+Katana,Trident,Hand Axe,0,False
+Katana,Awl Pike,Scorpion,0,False
+Katana,Boar Spear,Scorpion,0,False
+Katana,Fauchard,Scorpion,0,False
+Katana,Voulge,Corcesca,0,False
+Katana,Pole Axe,Trident,0,False
+Katana,Bardysh,Awl Pike,0,False
+Katana,Brandestoc,Boar Spear,0,False
+Executioner,Spear,Broad Sword,0,False
+Executioner,Glaive,Norse Sword,0,False
+Executioner,Scorpion,Katana,0,False
+Executioner,Corcesca,Rapier,0,False
+Executioner,Trident,Throwing Knife,0,False
+Executioner,Awl Pike,Battle Axe,0,False
+Executioner,Boar Spear,Corcesca,0,False
+Executioner,Fauchard,Corcesca,0,False
+Executioner,Voulge,Corcesca,0,False
+Executioner,Pole Axe,Corcesca,0,False
+Executioner,Bardysh,Trident,0,False
+Executioner,Brandestoc,Awl Pike,0,False
+Claymore,Spear,Norse Sword,0,False
+Claymore,Glaive,Norse Sword,0,False
+Claymore,Scorpion,Katana,0,False
+Claymore,Corcesca,Executioner,0,False
+Claymore,Trident,Short Sword,0,False
+Claymore,Awl Pike,Kudi,0,False
+Claymore,Boar Spear,Francisca,0,False
+Claymore,Fauchard,Trident,0,False
+Claymore,Voulge,Trident,0,False
+Claymore,Pole Axe,Trident,0,False
+Claymore,Bardysh,Trident,0,False
+Claymore,Brandestoc,Trident,0,False
+Schiavona,Spear,Katana,0,False
+Schiavona,Glaive,Norse Sword,0,False
+Schiavona,Scorpion,Katana,0,False
+Schiavona,Corcesca,Executioner,0,False
+Schiavona,Trident,Claymore,0,False
+Schiavona,Awl Pike,Firangi,0,False
+Schiavona,Boar Spear,Cinquedea,0,False
+Schiavona,Fauchard,Tabarzin,0,False
+Schiavona,Voulge,Awl Pike,0,False
+Schiavona,Pole Axe,Awl Pike,0,False
+Schiavona,Bardysh,Awl Pike,0,False
+Schiavona,Brandestoc,Awl Pike,0,False
+Bastard Sword,Spear,Executioner,0,False
+Bastard Sword,Glaive,Katana,0,False
+Bastard Sword,Scorpion,Katana,0,False
+Bastard Sword,Corcesca,Executioner,0,False
+Bastard Sword,Trident,Claymore,0,False
+Bastard Sword,Awl Pike,Schiavona,0,False
+Bastard Sword,Boar Spear,Shamshir,0,False
+Bastard Sword,Fauchard,Kris,0,False
+Bastard Sword,Voulge,Chamkaq,0,False
+Bastard Sword,Pole Axe,Boar Spear,0,False
+Bastard Sword,Bardysh,Boar Spear,0,False
+Bastard Sword,Brandestoc,Boar Spear,0,False
+Nodachi,Spear,Claymore,0,False
+Nodachi,Glaive,Executioner,0,False
+Nodachi,Scorpion,Katana,0,False
+Nodachi,Corcesca,Executioner,0,False
+Nodachi,Trident,Claymore,0,False
+Nodachi,Awl Pike,Schiavona,0,False
+Nodachi,Boar Spear,Bastard Sword,0,False
+Nodachi,Fauchard,Falchion,0,False
+Nodachi,Voulge,Hatchet,0,False
+Nodachi,Pole Axe,Tabar,0,False
+Nodachi,Bardysh,Fauchard,0,False
+Nodachi,Brandestoc,Fauchard,0,False
+Rune Blade,Spear,Schiavona,0,False
+Rune Blade,Glaive,Claymore,0,False
+Rune Blade,Scorpion,Executioner,0,False
+Rune Blade,Corcesca,Executioner,0,False
+Rune Blade,Trident,Claymore,0,False
+Rune Blade,Awl Pike,Schiavona,0,False
+Rune Blade,Boar Spear,Bastard Sword,0,False
+Rune Blade,Fauchard,Nodachi,0,False
+Rune Blade,Voulge,Shotel,0,False
+Rune Blade,Pole Axe,Khukuri,0,False
+Rune Blade,Bardysh,Bullova,0,False
+Rune Blade,Brandestoc,Voulge,0,False
+Holy Win,Spear,Spear,0,False
+Holy Win,Glaive,Glaive,0,False
+Holy Win,Scorpion,Scorpion,0,False
+Holy Win,Corcesca,Corcesca,0,False
+Holy Win,Trident,Trident,0,False
+Holy Win,Awl Pike,Awl Pike,0,False
+Holy Win,Boar Spear,Boar Spear,0,False
+Holy Win,Fauchard,Fauchard,0,False
+Holy Win,Voulge,Voulge,0,False
+Holy Win,Pole Axe,Pole Axe,0,False
+Holy Win,Bardysh,Bardysh,0,False
+Holy Win,Brandestoc,Brandestoc,0,False

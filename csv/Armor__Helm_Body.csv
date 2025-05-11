@@ -1,262 +1,262 @@
-slot1,slot2,result,tier_change
-Bandana,Jerkin,Bandana,0
-Bandana,Hauberk,Hauberk,0
-Bandana,Wizard Robe,Wizard Robe,0
-Bandana,Cuirass,Cuirass,0
-Bandana,Banded Mail,Banded Mail,0
-Bandana,Ring Mail,Banded Mail,0
-Bandana,Chain Mail,Banded Mail,0
-Bandana,Breastplate,Banded Mail,0
-Bandana,Segmentata,Ring Mail,0
-Bandana,Scale Armor,Chain Mail,0
-Bandana,Brigandine,Breastplate,0
-Bandana,Plate Mail,Segmentata,0
-Bandana,Fluted Armor,Scale Armor,0
-Bandana,Hoplite Armor,Brigandine,0
-Bandana,Jazeraint Armor,Plate Mail,0
-Bandana,Dread Armor,Fluted Armor,0
-Bear Mask,Jerkin,Bear Mask,0
-Bear Mask,Hauberk,Bear Mask,0
-Bear Mask,Wizard Robe,Wizard Robe,0
-Bear Mask,Cuirass,Cuirass,0
-Bear Mask,Banded Mail,Banded Mail,0
-Bear Mask,Ring Mail,Banded Mail,0
-Bear Mask,Chain Mail,Banded Mail,0
-Bear Mask,Breastplate,Banded Mail,0
-Bear Mask,Segmentata,Ring Mail,0
-Bear Mask,Scale Armor,Chain Mail,0
-Bear Mask,Brigandine,Breastplate,0
-Bear Mask,Plate Mail,Segmentata,0
-Bear Mask,Fluted Armor,Scale Armor,0
-Bear Mask,Hoplite Armor,Brigandine,0
-Bear Mask,Jazeraint Armor,Plate Mail,0
-Bear Mask,Dread Armor,Fluted Armor,0
-Wizard Hat,Jerkin,Wizard Hat,0
-Wizard Hat,Hauberk,Wizard Hat,0
-Wizard Hat,Wizard Robe,Wizard Hat,0
-Wizard Hat,Cuirass,Cuirass,0
-Wizard Hat,Banded Mail,Banded Mail,0
-Wizard Hat,Ring Mail,Banded Mail,0
-Wizard Hat,Chain Mail,Banded Mail,0
-Wizard Hat,Breastplate,Banded Mail,0
-Wizard Hat,Segmentata,Ring Mail,0
-Wizard Hat,Scale Armor,Chain Mail,0
-Wizard Hat,Brigandine,Breastplate,0
-Wizard Hat,Plate Mail,Segmentata,0
-Wizard Hat,Fluted Armor,Scale Armor,0
-Wizard Hat,Hoplite Armor,Brigandine,0
-Wizard Hat,Jazeraint Armor,Plate Mail,0
-Wizard Hat,Dread Armor,Fluted Armor,0
-Bone Helm,Jerkin,Bone Helm,0
-Bone Helm,Hauberk,Bone Helm,0
-Bone Helm,Wizard Robe,Bone Helm,0
-Bone Helm,Cuirass,Cuisse,0
-Bone Helm,Banded Mail,Banded Mail,0
-Bone Helm,Ring Mail,Banded Mail,0
-Bone Helm,Chain Mail,Banded Mail,0
-Bone Helm,Breastplate,Banded Mail,0
-Bone Helm,Segmentata,Ring Mail,0
-Bone Helm,Scale Armor,Chain Mail,0
-Bone Helm,Brigandine,Breastplate,0
-Bone Helm,Plate Mail,Segmentata,0
-Bone Helm,Fluted Armor,Scale Armor,0
-Bone Helm,Hoplite Armor,Brigandine,0
-Bone Helm,Jazeraint Armor,Plate Mail,0
-Bone Helm,Dread Armor,Fluted Armor,0
-Chain Coif,Jerkin,Bone Helm,0
-Chain Coif,Hauberk,Bone Helm,0
-Chain Coif,Wizard Robe,Bone Helm,0
-Chain Coif,Cuirass,Bone Helm,0
-Chain Coif,Banded Mail,Light Greave,0
-Chain Coif,Ring Mail,Ring Mail,0
-Chain Coif,Chain Mail,Ring Mail,0
-Chain Coif,Breastplate,Ring Mail,0
-Chain Coif,Segmentata,Ring Mail,0
-Chain Coif,Scale Armor,Ring Mail,0
-Chain Coif,Brigandine,Chain Mail,0
-Chain Coif,Plate Mail,Breastplate,0
-Chain Coif,Fluted Armor,Segmentata,0
-Chain Coif,Hoplite Armor,Scale Armor,0
-Chain Coif,Jazeraint Armor,Brigandine,0
-Chain Coif,Dread Armor,Plate Mail,0
-Spangenhelm,Jerkin,Bone Helm,0
-Spangenhelm,Hauberk,Bone Helm,0
-Spangenhelm,Wizard Robe,Bone Helm,0
-Spangenhelm,Cuirass,Bone Helm,0
-Spangenhelm,Banded Mail,Bone Helm,0
-Spangenhelm,Ring Mail,Ring Leggings,0
-Spangenhelm,Chain Mail,Chain Mail,0
-Spangenhelm,Breastplate,Chain Mail,0
-Spangenhelm,Segmentata,Chain Mail,0
-Spangenhelm,Scale Armor,Chain Mail,0
-Spangenhelm,Brigandine,Chain Mail,0
-Spangenhelm,Plate Mail,Chain Mail,0
-Spangenhelm,Fluted Armor,Breastplate,0
-Spangenhelm,Hoplite Armor,Segmentata,0
-Spangenhelm,Jazeraint Armor,Scale Armor,0
-Spangenhelm,Dread Armor,Brigandine,0
-Cabasset,Jerkin,Bone Helm,0
-Cabasset,Hauberk,Bone Helm,0
-Cabasset,Wizard Robe,Bone Helm,0
-Cabasset,Cuirass,Bone Helm,0
-Cabasset,Banded Mail,Bone Helm,0
-Cabasset,Ring Mail,Chain Coif,0
-Cabasset,Chain Mail,Chain Leggings,0
-Cabasset,Breastplate,Breastplate,0
-Cabasset,Segmentata,Breastplate,0
-Cabasset,Scale Armor,Breastplate,0
-Cabasset,Brigandine,Breastplate,0
-Cabasset,Plate Mail,Breastplate,0
-Cabasset,Fluted Armor,Breastplate,0
-Cabasset,Hoplite Armor,Breastplate,0
-Cabasset,Jazeraint Armor,Segmentata,0
-Cabasset,Dread Armor,Scale Armor,0
-Sallet,Jerkin,Chain Coif,0
-Sallet,Hauberk,Chain Coif,0
-Sallet,Wizard Robe,Chain Coif,0
-Sallet,Cuirass,Chain Coif,0
-Sallet,Banded Mail,Chain Coif,0
-Sallet,Ring Mail,Chain Coif,0
-Sallet,Chain Mail,Spangenhelm,0
-Sallet,Breastplate,Fusskampf,0
-Sallet,Segmentata,Segmentata,0
-Sallet,Scale Armor,Segmentata,0
-Sallet,Brigandine,Segmentata,0
-Sallet,Plate Mail,Segmentata,0
-Sallet,Fluted Armor,Segmentata,0
-Sallet,Hoplite Armor,Segmentata,0
-Sallet,Jazeraint Armor,Segmentata,0
-Sallet,Dread Armor,Segmentata,0
-Barbut,Jerkin,Spangenhelm,0
-Barbut,Hauberk,Spangenhelm,0
-Barbut,Wizard Robe,Spangenhelm,0
-Barbut,Cuirass,Spangenhelm,0
-Barbut,Banded Mail,Spangenhelm,0
-Barbut,Ring Mail,Chain Coif,0
-Barbut,Chain Mail,Spangenhelm,0
-Barbut,Breastplate,Cabasset,0
-Barbut,Segmentata,Poleyn,0
-Barbut,Scale Armor,Segmentata,0
-Scale Armor,Barbut,Scale Armor,0
-Barbut,Brigandine,Scale Armor,0
-Barbut,Plate Mail,Scale Armor,0
-Barbut,Fluted Armor,Scale Armor,0
-Barbut,Hoplite Armor,Scale Armor,0
-Barbut,Jazeraint Armor,Scale Armor,0
-Barbut,Dread Armor,Scale Armor,0
-Basinet,Jerkin,Cabasset,0
-Basinet,Hauberk,Cabasset,0
-Basinet,Wizard Robe,Cabasset,0
-Basinet,Cuirass,Cabasset,0
-Basinet,Banded Mail,Cabasset,0
-Basinet,Ring Mail,Spangenhelm,0
-Basinet,Chain Mail,Spangenhelm,0
-Basinet,Breastplate,Cabasset,0
-Basinet,Segmentata,Sallet,0
-Basinet,Scale Armor,Jambeau,0
-Basinet,Brigandine,Scale Armor,0
-Brigandine,Basinet,Brigandine,0
-Basinet,Plate Mail,Brigandine,0
-Basinet,Fluted Armor,Brigandine,0
-Basinet,Hoplite Armor,Brigandine,0
-Basinet,Jazeraint Armor,Brigandine,0
-Basinet,Dread Armor,Brigandine,0
-Armet,Jerkin,Sallet,0
-Armet,Hauberk,Sallet,0
-Armet,Wizard Robe,Sallet,0
-Armet,Cuirass,Sallet,0
-Armet,Banded Mail,Sallet,0
-Armet,Ring Mail,Cabasset,0
-Armet,Chain Mail,Spangenhelm,0
-Armet,Breastplate,Cabasset,0
-Armet,Segmentata,Sallet,0
-Armet,Scale Armor,Barbut,0
-Armet,Brigandine,Missaglia,0
-Armet,Plate Mail,Brigandine,0
-Plate Mail,Armet,Plate Mail,0
-Armet,Fluted Armor,Plate Mail,0
-Armet,Hoplite Armor,Plate Mail,0
-Armet,Jazeraint Armor,Plate Mail,0
-Armet,Dread Armor,Plate Mail,0
-Close Helm,Jerkin,Barbut,0
-Close Helm,Hauberk,Barbut,0
-Close Helm,Wizard Robe,Barbut,0
-Close Helm,Cuirass,Barbut,0
-Close Helm,Banded Mail,Barbut,0
-Close Helm,Ring Mail,Sallet,0
-Close Helm,Chain Mail,Cabasset,0
-Close Helm,Breastplate,Cabasset,0
-Close Helm,Segmentata,Sallet,0
-Close Helm,Scale Armor,Barbut,0
-Close Helm,Brigandine,Basinet,0
-Close Helm,Plate Mail,Plate Leggings,0
-Close Helm,Fluted Armor,Plate Mail,0
-Fluted Armor,Close Helm,Fluted Armor,0
-Close Helm,Hoplite Armor,Fluted Armor,0
-Close Helm,Jazeraint Armor,Fluted Armor,0
-Close Helm,Dread Armor,Fluted Armor,0
-Burgonet,Jerkin,Basinet,0
-Burgonet,Hauberk,Basinet,0
-Burgonet,Wizard Robe,Basinet,0
-Burgonet,Cuirass,Basinet,0
-Burgonet,Banded Mail,Basinet,0
-Burgonet,Ring Mail,Barbut,0
-Burgonet,Chain Mail,Sallet,0
-Burgonet,Breastplate,Cabasset,0
-Burgonet,Segmentata,Sallet,0
-Burgonet,Scale Armor,Barbut,0
-Burgonet,Brigandine,Basinet,0
-Burgonet,Plate Mail,Armet,0
-Burgonet,Fluted Armor,Fluted Leggings,0
-Burgonet,Hoplite Armor,Fluted Armor,0
-Hoplite Armor,Burgonet,Hoplite Armor,0
-Burgonet,Jazeraint Armor,Hoplite Armor,0
-Burgonet,Dread Armor,Hoplite Armor,0
-Hoplite Helm,Jerkin,Armet,0
-Hoplite Helm,Hauberk,Armet,0
-Hoplite Helm,Wizard Robe,Armet,0
-Hoplite Helm,Cuirass,Armet,0
-Hoplite Helm,Banded Mail,Armet,0
-Hoplite Helm,Ring Mail,Basinet,0
-Hoplite Helm,Chain Mail,Barbut,0
-Hoplite Helm,Breastplate,Sallet,0
-Hoplite Helm,Segmentata,Sallet,0
-Hoplite Helm,Scale Armor,Barbut,0
-Hoplite Helm,Brigandine,Basinet,0
-Hoplite Helm,Plate Mail,Armet,0
-Hoplite Helm,Fluted Armor,Close Helm,0
-Hoplite Helm,Hoplite Armor,Hoplite Leggings,0
-Hoplite Helm,Jazeraint Armor,Jazeraint Armor,0
-Hoplite Helm,Dread Armor,Jazeraint Armor,0
-Jazeraint Helm,Jerkin,Close Helm,0
-Jazeraint Helm,Hauberk,Close Helm,0
-Jazeraint Helm,Wizard Robe,Close Helm,0
-Jazeraint Helm,Cuirass,Close Helm,0
-Jazeraint Helm,Banded Mail,Close Helm,0
-Jazeraint Helm,Ring Mail,Armet,0
-Jazeraint Helm,Chain Mail,Basinet,0
-Jazeraint Helm,Breastplate,Barbut,0
-Jazeraint Helm,Segmentata,Sallet,0
-Jazeraint Helm,Scale Armor,Barbut,0
-Jazeraint Helm,Brigandine,Basinet,0
-Jazeraint Helm,Plate Mail,Armet,0
-Jazeraint Helm,Fluted Armor,Close Helm,0
-Jazeraint Helm,Hoplite Armor,Burgonet,0
-Jazeraint Helm,Jazeraint Armor,Jazeraint Leggings,0
-Jazeraint Helm,Dread Armor,Dread Armor,0
-Dread Helm,Jerkin,Burgonet,0
-Dread Helm,Hauberk,Burgonet,0
-Dread Helm,Wizard Robe,Burgonet,0
-Dread Helm,Cuirass,Burgonet,0
-Dread Helm,Banded Mail,Burgonet,0
-Dread Helm,Ring Mail,Close Helm,0
-Dread Helm,Chain Mail,Armet,0
-Dread Helm,Breastplate,Basinet,0
-Dread Helm,Segmentata,Barbut,0
-Dread Helm,Scale Armor,Barbut,0
-Dread Helm,Brigandine,Basinet,0
-Dread Helm,Plate Mail,Armet,0
-Dread Helm,Fluted Armor,Close Helm,0
-Dread Helm,Hoplite Armor,Burgonet,0
-Dread Helm,Jazeraint Armor,Hoplite Helm,0
-Dread Helm,Dread Armor,Dread Leggings,0
+slot1,slot2,result,tier_change,has_swap
+Bandana,Jerkin,Bandana,0,False
+Bandana,Hauberk,Hauberk,0,False
+Bandana,Wizard Robe,Wizard Robe,0,False
+Bandana,Cuirass,Cuirass,0,False
+Bandana,Banded Mail,Banded Mail,0,False
+Bandana,Ring Mail,Banded Mail,0,False
+Bandana,Chain Mail,Banded Mail,0,False
+Bandana,Breastplate,Banded Mail,0,False
+Bandana,Segmentata,Ring Mail,0,False
+Bandana,Scale Armor,Chain Mail,0,False
+Bandana,Brigandine,Breastplate,0,False
+Bandana,Plate Mail,Segmentata,0,False
+Bandana,Fluted Armor,Scale Armor,0,False
+Bandana,Hoplite Armor,Brigandine,0,False
+Bandana,Jazeraint Armor,Plate Mail,0,False
+Bandana,Dread Armor,Fluted Armor,0,False
+Bear Mask,Jerkin,Bear Mask,0,False
+Bear Mask,Hauberk,Bear Mask,0,False
+Bear Mask,Wizard Robe,Wizard Robe,0,False
+Bear Mask,Cuirass,Cuirass,0,False
+Bear Mask,Banded Mail,Banded Mail,0,False
+Bear Mask,Ring Mail,Banded Mail,0,False
+Bear Mask,Chain Mail,Banded Mail,0,False
+Bear Mask,Breastplate,Banded Mail,0,False
+Bear Mask,Segmentata,Ring Mail,0,False
+Bear Mask,Scale Armor,Chain Mail,0,False
+Bear Mask,Brigandine,Breastplate,0,False
+Bear Mask,Plate Mail,Segmentata,0,False
+Bear Mask,Fluted Armor,Scale Armor,0,False
+Bear Mask,Hoplite Armor,Brigandine,0,False
+Bear Mask,Jazeraint Armor,Plate Mail,0,False
+Bear Mask,Dread Armor,Fluted Armor,0,False
+Wizard Hat,Jerkin,Wizard Hat,0,False
+Wizard Hat,Hauberk,Wizard Hat,0,False
+Wizard Hat,Wizard Robe,Wizard Hat,0,False
+Wizard Hat,Cuirass,Cuirass,0,False
+Wizard Hat,Banded Mail,Banded Mail,0,False
+Wizard Hat,Ring Mail,Banded Mail,0,False
+Wizard Hat,Chain Mail,Banded Mail,0,False
+Wizard Hat,Breastplate,Banded Mail,0,False
+Wizard Hat,Segmentata,Ring Mail,0,False
+Wizard Hat,Scale Armor,Chain Mail,0,False
+Wizard Hat,Brigandine,Breastplate,0,False
+Wizard Hat,Plate Mail,Segmentata,0,False
+Wizard Hat,Fluted Armor,Scale Armor,0,False
+Wizard Hat,Hoplite Armor,Brigandine,0,False
+Wizard Hat,Jazeraint Armor,Plate Mail,0,False
+Wizard Hat,Dread Armor,Fluted Armor,0,False
+Bone Helm,Jerkin,Bone Helm,0,False
+Bone Helm,Hauberk,Bone Helm,0,False
+Bone Helm,Wizard Robe,Bone Helm,0,False
+Bone Helm,Cuirass,Cuisse,0,False
+Bone Helm,Banded Mail,Banded Mail,0,False
+Bone Helm,Ring Mail,Banded Mail,0,False
+Bone Helm,Chain Mail,Banded Mail,0,False
+Bone Helm,Breastplate,Banded Mail,0,False
+Bone Helm,Segmentata,Ring Mail,0,False
+Bone Helm,Scale Armor,Chain Mail,0,False
+Bone Helm,Brigandine,Breastplate,0,False
+Bone Helm,Plate Mail,Segmentata,0,False
+Bone Helm,Fluted Armor,Scale Armor,0,False
+Bone Helm,Hoplite Armor,Brigandine,0,False
+Bone Helm,Jazeraint Armor,Plate Mail,0,False
+Bone Helm,Dread Armor,Fluted Armor,0,False
+Chain Coif,Jerkin,Bone Helm,0,False
+Chain Coif,Hauberk,Bone Helm,0,False
+Chain Coif,Wizard Robe,Bone Helm,0,False
+Chain Coif,Cuirass,Bone Helm,0,False
+Chain Coif,Banded Mail,Light Greave,0,False
+Chain Coif,Ring Mail,Ring Mail,0,False
+Chain Coif,Chain Mail,Ring Mail,0,False
+Chain Coif,Breastplate,Ring Mail,0,False
+Chain Coif,Segmentata,Ring Mail,0,False
+Chain Coif,Scale Armor,Ring Mail,0,False
+Chain Coif,Brigandine,Chain Mail,0,False
+Chain Coif,Plate Mail,Breastplate,0,False
+Chain Coif,Fluted Armor,Segmentata,0,False
+Chain Coif,Hoplite Armor,Scale Armor,0,False
+Chain Coif,Jazeraint Armor,Brigandine,0,False
+Chain Coif,Dread Armor,Plate Mail,0,False
+Spangenhelm,Jerkin,Bone Helm,0,False
+Spangenhelm,Hauberk,Bone Helm,0,False
+Spangenhelm,Wizard Robe,Bone Helm,0,False
+Spangenhelm,Cuirass,Bone Helm,0,False
+Spangenhelm,Banded Mail,Bone Helm,0,False
+Spangenhelm,Ring Mail,Ring Leggings,0,False
+Spangenhelm,Chain Mail,Chain Mail,0,False
+Spangenhelm,Breastplate,Chain Mail,0,False
+Spangenhelm,Segmentata,Chain Mail,0,False
+Spangenhelm,Scale Armor,Chain Mail,0,False
+Spangenhelm,Brigandine,Chain Mail,0,False
+Spangenhelm,Plate Mail,Chain Mail,0,False
+Spangenhelm,Fluted Armor,Breastplate,0,False
+Spangenhelm,Hoplite Armor,Segmentata,0,False
+Spangenhelm,Jazeraint Armor,Scale Armor,0,False
+Spangenhelm,Dread Armor,Brigandine,0,False
+Cabasset,Jerkin,Bone Helm,0,False
+Cabasset,Hauberk,Bone Helm,0,False
+Cabasset,Wizard Robe,Bone Helm,0,False
+Cabasset,Cuirass,Bone Helm,0,False
+Cabasset,Banded Mail,Bone Helm,0,False
+Cabasset,Ring Mail,Chain Coif,0,False
+Cabasset,Chain Mail,Chain Leggings,0,False
+Cabasset,Breastplate,Breastplate,0,False
+Cabasset,Segmentata,Breastplate,0,False
+Cabasset,Scale Armor,Breastplate,0,False
+Cabasset,Brigandine,Breastplate,0,False
+Cabasset,Plate Mail,Breastplate,0,False
+Cabasset,Fluted Armor,Breastplate,0,False
+Cabasset,Hoplite Armor,Breastplate,0,False
+Cabasset,Jazeraint Armor,Segmentata,0,False
+Cabasset,Dread Armor,Scale Armor,0,False
+Sallet,Jerkin,Chain Coif,0,False
+Sallet,Hauberk,Chain Coif,0,False
+Sallet,Wizard Robe,Chain Coif,0,False
+Sallet,Cuirass,Chain Coif,0,False
+Sallet,Banded Mail,Chain Coif,0,False
+Sallet,Ring Mail,Chain Coif,0,False
+Sallet,Chain Mail,Spangenhelm,0,False
+Sallet,Breastplate,Fusskampf,0,False
+Sallet,Segmentata,Segmentata,0,False
+Sallet,Scale Armor,Segmentata,0,False
+Sallet,Brigandine,Segmentata,0,False
+Sallet,Plate Mail,Segmentata,0,False
+Sallet,Fluted Armor,Segmentata,0,False
+Sallet,Hoplite Armor,Segmentata,0,False
+Sallet,Jazeraint Armor,Segmentata,0,False
+Sallet,Dread Armor,Segmentata,0,False
+Barbut,Jerkin,Spangenhelm,0,False
+Barbut,Hauberk,Spangenhelm,0,False
+Barbut,Wizard Robe,Spangenhelm,0,False
+Barbut,Cuirass,Spangenhelm,0,False
+Barbut,Banded Mail,Spangenhelm,0,False
+Barbut,Ring Mail,Chain Coif,0,False
+Barbut,Chain Mail,Spangenhelm,0,False
+Barbut,Breastplate,Cabasset,0,False
+Barbut,Segmentata,Poleyn,0,False
+Barbut,Scale Armor,Segmentata,0,True
+Scale Armor,Barbut,Scale Armor,0,True
+Barbut,Brigandine,Scale Armor,0,False
+Barbut,Plate Mail,Scale Armor,0,False
+Barbut,Fluted Armor,Scale Armor,0,False
+Barbut,Hoplite Armor,Scale Armor,0,False
+Barbut,Jazeraint Armor,Scale Armor,0,False
+Barbut,Dread Armor,Scale Armor,0,False
+Basinet,Jerkin,Cabasset,0,False
+Basinet,Hauberk,Cabasset,0,False
+Basinet,Wizard Robe,Cabasset,0,False
+Basinet,Cuirass,Cabasset,0,False
+Basinet,Banded Mail,Cabasset,0,False
+Basinet,Ring Mail,Spangenhelm,0,False
+Basinet,Chain Mail,Spangenhelm,0,False
+Basinet,Breastplate,Cabasset,0,False
+Basinet,Segmentata,Sallet,0,False
+Basinet,Scale Armor,Jambeau,0,False
+Basinet,Brigandine,Scale Armor,0,True
+Brigandine,Basinet,Brigandine,0,True
+Basinet,Plate Mail,Brigandine,0,False
+Basinet,Fluted Armor,Brigandine,0,False
+Basinet,Hoplite Armor,Brigandine,0,False
+Basinet,Jazeraint Armor,Brigandine,0,False
+Basinet,Dread Armor,Brigandine,0,False
+Armet,Jerkin,Sallet,0,False
+Armet,Hauberk,Sallet,0,False
+Armet,Wizard Robe,Sallet,0,False
+Armet,Cuirass,Sallet,0,False
+Armet,Banded Mail,Sallet,0,False
+Armet,Ring Mail,Cabasset,0,False
+Armet,Chain Mail,Spangenhelm,0,False
+Armet,Breastplate,Cabasset,0,False
+Armet,Segmentata,Sallet,0,False
+Armet,Scale Armor,Barbut,0,False
+Armet,Brigandine,Missaglia,0,False
+Armet,Plate Mail,Brigandine,0,True
+Plate Mail,Armet,Plate Mail,0,True
+Armet,Fluted Armor,Plate Mail,0,False
+Armet,Hoplite Armor,Plate Mail,0,False
+Armet,Jazeraint Armor,Plate Mail,0,False
+Armet,Dread Armor,Plate Mail,0,False
+Close Helm,Jerkin,Barbut,0,False
+Close Helm,Hauberk,Barbut,0,False
+Close Helm,Wizard Robe,Barbut,0,False
+Close Helm,Cuirass,Barbut,0,False
+Close Helm,Banded Mail,Barbut,0,False
+Close Helm,Ring Mail,Sallet,0,False
+Close Helm,Chain Mail,Cabasset,0,False
+Close Helm,Breastplate,Cabasset,0,False
+Close Helm,Segmentata,Sallet,0,False
+Close Helm,Scale Armor,Barbut,0,False
+Close Helm,Brigandine,Basinet,0,False
+Close Helm,Plate Mail,Plate Leggings,0,False
+Close Helm,Fluted Armor,Plate Mail,0,True
+Fluted Armor,Close Helm,Fluted Armor,0,True
+Close Helm,Hoplite Armor,Fluted Armor,0,False
+Close Helm,Jazeraint Armor,Fluted Armor,0,False
+Close Helm,Dread Armor,Fluted Armor,0,False
+Burgonet,Jerkin,Basinet,0,False
+Burgonet,Hauberk,Basinet,0,False
+Burgonet,Wizard Robe,Basinet,0,False
+Burgonet,Cuirass,Basinet,0,False
+Burgonet,Banded Mail,Basinet,0,False
+Burgonet,Ring Mail,Barbut,0,False
+Burgonet,Chain Mail,Sallet,0,False
+Burgonet,Breastplate,Cabasset,0,False
+Burgonet,Segmentata,Sallet,0,False
+Burgonet,Scale Armor,Barbut,0,False
+Burgonet,Brigandine,Basinet,0,False
+Burgonet,Plate Mail,Armet,0,False
+Burgonet,Fluted Armor,Fluted Leggings,0,False
+Burgonet,Hoplite Armor,Fluted Armor,0,True
+Hoplite Armor,Burgonet,Hoplite Armor,0,True
+Burgonet,Jazeraint Armor,Hoplite Armor,0,False
+Burgonet,Dread Armor,Hoplite Armor,0,False
+Hoplite Helm,Jerkin,Armet,0,False
+Hoplite Helm,Hauberk,Armet,0,False
+Hoplite Helm,Wizard Robe,Armet,0,False
+Hoplite Helm,Cuirass,Armet,0,False
+Hoplite Helm,Banded Mail,Armet,0,False
+Hoplite Helm,Ring Mail,Basinet,0,False
+Hoplite Helm,Chain Mail,Barbut,0,False
+Hoplite Helm,Breastplate,Sallet,0,False
+Hoplite Helm,Segmentata,Sallet,0,False
+Hoplite Helm,Scale Armor,Barbut,0,False
+Hoplite Helm,Brigandine,Basinet,0,False
+Hoplite Helm,Plate Mail,Armet,0,False
+Hoplite Helm,Fluted Armor,Close Helm,0,False
+Hoplite Helm,Hoplite Armor,Hoplite Leggings,0,False
+Hoplite Helm,Jazeraint Armor,Jazeraint Armor,0,False
+Hoplite Helm,Dread Armor,Jazeraint Armor,0,False
+Jazeraint Helm,Jerkin,Close Helm,0,False
+Jazeraint Helm,Hauberk,Close Helm,0,False
+Jazeraint Helm,Wizard Robe,Close Helm,0,False
+Jazeraint Helm,Cuirass,Close Helm,0,False
+Jazeraint Helm,Banded Mail,Close Helm,0,False
+Jazeraint Helm,Ring Mail,Armet,0,False
+Jazeraint Helm,Chain Mail,Basinet,0,False
+Jazeraint Helm,Breastplate,Barbut,0,False
+Jazeraint Helm,Segmentata,Sallet,0,False
+Jazeraint Helm,Scale Armor,Barbut,0,False
+Jazeraint Helm,Brigandine,Basinet,0,False
+Jazeraint Helm,Plate Mail,Armet,0,False
+Jazeraint Helm,Fluted Armor,Close Helm,0,False
+Jazeraint Helm,Hoplite Armor,Burgonet,0,False
+Jazeraint Helm,Jazeraint Armor,Jazeraint Leggings,0,False
+Jazeraint Helm,Dread Armor,Dread Armor,0,False
+Dread Helm,Jerkin,Burgonet,0,False
+Dread Helm,Hauberk,Burgonet,0,False
+Dread Helm,Wizard Robe,Burgonet,0,False
+Dread Helm,Cuirass,Burgonet,0,False
+Dread Helm,Banded Mail,Burgonet,0,False
+Dread Helm,Ring Mail,Close Helm,0,False
+Dread Helm,Chain Mail,Armet,0,False
+Dread Helm,Breastplate,Basinet,0,False
+Dread Helm,Segmentata,Barbut,0,False
+Dread Helm,Scale Armor,Barbut,0,False
+Dread Helm,Brigandine,Basinet,0,False
+Dread Helm,Plate Mail,Armet,0,False
+Dread Helm,Fluted Armor,Close Helm,0,False
+Dread Helm,Hoplite Armor,Burgonet,0,False
+Dread Helm,Jazeraint Armor,Hoplite Helm,0,False
+Dread Helm,Dread Armor,Dread Leggings,0,False

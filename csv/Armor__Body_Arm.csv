@@ -1,257 +1,257 @@
-slot1,slot2,result,tier_change
-Jerkin,Bandage,Jerkin,0
-Jerkin,Leather Glove,Leather Glove,0
-Jerkin,Reinforced Glove,Reinforced Glove,0
-Jerkin,Knuckles,Knuckles,0
-Jerkin,Ring Sleeve,Knuckles,0
-Jerkin,Chain Sleeve,Knuckles,0
-Jerkin,Gauntlet,Knuckles,0
-Jerkin,Vambrace,Ring Sleeve,0
-Jerkin,Plate Glove,Chain Sleeve,0
-Jerkin,Rondanche,Gauntlet,0
-Jerkin,Tilt Glove,Vambrace,0
-Jerkin,Freiturnier,Plate Glove,0
-Jerkin,Fluted Glove,Rondanche,0
-Jerkin,Hoplite Glove,Tilt Glove,0
-Jerkin,Jazeraint Glove,Freiturnier,0
-Jerkin,Dread Glove,Fluted Glove,0
-Hauberk,Bandage,Hauberk,0
-Hauberk,Leather Glove,Leather Glove,0
-Hauberk,Reinforced Glove,Reinforced Glove,0
-Hauberk,Knuckles,Knuckles,0
-Hauberk,Ring Sleeve,Knuckles,0
-Hauberk,Chain Sleeve,Knuckles,0
-Hauberk,Gauntlet,Knuckles,0
-Hauberk,Vambrace,Ring Sleeve,0
-Hauberk,Plate Glove,Chain Sleeve,0
-Hauberk,Rondanche,Gauntlet,0
-Hauberk,Tilt Glove,Vambrace,0
-Hauberk,Freiturnier,Plate Glove,0
-Hauberk,Fluted Glove,Rondanche,0
-Hauberk,Hoplite Glove,Tilt Glove,0
-Hauberk,Jazeraint Glove,Freiturnier,0
-Hauberk,Dread Glove,Fluted Glove,0
-Wizard Robe,Bandage,Wizard Robe,0
-Wizard Robe,Leather Glove,Wizard Robe,0
-Wizard Robe,Reinforced Glove,Reinforced Glove,0
-Wizard Robe,Knuckles,Knuckles,0
-Wizard Robe,Ring Sleeve,Knuckles,0
-Wizard Robe,Chain Sleeve,Knuckles,0
-Wizard Robe,Gauntlet,Knuckles,0
-Wizard Robe,Vambrace,Ring Sleeve,0
-Wizard Robe,Plate Glove,Chain Sleeve,0
-Wizard Robe,Rondanche,Gauntlet,0
-Wizard Robe,Tilt Glove,Vambrace,0
-Wizard Robe,Freiturnier,Plate Glove,0
-Wizard Robe,Fluted Glove,Rondanche,0
-Wizard Robe,Hoplite Glove,Tilt Glove,0
-Wizard Robe,Jazeraint Glove,Freiturnier,0
-Wizard Robe,Dread Glove,Fluted Glove,0
-Cuirass,Bandage,Cuirass,0
-Cuirass,Leather Glove,Cuirass,0
-Cuirass,Reinforced Glove,Cuirass,0
-Cuirass,Knuckles,Bone Helm,0
-Cuirass,Ring Sleeve,Knuckles,0
-Cuirass,Chain Sleeve,Knuckles,0
-Cuirass,Gauntlet,Knuckles,0
-Cuirass,Vambrace,Ring Sleeve,0
-Cuirass,Plate Glove,Chain Sleeve,0
-Cuirass,Rondanche,Gauntlet,0
-Cuirass,Tilt Glove,Vambrace,0
-Cuirass,Freiturnier,Plate Glove,0
-Cuirass,Fluted Glove,Rondanche,0
-Cuirass,Hoplite Glove,Tilt Glove,0
-Cuirass,Jazeraint Glove,Freiturnier,0
-Cuirass,Dread Glove,Fluted Glove,0
-Banded Mail,Bandage,Banded Mail,0
-Banded Mail,Leather Glove,Banded Mail,0
-Banded Mail,Reinforced Glove,Banded Mail,0
-Banded Mail,Knuckles,Banded Mail,0
-Banded Mail,Ring Sleeve,Chain Coif,0
-Banded Mail,Chain Sleeve,Knuckles,0
-Banded Mail,Gauntlet,Knuckles,0
-Banded Mail,Vambrace,Ring Sleeve,0
-Banded Mail,Plate Glove,Chain Sleeve,0
-Banded Mail,Rondanche,Gauntlet,0
-Banded Mail,Tilt Glove,Vambrace,0
-Banded Mail,Freiturnier,Plate Glove,0
-Banded Mail,Fluted Glove,Rondanche,0
-Banded Mail,Hoplite Glove,Tilt Glove,0
-Banded Mail,Jazeraint Glove,Freiturnier,0
-Banded Mail,Dread Glove,Fluted Glove,0
-Ring Mail,Bandage,Banded Mail,0
-Ring Mail,Leather Glove,Banded Mail,0
-Ring Mail,Reinforced Glove,Banded Mail,0
-Ring Mail,Knuckles,Banded Mail,0
-Ring Mail,Ring Sleeve,Ring Mail,0
-Ring Mail,Chain Sleeve,Spangenhelm,0
-Ring Mail,Gauntlet,Ring Sleeve,0
-Ring Mail,Vambrace,Ring Sleeve,0
-Ring Mail,Plate Glove,Ring Sleeve,0
-Ring Mail,Rondanche,Chain Sleeve,0
-Ring Mail,Tilt Glove,Gauntlet,0
-Ring Mail,Freiturnier,Vambrace,0
-Ring Mail,Fluted Glove,Plate Glove,0
-Ring Mail,Hoplite Glove,Rondanche,0
-Ring Mail,Jazeraint Glove,Tilt Glove,0
-Ring Mail,Dread Glove,Freiturnier,0
-Chain Mail,Bandage,Banded Mail,0
-Chain Mail,Leather Glove,Banded Mail,0
-Chain Mail,Reinforced Glove,Banded Mail,0
-Chain Mail,Knuckles,Banded Mail,0
-Chain Mail,Ring Sleeve,Ring Mail,0
-Chain Mail,Chain Sleeve,Chain Mail,0
-Chain Mail,Gauntlet,Cabasset,0
-Chain Mail,Vambrace,Chain Sleeve,0
-Chain Mail,Plate Glove,Chain Sleeve,0
-Chain Mail,Rondanche,Chain Sleeve,0
-Chain Mail,Tilt Glove,Chain Sleeve,0
-Chain Mail,Freiturnier,Gauntlet,0
-Chain Mail,Fluted Glove,Vambrace,0
-Chain Mail,Hoplite Glove,Plate Glove,0
-Chain Mail,Jazeraint Glove,Rondanche,0
-Chain Mail,Dread Glove,Tilt Glove,0
-Breastplate,Bandage,Banded Mail,0
-Breastplate,Leather Glove,Banded Mail,0
-Breastplate,Reinforced Glove,Banded Mail,0
-Breastplate,Knuckles,Banded Mail,0
-Breastplate,Ring Sleeve,Ring Mail,0
-Breastplate,Chain Sleeve,Chain Mail,0
-Breastplate,Gauntlet,Breastplate,0
-Breastplate,Vambrace,Sallet,0
-Breastplate,Plate Glove,Gauntlet,0
-Breastplate,Rondanche,Gauntlet,0
-Breastplate,Tilt Glove,Gauntlet,0
-Breastplate,Freiturnier,Gauntlet,0
-Breastplate,Fluted Glove,Gauntlet,0
-Breastplate,Hoplite Glove,Vambrace,0
-Breastplate,Jazeraint Glove,Plate Glove,0
-Breastplate,Dread Glove,Rondanche,0
-Segmentata,Bandage,Ring Mail,0
-Segmentata,Leather Glove,Ring Mail,0
-Segmentata,Reinforced Glove,Ring Mail,0
-Segmentata,Knuckles,Ring Mail,0
-Segmentata,Ring Sleeve,Ring Mail,0
-Segmentata,Chain Sleeve,Chain Mail,0
-Segmentata,Gauntlet,Breastplate,0
-Segmentata,Vambrace,Segmentata,0
-Segmentata,Plate Glove,Barbut,0
-Segmentata,Rondanche,Vambrace,0
-Segmentata,Tilt Glove,Vambrace,0
-Segmentata,Freiturnier,Vambrace,0
-Segmentata,Fluted Glove,Vambrace,0
-Segmentata,Hoplite Glove,Vambrace,0
-Segmentata,Jazeraint Glove,Vambrace,0
-Segmentata,Dread Glove,Plate Glove,0
-Scale Armor,Bandage,Chain Mail,0
-Scale Armor,Leather Glove,Chain Mail,0
-Scale Armor,Reinforced Glove,Chain Mail,0
-Scale Armor,Knuckles,Chain Mail,0
-Scale Armor,Ring Sleeve,Ring Mail,0
-Scale Armor,Chain Sleeve,Chain Mail,0
-Scale Armor,Gauntlet,Breastplate,0
-Scale Armor,Vambrace,Segmentata,0
-Scale Armor,Plate Glove,Scale Armor,0
-Scale Armor,Rondanche,Basinet,0
-Scale Armor,Tilt Glove,Plate Glove,0
-Scale Armor,Freiturnier,Plate Glove,0
-Scale Armor,Fluted Glove,Plate Glove,0
-Scale Armor,Hoplite Glove,Plate Glove,0
-Scale Armor,Jazeraint Glove,Plate Glove,0
-Scale Armor,Dread Glove,Plate Glove,0
-Brigandine,Bandage,Breastplate,0
-Brigandine,Leather Glove,Breastplate,0
-Brigandine,Reinforced Glove,Breastplate,0
-Brigandine,Knuckles,Breastplate,0
-Brigandine,Ring Sleeve,Chain Mail,0
-Brigandine,Chain Sleeve,Chain Mail,0
-Brigandine,Gauntlet,Breastplate,0
-Brigandine,Vambrace,Segmentata,0
-Brigandine,Plate Glove,Scale Armor,0
-Brigandine,Rondanche,Brigandine,0
-Brigandine,Tilt Glove,Armet,0
-Brigandine,Freiturnier,Rondanche,0
-Brigandine,Fluted Glove,Rondanche,0
-Brigandine,Hoplite Glove,Rondanche,0
-Brigandine,Jazeraint Glove,Rondanche,0
-Brigandine,Dread Glove,Rondanche,0
-Plate Mail,Bandage,Segmentata,0
-Plate Mail,Leather Glove,Segmentata,0
-Plate Mail,Reinforced Glove,Segmentata,0
-Plate Mail,Knuckles,Segmentata,0
-Plate Mail,Ring Sleeve,Breastplate,0
-Plate Mail,Chain Sleeve,Chain Mail,0
-Plate Mail,Gauntlet,Breastplate,0
-Plate Mail,Vambrace,Segmentata,0
-Plate Mail,Plate Glove,Scale Armor,0
-Plate Mail,Rondanche,Brigandine,0
-Plate Mail,Tilt Glove,Plate Mail,0
-Plate Mail,Freiturnier,Close Helm,0
-Plate Mail,Fluted Glove,Tilt Glove,0
-Plate Mail,Hoplite Glove,Tilt Glove,0
-Plate Mail,Jazeraint Glove,Tilt Glove,0
-Plate Mail,Dread Glove,Tilt Glove,0
-Fluted Armor,Bandage,Scale Armor,0
-Fluted Armor,Leather Glove,Scale Armor,0
-Fluted Armor,Reinforced Glove,Scale Armor,0
-Fluted Armor,Knuckles,Scale Armor,0
-Fluted Armor,Ring Sleeve,Segmentata,0
-Fluted Armor,Chain Sleeve,Breastplate,0
-Fluted Armor,Gauntlet,Breastplate,0
-Fluted Armor,Vambrace,Segmentata,0
-Fluted Armor,Plate Glove,Scale Armor,0
-Fluted Armor,Rondanche,Brigandine,0
-Fluted Armor,Tilt Glove,Plate Mail,0
-Fluted Armor,Freiturnier,Fluted Armor,0
-Fluted Armor,Fluted Glove,Burgonet,0
-Fluted Armor,Hoplite Glove,Freiturnier,0
-Fluted Armor,Jazeraint Glove,Freiturnier,0
-Fluted Armor,Dread Glove,Freiturnier,0
-Hoplite Armor,Bandage,Brigandine,0
-Hoplite Armor,Leather Glove,Brigandine,0
-Hoplite Armor,Reinforced Glove,Brigandine,0
-Hoplite Armor,Knuckles,Brigandine,0
-Hoplite Armor,Ring Sleeve,Scale Armor,0
-Hoplite Armor,Chain Sleeve,Segmentata,0
-Hoplite Armor,Gauntlet,Breastplate,0
-Hoplite Armor,Vambrace,Segmentata,0
-Hoplite Armor,Plate Glove,Scale Armor,0
-Hoplite Armor,Rondanche,Brigandine,0
-Hoplite Armor,Tilt Glove,Plate Mail,0
-Hoplite Armor,Freiturnier,Fluted Armor,0
-Hoplite Armor,Fluted Glove,Hoplite Armor,0
-Hoplite Armor,Hoplite Glove,Hoplite Helm,0
-Hoplite Armor,Jazeraint Glove,Fluted Glove,0
-Hoplite Armor,Dread Glove,Fluted Glove,0
-Jazeraint Armor,Bandage,Plate Mail,0
-Jazeraint Armor,Leather Glove,Plate Mail,0
-Jazeraint Armor,Reinforced Glove,Plate Mail,0
-Jazeraint Armor,Knuckles,Plate Mail,0
-Jazeraint Armor,Ring Sleeve,Brigandine,0
-Jazeraint Armor,Chain Sleeve,Scale Armor,0
-Jazeraint Armor,Gauntlet,Segmentata,0
-Jazeraint Armor,Vambrace,Segmentata,0
-Jazeraint Armor,Plate Glove,Scale Armor,0
-Jazeraint Armor,Rondanche,Brigandine,0
-Jazeraint Armor,Tilt Glove,Plate Mail,0
-Jazeraint Armor,Freiturnier,Fluted Armor,0
-Jazeraint Armor,Fluted Glove,Hoplite Armor,0
-Jazeraint Armor,Hoplite Glove,Jazeraint Armor,0
-Jazeraint Armor,Jazeraint Glove,Jazeraint Helm,0
-Jazeraint Armor,Dread Glove,Hoplite Glove,0
-Dread Armor,Bandage,Fluted Armor,0
-Dread Armor,Leather Glove,Fluted Armor,0
-Dread Armor,Reinforced Glove,Fluted Armor,0
-Dread Armor,Knuckles,Fluted Armor,0
-Dread Armor,Ring Sleeve,Plate Mail,0
-Dread Armor,Chain Sleeve,Brigandine,0
-Dread Armor,Gauntlet,Scale Armor,0
-Dread Armor,Vambrace,Segmentata,0
-Dread Armor,Plate Glove,Scale Armor,0
-Dread Armor,Rondanche,Brigandine,0
-Dread Armor,Tilt Glove,Plate Mail,0
-Dread Armor,Freiturnier,Fluted Armor,0
-Dread Armor,Fluted Glove,Hoplite Armor,0
-Dread Armor,Hoplite Glove,Jazeraint Armor,0
-Dread Armor,Jazeraint Glove,Dread Armor,0
-Dread Armor,Dread Glove,Dread Helm,0
+slot1,slot2,result,tier_change,has_swap
+Jerkin,Bandage,Jerkin,0,False
+Jerkin,Leather Glove,Leather Glove,0,False
+Jerkin,Reinforced Glove,Reinforced Glove,0,False
+Jerkin,Knuckles,Knuckles,0,False
+Jerkin,Ring Sleeve,Knuckles,0,False
+Jerkin,Chain Sleeve,Knuckles,0,False
+Jerkin,Gauntlet,Knuckles,0,False
+Jerkin,Vambrace,Ring Sleeve,0,False
+Jerkin,Plate Glove,Chain Sleeve,0,False
+Jerkin,Rondanche,Gauntlet,0,False
+Jerkin,Tilt Glove,Vambrace,0,False
+Jerkin,Freiturnier,Plate Glove,0,False
+Jerkin,Fluted Glove,Rondanche,0,False
+Jerkin,Hoplite Glove,Tilt Glove,0,False
+Jerkin,Jazeraint Glove,Freiturnier,0,False
+Jerkin,Dread Glove,Fluted Glove,0,False
+Hauberk,Bandage,Hauberk,0,False
+Hauberk,Leather Glove,Leather Glove,0,False
+Hauberk,Reinforced Glove,Reinforced Glove,0,False
+Hauberk,Knuckles,Knuckles,0,False
+Hauberk,Ring Sleeve,Knuckles,0,False
+Hauberk,Chain Sleeve,Knuckles,0,False
+Hauberk,Gauntlet,Knuckles,0,False
+Hauberk,Vambrace,Ring Sleeve,0,False
+Hauberk,Plate Glove,Chain Sleeve,0,False
+Hauberk,Rondanche,Gauntlet,0,False
+Hauberk,Tilt Glove,Vambrace,0,False
+Hauberk,Freiturnier,Plate Glove,0,False
+Hauberk,Fluted Glove,Rondanche,0,False
+Hauberk,Hoplite Glove,Tilt Glove,0,False
+Hauberk,Jazeraint Glove,Freiturnier,0,False
+Hauberk,Dread Glove,Fluted Glove,0,False
+Wizard Robe,Bandage,Wizard Robe,0,False
+Wizard Robe,Leather Glove,Wizard Robe,0,False
+Wizard Robe,Reinforced Glove,Reinforced Glove,0,False
+Wizard Robe,Knuckles,Knuckles,0,False
+Wizard Robe,Ring Sleeve,Knuckles,0,False
+Wizard Robe,Chain Sleeve,Knuckles,0,False
+Wizard Robe,Gauntlet,Knuckles,0,False
+Wizard Robe,Vambrace,Ring Sleeve,0,False
+Wizard Robe,Plate Glove,Chain Sleeve,0,False
+Wizard Robe,Rondanche,Gauntlet,0,False
+Wizard Robe,Tilt Glove,Vambrace,0,False
+Wizard Robe,Freiturnier,Plate Glove,0,False
+Wizard Robe,Fluted Glove,Rondanche,0,False
+Wizard Robe,Hoplite Glove,Tilt Glove,0,False
+Wizard Robe,Jazeraint Glove,Freiturnier,0,False
+Wizard Robe,Dread Glove,Fluted Glove,0,False
+Cuirass,Bandage,Cuirass,0,False
+Cuirass,Leather Glove,Cuirass,0,False
+Cuirass,Reinforced Glove,Cuirass,0,False
+Cuirass,Knuckles,Bone Helm,0,False
+Cuirass,Ring Sleeve,Knuckles,0,False
+Cuirass,Chain Sleeve,Knuckles,0,False
+Cuirass,Gauntlet,Knuckles,0,False
+Cuirass,Vambrace,Ring Sleeve,0,False
+Cuirass,Plate Glove,Chain Sleeve,0,False
+Cuirass,Rondanche,Gauntlet,0,False
+Cuirass,Tilt Glove,Vambrace,0,False
+Cuirass,Freiturnier,Plate Glove,0,False
+Cuirass,Fluted Glove,Rondanche,0,False
+Cuirass,Hoplite Glove,Tilt Glove,0,False
+Cuirass,Jazeraint Glove,Freiturnier,0,False
+Cuirass,Dread Glove,Fluted Glove,0,False
+Banded Mail,Bandage,Banded Mail,0,False
+Banded Mail,Leather Glove,Banded Mail,0,False
+Banded Mail,Reinforced Glove,Banded Mail,0,False
+Banded Mail,Knuckles,Banded Mail,0,False
+Banded Mail,Ring Sleeve,Chain Coif,0,False
+Banded Mail,Chain Sleeve,Knuckles,0,False
+Banded Mail,Gauntlet,Knuckles,0,False
+Banded Mail,Vambrace,Ring Sleeve,0,False
+Banded Mail,Plate Glove,Chain Sleeve,0,False
+Banded Mail,Rondanche,Gauntlet,0,False
+Banded Mail,Tilt Glove,Vambrace,0,False
+Banded Mail,Freiturnier,Plate Glove,0,False
+Banded Mail,Fluted Glove,Rondanche,0,False
+Banded Mail,Hoplite Glove,Tilt Glove,0,False
+Banded Mail,Jazeraint Glove,Freiturnier,0,False
+Banded Mail,Dread Glove,Fluted Glove,0,False
+Ring Mail,Bandage,Banded Mail,0,False
+Ring Mail,Leather Glove,Banded Mail,0,False
+Ring Mail,Reinforced Glove,Banded Mail,0,False
+Ring Mail,Knuckles,Banded Mail,0,False
+Ring Mail,Ring Sleeve,Ring Mail,0,False
+Ring Mail,Chain Sleeve,Spangenhelm,0,False
+Ring Mail,Gauntlet,Ring Sleeve,0,False
+Ring Mail,Vambrace,Ring Sleeve,0,False
+Ring Mail,Plate Glove,Ring Sleeve,0,False
+Ring Mail,Rondanche,Chain Sleeve,0,False
+Ring Mail,Tilt Glove,Gauntlet,0,False
+Ring Mail,Freiturnier,Vambrace,0,False
+Ring Mail,Fluted Glove,Plate Glove,0,False
+Ring Mail,Hoplite Glove,Rondanche,0,False
+Ring Mail,Jazeraint Glove,Tilt Glove,0,False
+Ring Mail,Dread Glove,Freiturnier,0,False
+Chain Mail,Bandage,Banded Mail,0,False
+Chain Mail,Leather Glove,Banded Mail,0,False
+Chain Mail,Reinforced Glove,Banded Mail,0,False
+Chain Mail,Knuckles,Banded Mail,0,False
+Chain Mail,Ring Sleeve,Ring Mail,0,False
+Chain Mail,Chain Sleeve,Chain Mail,0,False
+Chain Mail,Gauntlet,Cabasset,0,False
+Chain Mail,Vambrace,Chain Sleeve,0,False
+Chain Mail,Plate Glove,Chain Sleeve,0,False
+Chain Mail,Rondanche,Chain Sleeve,0,False
+Chain Mail,Tilt Glove,Chain Sleeve,0,False
+Chain Mail,Freiturnier,Gauntlet,0,False
+Chain Mail,Fluted Glove,Vambrace,0,False
+Chain Mail,Hoplite Glove,Plate Glove,0,False
+Chain Mail,Jazeraint Glove,Rondanche,0,False
+Chain Mail,Dread Glove,Tilt Glove,0,False
+Breastplate,Bandage,Banded Mail,0,False
+Breastplate,Leather Glove,Banded Mail,0,False
+Breastplate,Reinforced Glove,Banded Mail,0,False
+Breastplate,Knuckles,Banded Mail,0,False
+Breastplate,Ring Sleeve,Ring Mail,0,False
+Breastplate,Chain Sleeve,Chain Mail,0,False
+Breastplate,Gauntlet,Breastplate,0,False
+Breastplate,Vambrace,Sallet,0,False
+Breastplate,Plate Glove,Gauntlet,0,False
+Breastplate,Rondanche,Gauntlet,0,False
+Breastplate,Tilt Glove,Gauntlet,0,False
+Breastplate,Freiturnier,Gauntlet,0,False
+Breastplate,Fluted Glove,Gauntlet,0,False
+Breastplate,Hoplite Glove,Vambrace,0,False
+Breastplate,Jazeraint Glove,Plate Glove,0,False
+Breastplate,Dread Glove,Rondanche,0,False
+Segmentata,Bandage,Ring Mail,0,False
+Segmentata,Leather Glove,Ring Mail,0,False
+Segmentata,Reinforced Glove,Ring Mail,0,False
+Segmentata,Knuckles,Ring Mail,0,False
+Segmentata,Ring Sleeve,Ring Mail,0,False
+Segmentata,Chain Sleeve,Chain Mail,0,False
+Segmentata,Gauntlet,Breastplate,0,False
+Segmentata,Vambrace,Segmentata,0,False
+Segmentata,Plate Glove,Barbut,0,False
+Segmentata,Rondanche,Vambrace,0,False
+Segmentata,Tilt Glove,Vambrace,0,False
+Segmentata,Freiturnier,Vambrace,0,False
+Segmentata,Fluted Glove,Vambrace,0,False
+Segmentata,Hoplite Glove,Vambrace,0,False
+Segmentata,Jazeraint Glove,Vambrace,0,False
+Segmentata,Dread Glove,Plate Glove,0,False
+Scale Armor,Bandage,Chain Mail,0,False
+Scale Armor,Leather Glove,Chain Mail,0,False
+Scale Armor,Reinforced Glove,Chain Mail,0,False
+Scale Armor,Knuckles,Chain Mail,0,False
+Scale Armor,Ring Sleeve,Ring Mail,0,False
+Scale Armor,Chain Sleeve,Chain Mail,0,False
+Scale Armor,Gauntlet,Breastplate,0,False
+Scale Armor,Vambrace,Segmentata,0,False
+Scale Armor,Plate Glove,Scale Armor,0,False
+Scale Armor,Rondanche,Basinet,0,False
+Scale Armor,Tilt Glove,Plate Glove,0,False
+Scale Armor,Freiturnier,Plate Glove,0,False
+Scale Armor,Fluted Glove,Plate Glove,0,False
+Scale Armor,Hoplite Glove,Plate Glove,0,False
+Scale Armor,Jazeraint Glove,Plate Glove,0,False
+Scale Armor,Dread Glove,Plate Glove,0,False
+Brigandine,Bandage,Breastplate,0,False
+Brigandine,Leather Glove,Breastplate,0,False
+Brigandine,Reinforced Glove,Breastplate,0,False
+Brigandine,Knuckles,Breastplate,0,False
+Brigandine,Ring Sleeve,Chain Mail,0,False
+Brigandine,Chain Sleeve,Chain Mail,0,False
+Brigandine,Gauntlet,Breastplate,0,False
+Brigandine,Vambrace,Segmentata,0,False
+Brigandine,Plate Glove,Scale Armor,0,False
+Brigandine,Rondanche,Brigandine,0,False
+Brigandine,Tilt Glove,Armet,0,False
+Brigandine,Freiturnier,Rondanche,0,False
+Brigandine,Fluted Glove,Rondanche,0,False
+Brigandine,Hoplite Glove,Rondanche,0,False
+Brigandine,Jazeraint Glove,Rondanche,0,False
+Brigandine,Dread Glove,Rondanche,0,False
+Plate Mail,Bandage,Segmentata,0,False
+Plate Mail,Leather Glove,Segmentata,0,False
+Plate Mail,Reinforced Glove,Segmentata,0,False
+Plate Mail,Knuckles,Segmentata,0,False
+Plate Mail,Ring Sleeve,Breastplate,0,False
+Plate Mail,Chain Sleeve,Chain Mail,0,False
+Plate Mail,Gauntlet,Breastplate,0,False
+Plate Mail,Vambrace,Segmentata,0,False
+Plate Mail,Plate Glove,Scale Armor,0,False
+Plate Mail,Rondanche,Brigandine,0,False
+Plate Mail,Tilt Glove,Plate Mail,0,False
+Plate Mail,Freiturnier,Close Helm,0,False
+Plate Mail,Fluted Glove,Tilt Glove,0,False
+Plate Mail,Hoplite Glove,Tilt Glove,0,False
+Plate Mail,Jazeraint Glove,Tilt Glove,0,False
+Plate Mail,Dread Glove,Tilt Glove,0,False
+Fluted Armor,Bandage,Scale Armor,0,False
+Fluted Armor,Leather Glove,Scale Armor,0,False
+Fluted Armor,Reinforced Glove,Scale Armor,0,False
+Fluted Armor,Knuckles,Scale Armor,0,False
+Fluted Armor,Ring Sleeve,Segmentata,0,False
+Fluted Armor,Chain Sleeve,Breastplate,0,False
+Fluted Armor,Gauntlet,Breastplate,0,False
+Fluted Armor,Vambrace,Segmentata,0,False
+Fluted Armor,Plate Glove,Scale Armor,0,False
+Fluted Armor,Rondanche,Brigandine,0,False
+Fluted Armor,Tilt Glove,Plate Mail,0,False
+Fluted Armor,Freiturnier,Fluted Armor,0,False
+Fluted Armor,Fluted Glove,Burgonet,0,False
+Fluted Armor,Hoplite Glove,Freiturnier,0,False
+Fluted Armor,Jazeraint Glove,Freiturnier,0,False
+Fluted Armor,Dread Glove,Freiturnier,0,False
+Hoplite Armor,Bandage,Brigandine,0,False
+Hoplite Armor,Leather Glove,Brigandine,0,False
+Hoplite Armor,Reinforced Glove,Brigandine,0,False
+Hoplite Armor,Knuckles,Brigandine,0,False
+Hoplite Armor,Ring Sleeve,Scale Armor,0,False
+Hoplite Armor,Chain Sleeve,Segmentata,0,False
+Hoplite Armor,Gauntlet,Breastplate,0,False
+Hoplite Armor,Vambrace,Segmentata,0,False
+Hoplite Armor,Plate Glove,Scale Armor,0,False
+Hoplite Armor,Rondanche,Brigandine,0,False
+Hoplite Armor,Tilt Glove,Plate Mail,0,False
+Hoplite Armor,Freiturnier,Fluted Armor,0,False
+Hoplite Armor,Fluted Glove,Hoplite Armor,0,False
+Hoplite Armor,Hoplite Glove,Hoplite Helm,0,False
+Hoplite Armor,Jazeraint Glove,Fluted Glove,0,False
+Hoplite Armor,Dread Glove,Fluted Glove,0,False
+Jazeraint Armor,Bandage,Plate Mail,0,False
+Jazeraint Armor,Leather Glove,Plate Mail,0,False
+Jazeraint Armor,Reinforced Glove,Plate Mail,0,False
+Jazeraint Armor,Knuckles,Plate Mail,0,False
+Jazeraint Armor,Ring Sleeve,Brigandine,0,False
+Jazeraint Armor,Chain Sleeve,Scale Armor,0,False
+Jazeraint Armor,Gauntlet,Segmentata,0,False
+Jazeraint Armor,Vambrace,Segmentata,0,False
+Jazeraint Armor,Plate Glove,Scale Armor,0,False
+Jazeraint Armor,Rondanche,Brigandine,0,False
+Jazeraint Armor,Tilt Glove,Plate Mail,0,False
+Jazeraint Armor,Freiturnier,Fluted Armor,0,False
+Jazeraint Armor,Fluted Glove,Hoplite Armor,0,False
+Jazeraint Armor,Hoplite Glove,Jazeraint Armor,0,False
+Jazeraint Armor,Jazeraint Glove,Jazeraint Helm,0,False
+Jazeraint Armor,Dread Glove,Hoplite Glove,0,False
+Dread Armor,Bandage,Fluted Armor,0,False
+Dread Armor,Leather Glove,Fluted Armor,0,False
+Dread Armor,Reinforced Glove,Fluted Armor,0,False
+Dread Armor,Knuckles,Fluted Armor,0,False
+Dread Armor,Ring Sleeve,Plate Mail,0,False
+Dread Armor,Chain Sleeve,Brigandine,0,False
+Dread Armor,Gauntlet,Scale Armor,0,False
+Dread Armor,Vambrace,Segmentata,0,False
+Dread Armor,Plate Glove,Scale Armor,0,False
+Dread Armor,Rondanche,Brigandine,0,False
+Dread Armor,Tilt Glove,Plate Mail,0,False
+Dread Armor,Freiturnier,Fluted Armor,0,False
+Dread Armor,Fluted Glove,Hoplite Armor,0,False
+Dread Armor,Hoplite Glove,Jazeraint Armor,0,False
+Dread Armor,Jazeraint Glove,Dread Armor,0,False
+Dread Armor,Dread Glove,Dread Helm,0,False

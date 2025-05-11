@@ -1,79 +1,79 @@
-slot1,slot2,result,tier_change
-Battle Knife,Battle Knife,Battle Knife,0
-Battle Knife,Scramasax,Battle Knife,0
-Battle Knife,Dirk,Throwing Knife,1
-Battle Knife,Throwing Knife,Throwing Knife,0
-Battle Knife,Kudi,Scramasax,0
-Battle Knife,Cinquedea,Dirk,0
-Battle Knife,Kris,Throwing Knife,0
-Battle Knife,Hatchet,Kudi,0
-Battle Knife,Khukuri,Cinquedea,0
-Battle Knife,Baselard,Kris,0
-Battle Knife,Stiletto,Hatchet,0
-Battle Knife,Jamadhar,Khukuri,0
-Scramasax,Scramasax,Scramasax,0
-Scramasax,Dirk,Throwing Knife,1
-Scramasax,Throwing Knife,Kudi,1
-Scramasax,Kudi,Kudi,0
-Scramasax,Cinquedea,Scramasax,0
-Scramasax,Kris,Dirk,0
-Scramasax,Hatchet,Throwing Knife,0
-Scramasax,Khukuri,Kudi,0
-Scramasax,Baselard,Cinquedea,0
-Scramasax,Stiletto,Kris,0
-Scramasax,Jamadhar,Hatchet,0
-Dirk,Dirk,Throwing Knife,1
-Dirk,Throwing Knife,Kudi,1
-Dirk,Kudi,Battle Knife,-1
-Dirk,Cinquedea,Cinquedea,0
-Dirk,Kris,Scramasax,-1
-Dirk,Hatchet,Dirk,0
-Dirk,Khukuri,Throwing Knife,0
-Dirk,Baselard,Kudi,0
-Dirk,Stiletto,Cinquedea,0
-Dirk,Jamadhar,Kris,0
-Throwing Knife,Throwing Knife,Throwing Knife,0
-Throwing Knife,Kudi,Cinquedea,1
-Throwing Knife,Cinquedea,Kris,1
-Throwing Knife,Kris,Battle Knife,-1
-Throwing Knife,Hatchet,Scramasax,-1
-Throwing Knife,Khukuri,Dirk,-1
-Throwing Knife,Baselard,Throwing Knife,0
-Throwing Knife,Stiletto,Kudi,0
-Throwing Knife,Jamadhar,Cinquedea,0
-Kudi,Kudi,Kudi,0
-Kudi,Cinquedea,Kris,1
-Kudi,Kris,Hatchet,1
-Kudi,Hatchet,Kris,0
-Kudi,Khukuri,Scramasax,-1
-Kudi,Baselard,Dirk,-1
-Kudi,Stiletto,Throwing Knife,-1
-Kudi,Jamadhar,Kudi,0
-Cinquedea,Cinquedea,Cinquedea,0
-Cinquedea,Kris,Hatchet,1
-Cinquedea,Hatchet,Battle Knife,-1
-Cinquedea,Khukuri,Hatchet,0
-Cinquedea,Baselard,Scramasax,-1
-Cinquedea,Stiletto,Dirk,-1
-Cinquedea,Jamadhar,Throwing Knife,-1
-Kris,Kris,Kris,0
-Kris,Hatchet,Khukuri,1
-Kris,Khukuri,Battle Knife,-1
-Kris,Baselard,Hatchet,0
-Kris,Stiletto,Scramasax,-1
-Kris,Jamadhar,Dirk,-1
-Hatchet,Hatchet,Hatchet,0
-Hatchet,Khukuri,Baselard,1
-Hatchet,Baselard,Battle Knife,-1
-Hatchet,Stiletto,Khukuri,0
-Hatchet,Jamadhar,Scramasax,-1
-Khukuri,Khukuri,Khukuri,0
-Khukuri,Baselard,Battle Knife,-1
-Khukuri,Stiletto,Baselard,0
-Khukuri,Jamadhar,Khukuri,0
-Baselard,Baselard,Stiletto,1
-Baselard,Stiletto,Battle Knife,-1
-Baselard,Jamadhar,Battle Knife,-1
-Stiletto,Stiletto,Jamadhar,1
-Stiletto,Jamadhar,Battle Knife,-1
-Jamadhar,Jamadhar,Jamadhar,0
+slot1,slot2,result,tier_change,has_swap
+Battle Knife,Battle Knife,Battle Knife,0,False
+Battle Knife,Scramasax,Battle Knife,0,False
+Battle Knife,Dirk,Throwing Knife,1,False
+Battle Knife,Throwing Knife,Throwing Knife,0,False
+Battle Knife,Kudi,Scramasax,0,False
+Battle Knife,Cinquedea,Dirk,0,False
+Battle Knife,Kris,Throwing Knife,0,False
+Battle Knife,Hatchet,Kudi,0,False
+Battle Knife,Khukuri,Cinquedea,0,False
+Battle Knife,Baselard,Kris,0,False
+Battle Knife,Stiletto,Hatchet,0,False
+Battle Knife,Jamadhar,Khukuri,0,False
+Scramasax,Scramasax,Scramasax,0,False
+Scramasax,Dirk,Throwing Knife,1,False
+Scramasax,Throwing Knife,Kudi,1,False
+Scramasax,Kudi,Kudi,0,False
+Scramasax,Cinquedea,Scramasax,0,False
+Scramasax,Kris,Dirk,0,False
+Scramasax,Hatchet,Throwing Knife,0,False
+Scramasax,Khukuri,Kudi,0,False
+Scramasax,Baselard,Cinquedea,0,False
+Scramasax,Stiletto,Kris,0,False
+Scramasax,Jamadhar,Hatchet,0,False
+Dirk,Dirk,Throwing Knife,1,False
+Dirk,Throwing Knife,Kudi,1,False
+Dirk,Kudi,Battle Knife,-1,False
+Dirk,Cinquedea,Cinquedea,0,False
+Dirk,Kris,Scramasax,-1,False
+Dirk,Hatchet,Dirk,0,False
+Dirk,Khukuri,Throwing Knife,0,False
+Dirk,Baselard,Kudi,0,False
+Dirk,Stiletto,Cinquedea,0,False
+Dirk,Jamadhar,Kris,0,False
+Throwing Knife,Throwing Knife,Throwing Knife,0,False
+Throwing Knife,Kudi,Cinquedea,1,False
+Throwing Knife,Cinquedea,Kris,1,False
+Throwing Knife,Kris,Battle Knife,-1,False
+Throwing Knife,Hatchet,Scramasax,-1,False
+Throwing Knife,Khukuri,Dirk,-1,False
+Throwing Knife,Baselard,Throwing Knife,0,False
+Throwing Knife,Stiletto,Kudi,0,False
+Throwing Knife,Jamadhar,Cinquedea,0,False
+Kudi,Kudi,Kudi,0,False
+Kudi,Cinquedea,Kris,1,False
+Kudi,Kris,Hatchet,1,False
+Kudi,Hatchet,Kris,0,False
+Kudi,Khukuri,Scramasax,-1,False
+Kudi,Baselard,Dirk,-1,False
+Kudi,Stiletto,Throwing Knife,-1,False
+Kudi,Jamadhar,Kudi,0,False
+Cinquedea,Cinquedea,Cinquedea,0,False
+Cinquedea,Kris,Hatchet,1,False
+Cinquedea,Hatchet,Battle Knife,-1,False
+Cinquedea,Khukuri,Hatchet,0,False
+Cinquedea,Baselard,Scramasax,-1,False
+Cinquedea,Stiletto,Dirk,-1,False
+Cinquedea,Jamadhar,Throwing Knife,-1,False
+Kris,Kris,Kris,0,False
+Kris,Hatchet,Khukuri,1,False
+Kris,Khukuri,Battle Knife,-1,False
+Kris,Baselard,Hatchet,0,False
+Kris,Stiletto,Scramasax,-1,False
+Kris,Jamadhar,Dirk,-1,False
+Hatchet,Hatchet,Hatchet,0,False
+Hatchet,Khukuri,Baselard,1,False
+Hatchet,Baselard,Battle Knife,-1,False
+Hatchet,Stiletto,Khukuri,0,False
+Hatchet,Jamadhar,Scramasax,-1,False
+Khukuri,Khukuri,Khukuri,0,False
+Khukuri,Baselard,Battle Knife,-1,False
+Khukuri,Stiletto,Baselard,0,False
+Khukuri,Jamadhar,Khukuri,0,False
+Baselard,Baselard,Stiletto,1,False
+Baselard,Stiletto,Battle Knife,-1,False
+Baselard,Jamadhar,Battle Knife,-1,False
+Stiletto,Stiletto,Jamadhar,1,False
+Stiletto,Jamadhar,Battle Knife,-1,False
+Jamadhar,Jamadhar,Jamadhar,0,False

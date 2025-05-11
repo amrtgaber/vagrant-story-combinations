@@ -1,76 +1,76 @@
-slot1,slot2,result,tier_change
-Battle Knife,Goblin Club,Goblin Club,0
-Battle Knife,Spiked Club,Goblin Club,0
-Battle Knife,Ball Mace,Spiked Club,0
-Battle Knife,War Hammer,Morning Star,0
-Battle Knife,Bec de Corbin,War Hammer,0
-Battle Knife,War Maul,Bec de Corbin,0
-Scramasax,Goblin Club,Battle Knife,0
-Scramasax,Spiked Club,Spiked Club,0
-Scramasax,Ball Mace,Spiked Club,0
-Scramasax,Morning Star,Ball Mace,0
-Scramasax,Bec de Corbin,Morning Star,0
-Scramasax,War Maul,War Hammer,0
-Dirk,Goblin Club,Battle Knife,0
-Dirk,Spiked Club,Scramasax,0
-Dirk,Ball Mace,Ball Mace,0
-Dirk,Morning Star,Ball Mace,0
-Dirk,War Hammer,Ball Mace,0
-Dirk,War Maul,Morning Star,0
-Throwing Knife,Goblin Club,Battle Knife,0
-Throwing Knife,Spiked Club,Scramasax,0
-Throwing Knife,Ball Mace,Guisarme,0
-Kudi,Goblin Club,Scramasax,0
-Kudi,Spiked Club,Scramasax,0
-Kudi,Ball Mace,Dirk,0
-Kudi,War Hammer,Morning Star,0
-Kudi,Bec de Corbin,Morning Star,0
-Kudi,War Maul,Morning Star,0
-Cinquedea,Goblin Club,Dirk,0
-Cinquedea,Spiked Club,Scramasax,0
-Cinquedea,Ball Mace,Dirk,0
-Cinquedea,Morning Star,Sabre Halberd,0
-Cinquedea,War Hammer,Gloomwing,0
-Cinquedea,Bec de Corbin,War Hammer,0
-Cinquedea,War Maul,War Hammer,0
-Kris,Goblin Club,Throwing Knife,0
-Kris,Spiked Club,Dirk,0
-Kris,Ball Mace,Dirk,0
-Kris,Morning Star,Clergy Rod,0
-Kris,War Hammer,Balbriggan,0
-Kris,Bec de Corbin,Mjolnir,0
-Kris,War Maul,Bec de Corbin,0
-Hatchet,Goblin Club,Kudi,0
-Hatchet,Spiked Club,Throwing Knife,0
-Hatchet,Ball Mace,Dirk,0
-Hatchet,Morning Star,Kudi,0
-Hatchet,War Hammer,Summoner Baton,0
-Hatchet,Bec de Corbin,Double Blade,0
-Hatchet,War Maul,Griever,0
-Khukuri,Goblin Club,Cinquedea,0
-Khukuri,Spiked Club,Kudi,0
-Khukuri,Ball Mace,Throwing Knife,0
-Khukuri,Morning Star,Kudi,0
-Khukuri,War Hammer,Cinquedea,0
-Khukuri,Bec de Corbin,Shamanic Staff,0
-Khukuri,War Maul,Halberd,0
-Baselard,Goblin Club,Kris,0
-Baselard,Spiked Club,Cinquedea,0
-Baselard,Ball Mace,Kudi,0
-Baselard,Morning Star,Kudi,0
-Baselard,War Hammer,Cinquedea,0
-Baselard,Bec de Corbin,Kris,0
-Stiletto,Goblin Club,Hatchet,0
-Stiletto,Spiked Club,Kris,0
-Stiletto,Ball Mace,Cinquedea,0
-Stiletto,Morning Star,Kudi,0
-Stiletto,War Hammer,Cinquedea,0
-Stiletto,Bec de Corbin,Kris,0
-Stiletto,War Maul,Hatchet,0
-Jamadhar,Goblin Club,Khukuri,0
-Jamadhar,Spiked Club,Hatchet,0
-Jamadhar,Ball Mace,Kris,0
-Jamadhar,Morning Star,Kudi,0
-Jamadhar,War Hammer,Cinquedea,0
-Jamadhar,Bec de Corbin,Kris,0
-Jamadhar,War Maul,Hatchet,0
+slot1,slot2,result,tier_change,has_swap
+Battle Knife,Goblin Club,Goblin Club,0,False
+Battle Knife,Spiked Club,Goblin Club,0,False
+Battle Knife,Ball Mace,Spiked Club,0,False
+Battle Knife,War Hammer,Morning Star,0,False
+Battle Knife,Bec de Corbin,War Hammer,0,False
+Battle Knife,War Maul,Bec de Corbin,0,False
+Scramasax,Goblin Club,Battle Knife,0,False
+Scramasax,Spiked Club,Spiked Club,0,False
+Scramasax,Ball Mace,Spiked Club,0,False
+Scramasax,Morning Star,Ball Mace,0,False
+Scramasax,Bec de Corbin,Morning Star,0,False
+Scramasax,War Maul,War Hammer,0,False
+Dirk,Goblin Club,Battle Knife,0,False
+Dirk,Spiked Club,Scramasax,0,False
+Dirk,Ball Mace,Ball Mace,0,False
+Dirk,Morning Star,Ball Mace,0,False
+Dirk,War Hammer,Ball Mace,0,False
+Dirk,War Maul,Morning Star,0,False
+Throwing Knife,Goblin Club,Battle Knife,0,False
+Throwing Knife,Spiked Club,Scramasax,0,False
+Throwing Knife,Ball Mace,Guisarme,0,False
+Kudi,Goblin Club,Scramasax,0,False
+Kudi,Spiked Club,Scramasax,0,False
+Kudi,Ball Mace,Dirk,0,False
+Kudi,War Hammer,Morning Star,0,False
+Kudi,Bec de Corbin,Morning Star,0,False
+Kudi,War Maul,Morning Star,0,False
+Cinquedea,Goblin Club,Dirk,0,False
+Cinquedea,Spiked Club,Scramasax,0,False
+Cinquedea,Ball Mace,Dirk,0,False
+Cinquedea,Morning Star,Sabre Halberd,0,False
+Cinquedea,War Hammer,Gloomwing,0,False
+Cinquedea,Bec de Corbin,War Hammer,0,False
+Cinquedea,War Maul,War Hammer,0,False
+Kris,Goblin Club,Throwing Knife,0,False
+Kris,Spiked Club,Dirk,0,False
+Kris,Ball Mace,Dirk,0,False
+Kris,Morning Star,Clergy Rod,0,False
+Kris,War Hammer,Balbriggan,0,False
+Kris,Bec de Corbin,Mjolnir,0,False
+Kris,War Maul,Bec de Corbin,0,False
+Hatchet,Goblin Club,Kudi,0,False
+Hatchet,Spiked Club,Throwing Knife,0,False
+Hatchet,Ball Mace,Dirk,0,False
+Hatchet,Morning Star,Kudi,0,False
+Hatchet,War Hammer,Summoner Baton,0,False
+Hatchet,Bec de Corbin,Double Blade,0,False
+Hatchet,War Maul,Griever,0,False
+Khukuri,Goblin Club,Cinquedea,0,False
+Khukuri,Spiked Club,Kudi,0,False
+Khukuri,Ball Mace,Throwing Knife,0,False
+Khukuri,Morning Star,Kudi,0,False
+Khukuri,War Hammer,Cinquedea,0,False
+Khukuri,Bec de Corbin,Shamanic Staff,0,False
+Khukuri,War Maul,Halberd,0,False
+Baselard,Goblin Club,Kris,0,False
+Baselard,Spiked Club,Cinquedea,0,False
+Baselard,Ball Mace,Kudi,0,False
+Baselard,Morning Star,Kudi,0,False
+Baselard,War Hammer,Cinquedea,0,False
+Baselard,Bec de Corbin,Kris,0,False
+Stiletto,Goblin Club,Hatchet,0,False
+Stiletto,Spiked Club,Kris,0,False
+Stiletto,Ball Mace,Cinquedea,0,False
+Stiletto,Morning Star,Kudi,0,False
+Stiletto,War Hammer,Cinquedea,0,False
+Stiletto,Bec de Corbin,Kris,0,False
+Stiletto,War Maul,Hatchet,0,False
+Jamadhar,Goblin Club,Khukuri,0,False
+Jamadhar,Spiked Club,Hatchet,0,False
+Jamadhar,Ball Mace,Kris,0,False
+Jamadhar,Morning Star,Kudi,0,False
+Jamadhar,War Hammer,Cinquedea,0,False
+Jamadhar,Bec de Corbin,Kris,0,False
+Jamadhar,War Maul,Hatchet,0,False
